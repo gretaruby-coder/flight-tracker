@@ -395,49 +395,96 @@ try {
   }
 } catch (e) {}
 
+
 const airlines = {
+  // UK and European airlines
   BAW: "British Airways",
+  VIR: "Virgin Atlantic",
   EZY: "easyJet",
-  UAL: "United Airlines",
-  DAL: "Delta Air Lines",
-  AAL: "American Airlines",
   RYR: "Ryanair",
-  UAE: "Emirates",
-  QTR: "Qatar Airways",
   DLH: "Lufthansa",
   AFR: "Air France",
-  KLM: "KLM",
-  VIR: "Virgin Atlantic",
-  SIA: "Singapore Airlines",
-  THY: "Turkish Airlines",
+  KLM: "KLM Royal Dutch Airlines",
   TAP: "TAP Air Portugal",
   EIN: "Aer Lingus",
-  SWR: "SWISS",
+  SWR: "SWISS International Air Lines",
   FIN: "Finnair",
-  SAS: "SAS",
+  SAS: "Scandinavian Airlines",
   WZZ: "Wizz Air",
   TUI: "TUI Airways",
   TOM: "TUI Airways",
   EXS: "Jet2",
   LOG: "Loganair",
-  MSR: "Egyptair",
-  MEA: "Middle East Airlines",
-  PGT: "Pegasus Airlines",
   ICE: "Icelandair",
+  THY: "Turkish Airlines",
+  PGT: "Pegasus Airlines",
   OCN: "Discover Airlines",
+
+  // North American airlines
+  UAL: "United Airlines",
+  AAL: "American Airlines",
+  DAL: "Delta Air Lines",
+  ACA: "Air Canada",
+  TSC: "Air Transat",
+
+  // Middle Eastern airlines
+  UAE: "Emirates",
+  QTR: "Qatar Airways",
+  ETD: "Etihad Airways",
+  SVA: "Saudia",
+  KAC: "Kuwait Airways",
+  OMA: "Oman Air",
+  RJA: "Royal Jordanian",
+  MEA: "Middle East Airlines",
+  MSR: "Egyptair",
+
+  // Asian and Pacific airlines
+  SIA: "Singapore Airlines",
+  CPA: "Cathay Pacific",
+  QFA: "Qantas",
+  AIC: "Air India",
+  JAL: "Japan Airlines",
+  ANA: "All Nippon Airways",
+  KAL: "Korean Air",
+  CES: "China Eastern Airlines",
+
+  // African airlines
+  ETH: "Ethiopian Airlines",
+
+  // Private aviation
   NJE: "NetJets"
 };
 
+
 // Place logo images in the repository's logos folder.
 // Example: logos/BAW.png for British Airways.
+
 const logoCodes = new Set([
-  "BAW", "EZY", "UAL", "DAL", "AAL",
-  "RYR", "UAE", "QTR", "DLH", "AFR",
-  "KLM", "VIR", "SIA", "THY", "TAP",
-  "EIN", "SWR", "FIN", "SAS", "WZZ",
-  "TUI", "TOM", "EXS", "LOG", "MSR",
-  "MEA", "PGT", "ICE", "OCN", "NJE"
+  // UK and European airlines
+  "BAW", "VIR", "EZY", "RYR", "DLH",
+  "AFR", "KLM", "TAP", "EIN", "SWR",
+  "FIN", "SAS", "WZZ", "TUI", "TOM",
+  "EXS", "LOG", "ICE", "THY", "PGT",
+  "OCN",
+
+  // North American airlines
+  "UAL", "AAL", "DAL", "ACA", "TSC",
+
+  // Middle Eastern airlines
+  "UAE", "QTR", "ETD", "SVA", "KAC",
+  "OMA", "RJA", "MEA", "MSR",
+
+  // Asian and Pacific airlines
+  "SIA", "CPA", "QFA", "AIC", "JAL",
+  "ANA", "KAL", "CES",
+
+  // African airlines
+  "ETH",
+
+  // Private aviation
+  "NJE"
 ]);
+
 
 function showLogo(a) {
   const call = String(a.flight || "").trim();
