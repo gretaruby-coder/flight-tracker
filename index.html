@@ -215,27 +215,38 @@ function demo() {
   }, true);
 }
 
+
 async function fetchAircraft(lat, lon, radius) {
-  const endpoints = [
-    `https://api.adsb.one/v2/point/${lat}/${lon}/${radius}`,
-    `https://api.airplanes.live/v2/point/${lat}/${lon}/${radius}`
-  ];
-  let errors = [];
-  for (const url of endpoints) {
-    try {
-      const response = await fetch(url, {
-        cache:"no-store",
-        signal:AbortSignal.timeout(12000)
-      });
-      if (!response.ok) throw new Error("HTTP " + response.status);
-      const data = await response.json();
-      if (!Array.isArray(data.ac)) throw new Error("Unexpected response");
-      return data.ac;
-    } catch(e) {
-      errors.push(e.message);
-    }
+  // ADSB.lol uses nautical miles for its search radius.
+  const radiusNM = Math.max(
+    1,
+    Math.min(250, Math.ceil(radius / 1.852))
+  );
+
+  const url =
+    `https://api.adsb.lol/v2/point/${lat}/${lon}/${radiusNM}`;
+
+  const response = await fetch(url, {
+    headers: {
+      "Accept": "application/json"
+    },
+    cache: "no-store",
+    signal: AbortSignal.timeout(15000)
+  });
+
+  if (!response.ok) {
+    throw new Error(
+      `ADSB.lol returned HTTP ${response.status}`
+    );
   }
-  throw new Error(errors.join("; "));
+
+  const data = await response.json();
+
+  if (!Array.isArray(data.ac)) {
+    throw new Error("Invalid aircraft data received");
+  }
+
+  return data.ac;
 }
 
 async function refresh() {
