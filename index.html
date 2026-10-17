@@ -806,19 +806,18 @@ async function refresh() {
         timeStyle: "short"
       });
 
-    if (ageMinutes > 20 || ageMinutes < -5) {
-      aircraftList = [];
-      selectedHex = null;
-      displaySelected();
+    
+if (ageMinutes > 20 || ageMinutes < -5) {
+  $("status").textContent =
+    "⚠ Aircraft data is outdated";
 
-      $("status").textContent =
-        "Aircraft data is out of date";
+  $("error").textContent =
+    "Showing last recorded aircraft positions. " +
+    "Waiting for GitHub Actions to update.";
 
-      $("error").textContent =
-        "GitHub Actions has not published a recent update.";
-
-      return;
-    }
+} else {
+  $("error").textContent = "";
+}
 
     aircraftList = data.aircraft
       .filter(a =>
@@ -858,7 +857,13 @@ async function refresh() {
       ? `AIRCRAFT DATA · ${aircraftList.length} airborne nearby`
       : `No airborne aircraft within ${radius} km`;
 
-    $("error").textContent = "";
+    if (ageMinutes <= 20 && ageMinutes >= -5) {
+  $("status").textContent = aircraftList.length
+    ? `AIRCRAFT DATA · ${aircraftList.length} airborne nearby`
+    : `No airborne aircraft within ${radius} km`;
+
+  $("error").textContent = "";
+}
 
   } catch (error) {
     $("status").textContent =
