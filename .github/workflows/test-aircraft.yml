@@ -21,52 +21,151 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch aircraft near Feltham
+      - name: Fetch aircraft and flight routes
         run: |
           python3 - <<'PY'
           import json
+          import os
+          import time
           import urllib.request
+          import urllib.error
           from datetime import datetime, timezone
 
-          lat = 51.4496
-          lon = -0.4089
-          radius = 10
+          LAT = 51.4496
+          LON = -0.4089
+          RADIUS_NM = 10
+
+          def get_json(url):
+              req = urllib.request.Request(
+                  url,
+                  headers={
+                      "User-Agent": "SkyAboveMe/1.0",
+                      "Accept": "application/json"
+                  }
+              )
+              with urllib.request.urlopen(req, timeout=25) as res:
+                  return json.load(res)
 
           url = (
               f"https://opendata.adsb.fi/api/v3/"
-              f"lat/{lat}/lon/{lon}/dist/{radius}"
+              f"lat/{LAT}/lon/{LON}/dist/{RADIUS_NM}"
           )
 
-          request = urllib.request.Request(
-              url,
-              headers={"User-Agent": "SkyAboveMe/1.0"}
-          )
+          data = get_json(url)
+          aircraft = data.get("ac", [])
 
-          with urllib.request.urlopen(request, timeout=30) as response:
-              data = json.load(response)
+          # Keep only aircraft with valid positions
+          # that are actually airborne.
+          airborne = [
+              a for a in aircraft
+              if isinstance(a.get("lat"), (int, float))
+              and isinstance(a.get("lon"), (int, float))
+              and a.get("alt_baro") != "ground"
+              and isinstance(a.get("gs"), (int, float))
+              and a["gs"] > 0
+              and a.get("r") not in ("GND", "TWR")
+          ]
+
+          # Reuse routes from earlier successful updates.
+          cache = {}
+          if os.path.exists("routes-cache.json"):
+              try:
+                  with open("routes-cache.json") as f:
+                      cache = json.load(f)
+              except (OSError, ValueError):
+                  cache = {}
+
+          now = time.time()
+          route_requests = 0
+          MAX_ROUTE_REQUESTS = 12
+
+          for a in airborne:
+              callsign = (a.get("flight") or "").strip().upper()
+              if not callsign:
+                  continue
+
+              saved = cache.get(callsign)
+              route = None
+
+              # Reuse cached results for up to 24 hours.
+              if saved and now - saved.get("time", 0) < 86400:
+                  route = saved.get("route")
+              elif route_requests < MAX_ROUTE_REQUESTS:
+                  route_requests += 1
+
+                  try:
+                      result = get_json(
+                          "https://api.adsbdb.com/v0/callsign/"
+                          + callsign
+                      )
+                      route = (
+                          result.get("response", {})
+                          .get("flightroute")
+                      )
+
+                      if isinstance(route, dict):
+                          cache[callsign] = {
+                              "time": now,
+                              "route": route
+                          }
+                      else:
+                          route = None
+
+                  except Exception as e:
+                      print("Route unavailable:", callsign, str(e))
+
+                  # Avoid rapid requests to the route API.
+                  time.sleep(0.5)
+
+              if isinstance(route, dict):
+                  origin = route.get("origin") or {}
+                  destination = route.get("destination") or {}
+                  airline = route.get("airline") or {}
+
+                  a["origin"] = {
+                      "iata": origin.get("iata_code"),
+                      "name": origin.get("name")
+                  }
+                  a["destination"] = {
+                      "iata": destination.get("iata_code"),
+                      "name": destination.get("name")
+                  }
+                  a["airline_name"] = airline.get("name")
+                  a["airline_iata"] = airline.get("iata")
+
+          # Remove old cache entries after 7 days.
+          cache = {
+              key: value for key, value in cache.items()
+              if now - value.get("time", 0) < 604800
+          }
 
           output = {
               "updated": datetime.now(timezone.utc).isoformat(),
-              "center": {"lat": lat, "lon": lon},
-              "radius_nm": radius,
-              "aircraft": data.get("ac", [])
+              "center": {"lat": LAT, "lon": LON},
+              "radius_nm": RADIUS_NM,
+              "aircraft": airborne
           }
 
-          with open("aircraft.json", "w") as file:
-              json.dump(output, file, indent=2)
+          with open("aircraft.json", "w") as f:
+              json.dump(output, f, indent=2)
 
-          print("Aircraft found:", len(output["aircraft"]))
-          print("Saved aircraft.json")
+          with open("routes-cache.json", "w") as f:
+              json.dump(cache, f, indent=2)
+
+          print("Airborne aircraft:", len(airborne))
+          print("New route lookups:", route_requests)
+          print("Saved aircraft.json and routes-cache.json")
           PY
 
       - name: Publish aircraft data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add aircraft.json
+          git add aircraft.json routes-cache.json
           if git diff --cached --quiet; then
             echo "No changes to publish"
           else
-            git commit -m "Update aircraft data"
+            git commit -m "Update aircraft and route data"
+            git pull --rebase
             git push
           fi
