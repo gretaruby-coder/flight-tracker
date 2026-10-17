@@ -1,41 +1,72 @@
 
-name: Test Aircraft API
+name: Update Aircraft Data
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aircraft-data-update
+  cancel-in-progress: false
 
 jobs:
-  test:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Test adsb.fi connection
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch aircraft near Feltham
         run: |
           python3 - <<'PY'
           import json
           import urllib.request
+          from datetime import datetime, timezone
 
-          url = "https://opendata.adsb.fi/api/v3/lat/51.5074/lon/-0.1278/dist/10"
+          lat = 51.4496
+          lon = -0.4089
+          radius = 10
 
-          try:
-              req = urllib.request.Request(
-                  url,
-                  headers={"User-Agent": "SkyAboveMe/1.0"}
-              )
+          url = (
+              f"https://opendata.adsb.fi/api/v3/"
+              f"lat/{lat}/lon/{lon}/dist/{radius}"
+          )
 
-              with urllib.request.urlopen(req, timeout=20) as response:
-                  data = json.load(response)
+          request = urllib.request.Request(
+              url,
+              headers={"User-Agent": "SkyAboveMe/1.0"}
+          )
 
-              print("SUCCESS!")
-              print("Aircraft found:", len(data.get("ac", [])))
+          with urllib.request.urlopen(request, timeout=30) as response:
+              data = json.load(response)
 
-              for aircraft in data.get("ac", [])[:5]:
-                  print(
-                      aircraft.get("flight", "").strip(),
-                      aircraft.get("desc", "Unknown aircraft")
-                  )
+          output = {
+              "updated": datetime.now(timezone.utc).isoformat(),
+              "center": {"lat": lat, "lon": lon},
+              "radius_nm": radius,
+              "aircraft": data.get("ac", [])
+          }
 
-          except Exception as error:
-              print("FAILED:", str(error))
-              raise
+          with open("aircraft.json", "w") as file:
+              json.dump(output, file, indent=2)
+
+          print("Aircraft found:", len(output["aircraft"]))
+          print("Saved aircraft.json")
           PY
+
+      - name: Publish aircraft data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add aircraft.json
+          if git diff --cached --quiet; then
+            echo "No changes to publish"
+          else
+            git commit -m "Update aircraft data"
+            git push
+          fi
