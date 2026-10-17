@@ -1,22 +1,287 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sky Above Me — Overhead Flight Display</title><style>
-:root{font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif;color:#f4f7ff;background:#071326}*{box-sizing:border-box}body{margin:0;min-height:100vh;background:radial-gradient(ellipse at 50% 33%,#15477b 0%,#0a2345 43%,#061225 85%)}button,input{font:inherit}button{cursor:pointer}button:focus-visible,input:focus-visible{outline:2px solid #6ce1ff;outline-offset:3px}.shell{min-height:100vh;display:flex;flex-direction:column;padding:25px clamp(20px,4vw,64px)}header{display:flex;align-items:center;justify-content:space-between;gap:16px}.brand{font-size:14px;letter-spacing:.22em;font-weight:800;display:flex;align-items:center;gap:12px}.brand-mark{width:34px;height:34px;display:grid;place-items:center;border:1px solid #6bc9ff77;border-radius:11px;background:#5bbcff1a;color:#7edcff;font-size:21px}.topright{display:flex;gap:12px;align-items:center}.pill{display:inline-flex;gap:8px;align-items:center;color:#a7c5e3;font-size:12px;letter-spacing:.08em}.dot{width:7px;height:7px;border-radius:50%;background:#57e9ae;box-shadow:0 0 13px #57e9ae}.dot.off{background:#ffbf73;box-shadow:none}.ghost{border:1px solid #ffffff33;background:#ffffff0c;color:#e9f3ff;padding:10px 15px;border-radius:10px}.ghost:hover{background:#ffffff1b}.display{width:min(1100px,100%);margin:auto;display:flex;flex-direction:column;align-items:center;padding:30px 0 18px}.eyebrow{font-size:12px;letter-spacing:.3em;color:#8bbce2;font-weight:700;text-align:center}.heading{text-align:center;font-size:clamp(30px,4vw,56px);letter-spacing:-.05em;font-weight:750;margin:12px 0 8px}.sub{text-align:center;color:#a6c1db;font-size:14px;min-height:21px}.flightline{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:clamp(14px,4vw,60px);width:min(700px,100%);margin:34px 0 0}.endpoint{text-align:center}.code{font-size:clamp(30px,5vw,62px);font-weight:800;letter-spacing:-.06em}.caption{font-size:11px;color:#90b1d0;letter-spacing:.19em;font-weight:700;margin-top:5px}.mid{display:flex;flex-direction:column;align-items:center;gap:9px;color:#9dd9f5}.mid svg{width:48px}.dash{width:clamp(40px,11vw,130px);border-top:1px dashed #81b5d46e}.plane-stage{position:relative;width:min(740px,100%);height:clamp(160px,26vw,285px);display:grid;place-items:center;margin:10px 0 4px}.halo{position:absolute;width:55%;aspect-ratio:1;border:1px solid #5bb7ef24;border-radius:50%;box-shadow:0 0 0 48px #6bb9ed07,0 0 0 95px #6bb9ed04}.aircraft{position:relative;width:min(78%,570px);filter:drop-shadow(0 24px 24px #0008);transform:rotate(-5deg)}.aircraft svg{width:100%;height:auto;display:block}.airline{text-align:center;font-size:clamp(19px,2.4vw,27px);font-weight:750;letter-spacing:-.03em}.flight-id{color:#9fc1df;text-align:center;font-size:13px;margin-top:6px}.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;width:min(820px,100%);margin-top:34px}.stat{border:1px solid #a9d7ff21;background:#ffffff0a;border-radius:17px;padding:20px 12px;text-align:center;backdrop-filter:blur(8px)}.statval{font-size:clamp(19px,3vw,32px);font-weight:750;letter-spacing:-.04em;white-space:nowrap}.statlabel{font-size:10px;letter-spacing:.16em;color:#8eb1cf;font-weight:800;margin-top:8px}.bottom{display:flex;justify-content:space-between;align-items:center;gap:16px;color:#9db6ce;font-size:12px;border-top:1px solid #ffffff19;padding-top:18px}.bottom-actions{display:flex;align-items:center;gap:12px}.small{padding:8px 12px;font-size:12px}.notice{max-width:800px;margin:14px auto 0;text-align:center;font-size:12px;color:#ffcd9c;min-height:18px}.overlay{position:fixed;inset:0;background:#0009;display:none;align-items:center;justify-content:center;padding:20px;z-index:10}.overlay.open{display:flex}.modal{width:min(470px,100%);border:1px solid #b1d8ff3b;border-radius:20px;padding:25px;background:#0b2440;box-shadow:0 20px 90px #000a}.modal h2{margin:0 0 10px}.modal p{color:#a9c4dc;font-size:14px;line-height:1.55}.field{display:flex;flex-direction:column;gap:7px;flex:1}.field label{color:#b5cde4;font-size:12px}.field input{background:#07172c;border:1px solid #ffffff3d;border-radius:9px;padding:11px;color:white;width:100%}.fields{display:flex;gap:12px;margin:20px 0}.primary{background:#63d4ff;color:#05213c;border:0;padding:11px 16px;border-radius:10px;font-weight:750}.actions{display:flex;gap:10px;flex-wrap:wrap;align-items:center}.helper{font-size:12px!important}.demo{color:#ffce84}.empty-plane{font-size:110px;color:#9ad4ff;filter:drop-shadow(0 15px 20px #0005)}@media(max-width:600px){.shell{padding:17px}.brand{font-size:11px;letter-spacing:.1em}.pill{font-size:10px}.topright{gap:8px}.display{padding:45px 0 25px}.flightline{margin-top:25px}.stats{grid-template-columns:repeat(2,1fr);margin-top:25px}.stat{padding:16px 9px}.bottom{flex-direction:column;align-items:flex-start}.plane-stage{height:210px}.flightline{gap:12px}.dash{width:45px}}
-</style></head><body><div class="shell"><header><div class="brand"><span class="brand-mark">✈</span> SKY ABOVE ME</div><div class="topright"><span class="pill"><span class="dot off" id="statusDot"></span><span id="statusText">SETUP NEEDED</span></span><button class="ghost" id="settingsBtn">⚙ Settings</button></div></header><main class="display"><div class="eyebrow" id="eyebrow">YOUR PERSONAL SKY VIEW</div><h1 class="heading" id="title">What's flying overhead?</h1><div class="sub" id="subtitle">Set your home location to begin tracking aircraft</div><div class="flightline"><div class="endpoint"><div class="code" id="origin">—</div><div class="caption">ORIGIN · IF KNOWN</div></div><div class="mid"><svg viewBox="0 0 64 32" fill="none"><path d="M5 16h54M38 5l17 11-17 11" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg><div class="dash"></div></div><div class="endpoint"><div class="code" id="dest">—</div><div class="caption">DESTINATION · IF KNOWN</div></div></div><div class="plane-stage"><div class="halo"></div><div class="aircraft" id="aircraft"><svg viewBox="0 0 720 310" xmlns="http://www.w3.org/2000/svg" aria-label="Stylised passenger jet"><defs><linearGradient id="body" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#8caac5"/></linearGradient><linearGradient id="wing" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e5f4ff"/><stop offset="1" stop-color="#477ba7"/></linearGradient></defs><path d="M102 151Q180 130 335 135L605 151Q657 155 672 166Q651 182 605 184L335 181Q181 181 102 163Z" fill="url(#body)"/><path d="M562 150L615 55L647 48L633 159Z" fill="#4ebcf2"/><path d="M310 140L452 24L495 20L403 151Z" fill="url(#wing)"/><path d="M310 179L465 284L510 284L403 178Z" fill="#75a9d0"/><path d="M153 143L107 96L86 96L105 153Z" fill="#b8d5e9"/><path d="M155 170L108 206L87 206L107 163Z" fill="#729ab7"/><path d="M436 179Q448 207 469 207Q489 207 494 180" fill="#426d8e"/><path d="M430 177Q430 194 461 194Q492 194 492 178" fill="#b6d4e9"/><g fill="#35536e"><circle cx="190" cy="154" r="4"/><circle cx="214" cy="154" r="4"/><circle cx="238" cy="154" r="4"/><circle cx="262" cy="154" r="4"/><circle cx="286" cy="154" r="4"/><circle cx="310" cy="154" r="4"/><circle cx="334" cy="154" r="4"/><circle cx="358" cy="154" r="4"/><circle cx="382" cy="154" r="4"/><circle cx="406" cy="154" r="4"/><circle cx="430" cy="154" r="4"/><circle cx="454" cy="154" r="4"/><circle cx="478" cy="154" r="4"/><circle cx="502" cy="154" r="4"/></g><path d="M125 149l-27 2 12 7 27-3" fill="#30516c"/><path d="M116 157Q260 183 596 174" fill="none" stroke="#5c95bd" stroke-width="3" opacity=".6"/></svg></div></div><div class="airline" id="airline">Waiting for aircraft</div><div class="flight-id" id="flightid">Live aircraft information will appear here</div><div class="stats"><div class="stat"><div class="statval" id="alt">—</div><div class="statlabel">ALTITUDE · FT</div></div><div class="stat"><div class="statval" id="speed">—</div><div class="statlabel">SPEED · KTS</div></div><div class="stat"><div class="statval" id="distance">—</div><div class="statlabel">DISTANCE · KM</div></div><div class="stat"><div class="statval" id="track">—</div><div class="statlabel">HEADING</div></div></div><div class="notice" id="notice"></div></main><footer class="bottom"><div><span id="foot">Location not set</span> · <span id="updated">Not updated yet</span></div><div class="bottom-actions"><button class="ghost small" id="demoBtn">Try demo</button><button class="ghost small" id="refreshBtn">↻ Refresh</button><span>Updates every 30s</span></div></footer></div><div class="overlay" id="overlay"><div class="modal" role="dialog" aria-modal="true" aria-labelledby="settingsTitle"><h2 id="settingsTitle">Set your home location</h2><p>Your coordinates stay in this browser. The server sends them to the aircraft data provider to look up nearby flights.</p><div class="actions"><button class="primary" id="locateBtn">◎ Use my location</button><span id="geoStatus" class="helper"></span></div><div class="fields"><div class="field"><label for="lat">Latitude</label><input type="number" id="lat" step="any" placeholder="51.5074"></div><div class="field"><label for="lon">Longitude</label><input type="number" id="lon" step="any" placeholder="-0.1278"></div></div><div class="fields"><div class="field"><label for="radius">Detection radius (km)</label><input type="number" id="radius" min="1" max="100" step="1" value="8"></div></div><p class="helper">A radius of 3–8 km is a useful starting point. Aircraft positions are approximate; being closest does not always mean directly overhead.</p><div class="actions"><button class="primary" id="saveBtn">Save & start tracking</button><button class="ghost" id="cancelBtn">Close</button></div></div></div><script>
-const $=id=>document.getElementById(id);let cfg=null,selected=null,demo=false,busy=false;
-const airlines={BAW:'British Airways',EZY:'easyJet',EJU:'easyJet Europe',RYR:'Ryanair',WZZ:'Wizz Air',VIR:'Virgin Atlantic',UAL:'United Airlines',DAL:'Delta Air Lines',AAL:'American Airlines',DLH:'Lufthansa',AFR:'Air France',KLM:'KLM Royal Dutch Airlines',UAE:'Emirates',QTR:'Qatar Airways',SIA:'Singapore Airlines',THY:'Turkish Airlines',TAP:'TAP Air Portugal',IBE:'Iberia',SWR:'SWISS',SAS:'Scandinavian Airlines',FIN:'Finnair',ACA:'Air Canada',ETD:'Etihad Airways',AIC:'Air India',EIN:'Aer Lingus',TOM:'TUI Airways',TUI:'TUI fly',LOT:'LOT Polish Airlines',NAX:'Norwegian Air Shuttle',EXS:'Jet2',BEL:'Brussels Airlines',CFG:'Condor',AUA:'Austrian Airlines',UPS:'UPS Airlines',FDX:'FedEx Express'};
-const fmt=(v,d=0)=>Number.isFinite(v)?v.toLocaleString('en-GB',{maximumFractionDigits:d}):'—';
-function hav(a,b,c,d){const R=6371,toR=Math.PI/180,x=(c-a)*toR,y=(d-b)*toR,z=Math.sin(x/2)**2+Math.cos(a*toR)*Math.cos(c*toR)*Math.sin(y/2)**2;return 2*R*Math.asin(Math.sqrt(z))}
-function normalize(s){return {id:s[0],callsign:(s[1]||'').trim(),country:s[2]||'',lon:s[5],lat:s[6],alt:s[13]??s[7],ground:s[8],speed:s[9],heading:s[10]}}
-function airlineName(cs){return airlines[(cs||'').slice(0,3).toUpperCase()]||'Airline unavailable'}
-function status(label,ok){$('statusText').textContent=label;$('statusDot').className='dot'+(ok?'':' off')}
-function render(a){selected=a;if(!a){$('title').textContent='Clear skies for now';$('subtitle').textContent='No airborne aircraft detected in your selected radius';$('eyebrow').textContent='SCANNING YOUR SKY';$('origin').textContent='—';$('dest').textContent='—';$('airline').textContent='Waiting for the next aircraft';$('flightid').textContent='Checking automatically every 30 seconds';for(const k of ['alt','speed','distance','track'])$(k).textContent='—';return} $('eyebrow').textContent=demo?'DEMO FLIGHT · SAMPLE DATA':'CLOSEST AIRCRAFT TO YOUR HOME';$('title').textContent='Flying near you';$('subtitle').textContent=a.country?'Registered in '+a.country:'Live aircraft position';$('origin').textContent=a.origin||'—';$('dest').textContent=a.dest||'—';$('airline').textContent=a.airline||airlineName(a.callsign);$('flightid').textContent=(a.callsign||'Unknown callsign')+' · ICAO '+(a.id||'unavailable').toUpperCase();$('alt').textContent=fmt(a.alt!=null?a.alt*3.28084:null);$('speed').textContent=fmt(a.speed!=null?a.speed*1.94384:null);$('distance').textContent=fmt(a.distance,1);$('track').textContent=Number.isFinite(a.heading)?fmt(a.heading)+'°':'—'}
-async function update(){if(!cfg||busy||demo)return;busy=true;status('UPDATING',false);$('notice').textContent='';try{let r=await fetch(`/api/aircraft?lat=${encodeURIComponent(cfg.lat)}&lon=${encodeURIComponent(cfg.lon)}&radius=${encodeURIComponent(cfg.radius)}`,{cache:'no-store'});let j=await r.json();if(!r.ok)throw Error(j.error||'Flight service unavailable');let arr=(j.states||[]).map(normalize).filter(a=>!a.ground&&Number.isFinite(a.lat)&&Number.isFinite(a.lon)).map(a=>({...a,distance:hav(cfg.lat,cfg.lon,a.lat,a.lon)})).filter(a=>a.distance<=cfg.radius).sort((a,b)=>a.distance-b.distance);let next=arr[0]||null;if(selected&&next){const prev=arr.find(a=>a.id===selected.id);if(prev&&prev.distance<=next.distance+0.7)next=prev}render(next);status('LIVE · '+arr.length+' NEARBY',true);$('updated').textContent='Updated '+new Date().toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit',second:'2-digit'});$('notice').textContent='Flight origin, destination and aircraft model are not included in the free position feed.'}catch(e){status('DATA UNAVAILABLE',false);$('notice').textContent=e.message+' · Try again later or use demo mode.';$('updated').textContent='Last attempt '+new Date().toLocaleTimeString('en-GB')}finally{busy=false}}
-function showSettings(){if(cfg){$('lat').value=cfg.lat;$('lon').value=cfg.lon;$('radius').value=cfg.radius}$('overlay').classList.add('open')}
-function closeSettings(){$('overlay').classList.remove('open')}
-$('settingsBtn').onclick=showSettings;$('cancelBtn').onclick=closeSettings;$('overlay').onclick=e=>{if(e.target===$('overlay'))closeSettings()};
-$('locateBtn').onclick=()=>{if(!navigator.geolocation){$('geoStatus').textContent='Geolocation not supported';return}$('geoStatus').textContent='Requesting permission…';navigator.geolocation.getCurrentPosition(p=>{$('lat').value=p.coords.latitude.toFixed(6);$('lon').value=p.coords.longitude.toFixed(6);$('geoStatus').textContent='Location detected'},e=>{$('geoStatus').textContent='Could not get location: '+e.message},{enableHighAccuracy:true,timeout:12000})};
-$('saveBtn').onclick=()=>{let lat=Number($('lat').value),lon=Number($('lon').value),radius=Number($('radius').value);if(!$('lat').value||!$('lon').value||!Number.isFinite(lat)||!Number.isFinite(lon)||Math.abs(lat)>90||Math.abs(lon)>180||radius<1||radius>100){$('geoStatus').textContent='Enter valid coordinates and a radius of 1–100 km';return}cfg={lat,lon,radius};localStorage.setItem('skyHome',JSON.stringify(cfg));demo=false;selected=null;$('foot').textContent=`Home ${lat.toFixed(3)}, ${lon.toFixed(3)} · ${radius} km radius`;closeSettings();update()};
-$('demoBtn').onclick=()=>{demo=!demo;if(demo){status('DEMO MODE',false);$('demoBtn').textContent='Exit demo';$('notice').textContent='Sample flight only — not live aircraft data.';render({id:'a1b2c3',callsign:'UAL930',airline:'United Airlines',country:'United States',origin:'SFO',dest:'LHR',alt:10820,speed:242,heading:86,distance:2.4})}else{$('demoBtn').textContent='Try demo';selected=null;if(cfg)update();else{status('SETUP NEEDED',false);$('notice').textContent='Set your home location to see live aircraft.';render(null)}}};
-$('refreshBtn').onclick=()=>{if(demo){$('notice').textContent='Exit demo to refresh live data.';return}if(!cfg)showSettings();else update()};
-try{const saved=JSON.parse(localStorage.getItem('skyHome'));if(saved&&Number.isFinite(saved.lat)&&Number.isFinite(saved.lon)&&Number.isFinite(saved.radius)){cfg=saved;$('foot').textContent=`Home ${cfg.lat.toFixed(3)}, ${cfg.lon.toFixed(3)} · ${cfg.radius} km radius`;update()}else showSettings()}catch{showSettings()}
-setInterval(update,30000);
-</script></body></html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sky Above Me | Live Flight Display</title>
+<style>
+:root {
+  color-scheme: dark;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: white;
+  background: radial-gradient(ellipse at 50% 35%, #17436e, #07162b 75%);
+}
+.app { max-width: 1100px; margin: auto; padding: 25px; }
+header, .toolbar, .status, .stats, .routes {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+}
+header { flex-wrap: wrap; }
+.logo { font-weight: 800; letter-spacing: 3px; }
+.logo span { color: #67d8ff; }
+button {
+  border: 1px solid #46759b;
+  border-radius: 12px;
+  padding: 11px 16px;
+  background: #173b60;
+  color: white;
+  cursor: pointer;
+}
+button:hover { background: #255782; }
+.status { justify-content: center; margin: 35px 0 12px; color: #8ec8e9; }
+.dot { width: 9px; height: 9px; border-radius: 50%; background: #54e5b0; }
+h1 { text-align: center; font-size: clamp(32px, 6vw, 60px); margin: 15px 0 0; }
+.subtitle { text-align: center; color: #a9c2d9; }
+.plane-area {
+  height: 290px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.plane-area svg { width: min(100%, 580px); filter: drop-shadow(0 18px 24px #0008); }
+.panel {
+  background: #ffffff0b;
+  border: 1px solid #ffffff24;
+  border-radius: 20px;
+  padding: 25px;
+  backdrop-filter: blur(10px);
+}
+.flight-head { display: flex; justify-content: space-between; gap: 15px; }
+.airline { font-size: 24px; font-weight: 750; }
+.muted, .label { color: #a1b9d0; }
+.label { font-size: 12px; letter-spacing: 1.5px; text-transform: uppercase; }
+.value { font-size: 23px; font-weight: 650; margin-top: 8px; }
+.stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-top: 25px; }
+.stat { background: #071a30aa; padding: 18px; border-radius: 12px; }
+.routes { margin-top: 25px; padding-top: 20px; border-top: 1px solid #ffffff22; }
+.route { font-size: 28px; font-weight: 700; }
+footer { text-align: center; color: #88a3bd; font-size: 12px; margin: 25px; line-height: 1.8; }
+.settings { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+input { width: 75px; background: #102b49; border: 1px solid #46759b; border-radius: 8px; padding: 10px; color: white; }
+#error { text-align: center; color: #ffbaaa; margin: 15px; }
+@media(max-width:650px) {
+  .stats { grid-template-columns: repeat(2,1fr); }
+  .plane-area { height: 210px; }
+  .flight-head { flex-direction: column; }
+  .app { padding: 16px; }
+}
+</style>
+</head>
+<body>
+<div class="app">
+<header>
+  <div class="logo">✈ SKY <span>ABOVE ME</span></div>
+  <div class="settings">
+    <label for="radius">Radius (km)</label>
+    <input id="radius" type="number" value="5" min="1" max="100">
+    <button onclick="setLocation()">⌖ Set home</button>
+    <button onclick="demo()">Demo</button>
+  </div>
+</header>
+
+<div class="status"><span class="dot"></span><span id="status">Waiting for location</span></div>
+<h1 id="callsign">Sky Above Me</h1>
+<p class="subtitle" id="description">Find out what's flying overhead</p>
+
+<div class="plane-area">
+<svg viewBox="0 0 650 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="body" x1="0" x2="0" y1="0" y2="1">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#9db6d2"/>
+    </linearGradient>
+  </defs>
+  <path d="M38 150 Q24 141 42 135 L235 120 L325 26 Q346 8 361 24 L350 116 L525 122 Q590 124 616 139 Q630 147 616 154 Q590 169 525 169 L350 176 L361 257 Q344 272 325 252 L235 176 L42 161 Q24 158 38 150Z"
+        fill="url(#body)" stroke="#5b819f" stroke-width="3"/>
+  <path d="M235 120 L325 26 Q346 8 361 24 L350 116Z" fill="#76b8df" opacity=".55"/>
+  <path d="M235 176 L325 252 Q344 272 361 257 L350 176Z" fill="#76b8df" opacity=".55"/>
+  <path d="M430 122 L470 168" stroke="#376c9d" stroke-width="5"/>
+  <path d="M515 123 L550 166" stroke="#376c9d" stroke-width="5"/>
+</svg>
+</div>
+
+<div class="panel">
+  <div class="flight-head">
+    <div>
+      <div class="label">Airline / Operator</div>
+      <div class="airline" id="airline">Waiting for aircraft</div>
+      <div class="muted" id="registration">—</div>
+    </div>
+    <div>
+      <div class="label">Aircraft identification</div>
+      <div class="value" id="identity">—</div>
+    </div>
+  </div>
+  <div class="stats">
+    <div class="stat"><div class="label">Altitude</div><div class="value" id="altitude">—</div></div>
+    <div class="stat"><div class="label">Speed</div><div class="value" id="speed">—</div></div>
+    <div class="stat"><div class="label">Distance</div><div class="value" id="distance">—</div></div>
+    <div class="stat"><div class="label">Heading</div><div class="value" id="heading">—</div></div>
+  </div>
+  <div class="routes">
+    <div><div class="label">From</div><div class="route" id="from">—</div></div>
+    <div style="color:#6fd7ff;font-size:28px">✈ →</div>
+    <div style="text-align:right"><div class="label">To</div><div class="route" id="to">—</div></div>
+  </div>
+</div>
+<div id="error"></div>
+<footer>
+  Aircraft positions refresh every 30 seconds. Route information may not be available.
+  <br>Live data depends on third-party ADS-B coverage and API availability.
+</footer>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+let home = JSON.parse(localStorage.getItem("skyHome") || "null");
+let busy = false;
+
+const airlines = {
+  BAW: "British Airways", EZY: "easyJet",
+  UAL: "United Airlines", DAL: "Delta Air Lines",
+  AAL: "American Airlines", RYR: "Ryanair",
+  UAE: "Emirates", QTR: "Qatar Airways",
+  DLH: "Lufthansa", AFR: "Air France",
+  KLM: "KLM", VIR: "Virgin Atlantic",
+  SIA: "Singapore Airlines", THY: "Turkish Airlines",
+  TAP: "TAP Air Portugal", EIN: "Aer Lingus",
+  SWR: "SWISS", FIN: "Finnair",
+  SAS: "SAS", WZZ: "Wizz Air",
+  TUI: "TUI Airways", TOM: "TUI Airways",
+  EXS: "Jet2", LOG: "Loganair"
+};
+
+function setLocation() {
+  if (!navigator.geolocation) {
+    $("error").textContent = "Geolocation is unavailable.";
+    return;
+  }
+  $("status").textContent = "Finding your location...";
+  navigator.geolocation.getCurrentPosition(
+    p => {
+      home = { lat: p.coords.latitude, lon: p.coords.longitude };
+      localStorage.setItem("skyHome", JSON.stringify(home));
+      $("error").textContent = "";
+      refresh();
+    },
+    e => {
+      $("status").textContent = "Location unavailable";
+      $("error").textContent = e.message;
+    },
+    { enableHighAccuracy: true, timeout: 15000 }
+  );
+}
+
+function distanceKm(a,b,c,d) {
+  const rad = x => x * Math.PI / 180;
+  const dl = rad(c-a), dn = rad(d-b);
+  const h = Math.sin(dl/2)**2 +
+    Math.cos(rad(a))*Math.cos(rad(c))*Math.sin(dn/2)**2;
+  return 6371 * 2 * Math.asin(Math.sqrt(h));
+}
+
+function showAircraft(a, demoMode=false) {
+  const call = (a.flight || a.callsign || "").trim();
+  const prefix = call.slice(0,3).toUpperCase();
+  $("callsign").textContent = call || a.hex || "Unknown aircraft";
+  $("description").textContent = demoMode ? "Demonstration aircraft" : "Aircraft detected near your home";
+  $("airline").textContent = airlines[prefix] || a.ownOp || "Operator unknown";
+  $("registration").textContent = [a.r, a.t].filter(Boolean).join(" · ") || "Registration / type unavailable";
+  $("identity").textContent = a.hex?.toUpperCase() || "—";
+  const alt = Number(a.alt_baro ?? a.alt_geom);
+  $("altitude").textContent = Number.isFinite(alt) ? Math.round(alt).toLocaleString() + " ft" : "—";
+  const speed = Number(a.gs);
+  $("speed").textContent = Number.isFinite(speed) ? Math.round(speed * 1.852) + " km/h" : "—";
+  $("distance").textContent = Number.isFinite(a.distance) ? a.distance.toFixed(1) + " km" : "—";
+  $("heading").textContent = Number.isFinite(Number(a.track)) && a.track != null ? Math.round(a.track) + "°" : "—";
+  $("from").textContent = "N/A";
+  $("to").textContent = "N/A";
+}
+
+function demo() {
+  $("status").textContent = "Demo mode — not live";
+  $("error").textContent = "";
+  showAircraft({
+    flight:"BAW247", hex:"406abc", r:"G-XWBA", t:"A35K",
+    alt_baro:11250, gs:265, distance:2.3, track:245
+  }, true);
+}
+
+async function fetchAircraft(lat, lon, radius) {
+  const endpoints = [
+    `https://api.adsb.one/v2/point/${lat}/${lon}/${radius}`,
+    `https://api.airplanes.live/v2/point/${lat}/${lon}/${radius}`
+  ];
+  let errors = [];
+  for (const url of endpoints) {
+    try {
+      const response = await fetch(url, {
+        cache:"no-store",
+        signal:AbortSignal.timeout(12000)
+      });
+      if (!response.ok) throw new Error("HTTP " + response.status);
+      const data = await response.json();
+      if (!Array.isArray(data.ac)) throw new Error("Unexpected response");
+      return data.ac;
+    } catch(e) {
+      errors.push(e.message);
+    }
+  }
+  throw new Error(errors.join("; "));
+}
+
+async function refresh() {
+  if (!home || busy) return;
+  busy = true;
+  $("status").textContent = "Scanning the sky...";
+  const radius = Math.min(100, Math.max(1, Number($("radius").value) || 5));
+  try {
+    const aircraft = await fetchAircraft(home.lat, home.lon, radius);
+    const nearby = aircraft
+      .filter(a => a.lat != null && a.lon != null &&
+        a.alt_baro !== "ground" && a.gs !== 0)
+      .map(a => ({
+        ...a,
+        distance: distanceKm(home.lat,home.lon,a.lat,a.lon)
+      }))
+      .filter(a => a.distance <= radius)
+      .sort((a,b) => a.distance-b.distance);
+
+    if (nearby.length) {
+      showAircraft(nearby[0]);
+      $("status").textContent = "LIVE · " + nearby.length + " aircraft nearby";
+      $("error").textContent = "";
+    } else {
+      $("status").textContent = "No aircraft within " + radius + " km";
+      $("callsign").textContent = "Clear skies";
+      $("description").textContent = "Waiting for the next aircraft";
+      $("airline").textContent = "No aircraft detected";
+      ["registration","identity","altitude","speed","distance","heading","from","to"]
+        .forEach(id => $(id).textContent = "—");
+      $("error").textContent = "";
+    }
+  } catch(e) {
+    $("status").textContent = "Live data unavailable";
+    $("error").textContent = "Unable to retrieve aircraft positions. " +
+      "The data provider may be blocking browser requests or temporarily unavailable. " +
+      e.message;
+  } finally {
+    busy = false;
+  }
+}
+
+$("radius").addEventListener("change", refresh);
+if (home) refresh();
+else $("status").textContent = "Select Set home to begin";
+setInterval(refresh,30000);
+</script>
+</body>
+</html>
