@@ -1,0 +1,41 @@
+
+name: Test Aircraft API
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Test adsb.fi connection
+        run: |
+          python3 - <<'PY'
+          import json
+          import urllib.request
+
+          url = "https://opendata.adsb.fi/api/v3/lat/51.5074/lon/-0.1278/dist/10"
+
+          try:
+              req = urllib.request.Request(
+                  url,
+                  headers={"User-Agent": "SkyAboveMe/1.0"}
+              )
+
+              with urllib.request.urlopen(req, timeout=20) as response:
+                  data = json.load(response)
+
+              print("SUCCESS!")
+              print("Aircraft found:", len(data.get("ac", [])))
+
+              for aircraft in data.get("ac", [])[:5]:
+                  print(
+                      aircraft.get("flight", "").strip(),
+                      aircraft.get("desc", "Unknown aircraft")
+                  )
+
+          except Exception as error:
+              print("FAILED:", str(error))
+              raise
+          PY
