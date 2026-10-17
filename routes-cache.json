@@ -2243,5 +2243,43 @@
         "name": "London Stansted Airport"
       }
     }
+  },
+  "EXS15L": {
+    "time": 1792279532.3428621,
+    "route": {
+      "callsign": "EXS15L",
+      "callsign_icao": "EXS15L",
+      "callsign_iata": "LS15L",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 681,
+        "iata_code": "LBA",
+        "icao_code": "EGNM",
+        "latitude": 53.8659,
+        "longitude": -1.66057,
+        "municipality": "Leeds",
+        "name": "Leeds Bradford Airport"
+      }
+    }
   }
 }
