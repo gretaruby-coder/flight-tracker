@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Sky Above Me | Flight Display</title>
+<title>Sky Above Me | Flight Tracker</title>
 
 <style>
 :root {
@@ -20,9 +20,7 @@ body {
   min-height: 100vh;
   color: white;
   background: radial-gradient(
-    ellipse at 50% 35%,
-    #17436e,
-    #07162b 75%
+    ellipse at 50% 35%, #17436e, #07162b 75%
   );
 }
 
@@ -32,14 +30,13 @@ body {
   padding: 25px;
 }
 
-header, .toolbar, .status, .stats, .routes {
+header {
   display: flex;
-  align-items: center;
   justify-content: space-between;
+  align-items: center;
   gap: 15px;
+  flex-wrap: wrap;
 }
-
-header { flex-wrap: wrap; }
 
 .logo {
   font-weight: 800;
@@ -47,6 +44,13 @@ header { flex-wrap: wrap; }
 }
 
 .logo span { color: #67d8ff; }
+
+.settings {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
 
 button {
   border: 1px solid #46759b;
@@ -59,11 +63,27 @@ button {
 
 button:hover { background: #255782; }
 
+button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+input {
+  width: 75px;
+  background: #102b49;
+  border: 1px solid #46759b;
+  border-radius: 8px;
+  padding: 10px;
+  color: white;
+}
+
 .status {
+  display: flex;
   justify-content: center;
+  align-items: center;
+  gap: 10px;
   margin: 35px 0 12px;
   color: #8ec8e9;
-  flex-wrap: wrap;
 }
 
 .dot {
@@ -71,6 +91,12 @@ button:hover { background: #255782; }
   height: 9px;
   border-radius: 50%;
   background: #54e5b0;
+}
+
+#updated {
+  text-align: center;
+  color: #88a3bd;
+  font-size: 12px;
 }
 
 h1 {
@@ -84,16 +110,27 @@ h1 {
   color: #a9c2d9;
 }
 
-.plane-area {
-  height: 290px;
+.logo-area {
+  min-height: 250px;
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
+  padding: 25px;
 }
 
-.plane-area svg {
-  width: min(100%, 580px);
-  filter: drop-shadow(0 18px 24px #0008);
+.airline-logo {
+  max-width: min(75vw, 440px);
+  max-height: 170px;
+  object-fit: contain;
+  filter: drop-shadow(0 12px 22px #0005);
+}
+
+.logo-fallback {
+  font-size: clamp(30px, 6vw, 55px);
+  font-weight: 800;
+  letter-spacing: -1px;
+  text-align: center;
+  color: #e7f6ff;
 }
 
 .panel {
@@ -143,14 +180,47 @@ h1 {
 }
 
 .routes {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
   margin-top: 25px;
   padding-top: 20px;
   border-top: 1px solid #ffffff22;
 }
 
 .route {
-  font-size: 28px;
+  font-size: clamp(23px, 5vw, 32px);
   font-weight: 700;
+}
+
+.airport-name {
+  font-size: 12px;
+  color: #a1b9d0;
+  margin-top: 5px;
+  max-width: 250px;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 22px;
+  flex-wrap: wrap;
+}
+
+#counter {
+  color: #a9c2d9;
+  font-size: 14px;
+  min-width: 95px;
+  text-align: center;
+}
+
+#error {
+  text-align: center;
+  color: #ffbaaa;
+  margin: 15px;
 }
 
 footer {
@@ -161,47 +231,12 @@ footer {
   line-height: 1.8;
 }
 
-.settings {
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  flex-wrap: wrap;
-}
-
-input {
-  width: 75px;
-  background: #102b49;
-  border: 1px solid #46759b;
-  border-radius: 8px;
-  padding: 10px;
-  color: white;
-}
-
-#error {
-  text-align: center;
-  color: #ffbaaa;
-  margin: 15px;
-}
-
-#updated {
-  text-align: center;
-  color: #88a3bd;
-  font-size: 12px;
-  margin-top: 8px;
-}
-
 @media(max-width:650px) {
-  .stats {
-    grid-template-columns: repeat(2,1fr);
-  }
-
-  .plane-area { height: 210px; }
-
-  .flight-head {
-    flex-direction: column;
-  }
-
+  .stats { grid-template-columns: repeat(2,1fr); }
+  .logo-area { min-height: 190px; }
+  .flight-head { flex-direction: column; }
   .app { padding: 16px; }
+  .panel { padding: 17px; }
 }
 </style>
 </head>
@@ -210,111 +245,43 @@ input {
 <div class="app">
 
 <header>
-  <div class="logo">
-    ✈ SKY <span>ABOVE ME</span>
-  </div>
+  <div class="logo">✈ SKY <span>ABOVE ME</span></div>
 
   <div class="settings">
     <label for="radius">Radius (km)</label>
-    <input
-      id="radius"
-      type="number"
-      value="5"
-      min="1"
-      max="18"
-    >
+    <input id="radius" type="number"
+           value="5" min="1" max="18">
 
-    <button onclick="setLocation()">
-      ⌖ Set home
-    </button>
-
-    <button onclick="demo()">
-      Demo
-    </button>
+    <button onclick="setLocation()">⌖ Set home</button>
+    <button onclick="demo()">Demo</button>
   </div>
 </header>
 
 <div class="status">
   <span class="dot"></span>
-  <span id="status">Loading aircraft data...</span>
+  <span id="status">Loading aircraft...</span>
 </div>
 
 <div id="updated"></div>
 
 <h1 id="callsign">Sky Above Me</h1>
-
 <p class="subtitle" id="description">
   Find out what's flying overhead
 </p>
 
-<div class="plane-area">
-  <svg viewBox="0 0 650 280"
-       xmlns="http://www.w3.org/2000/svg">
+<!-- Airline logo replaces the aircraft illustration -->
+<div class="logo-area">
+  <img id="airlineLogo" class="airline-logo"
+       alt="Airline logo" hidden>
 
-    <defs>
-      <linearGradient
-        id="body"
-        x1="0"
-        x2="0"
-        y1="0"
-        y2="1"
-      >
-        <stop stop-color="#ffffff"/>
-        <stop offset="1" stop-color="#9db6d2"/>
-      </linearGradient>
-    </defs>
-
-    <path
-      d="M38 150 Q24 141 42 135
-         L235 120 L325 26
-         Q346 8 361 24
-         L350 116 L525 122
-         Q590 124 616 139
-         Q630 147 616 154
-         Q590 169 525 169
-         L350 176 L361 257
-         Q344 272 325 252
-         L235 176 L42 161
-         Q24 158 38 150Z"
-      fill="url(#body)"
-      stroke="#5b819f"
-      stroke-width="3"
-    />
-
-    <path
-      d="M235 120 L325 26
-         Q346 8 361 24
-         L350 116Z"
-      fill="#76b8df"
-      opacity=".55"
-    />
-
-    <path
-      d="M235 176 L325 252
-         Q344 272 361 257
-         L350 176Z"
-      fill="#76b8df"
-      opacity=".55"
-    />
-
-    <path
-      d="M430 122 L470 168"
-      stroke="#376c9d"
-      stroke-width="5"
-    />
-
-    <path
-      d="M515 123 L550 166"
-      stroke="#376c9d"
-      stroke-width="5"
-    />
-  </svg>
+  <div id="logoFallback" class="logo-fallback">
+    SKY ABOVE ME
+  </div>
 </div>
 
 <div class="panel">
 
   <div class="flight-head">
-
     <div>
       <div class="label">Airline / Operator</div>
       <div class="airline" id="airline">
@@ -324,16 +291,12 @@ input {
     </div>
 
     <div>
-      <div class="label">
-        Aircraft identification
-      </div>
+      <div class="label">Aircraft identification</div>
       <div class="value" id="identity">—</div>
     </div>
-
   </div>
 
   <div class="stats">
-
     <div class="stat">
       <div class="label">Altitude</div>
       <div class="value" id="altitude">—</div>
@@ -353,39 +316,52 @@ input {
       <div class="label">Heading</div>
       <div class="value" id="heading">—</div>
     </div>
-
   </div>
 
   <div class="routes">
-
     <div>
       <div class="label">From</div>
       <div class="route" id="from">—</div>
+      <div class="airport-name" id="fromName"></div>
     </div>
 
-    <div style="color:#6fd7ff;font-size:28px">
-      ✈ →
-    </div>
+    <div style="color:#6fd7ff;font-size:28px">✈ →</div>
 
     <div style="text-align:right">
       <div class="label">To</div>
       <div class="route" id="to">—</div>
+      <div class="airport-name" id="toName"></div>
     </div>
-
   </div>
 
+</div>
+
+<div class="navigation">
+  <button id="previous" onclick="previousAircraft()">
+    ← Previous
+  </button>
+
+  <span id="counter">—</span>
+
+  <button id="next" onclick="nextAircraft()">
+    Next aircraft →
+  </button>
+
+  <button onclick="selectNearest()">
+    Nearest aircraft
+  </button>
 </div>
 
 <div id="error"></div>
 
 <footer>
-  Aircraft data is collected approximately every
-  5 minutes, subject to GitHub Actions scheduling.
+  Aircraft positions update approximately every 5 minutes,
+  subject to GitHub Actions scheduling.
   <br>
-  Positions are snapshots, not continuous live tracking.
-  Route information may not be available.
+  Routes provided by ADSBDB where available.
+  Aircraft positions provided by adsb.fi.
   <br>
-  Aircraft data: adsb.fi Open Data.
+  Positions are periodic snapshots, not real-time tracking.
 </footer>
 
 </div>
@@ -398,27 +374,26 @@ const FELTHAM = {
   lon: -0.4089
 };
 
-const DATA_RADIUS_KM = 10 * 1.852;
-
-let home = null;
+let home = { ...FELTHAM };
+let aircraftList = [];
+let selectedIndex = 0;
+let selectedHex = null;
 let busy = false;
 let demoMode = false;
 
 try {
-  home = JSON.parse(
+  const saved = JSON.parse(
     localStorage.getItem("skyHome") || "null"
   );
-} catch (error) {
-  home = null;
-}
 
-if (
-  !home ||
-  !Number.isFinite(Number(home.lat)) ||
-  !Number.isFinite(Number(home.lon))
-) {
-  home = { ...FELTHAM };
-}
+  if (
+    saved &&
+    Number.isFinite(saved.lat) &&
+    Number.isFinite(saved.lon)
+  ) {
+    home = saved;
+  }
+} catch (e) {}
 
 const airlines = {
   BAW: "British Airways",
@@ -450,14 +425,76 @@ const airlines = {
   PGT: "Pegasus Airlines",
   ICE: "Icelandair",
   OCN: "Discover Airlines",
-  NJE: "NetJets",
-  THY: "Turkish Airlines"
+  NJE: "NetJets"
 };
+
+// Place logo images in the repository's logos folder.
+// Example: logos/BAW.png for British Airways.
+const logoCodes = new Set([
+  "BAW", "EZY", "UAL", "DAL", "AAL",
+  "RYR", "UAE", "QTR", "DLH", "AFR",
+  "KLM", "VIR", "SIA", "THY", "TAP",
+  "EIN", "SWR", "FIN", "SAS", "WZZ",
+  "TUI", "TOM", "EXS", "LOG", "MSR",
+  "MEA", "PGT", "ICE", "OCN", "NJE"
+]);
+
+function showLogo(a) {
+  const call = String(a.flight || "").trim();
+  const prefix = call.slice(0, 3).toUpperCase();
+
+  const name =
+    a.airline_name ||
+    airlines[prefix] ||
+    a.ownOp ||
+    "Unknown airline";
+
+  const img = $("airlineLogo");
+  const fallback = $("logoFallback");
+
+  img.hidden = true;
+  img.removeAttribute("src");
+
+  fallback.hidden = false;
+  fallback.textContent = name;
+
+  if (!logoCodes.has(prefix)) return;
+
+  img.onload = () => {
+    img.hidden = false;
+    fallback.hidden = true;
+  };
+
+  img.onerror = () => {
+    img.hidden = true;
+    fallback.hidden = false;
+  };
+
+  img.alt = name + " logo";
+  img.src = "logos/" + prefix + ".png";
+}
+
+function distanceKm(lat1, lon1, lat2, lon2) {
+  const rad = x => x * Math.PI / 180;
+
+  const dLat = rad(lat2 - lat1);
+  const dLon = rad(lon2 - lon1);
+
+  const h =
+    Math.sin(dLat / 2) ** 2 +
+    Math.cos(rad(lat1)) *
+    Math.cos(rad(lat2)) *
+    Math.sin(dLon / 2) ** 2;
+
+  return 6371 * 2 * Math.asin(
+    Math.sqrt(Math.min(1, h))
+  );
+}
 
 function setLocation() {
   if (!navigator.geolocation) {
     $("error").textContent =
-      "Geolocation is unavailable in this browser.";
+      "Geolocation is unavailable.";
     return;
   }
 
@@ -477,14 +514,13 @@ function setLocation() {
       );
 
       demoMode = false;
-      $("error").textContent = "";
+      selectedHex = null;
       refresh();
     },
 
     error => {
       $("status").textContent =
         "Location unavailable";
-
       $("error").textContent = error.message;
     },
 
@@ -495,51 +531,8 @@ function setLocation() {
   );
 }
 
-function distanceKm(lat1, lon1, lat2, lon2) {
-  const rad = value => value * Math.PI / 180;
-
-  const dLat = rad(lat2 - lat1);
-  const dLon = rad(lon2 - lon1);
-
-  const h =
-    Math.sin(dLat / 2) ** 2 +
-    Math.cos(rad(lat1)) *
-    Math.cos(rad(lat2)) *
-    Math.sin(dLon / 2) ** 2;
-
-  return 6371 * 2 * Math.asin(
-    Math.sqrt(Math.min(1, h))
-  );
-}
-
-function clearAircraft() {
-  $("callsign").textContent = "Clear skies";
-
-  $("description").textContent =
-    "Waiting for the next aircraft";
-
-  $("airline").textContent =
-    "No airborne aircraft detected";
-
-  [
-    "registration",
-    "identity",
-    "altitude",
-    "speed",
-    "distance",
-    "heading",
-    "from",
-    "to"
-  ].forEach(id => {
-    $(id).textContent = "—";
-  });
-}
-
 function showAircraft(a, isDemo = false) {
-  const call = String(
-    a.flight || a.callsign || ""
-  ).trim();
-
+  const call = String(a.flight || "").trim();
   const prefix = call.slice(0, 3).toUpperCase();
 
   $("callsign").textContent =
@@ -550,6 +543,7 @@ function showAircraft(a, isDemo = false) {
     : "Aircraft detected near your selected location";
 
   $("airline").textContent =
+    a.airline_name ||
     airlines[prefix] ||
     a.ownOp ||
     "Operator unknown";
@@ -557,21 +551,16 @@ function showAircraft(a, isDemo = false) {
   $("registration").textContent =
     [a.r, a.desc || a.t]
       .filter(Boolean)
-      .join(" · ") ||
-    "Registration / type unavailable";
+      .join(" · ") || "—";
 
   $("identity").textContent =
-    a.hex
-      ? String(a.hex).toUpperCase()
-      : "—";
+    a.hex ? String(a.hex).toUpperCase() : "—";
 
-  const altitude = Number(
-    a.alt_baro ?? a.alt_geom
-  );
+  const alt = Number(a.alt_baro ?? a.alt_geom);
 
   $("altitude").textContent =
-    Number.isFinite(altitude)
-      ? Math.round(altitude).toLocaleString() + " ft"
+    Number.isFinite(alt)
+      ? Math.round(alt).toLocaleString() + " ft"
       : "—";
 
   const speed = Number(a.gs);
@@ -595,9 +584,90 @@ function showAircraft(a, isDemo = false) {
       ? Math.round(heading) + "°"
       : "—";
 
-  // The aircraft feed does not provide routes.
-  $("from").textContent = "N/A";
-  $("to").textContent = "N/A";
+  $("from").textContent =
+    a.origin?.iata || "N/A";
+
+  $("to").textContent =
+    a.destination?.iata || "N/A";
+
+  $("fromName").textContent =
+    a.origin?.name || "";
+
+  $("toName").textContent =
+    a.destination?.name || "";
+
+  showLogo(a);
+}
+
+function updateNavigation() {
+  const count = aircraftList.length;
+
+  $("counter").textContent = count
+    ? `${selectedIndex + 1} of ${count}`
+    : "No aircraft";
+
+  $("previous").disabled = count < 2;
+  $("next").disabled = count < 2;
+}
+
+function displaySelected() {
+  if (!aircraftList.length) {
+    $("callsign").textContent = "Clear skies";
+    $("description").textContent =
+      "Waiting for the next aircraft";
+    $("airline").textContent =
+      "No airborne aircraft detected";
+
+    [
+      "registration", "identity", "altitude",
+      "speed", "distance", "heading",
+      "from", "to", "fromName", "toName"
+    ].forEach(id => $(id).textContent = "—");
+
+    $("airlineLogo").hidden = true;
+    $("logoFallback").hidden = false;
+    $("logoFallback").textContent = "SKY ABOVE ME";
+
+    updateNavigation();
+    return;
+  }
+
+  const a = aircraftList[selectedIndex];
+  selectedHex = a.hex || null;
+
+  showAircraft(a);
+  updateNavigation();
+}
+
+function nextAircraft() {
+  if (aircraftList.length < 2) return;
+
+  selectedIndex =
+    (selectedIndex + 1) % aircraftList.length;
+
+  displaySelected();
+}
+
+function previousAircraft() {
+  if (aircraftList.length < 2) return;
+
+  selectedIndex =
+    (selectedIndex - 1 + aircraftList.length) %
+    aircraftList.length;
+
+  displaySelected();
+}
+
+function selectNearest() {
+  demoMode = false;
+  selectedHex = null;
+  selectedIndex = 0;
+
+  if (aircraftList.length) {
+    displaySelected();
+  } else {
+    refresh();
+  }
 }
 
 function demo() {
@@ -611,25 +681,34 @@ function demo() {
 
   $("error").textContent = "";
 
-  showAircraft({
+  aircraftList = [{
     flight: "BAW247",
     hex: "406abc",
     r: "G-XWBA",
-    t: "A35K",
     desc: "AIRBUS A350-1000",
     alt_baro: 11250,
     gs: 265,
     distance: 2.3,
-    track: 245
-  }, true);
+    track: 245,
+    origin: {
+      iata: "LHR",
+      name: "London Heathrow Airport"
+    },
+    destination: {
+      iata: "JFK",
+      name: "John F. Kennedy International Airport"
+    }
+  }];
+
+  selectedIndex = 0;
+  showAircraft(aircraftList[0], true);
+  updateNavigation();
 }
 
 async function fetchAircraft() {
   const response = await fetch(
     "./aircraft.json?t=" + Date.now(),
-    {
-      cache: "no-store"
-    }
+    { cache: "no-store" }
   );
 
   if (!response.ok) {
@@ -642,9 +721,7 @@ async function fetchAircraft() {
   const data = await response.json();
 
   if (!Array.isArray(data.aircraft)) {
-    throw new Error(
-      "Invalid aircraft.json format"
-    );
+    throw new Error("Invalid aircraft data");
   }
 
   return data;
@@ -654,16 +731,11 @@ async function refresh() {
   if (busy || demoMode) return;
 
   busy = true;
-
-  $("status").textContent =
-    "Checking aircraft near Feltham...";
+  $("status").textContent = "Scanning the sky...";
 
   const radius = Math.min(
     18,
-    Math.max(
-      1,
-      Number($("radius").value) || 5
-    )
+    Math.max(1, Number($("radius").value) || 5)
   );
 
   $("radius").value = radius;
@@ -674,42 +746,39 @@ async function refresh() {
     const updated = new Date(data.updated);
 
     if (Number.isNaN(updated.getTime())) {
-      throw new Error(
-        "Aircraft data has no valid update time"
-      );
+      throw new Error("Invalid update timestamp");
     }
 
     const ageMinutes =
       (Date.now() - updated.getTime()) / 60000;
 
     $("updated").textContent =
-      "Last aircraft update: " +
+      "Last updated: " +
       updated.toLocaleString("en-GB", {
         dateStyle: "medium",
         timeStyle: "short"
       });
 
-    // Prevent old aircraft positions from being
-    // displayed as if they were current.
-    if (ageMinutes > 20) {
-      clearAircraft();
+    if (ageMinutes > 20 || ageMinutes < -5) {
+      aircraftList = [];
+      selectedHex = null;
+      displaySelected();
 
       $("status").textContent =
         "Aircraft data is out of date";
 
       $("error").textContent =
-        "The last update was over 20 minutes ago. " +
-        "Check the GitHub Actions workflow.";
+        "GitHub Actions has not published a recent update.";
 
       return;
     }
 
-    const nearby = data.aircraft
+    aircraftList = data.aircraft
       .filter(a =>
-        Number.isFinite(Number(a.lat)) &&
-        Number.isFinite(Number(a.lon)) &&
         a.lat != null &&
         a.lon != null &&
+        Number.isFinite(Number(a.lat)) &&
+        Number.isFinite(Number(a.lon)) &&
         a.alt_baro !== "ground" &&
         Number(a.gs) > 0 &&
         a.r !== "GND" &&
@@ -725,36 +794,31 @@ async function refresh() {
         )
       }))
       .filter(a => a.distance <= radius)
-      .sort((a, b) =>
-        a.distance - b.distance
-      );
+      .sort((a, b) => a.distance - b.distance);
 
-    if (nearby.length > 0) {
-      showAircraft(nearby[0]);
+    // Preserve the currently selected aircraft if
+    // it remains within range after an update.
+    const previousIndex = aircraftList.findIndex(
+      a => a.hex && a.hex === selectedHex
+    );
 
-      $("status").textContent =
-        "AIRCRAFT DATA · " +
-        nearby.length +
-        " airborne nearby";
+    selectedIndex =
+      previousIndex >= 0 ? previousIndex : 0;
 
-      $("error").textContent = "";
-    } else {
-      clearAircraft();
+    displaySelected();
 
-      $("status").textContent =
-        "No airborne aircraft within " +
-        radius +
-        " km";
+    $("status").textContent = aircraftList.length
+      ? `AIRCRAFT DATA · ${aircraftList.length} airborne nearby`
+      : `No airborne aircraft within ${radius} km`;
 
-      $("error").textContent = "";
-    }
+    $("error").textContent = "";
 
   } catch (error) {
     $("status").textContent =
       "Aircraft data unavailable";
 
     $("error").textContent =
-      "Unable to load aircraft.json. " +
+      "Unable to retrieve aircraft data. " +
       error.message;
 
   } finally {
@@ -762,20 +826,13 @@ async function refresh() {
   }
 }
 
-$("radius").addEventListener(
-  "change",
-  () => {
-    demoMode = false;
-    refresh();
-  }
-);
+$("radius").addEventListener("change", () => {
+  demoMode = false;
+  selectedHex = null;
+  refresh();
+});
 
-// Start automatically using Feltham or a
-// previously saved home location.
 refresh();
-
-// Check for new GitHub data every 30 seconds.
-// The underlying data updates less frequently.
 setInterval(refresh, 30000);
 </script>
 
