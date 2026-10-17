@@ -1,22 +1,79 @@
-# Sky Above Me
+# ✈️ Sky Above Me
 
-A full-screen, one-aircraft-at-a-time home flight display inspired by desktop flight information screens.
+**A personal flight tracker showing aircraft flying near you.**
 
-## Run
+Sky Above Me is a lightweight, mobile-friendly flight tracking website that displays nearby aircraft, their flight information and airline details.
 
-1. Install Python 3 if needed.
-2. In this folder run `python3 server.py` (macOS/Linux) or `py server.py` (Windows).
-3. Visit http://localhost:8000.
-4. Click **Use my location** (or enter latitude and longitude), then **Save & start tracking**.
+🌐 **[Launch Sky Above Me](https://gretaruby-coder.github.io/flight-tracker/)**
 
-The app refreshes every 30 seconds and shows the closest airborne aircraft inside your chosen radius. When an aircraft leaves, the display changes to the next closest one. A small hysteresis margin avoids rapid switching between similarly close planes.
+## Features
 
-## Data and limitations
+- ✈️ View aircraft flying near your selected location.
+- 📍 Calculate the distance between you and nearby aircraft.
+- 📏 Adjust the search radius.
+- 🛫 Display callsigns, airlines, aircraft types and registrations.
+- 🧭 View altitude, speed and heading.
+- 🌍 Display departure and destination information when available.
+- 🔄 Refresh aircraft information automatically when updated data is available.
+- 📱 Responsive interface for desktop, tablet and mobile.
+- 🎮 Demo mode for exploring the interface.
 
-- Aircraft positions are retrieved through a local Python proxy using the OpenSky Network anonymous API. Anonymous usage is rate limited and may be unavailable at times. No API key is required for the default configuration.
-- Callsign, altitude, speed, heading, and distance are available when the data provider reports them.
-- Airline is *inferred* from the three-letter callsign prefix; this is not guaranteed to be accurate.
-- Origin/destination, aircraft model, and aircraft photos are **not** provided by this free API. The live screen displays a dash for unknown routes and a generic stylized plane illustration. Demo mode shows example SFO–LHR data and is clearly labeled.
-- Distances are horizontal ground distances, not slant ranges. Closest aircraft does not necessarily mean directly overhead.
-- Location is stored in your browser's localStorage, and coordinates are sent to the data provider to query nearby flights.
-- Browser geolocation works on `localhost` and secure HTTPS websites. For a hosted deployment, configure an appropriate server and HTTPS.
+## How It Works
+
+Sky Above Me uses publicly available ADS-B aircraft tracking data.
+
+1. A GitHub Actions workflow retrieves aircraft positions from the ADS-B API.
+2. The workflow processes the aircraft data and saves it to `aircraft.json`.
+3. GitHub Pages hosts the website and its data files.
+4. The website checks for updated aircraft information every 30 seconds.
+5. Aircraft within the selected radius are displayed.
+
+**Note:** The website's refresh interval is separate from the data collection interval. Live aircraft positions depend on successful backend updates and data availability.
+
+## Technologies
+
+- HTML, CSS and JavaScript
+- GitHub Pages
+- GitHub Actions
+- ADS-B aircraft tracking API
+- JSON
+
+## Project Structure
+
+```text
+flight-tracker/
+├── index.html
+├── aircraft.json
+├── routes-cache.json
+├── logos/
+├── .github/
+│   └── workflows/
+│       └── update-aircraft.yml
+└── README.md
+```
+
+## Aircraft Data
+
+Aircraft positions are retrieved from the [adsb.fi Open Data API](https://opendata.adsb.fi/).
+
+Flight route information may be enriched using additional publicly available data.
+
+Aircraft information can be delayed, incomplete or temporarily unavailable depending on API coverage and update frequency.
+
+## Automatic Updates
+
+The project uses a GitHub Actions workflow called **Update Aircraft Data**.
+
+The workflow supports manual execution and is intended to run on a five-minute schedule.
+
+GitHub Actions scheduled executions are not guaranteed to occur at an exact time and may be delayed or missed.
+
+## Purpose
+
+Sky Above Me is a personal project built to make it easy to identify aircraft passing overhead without needing a full flight tracking platform.
+
+The website is intended for informational and recreational use only.
+
+---
+
+Made with curiosity for aviation. ✈️
