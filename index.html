@@ -356,7 +356,7 @@ footer {
 
 <footer>
   Aircraft positions update approximately every 5 minutes,
-  subject to GitHub Actions scheduling.
+  when new data is published.
   <br>
   Routes provided by ADSBDB where available.
   Aircraft positions provided by adsb.fi.
@@ -494,7 +494,8 @@ function showLogo(a) {
     a.airline_name ||
     airlines[prefix] ||
     a.ownOp ||
-    "Unknown airline";
+    a.registered_owner ||
+    "Unknown operator";
 
   const img = $("airlineLogo");
   const fallback = $("logoFallback");
@@ -593,6 +594,7 @@ function showAircraft(a, isDemo = false) {
     a.airline_name ||
     airlines[prefix] ||
     a.ownOp ||
+    a.registered_owner ||
     "Operator unknown";
 
   $("registration").textContent =
@@ -781,7 +783,7 @@ async function refresh() {
   $("status").textContent = "Scanning the sky...";
 
   const radius = Math.min(
-    18,
+    50,
     Math.max(1, Number($("radius").value) || 5)
   );
 
