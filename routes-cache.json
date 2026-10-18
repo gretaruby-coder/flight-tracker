@@ -3476,5 +3476,119 @@
         "name": "London Heathrow Airport"
       }
     }
+  },
+  "JBU20": {
+    "time": 1792323259.0393045,
+    "route": {
+      "callsign": "JBU20",
+      "callsign_icao": "JBU20",
+      "callsign_iata": "B620",
+      "airline": {
+        "name": "JetBlue Airways",
+        "icao": "JBU",
+        "iata": "B6",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "JETBLUE"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      }
+    }
+  },
+  "TAP52TP": {
+    "time": 1792323259.0393045,
+    "route": {
+      "callsign": "TAP52TP",
+      "callsign_icao": "TAP52TP",
+      "callsign_iata": "TP52TP",
+      "airline": {
+        "name": "TAP Portugal",
+        "icao": "TAP",
+        "iata": "TP",
+        "country": "Portugal",
+        "country_iso": "PT",
+        "callsign": "AIR PORTUGAL"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 374,
+        "iata_code": "LIS",
+        "icao_code": "LPPT",
+        "latitude": 38.7813,
+        "longitude": -9.13592,
+        "municipality": "Lisbon",
+        "name": "Humberto Delgado Airport (Lisbon Portela Airport)"
+      },
+      "destination": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 374,
+        "iata_code": "LIS",
+        "icao_code": "LPPT",
+        "latitude": 38.7813,
+        "longitude": -9.13592,
+        "municipality": "Lisbon",
+        "name": "Humberto Delgado Airport (Lisbon Portela Airport)"
+      }
+    }
+  },
+  "VLG51GH": {
+    "time": 1792323259.0393045,
+    "route": {
+      "callsign": "VLG51GH",
+      "callsign_icao": "VLG51GH",
+      "callsign_iata": "VY51GH",
+      "airline": {
+        "name": "Vueling Airlines",
+        "icao": "VLG",
+        "iata": "VY",
+        "country": "Spain",
+        "country_iso": "ES",
+        "callsign": "VUELING"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 138,
+        "iata_code": "BIO",
+        "icao_code": "LEBB",
+        "latitude": 43.3011,
+        "longitude": -2.91061,
+        "municipality": "Bilbao",
+        "name": "Bilbao Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
   }
 }
