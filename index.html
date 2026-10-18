@@ -399,6 +399,8 @@ try {
 const airlines = {
   // UK and European airlines
   BAW: "British Airways",
+  IBE: "Iberia",
+  IBS: "Iberia Express",
   VIR: "Virgin Atlantic",
   EZY: "easyJet",
   RYR: "Ryanair",
@@ -429,6 +431,7 @@ const airlines = {
 
   // Middle Eastern airlines
   UAE: "Emirates",
+  ELY: "EL AL Israel Airlines",
   QTR: "Qatar Airways",
   ETD: "Etihad Airways",
   SVA: "Saudia",
@@ -462,6 +465,7 @@ const airlines = {
 const logoCodes = new Set([
   // UK and European airlines
   "BAW", "VIR", "EZY", "RYR", "DLH",
+  "IBE", "IBS",
   "AFR", "KLM", "TAP", "EIN", "SWR",
   "FIN", "SAS", "WZZ", "TUI", "TOM",
   "EXS", "LOG", "ICE", "THY", "PGT",
@@ -471,7 +475,7 @@ const logoCodes = new Set([
   "UAL", "AAL", "DAL", "ACA", "TSC",
 
   // Middle Eastern airlines
-  "UAE", "QTR", "ETD", "SVA", "KAC",
+  "UAE", "QTR", "ETD", "SVA", "KAC", "ELY",
   "OMA", "RJA", "MEA", "MSR",
 
   // Asian and Pacific airlines
@@ -523,6 +527,11 @@ function showLogo(a) {
 
   if (!logoCodes.has(prefix)) return;
 
+  const textLogoCodes = new Set(["IBE", "IBS", "ELY", "TSC"]);
+  const logoFile = textLogoCodes.has(prefix)
+    ? "logos/" + (prefix === "IBS" ? "IBE" : prefix) + ".svg"
+    : "logos/" + prefix + ".png";
+
   img.onload = () => {
     img.hidden = false;
     fallback.hidden = true;
@@ -534,7 +543,7 @@ function showLogo(a) {
   };
 
   img.alt = name + " logo";
-  img.src = "logos/" + prefix + ".png";
+  img.src = logoFile;
 }
 
 function distanceKm(lat1, lon1, lat2, lon2) {
