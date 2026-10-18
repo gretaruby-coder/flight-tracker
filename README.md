@@ -68,6 +68,8 @@ The workflow supports manual execution and is intended to run on a five-minute s
 
 GitHub Actions scheduled executions are not guaranteed to occur at an exact time and may be delayed or missed.
 
+Setup external scheduler using cronjob and creating a GitHub fine-grained token: https://console.cron-job.org/jobs/8669979
+
 ## Purpose
 
 Sky Above Me is a personal project built to make it easy to identify aircraft passing overhead without needing a full flight tracking platform.
