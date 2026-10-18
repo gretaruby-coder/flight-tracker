@@ -68504,5 +68504,119 @@
         "name": "London Gatwick Airport"
       }
     }
+  },
+  "RYR32KE": {
+    "time": 1792363530.1868627,
+    "route": {
+      "callsign": "RYR32KE",
+      "callsign_icao": "RYR32KE",
+      "callsign_iata": "FR32KE",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 74,
+        "iata_code": "MRS",
+        "icao_code": "LFML",
+        "latitude": 43.43927,
+        "longitude": 5.22142,
+        "municipality": "Marseille",
+        "name": "Marseille Provence Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "EFW17EA": {
+    "time": 1792363530.1868627,
+    "route": {
+      "callsign": "EFW17EA",
+      "callsign_icao": "EFW17EA",
+      "callsign_iata": "A017EA",
+      "airline": {
+        "name": "BA Euroflyer",
+        "icao": "EFW",
+        "iata": "A0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Griffin"
+      },
+      "origin": {
+        "country_iso_name": "MT",
+        "country_name": "Malta",
+        "elevation": 300,
+        "iata_code": "MLA",
+        "icao_code": "LMML",
+        "latitude": 35.8575,
+        "longitude": 14.4775,
+        "municipality": "Valletta",
+        "name": "Malta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "WUK9F": {
+    "time": 1792363530.1868627,
+    "route": {
+      "callsign": "WUK9F",
+      "callsign_icao": "WUK9F",
+      "callsign_iata": "W99F",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "RO",
+        "country_name": "Romania",
+        "elevation": 607,
+        "iata_code": "BCM",
+        "icao_code": "LRBC",
+        "latitude": 46.5219,
+        "longitude": 26.9103,
+        "municipality": "Bac\u0103u",
+        "name": "Bac\u0103u Airport"
+      }
+    }
   }
 }
