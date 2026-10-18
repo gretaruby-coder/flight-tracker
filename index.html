@@ -527,10 +527,7 @@ function showLogo(a) {
 
   if (!logoCodes.has(prefix)) return;
 
-  const textLogoCodes = new Set(["IBE", "IBS", "ELY", "TSC"]);
-  const logoFile = textLogoCodes.has(prefix)
-    ? "logos/" + (prefix === "IBS" ? "IBE" : prefix) + ".svg"
-    : "logos/" + prefix + ".png";
+  const logoFile = "logos/" + (prefix === "IBS" ? "IBE" : prefix) + ".png";
 
   img.onload = () => {
     img.hidden = false;
