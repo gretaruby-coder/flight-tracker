@@ -515,10 +515,19 @@ function showAircraft(a,isDemo) {
   text("distance",finite(a.distance) ? a.distance.toFixed(1)+" km" : "—");
   var heading = a.track != null ? a.track : a.true_heading;
   text("heading",valid(heading) ? Math.round(Number(heading))+"°" : "—");
-  text("from",a.origin && a.origin.iata || "N/A");
-  text("to",a.destination && a.destination.iata || "N/A");
-  text("fromName",a.origin && a.origin.name || "");
-  text("toName",a.destination && a.destination.name || "");
+  var originCode = a.origin && (a.origin.iata || a.origin.icao);
+  var destinationCode = a.destination && (a.destination.iata || a.destination.icao);
+  if (!originCode && !destinationCode) {
+    text("from","Route unavailable");
+    text("to","—");
+    text("fromName","");
+    text("toName","");
+  } else {
+    text("from",originCode || "Unknown");
+    text("to",destinationCode || "Unknown");
+    text("fromName",a.origin && a.origin.name || "");
+    text("toName",a.destination && a.destination.name || "");
+  }
   showLogo(a);
 }
 function updateNavigation() {
