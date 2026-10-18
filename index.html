@@ -620,16 +620,24 @@ function refresh(){
         if(d>radius)continue;
         a.distance=d;list.push(a);
       }
-      list.sort(function(a,b){return a.distance-b.distance;});
-      aircraftList=list;
+      // Prioritise complete routes, then partial routes, then proximity.
+      function routeScore(a) {
+        var from=a.origin && (a.origin.iata || a.origin.icao);
+        var to=a.destination && (a.destination.iata || a.destination.icao);
+        return (from ? 1 : 0) + (to ? 1 : 0);
+      }
+      list.sort(function(a,b){
+        return routeScore(b)-routeScore(a) || a.distance-b.distance;
+      });
+      aircraftList=list.slice(0,20);
       selectedIndex=0;
-      for(var j=0;j<list.length;j++){if(selectedHex && list[j].hex===selectedHex){selectedIndex=j;break;}}
+      for(var j=0;j<aircraftList.length;j++){if(selectedHex && aircraftList[j].hex===selectedHex){selectedIndex=j;break;}}
       displaySelected();
       if(age>20 || age< -5){
         text("status","Aircraft data is outdated");
         text("error","Showing last recorded aircraft positions. Waiting for GitHub Actions to update.");
       } else {
-        text("status",list.length ? "AIRCRAFT DATA · "+list.length+" airborne nearby" : "No identified airborne aircraft within "+radius+" km");
+        text("status",aircraftList.length ? "AIRCRAFT DATA · "+aircraftList.length+" airborne nearby" : "No identified airborne aircraft within "+radius+" km");
         text("error","");
       }
     }catch(e){text("status","Aircraft data unavailable");text("error","Unable to retrieve aircraft data. "+e.message);}
