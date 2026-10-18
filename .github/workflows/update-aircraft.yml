@@ -75,7 +75,7 @@ jobs:
           now = time.time()
           route_requests = 0
           aircraft_requests = 0
-          MAX_ROUTE_REQUESTS = 12
+          MAX_ROUTE_REQUESTS = 24
           MAX_AIRCRAFT_REQUESTS = 12
           aircraft_cache = {}
           if os.path.exists('aircraft-cache.json'):
@@ -140,6 +140,8 @@ jobs:
                           }
                       else:
                           route = None
+                          # Cache unsuccessful lookups briefly to avoid retrying every run.
+                          cache[callsign] = {"time": now, "route": None}
 
                   except Exception as e:
                       print("Route unavailable:", callsign, str(e))
@@ -154,10 +156,12 @@ jobs:
 
                   a["origin"] = {
                       "iata": origin.get("iata_code"),
+                      "icao": origin.get("icao_code"),
                       "name": origin.get("name")
                   }
                   a["destination"] = {
                       "iata": destination.get("iata_code"),
+                      "icao": destination.get("icao_code"),
                       "name": destination.get("name")
                   }
                   a["airline_name"] = airline.get("name")
