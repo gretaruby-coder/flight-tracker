@@ -3590,5 +3590,112 @@
         "name": "London Gatwick Airport"
       }
     }
+  },
+  "GCEGU": {
+    "time": 1792323334.7051098,
+    "route": {
+      "callsign": "GCEGU",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 433,
+        "iata_code": "GBA",
+        "icao_code": "EGBP",
+        "latitude": 51.6681,
+        "longitude": -2.05694,
+        "municipality": "Kemble",
+        "name": "Cotswold Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 131,
+        "iata_code": null,
+        "icao_code": "EGLM",
+        "latitude": 51.5008,
+        "longitude": -0.77444,
+        "municipality": "Maidenhead",
+        "name": "White Waltham Airfield"
+      }
+    }
+  },
+  "TOM767": {
+    "time": 1792323334.7051098,
+    "route": {
+      "callsign": "TOM767",
+      "callsign_icao": "TOM767",
+      "callsign_iata": "BY767",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "TN",
+        "country_name": "Tunisia",
+        "elevation": 21,
+        "iata_code": "NBE",
+        "icao_code": "DTNH",
+        "latitude": 36.07583,
+        "longitude": 10.43861,
+        "municipality": "Enfidha",
+        "name": "Enfidha - Hammamet International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      }
+    }
+  },
+  "NSZ4EV": {
+    "time": 1792323334.7051098,
+    "route": {
+      "callsign": "NSZ4EV",
+      "callsign_icao": "NSZ4EV",
+      "callsign_iata": "D84EV",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 17,
+        "iata_code": "CPH",
+        "icao_code": "EKCH",
+        "latitude": 55.6179,
+        "longitude": 12.656,
+        "municipality": "Copenhagen",
+        "name": "Copenhagen Kastrup Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
   }
 }
