@@ -3697,5 +3697,157 @@
         "name": "London Gatwick Airport"
       }
     }
+  },
+  "BAW118": {
+    "time": 1792323632.9706814,
+    "route": {
+      "callsign": "BAW118",
+      "callsign_icao": "BAW118",
+      "callsign_iata": "BA118",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "IN",
+        "country_name": "India",
+        "elevation": 3000,
+        "iata_code": "BLR",
+        "icao_code": "VOBL",
+        "latitude": 13.1979,
+        "longitude": 77.7063,
+        "municipality": "Bangalore",
+        "name": "Kempegowda International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "BAW525": {
+    "time": 1792323632.9706814,
+    "route": {
+      "callsign": "BAW525",
+      "callsign_icao": "BAW525",
+      "callsign_iata": "BA525",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 142,
+        "iata_code": "FLR",
+        "icao_code": "LIRQ",
+        "latitude": 43.81,
+        "longitude": 11.2051,
+        "municipality": "Firenze",
+        "name": "Peretola Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "SWR3CT": {
+    "time": 1792323632.9706814,
+    "route": {
+      "callsign": "SWR3CT",
+      "callsign_icao": "SWR3CT",
+      "callsign_iata": "LX3CT",
+      "airline": {
+        "name": "Swiss International Air Lines",
+        "icao": "SWR",
+        "iata": "LX",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": "SWISS"
+      },
+      "origin": {
+        "country_iso_name": "RO",
+        "country_name": "Romania",
+        "elevation": 314,
+        "iata_code": "OTP",
+        "icao_code": "LROP",
+        "latitude": 44.57111,
+        "longitude": 26.085,
+        "municipality": "Bucharest",
+        "name": "Henri Coand\u0103 International Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
+      }
+    }
+  },
+  "AAL55": {
+    "time": 1792323632.9706814,
+    "route": {
+      "callsign": "AAL55",
+      "callsign_icao": "AAL55",
+      "callsign_iata": "AA55",
+      "airline": {
+        "name": "American Airlines",
+        "icao": "AAL",
+        "iata": "AA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "AMERICAN"
+      },
+      "origin": {
+        "country_iso_name": "MX",
+        "country_name": "Mexico",
+        "elevation": 22,
+        "iata_code": "CUN",
+        "icao_code": "MMUN",
+        "latitude": 21.0365,
+        "longitude": -86.8771,
+        "municipality": "Canc\u00fan",
+        "name": "Canc\u00fan International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      }
+    }
   }
 }
