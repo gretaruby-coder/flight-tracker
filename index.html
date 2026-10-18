@@ -486,6 +486,21 @@ const logoCodes = new Set([
 ]);
 
 
+function identifiedOperator(a) {
+  const call = String(a.flight || "").trim().toUpperCase();
+  const prefix = call.slice(0, 3);
+  const candidates = [
+    a.airline_name,
+    airlines[prefix],
+    a.ownOp,
+    a.registered_owner
+  ];
+  return candidates.some(value => {
+    const name = String(value || "").trim();
+    return name && !/^(unknown|unknown airline|unknown operator|operator unknown|n\/a|none|not available|private)$/i.test(name);
+  });
+}
+
 function showLogo(a) {
   const call = String(a.flight || "").trim();
   const prefix = call.slice(0, 3).toUpperCase();
@@ -841,7 +856,7 @@ if (ageMinutes > 20 || ageMinutes < -5) {
           Number(a.lon)
         )
       }))
-      .filter(a => a.distance <= radius)
+      .filter(a => a.distance <= radius && identifiedOperator(a))
       .sort((a, b) => a.distance - b.distance);
 
     // Preserve the currently selected aircraft if
