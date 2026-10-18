@@ -85,6 +85,16 @@ jobs:
               except (OSError, ValueError):
                   aircraft_cache = {}
 
+          # Prioritise nearby flights for lookups; publish the full feed.
+          from math import radians, sin, cos, asin, sqrt
+          def distance_km(a):
+              lat1, lon1, lat2, lon2 = map(radians, (LAT, LON, a["lat"], a["lon"]))
+              dlat, dlon = lat2 - lat1, lon2 - lon1
+              h = sin(dlat / 2) ** 2 + cos(lat1) * cos(lat2) * sin(dlon / 2) ** 2
+              return 12742 * asin(sqrt(min(1, h)))
+
+          airborne.sort(key=distance_km)
+
           for a in airborne:
               hex_code = str(a.get("hex") or "").strip().upper()
               if hex_code:
@@ -118,7 +128,9 @@ jobs:
               route = None
 
               # Reuse cached results for up to 24 hours.
-              if saved and now - saved.get("time", 0) < 86400:
+              # Retry missing routes hourly; successful routes stay cached for a day.
+              cache_age = now - saved.get("time", 0) if isinstance(saved, dict) else 999999
+              if saved and cache_age < (86400 if isinstance(saved.get("route"), dict) else 3600):
                   route = saved.get("route")
               elif route_requests < MAX_ROUTE_REQUESTS:
                   route_requests += 1
