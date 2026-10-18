@@ -40,7 +40,7 @@ jobs:
 
           LAT = 51.4496
           LON = -0.4089
-          RADIUS_NM = 10
+          RADIUS_NM = 27
 
           def get_json(url):
               req = urllib.request.Request(
