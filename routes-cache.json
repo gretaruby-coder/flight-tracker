@@ -35226,7 +35226,7 @@
     }
   },
   "BAW63VP": {
-    "time": 1792344037.0377107,
+    "time": 1792439435.3915195,
     "route": {
       "callsign": "BAW63VP",
       "callsign_icao": "BAW63VP",
@@ -41672,7 +41672,7 @@
     }
   },
   "BAW333": {
-    "time": 1792347034.1319726,
+    "time": 1792439435.3915195,
     "route": {
       "callsign": "BAW333",
       "callsign_icao": "BAW333",
@@ -50042,7 +50042,7 @@
     }
   },
   "VIR354": {
-    "time": 1792351234.8614054,
+    "time": 1792439435.3915195,
     "route": {
       "callsign": "VIR354",
       "callsign_icao": "VIR354",
@@ -52284,7 +52284,7 @@
     }
   },
   "AFR49VJ": {
-    "time": 1792352434.2227666,
+    "time": 1792439435.3915195,
     "route": {
       "callsign": "AFR49VJ",
       "callsign_icao": "AFR49VJ",
@@ -52626,7 +52626,7 @@
     }
   },
   "LOG93Y": {
-    "time": 1792352733.020722,
+    "time": 1792439435.3915195,
     "route": {
       "callsign": "LOG93Y",
       "callsign_icao": "LOG93Y",
@@ -53348,7 +53348,7 @@
     }
   },
   "BAW94DL": {
-    "time": 1792353034.6188898,
+    "time": 1792439435.3915195,
     "route": {
       "callsign": "BAW94DL",
       "callsign_icao": "BAW94DL",
@@ -140348,6 +140348,120 @@
         "longitude": 8.72811,
         "municipality": "Milan",
         "name": "Malpensa International Airport"
+      }
+    }
+  },
+  "RYR1BT": {
+    "time": 1792439435.3915195,
+    "route": {
+      "callsign": "RYR1BT",
+      "callsign_icao": "RYR1BT",
+      "callsign_iata": "FR1BT",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 7,
+        "iata_code": "VCE",
+        "icao_code": "LIPZ",
+        "latitude": 45.5053,
+        "longitude": 12.3519,
+        "municipality": "Venice",
+        "name": "Venice Marco Polo Airport"
+      }
+    }
+  },
+  "EZY25CU": {
+    "time": 1792439435.3915195,
+    "route": {
+      "callsign": "EZY25CU",
+      "callsign_icao": "EZY25CU",
+      "callsign_iata": "U225CU",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EZY69VV": {
+    "time": 1792439435.3915195,
+    "route": {
+      "callsign": "EZY69VV",
+      "callsign_icao": "EZY69VV",
+      "callsign_iata": "U269VV",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
       }
     }
   }
