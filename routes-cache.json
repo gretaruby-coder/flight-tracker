@@ -5495,7 +5495,7 @@
     }
   },
   "BAW9SW": {
-    "time": 1792326649.045024,
+    "time": 1792414525.7031753,
     "route": {
       "callsign": "BAW9SW",
       "callsign_icao": "BAW9SW",
@@ -5837,7 +5837,7 @@
     }
   },
   "BAW88C": {
-    "time": 1792326924.4246001,
+    "time": 1792414525.7031753,
     "route": {
       "callsign": "BAW88C",
       "callsign_icao": "BAW88C",
@@ -7101,7 +7101,7 @@
     }
   },
   "BAW8ER": {
-    "time": 1792327833.8629696,
+    "time": 1792414525.7031753,
     "route": {
       "callsign": "BAW8ER",
       "callsign_icao": "BAW8ER",
@@ -7291,7 +7291,7 @@
     }
   },
   "EXS18LW": {
-    "time": 1792327833.8629696,
+    "time": 1792414525.7031753,
     "route": {
       "callsign": "EXS18LW",
       "callsign_icao": "EXS18LW",
@@ -120873,6 +120873,234 @@
         "longitude": -13.6052,
         "municipality": "Lanzarote Island",
         "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      }
+    }
+  },
+  "OCN68": {
+    "time": 1792414525.7031753,
+    "route": {
+      "callsign": "OCN68",
+      "callsign_icao": "OCN68",
+      "callsign_iata": "68",
+      "airline": {
+        "name": "O Air",
+        "icao": "OCN",
+        "iata": null,
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "O-BIRD"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 96,
+        "iata_code": "MCO",
+        "icao_code": "KMCO",
+        "latitude": 28.4294,
+        "longitude": -81.309,
+        "municipality": "Orlando",
+        "name": "Orlando International Airport"
+      }
+    }
+  },
+  "QTR60Q": {
+    "time": 1792414525.7031753,
+    "route": {
+      "callsign": "QTR60Q",
+      "callsign_icao": "QTR60Q",
+      "callsign_iata": "QR60Q",
+      "airline": {
+        "name": "Qatar Airways",
+        "icao": "QTR",
+        "iata": "QR",
+        "country": "Qatar",
+        "country_iso": "QA",
+        "callsign": "QATARI"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "QA",
+        "country_name": "Qatar",
+        "elevation": 13,
+        "iata_code": "DOH",
+        "icao_code": "OTHH",
+        "latitude": 25.27306,
+        "longitude": 51.60806,
+        "municipality": "Doha",
+        "name": "Hamad International Airport"
+      }
+    }
+  },
+  "RUK644Q": {
+    "time": 1792414525.7031753,
+    "route": {
+      "callsign": "RUK644Q",
+      "callsign_icao": "RUK644Q",
+      "callsign_iata": "RK644Q",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 250,
+        "iata_code": "AGA",
+        "icao_code": "GMAD",
+        "latitude": 30.32248,
+        "longitude": -9.412,
+        "municipality": "Agadir (Temsia)",
+        "name": "Al Massira Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "UAL935": {
+    "time": 1792414525.7031753,
+    "route": {
+      "callsign": "UAL935",
+      "callsign_icao": "UAL935",
+      "callsign_iata": "UA935",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 125,
+        "iata_code": "LAX",
+        "icao_code": "KLAX",
+        "latitude": 33.9425,
+        "longitude": -118.408,
+        "municipality": "Los Angeles",
+        "name": "Los Angeles International Airport"
+      }
+    }
+  },
+  "SWR1LE": {
+    "time": 1792414525.7031753,
+    "route": {
+      "callsign": "SWR1LE",
+      "callsign_icao": "SWR1LE",
+      "callsign_iata": "LX1LE",
+      "airline": {
+        "name": "Swiss International Air Lines",
+        "icao": "SWR",
+        "iata": "LX",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": "SWISS"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
+      },
+      "destination": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 118,
+        "iata_code": "YUL",
+        "icao_code": "CYUL",
+        "latitude": 45.4706,
+        "longitude": -73.7408,
+        "municipality": "Montr\u00e9al",
+        "name": "Montreal / Pierre Elliott Trudeau International Airport"
+      }
+    }
+  },
+  "EZY49ZD": {
+    "time": 1792414525.7031753,
+    "route": {
+      "callsign": "EZY49ZD",
+      "callsign_icao": "EZY49ZD",
+      "callsign_iata": "U249ZD",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
       }
     }
   }
