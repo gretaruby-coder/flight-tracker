@@ -24649,7 +24649,7 @@
     }
   },
   "BAW3ZL": {
-    "time": 1792338633.2016463,
+    "time": 1792426234.1941082,
     "route": {
       "callsign": "BAW3ZL",
       "callsign_icao": "BAW3ZL",
@@ -25578,7 +25578,7 @@
     }
   },
   "AEE3LG": {
-    "time": 1792339263.8696632,
+    "time": 1792426234.1941082,
     "route": {
       "callsign": "AEE3LG",
       "callsign_icao": "AEE3LG",
@@ -25730,7 +25730,7 @@
     }
   },
   "BAW705": {
-    "time": 1792339263.8696632,
+    "time": 1792426234.1941082,
     "route": {
       "callsign": "BAW705",
       "callsign_icao": "BAW705",
@@ -26756,7 +26756,7 @@
     }
   },
   "BAW137": {
-    "time": 1792339833.217414,
+    "time": 1792426234.1941082,
     "route": {
       "callsign": "BAW137",
       "callsign_icao": "BAW137",
@@ -129802,6 +129802,158 @@
         "longitude": -3.37229,
         "municipality": "Edinburgh",
         "name": "Edinburgh Airport"
+      }
+    }
+  },
+  "EXS62TY": {
+    "time": 1792426234.1941082,
+    "route": {
+      "callsign": "EXS62TY",
+      "callsign_icao": "EXS62TY",
+      "callsign_iata": "LS62TY",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 24,
+        "iata_code": "IBZ",
+        "icao_code": "LEIB",
+        "latitude": 38.8729,
+        "longitude": 1.37312,
+        "municipality": "Ibiza",
+        "name": "Ibiza Airport"
+      }
+    }
+  },
+  "CFE8724": {
+    "time": 1792426234.1941082,
+    "route": {
+      "callsign": "CFE8724",
+      "callsign_icao": "CFE8724",
+      "callsign_iata": "CJ8724",
+      "airline": {
+        "name": "BA CityFlyer",
+        "icao": "CFE",
+        "iata": "CJ",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "FLYER"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 19,
+        "iata_code": "LCY",
+        "icao_code": "EGLC",
+        "latitude": 51.5053,
+        "longitude": 0.05528,
+        "municipality": "London",
+        "name": "London City Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 26,
+        "iata_code": "GLA",
+        "icao_code": "EGPF",
+        "latitude": 55.8719,
+        "longitude": -4.43306,
+        "municipality": "Paisley, Renfrewshire",
+        "name": "Glasgow International Airport"
+      }
+    }
+  },
+  "EZY52ZB": {
+    "time": 1792426234.1941082,
+    "route": {
+      "callsign": "EZY52ZB",
+      "callsign_icao": "EZY52ZB",
+      "callsign_iata": "U252ZB",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "TOM2NL": {
+    "time": 1792426234.1941082,
+    "route": {
+      "callsign": "TOM2NL",
+      "callsign_icao": "TOM2NL",
+      "callsign_iata": "BY2NL",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 24,
+        "iata_code": "IBZ",
+        "icao_code": "LEIB",
+        "latitude": 38.8729,
+        "longitude": 1.37312,
+        "municipality": "Ibiza",
+        "name": "Ibiza Airport"
       }
     }
   }
