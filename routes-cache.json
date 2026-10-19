@@ -1354,7 +1354,7 @@
     }
   },
   "SWR59K": {
-    "time": 1792251793.707143,
+    "time": 1792422638.2560358,
     "route": {
       "callsign": "SWR59K",
       "callsign_icao": "SWR59K",
@@ -4117,7 +4117,7 @@
     }
   },
   "VJT659": {
-    "time": 1792324525.8791432,
+    "time": 1792422638.2560358,
     "route": {
       "callsign": "VJT659",
       "callsign_icao": null,
@@ -19243,7 +19243,7 @@
     }
   },
   "AFR39PA": {
-    "time": 1792335662.9705625,
+    "time": 1792422638.2560358,
     "route": {
       "callsign": "AFR39PA",
       "callsign_icao": "AFR39PA",
@@ -20186,7 +20186,7 @@
     }
   },
   "BAW578": {
-    "time": 1792336233.8461406,
+    "time": 1792422638.2560358,
     "route": {
       "callsign": "BAW578",
       "callsign_icao": "BAW578",
@@ -20262,7 +20262,7 @@
     }
   },
   "IBE07AA": {
-    "time": 1792336233.8461406,
+    "time": 1792422638.2560358,
     "route": {
       "callsign": "IBE07AA",
       "callsign_icao": "IBE07AA",
@@ -127177,6 +127177,189 @@
         "longitude": 12.252,
         "municipality": "Rome",
         "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      }
+    }
+  },
+  "BAW969H": {
+    "time": 1792422638.2560358,
+    "route": {
+      "callsign": "BAW969H",
+      "callsign_icao": "BAW969H",
+      "callsign_iata": "BA969H",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 53,
+        "iata_code": "HAM",
+        "icao_code": "EDDH",
+        "latitude": 53.6304,
+        "longitude": 9.98823,
+        "municipality": "Hamburg",
+        "name": "Hamburg Helmut Schmidt Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "SHT9K": {
+    "time": 1792422638.2560358,
+    "route": {
+      "callsign": "SHT9K",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "TRA57P": {
+    "time": 1792422638.2560358,
+    "route": {
+      "callsign": "TRA57P",
+      "callsign_icao": "TRA57P",
+      "callsign_iata": "HV57P",
+      "airline": {
+        "name": "Transavia Holland",
+        "icao": "TRA",
+        "iata": "HV",
+        "country": "Netherlands",
+        "country_iso": "NL",
+        "callsign": "TRANSAVIA"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 1545,
+        "iata_code": "RAK",
+        "icao_code": "GMMX",
+        "latitude": 31.6069,
+        "longitude": -8.0363,
+        "municipality": "Marrakech",
+        "name": "Menara Airport"
+      }
+    }
+  },
+  "VLG356T": {
+    "time": 1792422638.2560358,
+    "route": {
+      "callsign": "VLG356T",
+      "callsign_icao": "VLG356T",
+      "callsign_iata": "VY356T",
+      "airline": {
+        "name": "Vueling Airlines",
+        "icao": "VLG",
+        "iata": "VY",
+        "country": "Spain",
+        "country_iso": "ES",
+        "callsign": "VUELING"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      }
+    }
+  },
+  "EFW81W": {
+    "time": 1792422638.2560358,
+    "route": {
+      "callsign": "EFW81W",
+      "callsign_icao": "EFW81W",
+      "callsign_iata": "A081W",
+      "airline": {
+        "name": "BA Euroflyer",
+        "icao": "EFW",
+        "iata": "A0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Griffin"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 412,
+        "iata_code": "KGS",
+        "icao_code": "LGKO",
+        "latitude": 36.7933,
+        "longitude": 27.0917,
+        "municipality": "Kos Island",
+        "name": "Kos Airport"
       }
     }
   }
