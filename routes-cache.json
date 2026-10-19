@@ -20946,7 +20946,7 @@
     }
   },
   "THY2LD": {
-    "time": 1792336534.8641913,
+    "time": 1792422939.808767,
     "route": {
       "callsign": "THY2LD",
       "callsign_icao": "THY2LD",
@@ -21060,7 +21060,7 @@
     }
   },
   "AFR28UE": {
-    "time": 1792336534.8641913,
+    "time": 1792422939.808767,
     "route": {
       "callsign": "AFR28UE",
       "callsign_icao": "AFR28UE",
@@ -127360,6 +127360,227 @@
         "longitude": 27.0917,
         "municipality": "Kos Island",
         "name": "Kos Airport"
+      }
+    }
+  },
+  "BAW47C": {
+    "time": 1792422939.808767,
+    "route": {
+      "callsign": "BAW47C",
+      "callsign_icao": "BAW47C",
+      "callsign_iata": "BA47C",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "KLC29Z": {
+    "time": 1792422939.808767,
+    "route": {
+      "callsign": "KLC29Z",
+      "callsign_icao": "KLC29Z",
+      "callsign_iata": "WA29Z",
+      "airline": {
+        "name": "KLM Cityhopper",
+        "icao": "KLC",
+        "iata": "WA",
+        "country": "Netherlands",
+        "country_iso": "NL",
+        "callsign": "CITY"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 102,
+        "iata_code": "EXT",
+        "icao_code": "EGTE",
+        "latitude": 50.7344,
+        "longitude": -3.41389,
+        "municipality": "Exeter",
+        "name": "Exeter International Airport"
+      }
+    }
+  },
+  "TRA72N": {
+    "time": 1792422939.808767,
+    "route": {
+      "callsign": "TRA72N",
+      "callsign_icao": "TRA72N",
+      "callsign_iata": "HV72N",
+      "airline": {
+        "name": "Transavia Holland",
+        "icao": "TRA",
+        "iata": "HV",
+        "country": "Netherlands",
+        "country_iso": "NL",
+        "callsign": "TRANSAVIA"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -15,
+        "iata_code": "RTM",
+        "icao_code": "EHRD",
+        "latitude": 51.9569,
+        "longitude": 4.43722,
+        "municipality": "Rotterdam",
+        "name": "Rotterdam The Hague Airport"
+      },
+      "destination": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 574,
+        "iata_code": "NDR",
+        "icao_code": "GMMW",
+        "latitude": 34.9888,
+        "longitude": -3.02821,
+        "municipality": "Nador",
+        "name": "Nador International Airport"
+      }
+    }
+  },
+  "EFW29BA": {
+    "time": 1792422939.808767,
+    "route": {
+      "callsign": "EFW29BA",
+      "callsign_icao": "EFW29BA",
+      "callsign_iata": "A029BA",
+      "airline": {
+        "name": "BA Euroflyer",
+        "icao": "EFW",
+        "iata": "A0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Griffin"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 302,
+        "iata_code": "MAH",
+        "icao_code": "LEMH",
+        "latitude": 39.8626,
+        "longitude": 4.21865,
+        "municipality": "Menorca Island",
+        "name": "Menorca Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "NSZ3GC": {
+    "time": 1792422939.808767,
+    "route": {
+      "callsign": "NSZ3GC",
+      "callsign_icao": "NSZ3GC",
+      "callsign_iata": "D83GC",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 17,
+        "iata_code": "CPH",
+        "icao_code": "EKCH",
+        "latitude": 55.6179,
+        "longitude": 12.656,
+        "municipality": "Copenhagen",
+        "name": "Copenhagen Kastrup Airport"
+      }
+    }
+  },
+  "NJE5RT": {
+    "time": 1792422939.808767,
+    "route": {
+      "callsign": "NJE5RT",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 325,
+        "iata_code": "BES",
+        "icao_code": "LFRB",
+        "latitude": 48.4479,
+        "longitude": -4.41854,
+        "municipality": "Brest/Guipavas",
+        "name": "Brest Bretagne Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 218,
+        "iata_code": "LBG",
+        "icao_code": "LFPB",
+        "latitude": 48.9694,
+        "longitude": 2.44139,
+        "municipality": "Paris",
+        "name": "Paris-Le Bourget Airport"
       }
     }
   }
