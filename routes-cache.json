@@ -16666,7 +16666,7 @@
     }
   },
   "SAS505": {
-    "time": 1792333848.0989366,
+    "time": 1792420527.389769,
     "route": {
       "callsign": "SAS505",
       "callsign_icao": "SAS505",
@@ -17008,7 +17008,7 @@
     }
   },
   "SIA308": {
-    "time": 1792334125.4382849,
+    "time": 1792420527.389769,
     "route": {
       "callsign": "SIA308",
       "callsign_icao": "SIA308",
@@ -125474,6 +125474,196 @@
         "longitude": 33.80729,
         "municipality": "Hurghada",
         "name": "Hurghada International Airport"
+      }
+    }
+  },
+  "BAW922": {
+    "time": 1792420527.389769,
+    "route": {
+      "callsign": "BAW922",
+      "callsign_icao": "BAW922",
+      "callsign_iata": "BA922",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1276,
+        "iata_code": "STR",
+        "icao_code": "EDDS",
+        "latitude": 48.6899,
+        "longitude": 9.22196,
+        "municipality": "Stuttgart",
+        "name": "Stuttgart Airport"
+      }
+    }
+  },
+  "BAW749": {
+    "time": 1792420527.389769,
+    "route": {
+      "callsign": "BAW749",
+      "callsign_icao": "BAW749",
+      "callsign_iata": "BA749",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 885,
+        "iata_code": "BSL",
+        "icao_code": "LFSB",
+        "latitude": 47.60068,
+        "longitude": 7.52112,
+        "municipality": "Saint-Louis",
+        "name": "EuroAirport Basel-Mulhouse-Freiburg"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "EXS86R": {
+    "time": 1792420527.389769,
+    "route": {
+      "callsign": "EXS86R",
+      "callsign_icao": "EXS86R",
+      "callsign_iata": "LS86R",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 24,
+        "iata_code": "IBZ",
+        "icao_code": "LEIB",
+        "latitude": 38.8729,
+        "longitude": 1.37312,
+        "municipality": "Ibiza",
+        "name": "Ibiza Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "RYR3LL": {
+    "time": 1792420527.389769,
+    "route": {
+      "callsign": "RYR3LL",
+      "callsign_icao": "RYR3LL",
+      "callsign_iata": "FR3LL",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "CZ",
+        "country_name": "Czech Republic",
+        "elevation": 1247,
+        "iata_code": "PRG",
+        "icao_code": "LKPR",
+        "latitude": 50.1008,
+        "longitude": 14.26,
+        "municipality": "Prague",
+        "name": "V\u00e1clav Havel Airport Prague"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      }
+    }
+  },
+  "EXS17BV": {
+    "time": 1792420527.389769,
+    "route": {
+      "callsign": "EXS17BV",
+      "callsign_icao": "EXS17BV",
+      "callsign_iata": "LS17BV",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "FI",
+        "country_name": "Finland",
+        "elevation": 1005,
+        "iata_code": "ENF",
+        "icao_code": "EFET",
+        "latitude": 68.3626,
+        "longitude": 23.4243,
+        "municipality": "Enontekio",
+        "name": "Enontekio Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
