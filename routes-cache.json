@@ -14127,7 +14127,7 @@
     }
   },
   "EZY9003": {
-    "time": 1792332326.33803,
+    "time": 1792440329.311877,
     "route": {
       "callsign": "EZY9003",
       "callsign_icao": "EZY9003",
@@ -49745,7 +49745,7 @@
     }
   },
   "VLG5FA": {
-    "time": 1792350933.0581455,
+    "time": 1792440329.311877,
     "route": {
       "callsign": "VLG5FA",
       "callsign_icao": "VLG5FA",
@@ -49859,7 +49859,7 @@
     }
   },
   "EJU12UT": {
-    "time": 1792350933.0581455,
+    "time": 1792440329.311877,
     "route": {
       "callsign": "EJU12UT",
       "callsign_icao": "EJU12UT",
@@ -53424,7 +53424,7 @@
     }
   },
   "ITY224": {
-    "time": 1792353034.6188898,
+    "time": 1792440329.311877,
     "route": {
       "callsign": "ITY224",
       "callsign_icao": "ITY224",
@@ -54329,7 +54329,7 @@
     }
   },
   "SIA319": {
-    "time": 1792353663.465291,
+    "time": 1792440329.311877,
     "route": {
       "callsign": "SIA319",
       "callsign_icao": "SIA319",
@@ -54367,7 +54367,7 @@
     }
   },
   "CCA938": {
-    "time": 1792353663.465291,
+    "time": 1792440329.311877,
     "route": {
       "callsign": "CCA938",
       "callsign_icao": "CCA938",
@@ -140911,6 +140911,82 @@
         "longitude": 9.70417,
         "municipality": "Milan",
         "name": "Milan Bergamo Airport"
+      }
+    }
+  },
+  "EZY42ZC": {
+    "time": 1792440329.311877,
+    "route": {
+      "callsign": "EZY42ZC",
+      "callsign_icao": "EZY42ZC",
+      "callsign_iata": "U242ZC",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 31,
+        "iata_code": "INV",
+        "icao_code": "EGPE",
+        "latitude": 57.5425,
+        "longitude": -4.0475,
+        "municipality": "Inverness",
+        "name": "Inverness Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "RYR636Q": {
+    "time": 1792440329.311877,
+    "route": {
+      "callsign": "RYR636Q",
+      "callsign_icao": "RYR636Q",
+      "callsign_iata": "FR636Q",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 6,
+        "iata_code": "PSA",
+        "icao_code": "LIRP",
+        "latitude": 43.6839,
+        "longitude": 10.3927,
+        "municipality": "Pisa",
+        "name": "Pisa International Airport"
       }
     }
   }
