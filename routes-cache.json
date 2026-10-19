@@ -52778,7 +52778,7 @@
     }
   },
   "DLH3VT": {
-    "time": 1792352733.020722,
+    "time": 1792439727.8030915,
     "route": {
       "callsign": "DLH3VT",
       "callsign_icao": "DLH3VT",
@@ -53310,7 +53310,7 @@
     }
   },
   "BAW784": {
-    "time": 1792353034.6188898,
+    "time": 1792439727.8030915,
     "route": {
       "callsign": "BAW784",
       "callsign_icao": "BAW784",
@@ -54025,7 +54025,7 @@
     }
   },
   "NSZ3521": {
-    "time": 1792353325.7062087,
+    "time": 1792439727.8030915,
     "route": {
       "callsign": "NSZ3521",
       "callsign_icao": "NSZ3521",
@@ -54139,7 +54139,7 @@
     }
   },
   "KLM61T": {
-    "time": 1792353325.7062087,
+    "time": 1792439727.8030915,
     "route": {
       "callsign": "KLM61T",
       "callsign_icao": "KLM61T",
@@ -140462,6 +140462,158 @@
         "longitude": 2.07846,
         "municipality": "Barcelona",
         "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      }
+    }
+  },
+  "RYR52RY": {
+    "time": 1792439727.8030915,
+    "route": {
+      "callsign": "RYR52RY",
+      "callsign_icao": "RYR52RY",
+      "callsign_iata": "FR52RY",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 427,
+        "iata_code": "CIA",
+        "icao_code": "LIRA",
+        "latitude": 41.7994,
+        "longitude": 12.5949,
+        "municipality": "Rome",
+        "name": "Ciampino\u2013G. B. Pastine International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      }
+    }
+  },
+  "RUK5ZH": {
+    "time": 1792439727.8030915,
+    "route": {
+      "callsign": "RUK5ZH",
+      "callsign_icao": "RUK5ZH",
+      "callsign_iata": "RK5ZH",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 7,
+        "iata_code": "VCE",
+        "icao_code": "LIPZ",
+        "latitude": 45.5053,
+        "longitude": 12.3519,
+        "municipality": "Venice",
+        "name": "Venice Marco Polo Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      }
+    }
+  },
+  "EZY27UZ": {
+    "time": 1792439727.8030915,
+    "route": {
+      "callsign": "EZY27UZ",
+      "callsign_icao": "EZY27UZ",
+      "callsign_iata": "U227UZ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 490,
+        "iata_code": "CHQ",
+        "icao_code": "LGSA",
+        "latitude": 35.5317,
+        "longitude": 24.1497,
+        "municipality": "Souda",
+        "name": "Chania International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "TOM15X": {
+    "time": 1792439727.8030915,
+    "route": {
+      "callsign": "TOM15X",
+      "callsign_icao": "TOM15X",
+      "callsign_iata": "BY15X",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 22,
+        "iata_code": "SKG",
+        "icao_code": "LGTS",
+        "latitude": 40.5197,
+        "longitude": 22.9709,
+        "municipality": "Thessaloniki",
+        "name": "Thessaloniki Macedonia International Airport"
       }
     }
   }
