@@ -21478,7 +21478,7 @@
     }
   },
   "VIR21K": {
-    "time": 1792336833.5231984,
+    "time": 1792428643.9743447,
     "route": {
       "callsign": "VIR21K",
       "callsign_icao": "VIR21K",
@@ -28003,7 +28003,7 @@
     }
   },
   "BAW717": {
-    "time": 1792340438.4083514,
+    "time": 1792428643.9743447,
     "route": {
       "callsign": "BAW717",
       "callsign_icao": "BAW717",
@@ -30884,7 +30884,7 @@
     }
   },
   "EZY21DU": {
-    "time": 1792341931.9453902,
+    "time": 1792428643.9743447,
     "route": {
       "callsign": "EZY21DU",
       "callsign_icao": "EZY21DU",
@@ -31188,7 +31188,7 @@
     }
   },
   "SWR438A": {
-    "time": 1792342234.8322995,
+    "time": 1792428643.9743447,
     "route": {
       "callsign": "SWR438A",
       "callsign_icao": "SWR438A",
@@ -31226,7 +31226,7 @@
     }
   },
   "VIR155M": {
-    "time": 1792342234.8322995,
+    "time": 1792428643.9743447,
     "route": {
       "callsign": "VIR155M",
       "callsign_icao": "VIR155M",
@@ -31340,7 +31340,7 @@
     }
   },
   "IBE07WV": {
-    "time": 1792342234.8322995,
+    "time": 1792428643.9743447,
     "route": {
       "callsign": "IBE07WV",
       "callsign_icao": "IBE07WV",
@@ -31644,7 +31644,7 @@
     }
   },
   "EZY26YM": {
-    "time": 1792342234.8322995,
+    "time": 1792428643.9743447,
     "route": {
       "callsign": "EZY26YM",
       "callsign_icao": "EZY26YM",
@@ -132106,6 +132106,151 @@
         "longitude": -74.1687,
         "municipality": "New York",
         "name": "Newark Liberty International Airport"
+      }
+    }
+  },
+  "EZY21JR": {
+    "time": 1792428643.9743447,
+    "route": {
+      "callsign": "EZY21JR",
+      "callsign_icao": "EZY21JR",
+      "callsign_iata": "U221JR",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 353,
+        "iata_code": "LIN",
+        "icao_code": "LIML",
+        "latitude": 45.4451,
+        "longitude": 9.27674,
+        "municipality": "Milan",
+        "name": "Milano Linate Airport"
+      }
+    }
+  },
+  "LHB4": {
+    "time": 1792428643.9743447,
+    "route": {
+      "callsign": "LHB4",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 628,
+        "iata_code": "CMR",
+        "icao_code": "LFGA",
+        "latitude": 48.1099,
+        "longitude": 7.35901,
+        "municipality": "Colmar/Houssen",
+        "name": "Colmar-Houssen Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 160,
+        "iata_code": "FMO",
+        "icao_code": "EDDG",
+        "latitude": 52.1346,
+        "longitude": 7.68483,
+        "municipality": "M\u00fcnster",
+        "name": "M\u00fcnster Osnabr\u00fcck Airport"
+      }
+    }
+  },
+  "EXS49MT": {
+    "time": 1792428643.9743447,
+    "route": {
+      "callsign": "EXS49MT",
+      "callsign_icao": "EXS49MT",
+      "callsign_iata": "LS49MT",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 127,
+        "iata_code": "JTR",
+        "icao_code": "LGSR",
+        "latitude": 36.3992,
+        "longitude": 25.4793,
+        "municipality": "Santorini Island",
+        "name": "Santorini Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "EZY41BY": {
+    "time": 1792428643.9743447,
+    "route": {
+      "callsign": "EZY41BY",
+      "callsign_icao": "EZY41BY",
+      "callsign_iata": "U241BY",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 20,
+        "iata_code": "DLM",
+        "icao_code": "LTBS",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "name": "Dalaman International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
