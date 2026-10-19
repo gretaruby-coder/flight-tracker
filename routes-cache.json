@@ -36594,7 +36594,7 @@
     }
   },
   "VIR47GH": {
-    "time": 1792344648.0972672,
+    "time": 1792437636.9904287,
     "route": {
       "callsign": "VIR47GH",
       "callsign_icao": "VIR47GH",
@@ -44014,7 +44014,7 @@
     }
   },
   "EZY879U": {
-    "time": 1792347924.7523627,
+    "time": 1792437636.9904287,
     "route": {
       "callsign": "EZY879U",
       "callsign_icao": "EZY879U",
@@ -47921,7 +47921,7 @@
     }
   },
   "TAP67U": {
-    "time": 1792350059.427342,
+    "time": 1792437636.9904287,
     "route": {
       "callsign": "TAP67U",
       "callsign_icao": "TAP67U",
@@ -49061,7 +49061,7 @@
     }
   },
   "SVA117": {
-    "time": 1792350633.428958,
+    "time": 1792437636.9904287,
     "route": {
       "callsign": "SVA117",
       "callsign_icao": "SVA117",
@@ -139481,6 +139481,158 @@
         "longitude": -16.5725,
         "municipality": "Tenerife",
         "name": "Tenerife Sur Airport"
+      }
+    }
+  },
+  "VKG447": {
+    "time": 1792437636.9904287,
+    "route": {
+      "callsign": "VKG447",
+      "callsign_icao": "VKG447",
+      "callsign_iata": "447",
+      "airline": {
+        "name": "SunClass Airlines",
+        "icao": "VKG",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": "VIKING"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 490,
+        "iata_code": "CHQ",
+        "icao_code": "LGSA",
+        "latitude": 35.5317,
+        "longitude": 24.1497,
+        "municipality": "Souda",
+        "name": "Chania International Airport"
+      },
+      "destination": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 503,
+        "iata_code": "BLE",
+        "icao_code": "ESSD",
+        "latitude": 60.422,
+        "longitude": 15.5152,
+        "municipality": "Borlange",
+        "name": "Dala Airport"
+      }
+    }
+  },
+  "AFR6732": {
+    "time": 1792437636.9904287,
+    "route": {
+      "callsign": "AFR6732",
+      "callsign_icao": "AFR6732",
+      "callsign_iata": "AF6732",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      }
+    }
+  },
+  "FDX6174": {
+    "time": 1792437636.9904287,
+    "route": {
+      "callsign": "FDX6174",
+      "callsign_icao": "FDX6174",
+      "callsign_iata": "FX6174",
+      "airline": {
+        "name": "FedEx Express",
+        "icao": "FDX",
+        "iata": "FX",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "FEDEX"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 341,
+        "iata_code": "MEM",
+        "icao_code": "KMEM",
+        "latitude": 35.0424,
+        "longitude": -89.9767,
+        "municipality": "Memphis",
+        "name": "Memphis International Airport"
+      }
+    }
+  },
+  "EZY46MD": {
+    "time": 1792437636.9904287,
+    "route": {
+      "callsign": "EZY46MD",
+      "callsign_icao": "EZY46MD",
+      "callsign_iata": "U246MD",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
       }
     }
   }
