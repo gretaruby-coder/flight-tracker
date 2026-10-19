@@ -55659,7 +55659,7 @@
     }
   },
   "AAL142": {
-    "time": 1792354236.3658414,
+    "time": 1792446035.0306828,
     "route": {
       "callsign": "AAL142",
       "callsign_icao": "AAL142",
@@ -58875,7 +58875,7 @@
     }
   },
   "IBS1864": {
-    "time": 1792356331.9304788,
+    "time": 1792446035.0306828,
     "route": {
       "callsign": "IBS1864",
       "callsign_icao": "IBS1864",
@@ -63680,7 +63680,7 @@
     }
   },
   "AIC132": {
-    "time": 1792359632.8027112,
+    "time": 1792446035.0306828,
     "route": {
       "callsign": "AIC132",
       "callsign_icao": "AIC132",
@@ -144255,6 +144255,120 @@
         "longitude": -3.37229,
         "municipality": "Edinburgh",
         "name": "Edinburgh Airport"
+      }
+    }
+  },
+  "RYR39FB": {
+    "time": 1792446035.0306828,
+    "route": {
+      "callsign": "RYR39FB",
+      "callsign_icao": "RYR39FB",
+      "callsign_iata": "FR39FB",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 46,
+        "iata_code": "ACE",
+        "icao_code": "GCRR",
+        "latitude": 28.9455,
+        "longitude": -13.6052,
+        "municipality": "Lanzarote Island",
+        "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "BAW427": {
+    "time": 1792446035.0306828,
+    "route": {
+      "callsign": "BAW427",
+      "callsign_icao": "BAW427",
+      "callsign_iata": "BA427",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "EZY91QH": {
+    "time": 1792446035.0306828,
+    "route": {
+      "callsign": "EZY91QH",
+      "callsign_icao": "EZY91QH",
+      "callsign_iata": "U291QH",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
