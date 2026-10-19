@@ -73627,5 +73627,119 @@
         "name": "London Heathrow Airport"
       }
     }
+  },
+  "DLH463": {
+    "time": 1792383332.5142202,
+    "route": {
+      "callsign": "DLH463",
+      "callsign_icao": "DLH463",
+      "callsign_iata": "LH463",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 8,
+        "iata_code": "MIA",
+        "icao_code": "KMIA",
+        "latitude": 25.7932,
+        "longitude": -80.2906,
+        "municipality": "Miami",
+        "name": "Miami International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "BEL52B": {
+    "time": 1792383332.5142202,
+    "route": {
+      "callsign": "BEL52B",
+      "callsign_icao": "BEL52B",
+      "callsign_iata": "SN52B",
+      "airline": {
+        "name": "Brussels Airlines",
+        "icao": "BEL",
+        "iata": "SN",
+        "country": "Belgium",
+        "country_iso": "BE",
+        "callsign": "BEE-LINE"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 184,
+        "iata_code": "BRU",
+        "icao_code": "EBBR",
+        "latitude": 50.9014,
+        "longitude": 4.48444,
+        "municipality": "Brussels",
+        "name": "Brussels Airport"
+      }
+    }
+  },
+  "BAW2066": {
+    "time": 1792383332.5142202,
+    "route": {
+      "callsign": "BAW2066",
+      "callsign_icao": "BAW2066",
+      "callsign_iata": "BA2066",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GH",
+        "country_name": "Ghana",
+        "elevation": 205,
+        "iata_code": "ACC",
+        "icao_code": "DGAA",
+        "latitude": 5.60519,
+        "longitude": -0.16679,
+        "municipality": "Accra",
+        "name": "Kotoka International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
   }
 }
