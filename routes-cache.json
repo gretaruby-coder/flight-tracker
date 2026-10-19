@@ -71772,5 +71772,119 @@
         "name": "London Gatwick Airport"
       }
     }
+  },
+  "UPS208": {
+    "time": 1792370733.7302666,
+    "route": {
+      "callsign": "UPS208",
+      "callsign_icao": "UPS208",
+      "callsign_iata": "5X208",
+      "airline": {
+        "name": "United Parcel Service",
+        "icao": "UPS",
+        "iata": "5X",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UPS"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 302,
+        "iata_code": "CGN",
+        "icao_code": "EDDK",
+        "latitude": 50.8659,
+        "longitude": 7.14274,
+        "municipality": "Cologne",
+        "name": "Cologne Bonn Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      }
+    }
+  },
+  "ETD8MY": {
+    "time": 1792370733.7302666,
+    "route": {
+      "callsign": "ETD8MY",
+      "callsign_icao": "ETD8MY",
+      "callsign_iata": "EY8MY",
+      "airline": {
+        "name": "Etihad Airways",
+        "icao": "ETD",
+        "iata": "EY",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "ETIHAD"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
+      },
+      "destination": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 88,
+        "iata_code": "AUH",
+        "icao_code": "OMAA",
+        "latitude": 24.44376,
+        "longitude": 54.65172,
+        "municipality": "Abu Dhabi",
+        "name": "Abu Dhabi International Airport"
+      }
+    }
+  },
+  "EZY51TL": {
+    "time": 1792370733.7302666,
+    "route": {
+      "callsign": "EZY51TL",
+      "callsign_icao": "EZY51TL",
+      "callsign_iata": "U251TL",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 20,
+        "iata_code": "DLM",
+        "icao_code": "LTBS",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "name": "Dalaman International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
   }
 }
