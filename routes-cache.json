@@ -13785,7 +13785,7 @@
     }
   },
   "BAW905U": {
-    "time": 1792332059.3780794,
+    "time": 1792419637.3688014,
     "route": {
       "callsign": "BAW905U",
       "callsign_icao": "BAW905U",
@@ -14393,7 +14393,7 @@
     }
   },
   "KLM1010": {
-    "time": 1792332634.3750288,
+    "time": 1792419637.3688014,
     "route": {
       "callsign": "KLM1010",
       "callsign_icao": "KLM1010",
@@ -14697,7 +14697,7 @@
     }
   },
   "AEE2EG": {
-    "time": 1792332634.3750288,
+    "time": 1792419637.3688014,
     "route": {
       "callsign": "AEE2EG",
       "callsign_icao": "AEE2EG",
@@ -15602,7 +15602,7 @@
     }
   },
   "BAW627": {
-    "time": 1792333234.184753,
+    "time": 1792419637.3688014,
     "route": {
       "callsign": "BAW627",
       "callsign_icao": "BAW627",
@@ -15640,7 +15640,7 @@
     }
   },
   "AVA120": {
-    "time": 1792333234.184753,
+    "time": 1792419637.3688014,
     "route": {
       "callsign": "AVA120",
       "callsign_icao": "AVA120",
@@ -124562,6 +124562,196 @@
         "longitude": 19.26109,
         "municipality": "Budapest",
         "name": "Budapest Liszt Ferenc International Airport"
+      }
+    }
+  },
+  "EZY42TH": {
+    "time": 1792419637.3688014,
+    "route": {
+      "callsign": "EZY42TH",
+      "callsign_icao": "EZY42TH",
+      "callsign_iata": "U242TH",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "DLH8VU": {
+    "time": 1792419637.3688014,
+    "route": {
+      "callsign": "DLH8VU",
+      "callsign_icao": "DLH8VU",
+      "callsign_iata": "LH8VU",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "RO",
+        "country_name": "Romania",
+        "elevation": 1039,
+        "iata_code": "CLJ",
+        "icao_code": "LRCL",
+        "latitude": 46.7852,
+        "longitude": 23.6862,
+        "municipality": "Cluj-Napoca",
+        "name": "Cluj-Napoca International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "EXS18PA": {
+    "time": 1792419637.3688014,
+    "route": {
+      "callsign": "EXS18PA",
+      "callsign_icao": "EXS18PA",
+      "callsign_iata": "LS18PA",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
+      }
+    }
+  },
+  "TOM491": {
+    "time": 1792419637.3688014,
+    "route": {
+      "callsign": "TOM491",
+      "callsign_icao": "TOM491",
+      "callsign_iata": "BY491",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "TN",
+        "country_name": "Tunisia",
+        "elevation": 21,
+        "iata_code": "NBE",
+        "icao_code": "DTNH",
+        "latitude": 36.07583,
+        "longitude": 10.43861,
+        "municipality": "Enfidha",
+        "name": "Enfidha - Hammamet International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EFW93CA": {
+    "time": 1792419637.3688014,
+    "route": {
+      "callsign": "EFW93CA",
+      "callsign_icao": "EFW93CA",
+      "callsign_iata": "A093CA",
+      "airline": {
+        "name": "BA Euroflyer",
+        "icao": "EFW",
+        "iata": "A0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Griffin"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 6,
+        "iata_code": "CFU",
+        "icao_code": "LGKR",
+        "latitude": 39.6019,
+        "longitude": 19.9117,
+        "municipality": "Kerkyra Island",
+        "name": "Ioannis Kapodistrias International Airport"
       }
     }
   }
