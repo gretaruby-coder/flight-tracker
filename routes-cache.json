@@ -46477,7 +46477,7 @@
     }
   },
   "VLG39YY": {
-    "time": 1792349136.7165623,
+    "time": 1792441240.7567482,
     "route": {
       "callsign": "VLG39YY",
       "callsign_icao": "VLG39YY",
@@ -53759,7 +53759,7 @@
     }
   },
   "WZZ254A": {
-    "time": 1792353034.6188898,
+    "time": 1792441240.7567482,
     "route": {
       "callsign": "WZZ254A",
       "callsign_icao": "WZZ254A",
@@ -54709,7 +54709,7 @@
     }
   },
   "BAW397": {
-    "time": 1792353663.465291,
+    "time": 1792441240.7567482,
     "route": {
       "callsign": "BAW397",
       "callsign_icao": "BAW397",
@@ -56823,7 +56823,7 @@
     }
   },
   "BAW835W": {
-    "time": 1792354837.0480418,
+    "time": 1792441240.7567482,
     "route": {
       "callsign": "BAW835W",
       "callsign_icao": "BAW835W",
@@ -141253,6 +141253,120 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EXS72LO": {
+    "time": 1792441240.7567482,
+    "route": {
+      "callsign": "EXS72LO",
+      "callsign_icao": "EXS72LO",
+      "callsign_iata": "LS72LO",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 46,
+        "iata_code": "ACE",
+        "icao_code": "GCRR",
+        "latitude": 28.9455,
+        "longitude": -13.6052,
+        "municipality": "Lanzarote Island",
+        "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "RYR20ZC": {
+    "time": 1792441240.7567482,
+    "route": {
+      "callsign": "RYR20ZC",
+      "callsign_icao": "RYR20ZC",
+      "callsign_iata": "FR20ZC",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
+      }
+    }
+  },
+  "SXS6TK": {
+    "time": 1792441240.7567482,
+    "route": {
+      "callsign": "SXS6TK",
+      "callsign_icao": "SXS6TK",
+      "callsign_iata": "XQ6TK",
+      "airline": {
+        "name": "SunExpress",
+        "icao": "SXS",
+        "iata": "XQ",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "SUNEXPRESS"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 412,
+        "iata_code": "ADB",
+        "icao_code": "LTBJ",
+        "latitude": 38.2924,
+        "longitude": 27.157,
+        "municipality": "\u0130zmir",
+        "name": "Adnan Menderes International Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 1729,
+        "iata_code": "MQM",
+        "icao_code": "LTCR",
+        "latitude": 37.2233,
+        "longitude": 40.6317,
+        "municipality": "Mardin",
+        "name": "Mardin Airport"
       }
     }
   }
