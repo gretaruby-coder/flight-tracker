@@ -72722,5 +72722,43 @@
         "name": "London Gatwick Airport"
       }
     }
+  },
+  "CFG017": {
+    "time": 1792378525.1842513,
+    "route": {
+      "callsign": "CFG17",
+      "callsign_icao": "CFG17",
+      "callsign_iata": "DE17",
+      "airline": {
+        "name": "Condor Flugdienst",
+        "icao": "CFG",
+        "iata": "DE",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "CONDOR"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 177,
+        "iata_code": "AYT",
+        "icao_code": "LTAI",
+        "latitude": 36.8987,
+        "longitude": 30.8005,
+        "municipality": "Antalya",
+        "name": "Antalya International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
   }
 }
