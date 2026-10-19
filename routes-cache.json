@@ -5305,7 +5305,7 @@
     }
   },
   "EIN1HW": {
-    "time": 1792326649.045024,
+    "time": 1792415435.8806715,
     "route": {
       "callsign": "EIN1HW",
       "callsign_icao": "EIN1HW",
@@ -6728,7 +6728,7 @@
     }
   },
   "BAW801": {
-    "time": 1792327533.1305492,
+    "time": 1792415435.8806715,
     "route": {
       "callsign": "BAW801",
       "callsign_icao": "BAW801",
@@ -7519,7 +7519,7 @@
     }
   },
   "KAC101": {
-    "time": 1792328124.0255332,
+    "time": 1792415435.8806715,
     "route": {
       "callsign": "KAC101",
       "callsign_icao": "KAC101",
@@ -7968,7 +7968,7 @@
     }
   },
   "BAW81": {
-    "time": 1792328461.0650053,
+    "time": 1792415435.8806715,
     "route": {
       "callsign": "BAW81",
       "callsign_icao": "BAW81",
@@ -8797,7 +8797,7 @@
     }
   },
   "BAW549": {
-    "time": 1792329034.4253557,
+    "time": 1792415435.8806715,
     "route": {
       "callsign": "BAW549",
       "callsign_icao": "BAW549",
@@ -121481,6 +121481,158 @@
         "longitude": 12.252,
         "municipality": "Rome",
         "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      }
+    }
+  },
+  "LHX5U": {
+    "time": 1792415435.8806715,
+    "route": {
+      "callsign": "LHX5U",
+      "callsign_icao": "LHX5U",
+      "callsign_iata": "VL5U",
+      "airline": {
+        "name": "City Airlines",
+        "icao": "LHX",
+        "iata": "VL",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "EZY69FM": {
+    "time": 1792415435.8806715,
+    "route": {
+      "callsign": "EZY69FM",
+      "callsign_icao": "EZY69FM",
+      "callsign_iata": "U269FM",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "BAW414": {
+    "time": 1792415435.8806715,
+    "route": {
+      "callsign": "BAW414",
+      "callsign_icao": "BAW414",
+      "callsign_iata": "BA414",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      }
+    }
+  },
+  "LWG37J": {
+    "time": 1792415435.8806715,
+    "route": {
+      "callsign": "LWG37J",
+      "callsign_icao": "LWG37J",
+      "callsign_iata": "BN37J",
+      "airline": {
+        "name": "Luxwing",
+        "icao": "LWG",
+        "iata": "BN",
+        "country": "Malta",
+        "country_iso": "MT",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 55,
+        "iata_code": "KJK",
+        "icao_code": "EBKT",
+        "latitude": 50.8172,
+        "longitude": 3.20472,
+        "municipality": "Wevelgem",
+        "name": "Wevelgem Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 266,
+        "iata_code": "NCL",
+        "icao_code": "EGNT",
+        "latitude": 55.0375,
+        "longitude": -1.69167,
+        "municipality": "Newcastle",
+        "name": "Newcastle Airport"
       }
     }
   }
