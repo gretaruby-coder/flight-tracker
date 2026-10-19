@@ -37492,7 +37492,7 @@
     }
   },
   "RYR37HR": {
-    "time": 1792344924.832382,
+    "time": 1792438525.9320555,
     "route": {
       "callsign": "RYR37HR",
       "callsign_icao": "RYR37HR",
@@ -38784,7 +38784,7 @@
     }
   },
   "EZY16RQ": {
-    "time": 1792345530.9675102,
+    "time": 1792438525.9320555,
     "route": {
       "callsign": "EZY16RQ",
       "callsign_icao": "EZY16RQ",
@@ -40494,7 +40494,7 @@
     }
   },
   "BAW995": {
-    "time": 1792346462.6271145,
+    "time": 1792438525.9320555,
     "route": {
       "callsign": "BAW995",
       "callsign_icao": "BAW995",
@@ -51068,7 +51068,7 @@
     }
   },
   "KLM41U": {
-    "time": 1792351849.9584792,
+    "time": 1792438525.9320555,
     "route": {
       "callsign": "KLM41U",
       "callsign_icao": "KLM41U",
@@ -51258,7 +51258,7 @@
     }
   },
   "VLG7PK": {
-    "time": 1792351849.9584792,
+    "time": 1792438525.9320555,
     "route": {
       "callsign": "VLG7PK",
       "callsign_icao": "VLG7PK",
@@ -51410,7 +51410,7 @@
     }
   },
   "WMT272": {
-    "time": 1792351849.9584792,
+    "time": 1792438525.9320555,
     "route": {
       "callsign": "WMT272",
       "callsign_icao": "WMT272",
@@ -52018,7 +52018,7 @@
     }
   },
   "LHX1MY": {
-    "time": 1792352125.655487,
+    "time": 1792438525.9320555,
     "route": {
       "callsign": "LHX1MY",
       "callsign_icao": "LHX1MY",
@@ -139937,6 +139937,151 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "CFE2L": {
+    "time": 1792438525.9320555,
+    "route": {
+      "callsign": "CFE2L",
+      "callsign_icao": "CFE2L",
+      "callsign_iata": "CJ2L",
+      "airline": {
+        "name": "BA CityFlyer",
+        "icao": "CFE",
+        "iata": "CJ",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "FLYER"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 19,
+        "iata_code": "LCY",
+        "icao_code": "EGLC",
+        "latitude": 51.5053,
+        "longitude": 0.05528,
+        "municipality": "London",
+        "name": "London City Airport"
+      }
+    }
+  },
+  "EZY69JF": {
+    "time": 1792438525.9320555,
+    "route": {
+      "callsign": "EZY69JF",
+      "callsign_icao": "EZY69JF",
+      "callsign_iata": "U269JF",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "RYR10TY": {
+    "time": 1792438525.9320555,
+    "route": {
+      "callsign": "RYR10TY",
+      "callsign_icao": "RYR10TY",
+      "callsign_iata": "FR10TY",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      }
+    }
+  },
+  "SHT7J": {
+    "time": 1792438525.9320555,
+    "route": {
+      "callsign": "SHT7J",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 26,
+        "iata_code": "GLA",
+        "icao_code": "EGPF",
+        "latitude": 55.8719,
+        "longitude": -4.43306,
+        "municipality": "Paisley, Renfrewshire",
+        "name": "Glasgow International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
       }
     }
   }
