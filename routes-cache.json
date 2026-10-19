@@ -7892,7 +7892,7 @@
     }
   },
   "BAW619": {
-    "time": 1792328461.0650053,
+    "time": 1792442732.3535557,
     "route": {
       "callsign": "BAW619",
       "callsign_icao": "BAW619",
@@ -57393,7 +57393,7 @@
     }
   },
   "ICE455": {
-    "time": 1792355449.1761892,
+    "time": 1792442732.3535557,
     "route": {
       "callsign": "ICE455",
       "callsign_icao": "ICE455",
@@ -142165,6 +142165,158 @@
         "longitude": 8.57056,
         "municipality": "Frankfurt am Main",
         "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "EZY76PY": {
+    "time": 1792442732.3535557,
+    "route": {
+      "callsign": "EZY76PY",
+      "callsign_icao": "EZY76PY",
+      "callsign_iata": "U276PY",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      }
+    }
+  },
+  "WUK975": {
+    "time": 1792442732.3535557,
+    "route": {
+      "callsign": "WUK975",
+      "callsign_icao": "WUK975",
+      "callsign_iata": "W9975",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "AL",
+        "country_name": "Albania",
+        "elevation": 126,
+        "iata_code": "TIA",
+        "icao_code": "LATI",
+        "latitude": 41.4147,
+        "longitude": 19.7206,
+        "municipality": "Tirana",
+        "name": "Tirana International Airport Mother Teresa"
+      }
+    }
+  },
+  "RYR80FG": {
+    "time": 1792442732.3535557,
+    "route": {
+      "callsign": "RYR80FG",
+      "callsign_icao": "RYR80FG",
+      "callsign_iata": "FR80FG",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 46,
+        "iata_code": "SNN",
+        "icao_code": "EINN",
+        "latitude": 52.702,
+        "longitude": -8.92482,
+        "municipality": "Shannon",
+        "name": "Shannon Airport"
+      },
+      "destination": {
+        "country_iso_name": "PL",
+        "country_name": "Poland",
+        "elevation": 791,
+        "iata_code": "KRK",
+        "icao_code": "EPKK",
+        "latitude": 50.0777,
+        "longitude": 19.7848,
+        "municipality": "Krak\u00f3w",
+        "name": "Krak\u00f3w John Paul II International Airport"
+      }
+    }
+  },
+  "RYR36AF": {
+    "time": 1792442732.3535557,
+    "route": {
+      "callsign": "RYR36AF",
+      "callsign_icao": "RYR36AF",
+      "callsign_iata": "FR36AF",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 6,
+        "iata_code": "PSA",
+        "icao_code": "LIRP",
+        "latitude": 43.6839,
+        "longitude": 10.3927,
+        "municipality": "Pisa",
+        "name": "Pisa International Airport"
       }
     }
   }
