@@ -1910,7 +1910,7 @@
     }
   },
   "VIR24M": {
-    "time": 1792253983.1353905,
+    "time": 1792425052.4651213,
     "route": {
       "callsign": "VIR24M",
       "callsign_icao": "VIR24M",
@@ -19471,7 +19471,7 @@
     }
   },
   "BAW875": {
-    "time": 1792335662.9705625,
+    "time": 1792425052.4651213,
     "route": {
       "callsign": "BAW875",
       "callsign_icao": "BAW875",
@@ -20224,7 +20224,7 @@
     }
   },
   "DLH7H": {
-    "time": 1792336233.8461406,
+    "time": 1792425052.4651213,
     "route": {
       "callsign": "DLH7H",
       "callsign_icao": "DLH7H",
@@ -23585,7 +23585,7 @@
     }
   },
   "LOG4MU": {
-    "time": 1792338036.6914313,
+    "time": 1792425052.4651213,
     "route": {
       "callsign": "LOG4MU",
       "callsign_icao": "LOG4MU",
@@ -23813,7 +23813,7 @@
     }
   },
   "DLH7VY": {
-    "time": 1792338335.6773167,
+    "time": 1792425052.4651213,
     "route": {
       "callsign": "DLH7VY",
       "callsign_icao": "DLH7VY",
@@ -128814,6 +128814,272 @@
         "longitude": 14.4775,
         "municipality": "Valletta",
         "name": "Malta International Airport"
+      }
+    }
+  },
+  "BAW773": {
+    "time": 1792425052.4651213,
+    "route": {
+      "callsign": "BAW773",
+      "callsign_icao": "BAW773",
+      "callsign_iata": "BA773",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 22,
+        "iata_code": "SKG",
+        "icao_code": "LGTS",
+        "latitude": 40.5197,
+        "longitude": 22.9709,
+        "municipality": "Thessaloniki",
+        "name": "Thessaloniki Macedonia International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "RUK2898": {
+    "time": 1792425052.4651213,
+    "route": {
+      "callsign": "RUK2898",
+      "callsign_icao": "RUK2898",
+      "callsign_iata": "RK2898",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 7,
+        "iata_code": "VCE",
+        "icao_code": "LIPZ",
+        "latitude": 45.5053,
+        "longitude": 12.3519,
+        "municipality": "Venice",
+        "name": "Venice Marco Polo Airport"
+      }
+    }
+  },
+  "UAL331": {
+    "time": 1792425052.4651213,
+    "route": {
+      "callsign": "UAL331",
+      "callsign_icao": "UAL331",
+      "callsign_iata": "UA331",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 312,
+        "iata_code": "IAD",
+        "icao_code": "KIAD",
+        "latitude": 38.9445,
+        "longitude": -77.4558,
+        "municipality": "Washington",
+        "name": "Washington Dulles International Airport"
+      }
+    }
+  },
+  "RYR76EX": {
+    "time": 1792425052.4651213,
+    "route": {
+      "callsign": "RYR76EX",
+      "callsign_icao": "RYR76EX",
+      "callsign_iata": "FR76EX",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 24,
+        "iata_code": "FAO",
+        "icao_code": "LPFR",
+        "latitude": 37.0144,
+        "longitude": -7.96591,
+        "municipality": "Faro",
+        "name": "Faro Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "EZY71ZJ": {
+    "time": 1792425052.4651213,
+    "route": {
+      "callsign": "EZY71ZJ",
+      "callsign_icao": "EZY71ZJ",
+      "callsign_iata": "U271ZJ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 11,
+        "iata_code": "PVK",
+        "icao_code": "LGPZ",
+        "latitude": 38.9255,
+        "longitude": 20.7653,
+        "municipality": "Preveza/Lefkada",
+        "name": "Aktion National Airport"
+      }
+    }
+  },
+  "TOM4BX": {
+    "time": 1792425052.4651213,
+    "route": {
+      "callsign": "TOM4BX",
+      "callsign_icao": "TOM4BX",
+      "callsign_iata": "BY4BX",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "DLH6RF": {
+    "time": 1792425052.4651213,
+    "route": {
+      "callsign": "DLH6RF",
+      "callsign_icao": "DLH6RF",
+      "callsign_iata": "LH6RF",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1487,
+        "iata_code": "MUC",
+        "icao_code": "EDDM",
+        "latitude": 48.3538,
+        "longitude": 11.7861,
+        "municipality": "Munich",
+        "name": "Munich Airport"
       }
     }
   }
