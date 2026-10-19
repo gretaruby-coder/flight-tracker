@@ -72494,5 +72494,81 @@
         "name": "London Gatwick Airport"
       }
     }
+  },
+  "DLH401": {
+    "time": 1792377049.4789162,
+    "route": {
+      "callsign": "DLH401",
+      "callsign_icao": "DLH401",
+      "callsign_iata": "LH401",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "EZY63MD": {
+    "time": 1792377049.4789162,
+    "route": {
+      "callsign": "EZY63MD",
+      "callsign_icao": "EZY63MD",
+      "callsign_iata": "U263MD",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 32,
+        "iata_code": "HRG",
+        "icao_code": "HEGN",
+        "latitude": 27.18033,
+        "longitude": 33.80729,
+        "municipality": "Hurghada",
+        "name": "Hurghada International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      }
+    }
   }
 }
