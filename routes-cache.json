@@ -15906,7 +15906,7 @@
     }
   },
   "LGL4EW": {
-    "time": 1792333234.184753,
+    "time": 1792438835.9696612,
     "route": {
       "callsign": "LGL4EW",
       "callsign_icao": "LGL4EW",
@@ -47085,7 +47085,7 @@
     }
   },
   "CFE221": {
-    "time": 1792349435.389201,
+    "time": 1792438835.9696612,
     "route": {
       "callsign": "CFE221",
       "callsign_icao": "CFE221",
@@ -49555,7 +49555,7 @@
     }
   },
   "UAE1J": {
-    "time": 1792350933.0581455,
+    "time": 1792438835.9696612,
     "route": {
       "callsign": "UAE1J",
       "callsign_icao": "UAE1J",
@@ -49631,7 +49631,7 @@
     }
   },
   "ROU2080": {
-    "time": 1792350933.0581455,
+    "time": 1792438835.9696612,
     "route": {
       "callsign": "ROU2080",
       "callsign_icao": "ROU2080",
@@ -50916,7 +50916,7 @@
     }
   },
   "VIR25B": {
-    "time": 1792351849.9584792,
+    "time": 1792438835.9696612,
     "route": {
       "callsign": "VIR25B",
       "callsign_icao": "VIR25B",
@@ -52246,7 +52246,7 @@
     }
   },
   "IGO24V": {
-    "time": 1792352434.2227666,
+    "time": 1792438835.9696612,
     "route": {
       "callsign": "IGO24V",
       "callsign_icao": "IGO24V",
@@ -140082,6 +140082,158 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "EXS92BY": {
+    "time": 1792438835.9696612,
+    "route": {
+      "callsign": "EXS92BY",
+      "callsign_icao": "EXS92BY",
+      "callsign_iata": "LS92BY",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "MT",
+        "country_name": "Malta",
+        "elevation": 300,
+        "iata_code": "MLA",
+        "icao_code": "LMML",
+        "latitude": 35.8575,
+        "longitude": 14.4775,
+        "municipality": "Valletta",
+        "name": "Malta International Airport"
+      }
+    }
+  },
+  "BAW735": {
+    "time": 1792438835.9696612,
+    "route": {
+      "callsign": "BAW735",
+      "callsign_icao": "BAW735",
+      "callsign_iata": "BA735",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "NSZ5708": {
+    "time": 1792438835.9696612,
+    "route": {
+      "callsign": "NSZ5708",
+      "callsign_icao": "NSZ5708",
+      "callsign_iata": "D85708",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "EZY28PH": {
+    "time": 1792438835.9696612,
+    "route": {
+      "callsign": "EZY28PH",
+      "callsign_icao": "EZY28PH",
+      "callsign_iata": "U228PH",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "TN",
+        "country_name": "Tunisia",
+        "elevation": 21,
+        "iata_code": "NBE",
+        "icao_code": "DTNH",
+        "latitude": 36.07583,
+        "longitude": 10.43861,
+        "municipality": "Enfidha",
+        "name": "Enfidha - Hammamet International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
