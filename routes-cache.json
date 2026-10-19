@@ -48491,7 +48491,7 @@
     }
   },
   "RYR7CV": {
-    "time": 1792350329.6665013,
+    "time": 1792443034.9029627,
     "route": {
       "callsign": "RYR7CV",
       "callsign_icao": "RYR7CV",
@@ -52360,7 +52360,7 @@
     }
   },
   "BAW739": {
-    "time": 1792352434.2227666,
+    "time": 1792443034.9029627,
     "route": {
       "callsign": "BAW739",
       "callsign_icao": "BAW739",
@@ -57963,7 +57963,7 @@
     }
   },
   "DLH4PH": {
-    "time": 1792355724.8831859,
+    "time": 1792443034.9029627,
     "route": {
       "callsign": "DLH4PH",
       "callsign_icao": "DLH4PH",
@@ -142317,6 +142317,120 @@
         "longitude": 10.3927,
         "municipality": "Pisa",
         "name": "Pisa International Airport"
+      }
+    }
+  },
+  "VLG8356": {
+    "time": 1792443034.9029627,
+    "route": {
+      "callsign": "VLG8356",
+      "callsign_icao": "VLG8356",
+      "callsign_iata": "VY8356",
+      "airline": {
+        "name": "Vueling Airlines",
+        "icao": "VLG",
+        "iata": "VY",
+        "country": "Spain",
+        "country_iso": "ES",
+        "callsign": "VUELING"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 240,
+        "iata_code": "VLC",
+        "icao_code": "LEVC",
+        "latitude": 39.4893,
+        "longitude": -0.48163,
+        "municipality": "Valencia",
+        "name": "Valencia Airport"
+      }
+    }
+  },
+  "RYR47LR": {
+    "time": 1792443034.9029627,
+    "route": {
+      "callsign": "RYR47LR",
+      "callsign_icao": "RYR47LR",
+      "callsign_iata": "FR47LR",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "LV",
+        "country_name": "Latvia",
+        "elevation": 36,
+        "iata_code": "RIX",
+        "icao_code": "EVRA",
+        "latitude": 56.9236,
+        "longitude": 23.9711,
+        "municipality": "Riga",
+        "name": "Riga International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 681,
+        "iata_code": "LBA",
+        "icao_code": "EGNM",
+        "latitude": 53.8659,
+        "longitude": -1.66057,
+        "municipality": "Leeds",
+        "name": "Leeds Bradford Airport"
+      }
+    }
+  },
+  "EFW169K": {
+    "time": 1792443034.9029627,
+    "route": {
+      "callsign": "EFW169K",
+      "callsign_icao": "EFW169K",
+      "callsign_iata": "A0169K",
+      "airline": {
+        "name": "BA Euroflyer",
+        "icao": "EFW",
+        "iata": "A0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Griffin"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 12,
+        "iata_code": "NCE",
+        "icao_code": "LFMN",
+        "latitude": 43.6584,
+        "longitude": 7.21587,
+        "municipality": "Nice",
+        "name": "Nice-C\u00f4te d'Azur Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
