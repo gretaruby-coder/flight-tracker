@@ -72836,5 +72836,81 @@
         "name": "Frankfurt am Main Airport"
       }
     }
+  },
+  "QFA219": {
+    "time": 1792380034.2824433,
+    "route": {
+      "callsign": "QFA219",
+      "callsign_icao": "QFA219",
+      "callsign_iata": "QF219",
+      "airline": {
+        "name": "Qantas",
+        "icao": "QFA",
+        "iata": "QF",
+        "country": "Australia",
+        "country_iso": "AU",
+        "callsign": "QANTAS"
+      },
+      "origin": {
+        "country_iso_name": "AU",
+        "country_name": "Australia",
+        "elevation": 67,
+        "iata_code": "PER",
+        "icao_code": "YPPH",
+        "latitude": -31.9403,
+        "longitude": 115.967,
+        "municipality": "Perth",
+        "name": "Perth International Airport"
+      },
+      "destination": {
+        "country_iso_name": "SG",
+        "country_name": "Singapore",
+        "elevation": 22,
+        "iata_code": "SIN",
+        "icao_code": "WSSS",
+        "latitude": 1.35019,
+        "longitude": 103.994,
+        "municipality": "Singapore",
+        "name": "Singapore Changi Airport"
+      }
+    }
+  },
+  "GTI8704": {
+    "time": 1792380034.2824433,
+    "route": {
+      "callsign": "GTI8704",
+      "callsign_icao": "GTI8704",
+      "callsign_iata": "5Y8704",
+      "airline": {
+        "name": "Atlas Air",
+        "icao": "GTI",
+        "iata": "5Y",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "GIANT"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 24,
+        "iata_code": "DOV",
+        "icao_code": "KDOV",
+        "latitude": 39.1295,
+        "longitude": -75.466,
+        "municipality": "Dover",
+        "name": "Dover Air Force Base"
+      }
+    }
   }
 }
