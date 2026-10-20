@@ -43862,7 +43862,7 @@
     }
   },
   "BAW378": {
-    "time": 1792434329.1189005,
+    "time": 1792521932.2817974,
     "route": {
       "callsign": "BAW378",
       "callsign_icao": "BAW378",
@@ -45755,7 +45755,7 @@
     }
   },
   "CSZ887": {
-    "time": 1792348835.1738014,
+    "time": 1792521932.2817974,
     "route": {
       "callsign": "CSZ887",
       "callsign_icao": "CSZ887",
@@ -49479,7 +49479,7 @@
     }
   },
   "IBS1863": {
-    "time": 1792350633.428958,
+    "time": 1792521932.2817974,
     "route": {
       "callsign": "IBS1863",
       "callsign_icao": "IBS1863",
@@ -51030,7 +51030,7 @@
     }
   },
   "EZY207G": {
-    "time": 1792351849.9584792,
+    "time": 1792521932.2817974,
     "route": {
       "callsign": "EZY207G",
       "callsign_icao": "EZY207G",
@@ -57279,7 +57279,7 @@
     }
   },
   "CFE75J": {
-    "time": 1792355125.808983,
+    "time": 1792521932.2817974,
     "route": {
       "callsign": "CFE75J",
       "callsign_icao": "CFE75J",
@@ -70520,7 +70520,7 @@
     }
   },
   "EXS76HJ": {
-    "time": 1792368062.930736,
+    "time": 1792521932.2817974,
     "route": {
       "callsign": "EXS76HJ",
       "callsign_icao": "EXS76HJ",
@@ -136269,7 +136269,7 @@
     }
   },
   "RYR65YK": {
-    "time": 1792433435.9966323,
+    "time": 1792521932.2817974,
     "route": {
       "callsign": "RYR65YK",
       "callsign_icao": "RYR65YK",
@@ -186862,6 +186862,120 @@
         "longitude": 9.05428,
         "municipality": "Cagliari",
         "name": "Cagliari Elmas Airport"
+      }
+    }
+  },
+  "EZY34JP": {
+    "time": 1792521932.2817974,
+    "route": {
+      "callsign": "EZY34JP",
+      "callsign_icao": "EZY34JP",
+      "callsign_iata": "U234JP",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "IM",
+        "country_name": "Isle of Man",
+        "elevation": 52,
+        "iata_code": "IOM",
+        "icao_code": "EGNS",
+        "latitude": 54.0833,
+        "longitude": -4.62389,
+        "municipality": "Castletown",
+        "name": "Isle of Man Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EZY91UL": {
+    "time": 1792521932.2817974,
+    "route": {
+      "callsign": "EZY91UL",
+      "callsign_icao": "EZY91UL",
+      "callsign_iata": "U291UL",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "CCA423": {
+    "time": 1792521932.2817974,
+    "route": {
+      "callsign": "CCA423",
+      "callsign_icao": "CCA423",
+      "callsign_iata": "CA423",
+      "airline": {
+        "name": "Air China",
+        "icao": "CCA",
+        "iata": "CA",
+        "country": "China",
+        "country_iso": "CN",
+        "callsign": "AIR CHINA"
+      },
+      "origin": {
+        "country_iso_name": "CN",
+        "country_name": "China",
+        "elevation": 1440,
+        "iata_code": "TFU",
+        "icao_code": "ZUTF",
+        "latitude": 30.31252,
+        "longitude": 104.44128,
+        "municipality": "Jianyang, Chengdu",
+        "name": "Chengdu Tianfu International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
       }
     }
   }
