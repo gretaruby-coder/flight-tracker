@@ -150717,5 +150717,43 @@
         "name": "Brussels Airport"
       }
     }
+  },
+  "DLH443": {
+    "time": 1792463125.243396,
+    "route": {
+      "callsign": "DLH443",
+      "callsign_icao": "DLH443",
+      "callsign_iata": "LH443",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 645,
+        "iata_code": "DTW",
+        "icao_code": "KDTW",
+        "latitude": 42.2124,
+        "longitude": -83.3534,
+        "municipality": "Detroit",
+        "name": "Detroit Metropolitan Wayne County Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
   }
 }
