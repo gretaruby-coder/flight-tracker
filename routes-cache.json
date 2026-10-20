@@ -151070,5 +151070,43 @@
         "name": "London Gatwick Airport"
       }
     }
+  },
+  "ASL501": {
+    "time": 1792465258.726059,
+    "route": {
+      "callsign": "ASL501",
+      "callsign_icao": "ASL501",
+      "callsign_iata": "501",
+      "airline": {
+        "name": "Spurling Aviation",
+        "icao": "ASL",
+        "iata": null,
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "AIR SEATTLE"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "RS",
+        "country_name": "Serbia",
+        "elevation": 335,
+        "iata_code": "BEG",
+        "icao_code": "LYBE",
+        "latitude": 44.8184,
+        "longitude": 20.3091,
+        "municipality": "Belgrade",
+        "name": "Belgrade Nikola Tesla Airport"
+      }
+    }
   }
 }
