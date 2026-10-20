@@ -32784,7 +32784,7 @@
     }
   },
   "TRA33E": {
-    "time": 1792342862.0372162,
+    "time": 1792472726.9642398,
     "route": {
       "callsign": "TRA33E",
       "callsign_icao": "TRA33E",
@@ -75149,7 +75149,7 @@
     }
   },
   "BAW25GP": {
-    "time": 1792386061.2679443,
+    "time": 1792472726.9642398,
     "route": {
       "callsign": "BAW25GP",
       "callsign_icao": "BAW25GP",
@@ -75225,7 +75225,7 @@
     }
   },
   "BAW81V": {
-    "time": 1792386061.2679443,
+    "time": 1792472726.9642398,
     "route": {
       "callsign": "BAW81V",
       "callsign_icao": "BAW81V",
@@ -75301,7 +75301,7 @@
     }
   },
   "VIR10H": {
-    "time": 1792386061.2679443,
+    "time": 1792472726.9642398,
     "route": {
       "callsign": "VIR10H",
       "callsign_icao": "VIR10H",
@@ -152163,6 +152163,82 @@
         "longitude": 5.44322,
         "municipality": "Li\u00e8ge",
         "name": "Li\u00e8ge Airport"
+      }
+    }
+  },
+  "RYR61MJ": {
+    "time": 1792472726.9642398,
+    "route": {
+      "callsign": "RYR61MJ",
+      "callsign_icao": "RYR61MJ",
+      "callsign_iata": "FR61MJ",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 427,
+        "iata_code": "CIA",
+        "icao_code": "LIRA",
+        "latitude": 41.7994,
+        "longitude": 12.5949,
+        "municipality": "Rome",
+        "name": "Ciampino\u2013G. B. Pastine International Airport"
+      }
+    }
+  },
+  "EZY96NA": {
+    "time": 1792472726.9642398,
+    "route": {
+      "callsign": "EZY96NA",
+      "callsign_icao": "EZY96NA",
+      "callsign_iata": "U296NA",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 47,
+        "iata_code": "BDS",
+        "icao_code": "LIBR",
+        "latitude": 40.6576,
+        "longitude": 17.947,
+        "municipality": "Brindisi",
+        "name": "Brindisi Airport"
       }
     }
   }
