@@ -40266,7 +40266,7 @@
     }
   },
   "EJU82DY": {
-    "time": 1792346125.00109,
+    "time": 1792520727.1980805,
     "route": {
       "callsign": "EJU82DY",
       "callsign_icao": "EJU82DY",
@@ -42470,7 +42470,7 @@
     }
   },
   "SWR27M": {
-    "time": 1792347333.0377164,
+    "time": 1792520727.1980805,
     "route": {
       "callsign": "SWR27M",
       "callsign_icao": "SWR27M",
@@ -55735,7 +55735,7 @@
     }
   },
   "SHT9Y": {
-    "time": 1792354236.3658414,
+    "time": 1792520727.1980805,
     "route": {
       "callsign": "SHT9Y",
       "callsign_icao": null,
@@ -57811,7 +57811,7 @@
     }
   },
   "LOG65KL": {
-    "time": 1792355724.8831859,
+    "time": 1792520727.1980805,
     "route": {
       "callsign": "LOG65KL",
       "callsign_icao": "LOG65KL",
@@ -127181,7 +127181,7 @@
     }
   },
   "BAW969H": {
-    "time": 1792422638.2560358,
+    "time": 1792520727.1980805,
     "route": {
       "callsign": "BAW969H",
       "callsign_icao": "BAW969H",
@@ -136535,7 +136535,7 @@
     }
   },
   "QTR15K": {
-    "time": 1792433735.9789886,
+    "time": 1792520727.1980805,
     "route": {
       "callsign": "QTR15K",
       "callsign_icao": "QTR15K",
@@ -186254,6 +186254,82 @@
         "longitude": -2.71909,
         "municipality": "Bristol",
         "name": "Bristol Airport"
+      }
+    }
+  },
+  "NSZ3519": {
+    "time": 1792520727.1980805,
+    "route": {
+      "callsign": "NSZ3519",
+      "callsign_icao": "NSZ3519",
+      "callsign_iata": "D83519",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 17,
+        "iata_code": "CPH",
+        "icao_code": "EKCH",
+        "latitude": 55.6179,
+        "longitude": 12.656,
+        "municipality": "Copenhagen",
+        "name": "Copenhagen Kastrup Airport"
+      }
+    }
+  },
+  "EZY28NJ": {
+    "time": 1792520727.1980805,
+    "route": {
+      "callsign": "EZY28NJ",
+      "callsign_icao": "EZY28NJ",
+      "callsign_iata": "U228NJ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 6,
+        "iata_code": "CFU",
+        "icao_code": "LGKR",
+        "latitude": 39.6019,
+        "longitude": 19.9117,
+        "municipality": "Kerkyra Island",
+        "name": "Ioannis Kapodistrias International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
