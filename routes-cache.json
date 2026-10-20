@@ -73743,7 +73743,7 @@
     }
   },
   "ACA832": {
-    "time": 1792383632.912025,
+    "time": 1792470646.9714139,
     "route": {
       "callsign": "ACA832",
       "callsign_icao": "ACA832",
@@ -151752,6 +151752,113 @@
         "longitude": 6.20444,
         "municipality": "Luxembourg",
         "name": "Luxembourg-Findel International Airport"
+      }
+    }
+  },
+  "UAL950": {
+    "time": 1792470646.9714139,
+    "route": {
+      "callsign": "UAL950",
+      "callsign_icao": "UAL950",
+      "callsign_iata": "UA950",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 312,
+        "iata_code": "IAD",
+        "icao_code": "KIAD",
+        "latitude": 38.9445,
+        "longitude": -77.4558,
+        "municipality": "Washington",
+        "name": "Washington Dulles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 184,
+        "iata_code": "BRU",
+        "icao_code": "EBBR",
+        "latitude": 50.9014,
+        "longitude": 4.48444,
+        "municipality": "Brussels",
+        "name": "Brussels Airport"
+      }
+    }
+  },
+  "VJT793": {
+    "time": 1792470646.9714139,
+    "route": {
+      "callsign": "VJT793",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 344,
+        "iata_code": "RDG",
+        "icao_code": "KRDG",
+        "latitude": 40.3785,
+        "longitude": -75.9652,
+        "municipality": "Reading",
+        "name": "Reading Regional Airport (Carl A Spaatz Field)"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1276,
+        "iata_code": "STR",
+        "icao_code": "EDDS",
+        "latitude": 48.6899,
+        "longitude": 9.22196,
+        "municipality": "Stuttgart",
+        "name": "Stuttgart Airport"
+      }
+    }
+  },
+  "KLM268": {
+    "time": 1792470646.9714139,
+    "route": {
+      "callsign": "KLM268",
+      "callsign_icao": "KLM268",
+      "callsign_iata": "KL268",
+      "airline": {
+        "name": "KLM Royal Dutch Airlines",
+        "icao": "KLM",
+        "iata": "KL",
+        "country": "Netherlands",
+        "country_iso": "NL",
+        "callsign": "KLM"
+      },
+      "origin": {
+        "country_iso_name": "SR",
+        "country_name": "Suriname",
+        "elevation": 59,
+        "iata_code": "PBM",
+        "icao_code": "SMJP",
+        "latitude": 5.45283,
+        "longitude": -55.1878,
+        "municipality": "Zandery",
+        "name": "Johan Adolf Pengel International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
       }
     }
   }
