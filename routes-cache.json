@@ -150831,5 +150831,119 @@
         "name": "London Stansted Airport"
       }
     }
+  },
+  "FDX5083": {
+    "time": 1792463725.2927668,
+    "route": {
+      "callsign": "FDX5083",
+      "callsign_icao": "FDX5083",
+      "callsign_iata": "FX5083",
+      "airline": {
+        "name": "FedEx Express",
+        "icao": "FDX",
+        "iata": "FX",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "FEDEX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 341,
+        "iata_code": "MEM",
+        "icao_code": "KMEM",
+        "latitude": 35.0424,
+        "longitude": -89.9767,
+        "municipality": "Memphis",
+        "name": "Memphis International Airport"
+      }
+    }
+  },
+  "BCS30A": {
+    "time": 1792463725.2927668,
+    "route": {
+      "callsign": "BCS30A",
+      "callsign_icao": "BCS30A",
+      "callsign_iata": "QY30A",
+      "airline": {
+        "name": "European Air Transport",
+        "icao": "BCS",
+        "iata": "QY",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "EUROTRANS"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 465,
+        "iata_code": "LEJ",
+        "icao_code": "EDDP",
+        "latitude": 51.42389,
+        "longitude": 12.23639,
+        "municipality": "Leipzig",
+        "name": "Leipzig/Halle Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 302,
+        "iata_code": "CGN",
+        "icao_code": "EDDK",
+        "latitude": 50.8659,
+        "longitude": 7.14274,
+        "municipality": "Cologne",
+        "name": "Cologne Bonn Airport"
+      }
+    }
+  },
+  "EZY69UC": {
+    "time": 1792463725.2927668,
+    "route": {
+      "callsign": "EZY69UC",
+      "callsign_icao": "EZY69UC",
+      "callsign_iata": "U269UC",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 250,
+        "iata_code": "AGA",
+        "icao_code": "GMAD",
+        "latitude": 30.32248,
+        "longitude": -9.412,
+        "municipality": "Agadir (Temsia)",
+        "name": "Al Massira Airport"
+      }
+    }
   }
 }
