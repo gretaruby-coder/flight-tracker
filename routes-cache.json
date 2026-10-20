@@ -99036,7 +99036,7 @@
     }
   },
   "EIN7HL": {
-    "time": 1792398327.7226243,
+    "time": 1792487734.2928817,
     "route": {
       "callsign": "EIN7HL",
       "callsign_icao": "EIN7HL",
@@ -103592,7 +103592,7 @@
     }
   },
   "UAL924": {
-    "time": 1792401040.7950327,
+    "time": 1792487734.2928817,
     "route": {
       "callsign": "UAL924",
       "callsign_icao": "UAL924",
@@ -103706,7 +103706,7 @@
     }
   },
   "BAW21ML": {
-    "time": 1792401040.7950327,
+    "time": 1792487734.2928817,
     "route": {
       "callsign": "BAW21ML",
       "callsign_icao": "BAW21ML",
@@ -103744,7 +103744,7 @@
     }
   },
   "EIN381": {
-    "time": 1792401040.7950327,
+    "time": 1792487734.2928817,
     "route": {
       "callsign": "EIN381",
       "callsign_icao": "EIN381",
@@ -163110,6 +163110,196 @@
         "longitude": 7.26389,
         "municipality": "Frankfurt am Main",
         "name": "Frankfurt-Hahn Airport"
+      }
+    }
+  },
+  "EIN681": {
+    "time": 1792487734.2928817,
+    "route": {
+      "callsign": "EIN681",
+      "callsign_icao": "EIN681",
+      "callsign_iata": "EI681",
+      "airline": {
+        "name": "Aer Lingus",
+        "icao": "EIN",
+        "iata": "EI",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "SHAMROCK"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      }
+    }
+  },
+  "AUR2LG": {
+    "time": 1792487734.2928817,
+    "route": {
+      "callsign": "AUR2LG",
+      "callsign_icao": "AUR2LG",
+      "callsign_iata": "GR2LG",
+      "airline": {
+        "name": "Aurigny Air Services",
+        "icao": "AUR",
+        "iata": "GR",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "AYLINE"
+      },
+      "origin": {
+        "country_iso_name": "GG",
+        "country_name": "Guernsey",
+        "elevation": 336,
+        "iata_code": "GCI",
+        "icao_code": "EGJB",
+        "latitude": 49.435,
+        "longitude": -2.60197,
+        "municipality": "Saint Peter Port",
+        "name": "Guernsey Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "MAC101F": {
+    "time": 1792487734.2928817,
+    "route": {
+      "callsign": "MAC101F",
+      "callsign_icao": "MAC101F",
+      "callsign_iata": "R5101F",
+      "airline": {
+        "name": "Malta Air Charter",
+        "icao": "MAC",
+        "iata": "R5",
+        "country": "Malta",
+        "country_iso": "MT",
+        "callsign": "MALTA CHARTER"
+      },
+      "origin": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 62,
+        "iata_code": "TNG",
+        "icao_code": "GMTT",
+        "latitude": 35.7269,
+        "longitude": -5.91689,
+        "municipality": "Tangier",
+        "name": "Tangier Ibn Battouta Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "RUK4UK": {
+    "time": 1792487734.2928817,
+    "route": {
+      "callsign": "RUK4UK",
+      "callsign_icao": "RUK4UK",
+      "callsign_iata": "RK4UK",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 26,
+        "iata_code": "GLA",
+        "icao_code": "EGPF",
+        "latitude": 55.8719,
+        "longitude": -4.43306,
+        "municipality": "Paisley, Renfrewshire",
+        "name": "Glasgow International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "UAL18": {
+    "time": 1792487734.2928817,
+    "route": {
+      "callsign": "UAL18",
+      "callsign_icao": "UAL18",
+      "callsign_iata": "UA18",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
       }
     }
   }
