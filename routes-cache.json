@@ -9816,7 +9816,7 @@
     }
   },
   "RYR77HU": {
-    "time": 1792329634.2371054,
+    "time": 1792480832.477096,
     "route": {
       "callsign": "RYR77HU",
       "callsign_icao": "RYR77HU",
@@ -82804,7 +82804,7 @@
     }
   },
   "CFE9TB": {
-    "time": 1792390236.831363,
+    "time": 1792480832.477096,
     "route": {
       "callsign": "CFE9TB",
       "callsign_icao": "CFE9TB",
@@ -85077,7 +85077,7 @@
     }
   },
   "CFE8PR": {
-    "time": 1792391450.3456924,
+    "time": 1792480832.477096,
     "route": {
       "callsign": "CFE8PR",
       "callsign_icao": "CFE8PR",
@@ -90307,7 +90307,7 @@
     }
   },
   "VIR91U": {
-    "time": 1792394136.6890812,
+    "time": 1792480832.477096,
     "route": {
       "callsign": "VIR91U",
       "callsign_icao": "VIR91U",
@@ -90421,7 +90421,7 @@
     }
   },
   "AAL38": {
-    "time": 1792394136.6890812,
+    "time": 1792480832.477096,
     "route": {
       "callsign": "AAL38",
       "callsign_icao": "AAL38",
@@ -158343,6 +158343,82 @@
         "longitude": 51.60806,
         "municipality": "Doha",
         "name": "Hamad International Airport"
+      }
+    }
+  },
+  "WMT8DU": {
+    "time": 1792480832.477096,
+    "route": {
+      "callsign": "WMT8DU",
+      "callsign_icao": "WMT8DU",
+      "callsign_iata": "W48DU",
+      "airline": {
+        "name": "Wizz Air Malta",
+        "icao": "WMT",
+        "iata": "W4",
+        "country": "Malta",
+        "country_iso": "MT",
+        "callsign": "Wizzairmalta"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "RO",
+        "country_name": "Romania",
+        "elevation": 397,
+        "iata_code": "IAS",
+        "icao_code": "LRIA",
+        "latitude": 47.1785,
+        "longitude": 27.6206,
+        "municipality": "Ia\u015fi",
+        "name": "Ia\u015fi Airport"
+      }
+    }
+  },
+  "EZY94MC": {
+    "time": 1792480832.477096,
+    "route": {
+      "callsign": "EZY94MC",
+      "callsign_icao": "EZY94MC",
+      "callsign_iata": "U294MC",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      },
+      "destination": {
+        "country_iso_name": "IS",
+        "country_name": "Iceland",
+        "elevation": 171,
+        "iata_code": "KEF",
+        "icao_code": "BIKF",
+        "latitude": 63.985,
+        "longitude": -22.6056,
+        "municipality": "Reykjav\u00edk",
+        "name": "Keflavik International Airport"
       }
     }
   }
