@@ -10379,7 +10379,7 @@
     }
   },
   "BAW965": {
-    "time": 1792417835.9010825,
+    "time": 1792508727.640294,
     "route": {
       "callsign": "BAW965",
       "callsign_icao": "BAW965",
@@ -11823,7 +11823,7 @@
     }
   },
   "AAL105": {
-    "time": 1792330833.4086964,
+    "time": 1792508727.640294,
     "route": {
       "callsign": "AAL105",
       "callsign_icao": "AAL105",
@@ -16780,7 +16780,7 @@
     }
   },
   "MSR778": {
-    "time": 1792334125.4382849,
+    "time": 1792508727.640294,
     "route": {
       "callsign": "MSR778",
       "callsign_icao": "MSR778",
@@ -19129,7 +19129,7 @@
     }
   },
   "BAW15K": {
-    "time": 1792422065.0661085,
+    "time": 1792508727.640294,
     "route": {
       "callsign": "BAW15K",
       "callsign_icao": "BAW15K",
@@ -19205,7 +19205,7 @@
     }
   },
   "BAW7CP": {
-    "time": 1792422065.0661085,
+    "time": 1792508727.640294,
     "route": {
       "callsign": "BAW7CP",
       "callsign_icao": "BAW7CP",
@@ -43078,7 +43078,7 @@
     }
   },
   "EXS92RV": {
-    "time": 1792347632.3299024,
+    "time": 1792508727.640294,
     "route": {
       "callsign": "EXS92RV",
       "callsign_icao": "EXS92RV",
@@ -48035,7 +48035,7 @@
     }
   },
   "EZY82FZ": {
-    "time": 1792350059.427342,
+    "time": 1792508727.640294,
     "route": {
       "callsign": "EZY82FZ",
       "callsign_icao": "EZY82FZ",
@@ -82051,7 +82051,7 @@
     }
   },
   "RYR95QF": {
-    "time": 1792389927.083446,
+    "time": 1792508727.640294,
     "route": {
       "callsign": "RYR95QF",
       "callsign_icao": "RYR95QF",
@@ -179477,6 +179477,120 @@
         "longitude": 51.60806,
         "municipality": "Doha",
         "name": "Hamad International Airport"
+      }
+    }
+  },
+  "NSZ2TU": {
+    "time": 1792508727.640294,
+    "route": {
+      "callsign": "NSZ2TU",
+      "callsign_icao": "NSZ2TU",
+      "callsign_iata": "D82TU",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "TOM18M": {
+    "time": 1792508727.640294,
+    "route": {
+      "callsign": "TOM18M",
+      "callsign_icao": "TOM18M",
+      "callsign_iata": "BY18M",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 239,
+        "iata_code": "VRN",
+        "icao_code": "LIPX",
+        "latitude": 45.3957,
+        "longitude": 10.8885,
+        "municipality": "Verona",
+        "name": "Verona Villafranca Airport"
+      }
+    }
+  },
+  "EFW15AV": {
+    "time": 1792508727.640294,
+    "route": {
+      "callsign": "EFW15AV",
+      "callsign_icao": "EFW15AV",
+      "callsign_iata": "A015AV",
+      "airline": {
+        "name": "BA Euroflyer",
+        "icao": "EFW",
+        "iata": "A0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Griffin"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 24,
+        "iata_code": "IBZ",
+        "icao_code": "LEIB",
+        "latitude": 38.8729,
+        "longitude": 1.37312,
+        "municipality": "Ibiza",
+        "name": "Ibiza Airport"
       }
     }
   }
