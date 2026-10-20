@@ -62464,7 +62464,7 @@
     }
   },
   "UAE4": {
-    "time": 1792358725.959225,
+    "time": 1792528529.0253153,
     "route": {
       "callsign": "UAE4",
       "callsign_icao": "UAE4",
@@ -62578,7 +62578,7 @@
     }
   },
   "BAW33A": {
-    "time": 1792358725.959225,
+    "time": 1792528529.0253153,
     "route": {
       "callsign": "BAW33A",
       "callsign_icao": "BAW33A",
@@ -141295,7 +141295,7 @@
     }
   },
   "RYR20ZC": {
-    "time": 1792441240.7567482,
+    "time": 1792528529.0253153,
     "route": {
       "callsign": "RYR20ZC",
       "callsign_icao": "RYR20ZC",
@@ -189411,6 +189411,120 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "NOZ69G": {
+    "time": 1792528529.0253153,
+    "route": {
+      "callsign": "NOZ69G",
+      "callsign_icao": "NOZ69G",
+      "callsign_iata": "69G",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 1545,
+        "iata_code": "RAK",
+        "icao_code": "GMMX",
+        "latitude": 31.6069,
+        "longitude": -8.0363,
+        "municipality": "Marrakech",
+        "name": "Menara Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "EZY79TV": {
+    "time": 1792528529.0253153,
+    "route": {
+      "callsign": "EZY79TV",
+      "callsign_icao": "EZY79TV",
+      "callsign_iata": "U279TV",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 20,
+        "iata_code": "DLM",
+        "icao_code": "LTBS",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "name": "Dalaman International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "WMT4SH": {
+    "time": 1792528529.0253153,
+    "route": {
+      "callsign": "WMT4SH",
+      "callsign_icao": "WMT4SH",
+      "callsign_iata": "W44SH",
+      "airline": {
+        "name": "Wizz Air Malta",
+        "icao": "WMT",
+        "iata": "W4",
+        "country": "Malta",
+        "country_iso": "MT",
+        "callsign": "Wizzairmalta"
+      },
+      "origin": {
+        "country_iso_name": "RO",
+        "country_name": "Romania",
+        "elevation": 1375,
+        "iata_code": "SCV",
+        "icao_code": "LRSV",
+        "latitude": 47.6875,
+        "longitude": 26.3541,
+        "municipality": "Suceava",
+        "name": "Suceava Stefan cel Mare Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
       }
     }
   }
