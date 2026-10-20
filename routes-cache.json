@@ -63908,7 +63908,7 @@
     }
   },
   "RYR9LY": {
-    "time": 1792359632.8027112,
+    "time": 1792456523.5315802,
     "route": {
       "callsign": "RYR9LY",
       "callsign_icao": "RYR9LY",
@@ -70634,7 +70634,7 @@
     }
   },
   "EZY63XA": {
-    "time": 1792368328.3999512,
+    "time": 1792456523.5315802,
     "route": {
       "callsign": "EZY63XA",
       "callsign_icao": "EZY63XA",
@@ -71432,7 +71432,7 @@
     }
   },
   "EZY75PF": {
-    "time": 1792369849.2710574,
+    "time": 1792456523.5315802,
     "route": {
       "callsign": "EZY75PF",
       "callsign_icao": "EZY75PF",
@@ -149157,6 +149157,82 @@
         "longitude": 27.6643,
         "municipality": "Bodrum",
         "name": "Milas Bodrum International Airport"
+      }
+    }
+  },
+  "EZY34PE": {
+    "time": 1792456523.5315802,
+    "route": {
+      "callsign": "EZY34PE",
+      "callsign_icao": "EZY34PE",
+      "callsign_iata": "U234PE",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1487,
+        "iata_code": "MUC",
+        "icao_code": "EDDM",
+        "latitude": 48.3538,
+        "longitude": 11.7861,
+        "municipality": "Munich",
+        "name": "Munich Airport"
+      }
+    }
+  },
+  "EZY87AK": {
+    "time": 1792456523.5315802,
+    "route": {
+      "callsign": "EZY87AK",
+      "callsign_icao": "EZY87AK",
+      "callsign_iata": "U287AK",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 32,
+        "iata_code": "HRG",
+        "icao_code": "HEGN",
+        "latitude": 27.18033,
+        "longitude": 33.80729,
+        "municipality": "Hurghada",
+        "name": "Hurghada International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
