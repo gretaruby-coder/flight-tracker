@@ -99675,7 +99675,7 @@
     }
   },
   "BAW509": {
-    "time": 1792398653.1905284,
+    "time": 1792486235.923629,
     "route": {
       "callsign": "BAW509",
       "callsign_icao": "BAW509",
@@ -99713,7 +99713,7 @@
     }
   },
   "UAE7CN": {
-    "time": 1792398653.1905284,
+    "time": 1792486235.923629,
     "route": {
       "callsign": "UAE7CN",
       "callsign_icao": "UAE7CN",
@@ -162205,6 +162205,158 @@
         "longitude": 11.1004,
         "municipality": "Oslo",
         "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "RYR16EU": {
+    "time": 1792486235.923629,
+    "route": {
+      "callsign": "RYR16EU",
+      "callsign_icao": "RYR16EU",
+      "callsign_iata": "FR16EU",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 46,
+        "iata_code": "SNN",
+        "icao_code": "EINN",
+        "latitude": 52.702,
+        "longitude": -8.92482,
+        "municipality": "Shannon",
+        "name": "Shannon Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 6,
+        "iata_code": "CFU",
+        "icao_code": "LGKR",
+        "latitude": 39.6019,
+        "longitude": 19.9117,
+        "municipality": "Kerkyra Island",
+        "name": "Ioannis Kapodistrias International Airport"
+      }
+    }
+  },
+  "FLI7200": {
+    "time": 1792486235.923629,
+    "route": {
+      "callsign": "FLI7200",
+      "callsign_icao": "FLI7200",
+      "callsign_iata": "RC7200",
+      "airline": {
+        "name": "Atlantic Airways",
+        "icao": "FLI",
+        "iata": "RC",
+        "country": "Faroe Islands",
+        "country_iso": "FO",
+        "callsign": "FAROELINE"
+      },
+      "origin": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 247,
+        "iata_code": "BLL",
+        "icao_code": "EKBI",
+        "latitude": 55.7403,
+        "longitude": 9.15178,
+        "municipality": "Billund",
+        "name": "Billund Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 93,
+        "iata_code": "XRY",
+        "icao_code": "LEJR",
+        "latitude": 36.7446,
+        "longitude": -6.06011,
+        "municipality": "Jerez de la Frontera",
+        "name": "Jerez Airport"
+      }
+    }
+  },
+  "BEL5UB": {
+    "time": 1792486235.923629,
+    "route": {
+      "callsign": "BEL5UB",
+      "callsign_icao": "BEL5UB",
+      "callsign_iata": "SN5UB",
+      "airline": {
+        "name": "Brussels Airlines",
+        "icao": "BEL",
+        "iata": "SN",
+        "country": "Belgium",
+        "country_iso": "BE",
+        "callsign": "BEE-LINE"
+      },
+      "origin": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 184,
+        "iata_code": "BRU",
+        "icao_code": "EBBR",
+        "latitude": 50.9014,
+        "longitude": 4.48444,
+        "municipality": "Brussels",
+        "name": "Brussels Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      }
+    }
+  },
+  "TOM640": {
+    "time": 1792486235.923629,
+    "route": {
+      "callsign": "TOM640",
+      "callsign_icao": "TOM640",
+      "callsign_iata": "BY640",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      },
+      "destination": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 143,
+        "iata_code": "SSH",
+        "icao_code": "HESH",
+        "latitude": 27.9773,
+        "longitude": 34.395,
+        "municipality": "Sharm el-Sheikh",
+        "name": "Sharm El Sheikh International Airport"
       }
     }
   }
