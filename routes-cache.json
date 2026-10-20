@@ -126611,7 +126611,7 @@
     }
   },
   "EZY85EC": {
-    "time": 1792422065.0661085,
+    "time": 1792539044.530671,
     "route": {
       "callsign": "EZY85EC",
       "callsign_icao": "EZY85EC",
@@ -192299,6 +192299,120 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EXS70VV": {
+    "time": 1792539044.530671,
+    "route": {
+      "callsign": "EXS70VV",
+      "callsign_icao": "EXS70VV",
+      "callsign_iata": "LS70VV",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 17,
+        "iata_code": "RHO",
+        "icao_code": "LGRP",
+        "latitude": 36.4054,
+        "longitude": 28.0862,
+        "municipality": "Rhodes Island",
+        "name": "Diagoras Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "EZY12CX": {
+    "time": 1792539044.530671,
+    "route": {
+      "callsign": "EZY12CX",
+      "callsign_icao": "EZY12CX",
+      "callsign_iata": "U212CX",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 32,
+        "iata_code": "HRG",
+        "icao_code": "HEGN",
+        "latitude": 27.18033,
+        "longitude": 33.80729,
+        "municipality": "Hurghada",
+        "name": "Hurghada International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EXS1BL": {
+    "time": 1792539044.530671,
+    "route": {
+      "callsign": "EXS1BL",
+      "callsign_icao": "EXS1BL",
+      "callsign_iata": "LS1BL",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 24,
+        "iata_code": "FAO",
+        "icao_code": "LPFR",
+        "latitude": 37.0144,
+        "longitude": -7.96591,
+        "municipality": "Faro",
+        "name": "Faro Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
       }
     }
   }
