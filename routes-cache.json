@@ -81101,7 +81101,7 @@
     }
   },
   "EWG1A": {
-    "time": 1792389661.0365825,
+    "time": 1792477525.2604442,
     "route": {
       "callsign": "EWG1A",
       "callsign_icao": "EWG1A",
@@ -83633,7 +83633,7 @@
     }
   },
   "RYR61VB": {
-    "time": 1792390537.6662269,
+    "time": 1792477525.2604442,
     "route": {
       "callsign": "RYR61VB",
       "callsign_icao": "RYR61VB",
@@ -83937,7 +83937,7 @@
     }
   },
   "SAS802": {
-    "time": 1792390836.7286158,
+    "time": 1792477525.2604442,
     "route": {
       "callsign": "SAS802",
       "callsign_icao": "SAS802",
@@ -155842,6 +155842,120 @@
         "longitude": 23.9445,
         "municipality": "Athens",
         "name": "Athens Eleftherios Venizelos International Airport"
+      }
+    }
+  },
+  "AFR021": {
+    "time": 1792477525.2604442,
+    "route": {
+      "callsign": "AFR21",
+      "callsign_icao": "AFR21",
+      "callsign_iata": "AF21",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 125,
+        "iata_code": "LAX",
+        "icao_code": "KLAX",
+        "latitude": 33.9425,
+        "longitude": -118.408,
+        "municipality": "Los Angeles",
+        "name": "Los Angeles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "EXS4AN": {
+    "time": 1792477525.2604442,
+    "route": {
+      "callsign": "EXS4AN",
+      "callsign_icao": "EXS4AN",
+      "callsign_iata": "LS4AN",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "JE",
+        "country_name": "Jersey",
+        "elevation": 277,
+        "iata_code": "JER",
+        "icao_code": "EGJJ",
+        "latitude": 49.2079,
+        "longitude": -2.19551,
+        "municipality": "Saint Helier",
+        "name": "Jersey Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "WMT462": {
+    "time": 1792477525.2604442,
+    "route": {
+      "callsign": "WMT462",
+      "callsign_icao": "WMT462",
+      "callsign_iata": "W4462",
+      "airline": {
+        "name": "Wizz Air Malta",
+        "icao": "WMT",
+        "iata": "W4",
+        "country": "Malta",
+        "country_iso": "MT",
+        "callsign": "Wizzairmalta"
+      },
+      "origin": {
+        "country_iso_name": "RO",
+        "country_name": "Romania",
+        "elevation": 314,
+        "iata_code": "OTP",
+        "icao_code": "LROP",
+        "latitude": 44.57111,
+        "longitude": 26.085,
+        "municipality": "Bucharest",
+        "name": "Henri Coand\u0103 International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
