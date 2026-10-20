@@ -17084,7 +17084,7 @@
     }
   },
   "EZY17NZ": {
-    "time": 1792334125.4382849,
+    "time": 1792533658.1904335,
     "route": {
       "callsign": "EZY17NZ",
       "callsign_icao": "EZY17NZ",
@@ -42356,7 +42356,7 @@
     }
   },
   "RYR7PG": {
-    "time": 1792347333.0377164,
+    "time": 1792533658.1904335,
     "route": {
       "callsign": "RYR7PG",
       "callsign_icao": "RYR7PG",
@@ -62806,7 +62806,7 @@
     }
   },
   "ELY318": {
-    "time": 1792445454.361687,
+    "time": 1792533658.1904335,
     "route": {
       "callsign": "ELY318",
       "callsign_icao": "ELY318",
@@ -144487,7 +144487,7 @@
     }
   },
   "BCS39G": {
-    "time": 1792446636.972005,
+    "time": 1792533658.1904335,
     "route": {
       "callsign": "BCS39G",
       "callsign_icao": "BCS39G",
@@ -144639,7 +144639,7 @@
     }
   },
   "FPO9NN": {
-    "time": 1792446636.972005,
+    "time": 1792533658.1904335,
     "route": {
       "callsign": "FPO9NN",
       "callsign_icao": "FPO9NN",
@@ -190893,6 +190893,82 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "EXS61H": {
+    "time": 1792533658.1904335,
+    "route": {
+      "callsign": "EXS61H",
+      "callsign_icao": "EXS61H",
+      "callsign_iata": "LS61H",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 15,
+        "iata_code": "ZTH",
+        "icao_code": "LGZA",
+        "latitude": 37.7509,
+        "longitude": 20.8843,
+        "municipality": "Zakynthos Island",
+        "name": "Zakynthos International Airport \"Dionysios Solomos\""
+      }
+    }
+  },
+  "WUK42AM": {
+    "time": 1792533658.1904335,
+    "route": {
+      "callsign": "WUK42AM",
+      "callsign_icao": "WUK42AM",
+      "callsign_iata": "W942AM",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "MD",
+        "country_name": "Moldova",
+        "elevation": 399,
+        "iata_code": "RMO",
+        "icao_code": "LUKK",
+        "latitude": 46.9277,
+        "longitude": 28.931,
+        "municipality": "Chi\u015fin\u0103u",
+        "name": "Chi\u015fin\u0103u International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
