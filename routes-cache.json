@@ -21820,7 +21820,7 @@
     }
   },
   "FIN1336": {
-    "time": 1792423527.4240727,
+    "time": 1792509928.3181617,
     "route": {
       "callsign": "FIN1336",
       "callsign_icao": "FIN1336",
@@ -22832,7 +22832,7 @@
     }
   },
   "RYR41ZL": {
-    "time": 1792337724.976824,
+    "time": 1792509928.3181617,
     "route": {
       "callsign": "RYR41ZL",
       "callsign_icao": "RYR41ZL",
@@ -24459,7 +24459,7 @@
     }
   },
   "EIN16T": {
-    "time": 1792338633.2016463,
+    "time": 1792509928.3181617,
     "route": {
       "callsign": "EIN16T",
       "callsign_icao": "EIN16T",
@@ -25205,7 +25205,7 @@
     }
   },
   "KLM37X": {
-    "time": 1792338926.3716824,
+    "time": 1792509928.3181617,
     "route": {
       "callsign": "KLM37X",
       "callsign_icao": "KLM37X",
@@ -25844,7 +25844,7 @@
     }
   },
   "QTR21L": {
-    "time": 1792339263.8696632,
+    "time": 1792509928.3181617,
     "route": {
       "callsign": "QTR21L",
       "callsign_icao": "QTR21L",
@@ -46895,7 +46895,7 @@
     }
   },
   "BAW907": {
-    "time": 1792349435.389201,
+    "time": 1792509928.3181617,
     "route": {
       "callsign": "BAW907",
       "callsign_icao": "BAW907",
@@ -180261,6 +180261,158 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "AFR8F": {
+    "time": 1792509928.3181617,
+    "route": {
+      "callsign": "AFR8F",
+      "callsign_icao": "AFR8F",
+      "callsign_iata": "AF8F",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      }
+    }
+  },
+  "RYR51YC": {
+    "time": 1792509928.3181617,
+    "route": {
+      "callsign": "RYR51YC",
+      "callsign_icao": "RYR51YC",
+      "callsign_iata": "FR51YC",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      }
+    }
+  },
+  "EZY95QB": {
+    "time": 1792509928.3181617,
+    "route": {
+      "callsign": "EZY95QB",
+      "callsign_icao": "EZY95QB",
+      "callsign_iata": "U295QB",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 21,
+        "iata_code": "BJV",
+        "icao_code": "LTFE",
+        "latitude": 37.2506,
+        "longitude": 27.6643,
+        "municipality": "Bodrum",
+        "name": "Milas Bodrum International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "WUK8ED": {
+    "time": 1792509928.3181617,
+    "route": {
+      "callsign": "WUK8ED",
+      "callsign_icao": "WUK8ED",
+      "callsign_iata": "W98ED",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "BG",
+        "country_name": "Bulgaria",
+        "elevation": 135,
+        "iata_code": "BOJ",
+        "icao_code": "LBBG",
+        "latitude": 42.5696,
+        "longitude": 27.5152,
+        "municipality": "Burgas",
+        "name": "Burgas Airport"
       }
     }
   }
