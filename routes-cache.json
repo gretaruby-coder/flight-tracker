@@ -43002,7 +43002,7 @@
     }
   },
   "RYR3EY": {
-    "time": 1792347632.3299024,
+    "time": 1792523127.3882005,
     "route": {
       "callsign": "RYR3EY",
       "callsign_icao": "RYR3EY",
@@ -47959,7 +47959,7 @@
     }
   },
   "DLH8H": {
-    "time": 1792436463.4727983,
+    "time": 1792523127.3882005,
     "route": {
       "callsign": "DLH8H",
       "callsign_icao": "DLH8H",
@@ -48415,7 +48415,7 @@
     }
   },
   "BAW31": {
-    "time": 1792350329.6665013,
+    "time": 1792523127.3882005,
     "route": {
       "callsign": "BAW31",
       "callsign_icao": "BAW31",
@@ -48947,7 +48947,7 @@
     }
   },
   "BAW11": {
-    "time": 1792350633.428958,
+    "time": 1792523127.3882005,
     "route": {
       "callsign": "BAW11",
       "callsign_icao": "BAW11",
@@ -64060,7 +64060,7 @@
     }
   },
   "ABY259": {
-    "time": 1792359632.8027112,
+    "time": 1792523127.3882005,
     "route": {
       "callsign": "ABY259",
       "callsign_icao": "ABY259",
@@ -187280,6 +187280,120 @@
         "longitude": -2.71909,
         "municipality": "Bristol",
         "name": "Bristol Airport"
+      }
+    }
+  },
+  "RYR5996": {
+    "time": 1792523127.3882005,
+    "route": {
+      "callsign": "RYR5996",
+      "callsign_icao": "RYR5996",
+      "callsign_iata": "FR5996",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 1998,
+        "iata_code": "MAD",
+        "icao_code": "LEMD",
+        "latitude": 40.47193,
+        "longitude": -3.56264,
+        "municipality": "Madrid",
+        "name": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport"
+      }
+    }
+  },
+  "AFR59MN": {
+    "time": 1792523127.3882005,
+    "route": {
+      "callsign": "AFR59MN",
+      "callsign_icao": "AFR59MN",
+      "callsign_iata": "AF59MN",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "RYR80DH": {
+    "time": 1792523127.3882005,
+    "route": {
+      "callsign": "RYR80DH",
+      "callsign_icao": "RYR80DH",
+      "callsign_iata": "FR80DH",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
       }
     }
   }
