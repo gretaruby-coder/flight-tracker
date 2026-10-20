@@ -7816,7 +7816,7 @@
     }
   },
   "BAW733": {
-    "time": 1792415128.9426377,
+    "time": 1792523733.9172297,
     "route": {
       "callsign": "BAW733",
       "callsign_icao": "BAW733",
@@ -45109,7 +45109,7 @@
     }
   },
   "LGL4597": {
-    "time": 1792435239.2716877,
+    "time": 1792523733.9172297,
     "route": {
       "callsign": "LGL4597",
       "callsign_icao": "LGL4597",
@@ -47845,7 +47845,7 @@
     }
   },
   "AFR54EF": {
-    "time": 1792350059.427342,
+    "time": 1792523733.9172297,
     "route": {
       "callsign": "AFR54EF",
       "callsign_icao": "AFR54EF",
@@ -48453,7 +48453,7 @@
     }
   },
   "BAW998": {
-    "time": 1792350329.6665013,
+    "time": 1792523733.9172297,
     "route": {
       "callsign": "BAW998",
       "callsign_icao": "BAW998",
@@ -57165,7 +57165,7 @@
     }
   },
   "EFW5BR": {
-    "time": 1792355125.808983,
+    "time": 1792523733.9172297,
     "route": {
       "callsign": "EFW5BR",
       "callsign_icao": "EFW5BR",
@@ -187501,6 +187501,189 @@
         "longitude": -4.49911,
         "municipality": "M\u00e1laga",
         "name": "M\u00e1laga-Costa del Sol Airport"
+      }
+    }
+  },
+  "AFR012": {
+    "time": 1792523733.9172297,
+    "route": {
+      "callsign": "AFR12",
+      "callsign_icao": "AFR12",
+      "callsign_iata": "AF12",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      }
+    }
+  },
+  "BAW311": {
+    "time": 1792523733.9172297,
+    "route": {
+      "callsign": "BAW311",
+      "callsign_icao": "BAW311",
+      "callsign_iata": "BA311",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "DZ",
+        "country_name": "Algeria",
+        "elevation": 82,
+        "iata_code": "ALG",
+        "icao_code": "DAAG",
+        "latitude": 36.691,
+        "longitude": 3.21541,
+        "municipality": "Algiers",
+        "name": "Houari Boumediene Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "DCBAY": {
+    "time": 1792523733.9172297,
+    "route": {
+      "callsign": "DCBAY",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 37,
+        "iata_code": "OLB",
+        "icao_code": "LIEO",
+        "latitude": 40.8987,
+        "longitude": 9.51763,
+        "municipality": "Olbia (SS)",
+        "name": "Olbia Costa Smeralda Airport"
+      },
+      "destination": {
+        "country_iso_name": "RO",
+        "country_name": "Romania",
+        "elevation": 297,
+        "iata_code": "BBU",
+        "icao_code": "LRBS",
+        "latitude": 44.5032,
+        "longitude": 26.1021,
+        "municipality": "Bucharest",
+        "name": "B\u0103neasa International Airport"
+      }
+    }
+  },
+  "TOM259": {
+    "time": 1792523733.9172297,
+    "route": {
+      "callsign": "TOM259",
+      "callsign_icao": "TOM259",
+      "callsign_iata": "BY259",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "CV",
+        "country_name": "Cape Verde",
+        "elevation": 69,
+        "iata_code": "BVC",
+        "icao_code": "GVBA",
+        "latitude": 16.1365,
+        "longitude": -22.8889,
+        "municipality": "Rabil",
+        "name": "Rabil Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "NOZ85W": {
+    "time": 1792523733.9172297,
+    "route": {
+      "callsign": "NOZ85W",
+      "callsign_icao": "NOZ85W",
+      "callsign_iata": "85W",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 192,
+        "iata_code": "FNC",
+        "icao_code": "LPMA",
+        "latitude": 32.6979,
+        "longitude": -16.7745,
+        "municipality": "Funchal",
+        "name": "Madeira International Airport Cristiano Ronaldo"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
       }
     }
   }
