@@ -43748,7 +43748,7 @@
     }
   },
   "RYR59JH": {
-    "time": 1792347924.7523627,
+    "time": 1792533324.2854428,
     "route": {
       "callsign": "RYR59JH",
       "callsign_icao": "RYR59JH",
@@ -190817,6 +190817,82 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "EZY78NM": {
+    "time": 1792533324.2854428,
+    "route": {
+      "callsign": "EZY78NM",
+      "callsign_icao": "EZY78NM",
+      "callsign_iata": "U278NM",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 21,
+        "iata_code": "BJV",
+        "icao_code": "LTFE",
+        "latitude": 37.2506,
+        "longitude": 27.6643,
+        "municipality": "Bodrum",
+        "name": "Milas Bodrum International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "RUK95CA": {
+    "time": 1792533324.2854428,
+    "route": {
+      "callsign": "RUK95CA",
+      "callsign_icao": "RUK95CA",
+      "callsign_iata": "RK95CA",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 74,
+        "iata_code": "MRS",
+        "icao_code": "LFML",
+        "latitude": 43.43927,
+        "longitude": 5.22142,
+        "municipality": "Marseille",
+        "name": "Marseille Provence Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
