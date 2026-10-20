@@ -64250,7 +64250,7 @@
     }
   },
   "BAW83": {
-    "time": 1792359931.7378163,
+    "time": 1792534236.4767663,
     "route": {
       "callsign": "BAW83",
       "callsign_icao": "BAW83",
@@ -191045,6 +191045,120 @@
         "longitude": -99.0721,
         "municipality": "Mexico City",
         "name": "Licenciado Benito Juarez International Airport"
+      }
+    }
+  },
+  "EZY72AZ": {
+    "time": 1792534236.4767663,
+    "route": {
+      "callsign": "EZY72AZ",
+      "callsign_icao": "EZY72AZ",
+      "callsign_iata": "U272AZ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 302,
+        "iata_code": "MAH",
+        "icao_code": "LEMH",
+        "latitude": 39.8626,
+        "longitude": 4.21865,
+        "municipality": "Menorca Island",
+        "name": "Menorca Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "EZY87RX": {
+    "time": 1792534236.4767663,
+    "route": {
+      "callsign": "EZY87RX",
+      "callsign_icao": "EZY87RX",
+      "callsign_iata": "U287RX",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 17,
+        "iata_code": "RHO",
+        "icao_code": "LGRP",
+        "latitude": 36.4054,
+        "longitude": 28.0862,
+        "municipality": "Rhodes Island",
+        "name": "Diagoras Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "TOM76G": {
+    "time": 1792534236.4767663,
+    "route": {
+      "callsign": "TOM76G",
+      "callsign_icao": "TOM76G",
+      "callsign_iata": "BY76G",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
       }
     }
   }
