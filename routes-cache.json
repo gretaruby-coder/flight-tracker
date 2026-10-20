@@ -13557,7 +13557,7 @@
     }
   },
   "BAW332": {
-    "time": 1792332059.3780794,
+    "time": 1792509639.1354954,
     "route": {
       "callsign": "BAW332",
       "callsign_icao": "BAW332",
@@ -20566,7 +20566,7 @@
     }
   },
   "BAW331": {
-    "time": 1792423235.8178196,
+    "time": 1792509639.1354954,
     "route": {
       "callsign": "BAW331",
       "callsign_icao": "BAW331",
@@ -22946,7 +22946,7 @@
     }
   },
   "VIR153": {
-    "time": 1792337724.976824,
+    "time": 1792509639.1354954,
     "route": {
       "callsign": "VIR153",
       "callsign_icao": "VIR153",
@@ -25060,7 +25060,7 @@
     }
   },
   "VJT474": {
-    "time": 1792338926.3716824,
+    "time": 1792509639.1354954,
     "route": {
       "callsign": "VJT474",
       "callsign_icao": null,
@@ -33012,7 +33012,7 @@
     }
   },
   "SHT8C": {
-    "time": 1792343124.8844082,
+    "time": 1792509639.1354954,
     "route": {
       "callsign": "SHT8C",
       "callsign_icao": null,
@@ -37986,7 +37986,7 @@
     }
   },
   "BAW689": {
-    "time": 1792345232.7395291,
+    "time": 1792509639.1354954,
     "route": {
       "callsign": "BAW689",
       "callsign_icao": "BAW689",
@@ -58951,7 +58951,7 @@
     }
   },
   "EZY87KZ": {
-    "time": 1792356331.9304788,
+    "time": 1792509639.1354954,
     "route": {
       "callsign": "EZY87KZ",
       "callsign_icao": "EZY87KZ",
@@ -87046,7 +87046,7 @@
     }
   },
   "EZY69RJ": {
-    "time": 1792392336.407588,
+    "time": 1792509639.1354954,
     "route": {
       "callsign": "EZY69RJ",
       "callsign_icao": "EZY69RJ",
@@ -126048,7 +126048,7 @@
     }
   },
   "JAL45": {
-    "time": 1792421439.7294157,
+    "time": 1792509639.1354954,
     "route": {
       "callsign": "JAL45",
       "callsign_icao": "JAL45",
@@ -180116,6 +180116,151 @@
         "longitude": 30.8005,
         "municipality": "Antalya",
         "name": "Antalya International Airport"
+      }
+    }
+  },
+  "EXS91WA": {
+    "time": 1792509639.1354954,
+    "route": {
+      "callsign": "EXS91WA",
+      "callsign_icao": "EXS91WA",
+      "callsign_iata": "LS91WA",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 80,
+        "iata_code": "LPL",
+        "icao_code": "EGGP",
+        "latitude": 53.3336,
+        "longitude": -2.84972,
+        "municipality": "Liverpool",
+        "name": "Liverpool John Lennon Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 115,
+        "iata_code": "HER",
+        "icao_code": "LGIR",
+        "latitude": 35.3397,
+        "longitude": 25.1803,
+        "municipality": "Heraklion",
+        "name": "Heraklion International Nikos Kazantzakis Airport"
+      }
+    }
+  },
+  "EZY87PY": {
+    "time": 1792509639.1354954,
+    "route": {
+      "callsign": "EZY87PY",
+      "callsign_icao": "EZY87PY",
+      "callsign_iata": "U287PY",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 85,
+        "iata_code": "FUE",
+        "icao_code": "GCFV",
+        "latitude": 28.4527,
+        "longitude": -13.8638,
+        "municipality": "Fuerteventura Island",
+        "name": "Fuerteventura Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "2RUFF": {
+    "time": 1792509639.1354954,
+    "route": {
+      "callsign": "2RUFF",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 125,
+        "iata_code": "MGL",
+        "icao_code": "EDLN",
+        "latitude": 51.23028,
+        "longitude": 6.50444,
+        "municipality": "M\u00f6nchengladbach",
+        "name": "M\u00f6nchengladbach Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 125,
+        "iata_code": "MGL",
+        "icao_code": "EDLN",
+        "latitude": 51.23028,
+        "longitude": 6.50444,
+        "municipality": "M\u00f6nchengladbach",
+        "name": "M\u00f6nchengladbach Airport"
+      }
+    }
+  },
+  "EFW12LS": {
+    "time": 1792509639.1354954,
+    "route": {
+      "callsign": "EFW12LS",
+      "callsign_icao": "EFW12LS",
+      "callsign_iata": "A012LS",
+      "airline": {
+        "name": "BA Euroflyer",
+        "icao": "EFW",
+        "iata": "A0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Griffin"
+      },
+      "origin": {
+        "country_iso_name": "MT",
+        "country_name": "Malta",
+        "elevation": 300,
+        "iata_code": "MLA",
+        "icao_code": "LMML",
+        "latitude": 35.8575,
+        "longitude": 14.4775,
+        "municipality": "Valletta",
+        "name": "Malta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
