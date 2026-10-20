@@ -92998,7 +92998,7 @@
     }
   },
   "KLM81E": {
-    "time": 1792395323.9689205,
+    "time": 1792485048.6188636,
     "route": {
       "callsign": "KLM81E",
       "callsign_icao": "KLM81E",
@@ -97568,7 +97568,7 @@
     }
   },
   "ITY202": {
-    "time": 1792397434.4842212,
+    "time": 1792485048.6188636,
     "route": {
       "callsign": "ITY202",
       "callsign_icao": "ITY202",
@@ -98055,7 +98055,7 @@
     }
   },
   "DLH7HH": {
-    "time": 1792397733.7780166,
+    "time": 1792485048.6188636,
     "route": {
       "callsign": "DLH7HH",
       "callsign_icao": "DLH7HH",
@@ -99112,7 +99112,7 @@
     }
   },
   "SWR1MY": {
-    "time": 1792398327.7226243,
+    "time": 1792485048.6188636,
     "route": {
       "callsign": "SWR1MY",
       "callsign_icao": "SWR1MY",
@@ -99295,7 +99295,7 @@
     }
   },
   "BAW2LJ": {
-    "time": 1792398327.7226243,
+    "time": 1792485048.6188636,
     "route": {
       "callsign": "BAW2LJ",
       "callsign_icao": "BAW2LJ",
@@ -161483,6 +161483,158 @@
         "longitude": 12.252,
         "municipality": "Rome",
         "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      }
+    }
+  },
+  "BAW872": {
+    "time": 1792485048.6188636,
+    "route": {
+      "callsign": "BAW872",
+      "callsign_icao": "BAW872",
+      "callsign_iata": "BA872",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "PL",
+        "country_name": "Poland",
+        "elevation": 791,
+        "iata_code": "KRK",
+        "icao_code": "EPKK",
+        "latitude": 50.0777,
+        "longitude": 19.7848,
+        "municipality": "Krak\u00f3w",
+        "name": "Krak\u00f3w John Paul II International Airport"
+      }
+    }
+  },
+  "UAL54": {
+    "time": 1792485048.6188636,
+    "route": {
+      "callsign": "UAL54",
+      "callsign_icao": "UAL54",
+      "callsign_iata": "UA54",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "BAW914": {
+    "time": 1792485048.6188636,
+    "route": {
+      "callsign": "BAW914",
+      "callsign_icao": "BAW914",
+      "callsign_iata": "BA914",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "RYR78GP": {
+    "time": 1792485048.6188636,
+    "route": {
+      "callsign": "RYR78GP",
+      "callsign_icao": "RYR78GP",
+      "callsign_iata": "FR78GP",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 24,
+        "iata_code": "FAO",
+        "icao_code": "LPFR",
+        "latitude": 37.0144,
+        "longitude": -7.96591,
+        "municipality": "Faro",
+        "name": "Faro Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
       }
     }
   }
