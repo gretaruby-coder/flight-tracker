@@ -45489,7 +45489,7 @@
     }
   },
   "BAW78U": {
-    "time": 1792436126.1125948,
+    "time": 1792525837.3451953,
     "route": {
       "callsign": "BAW78U",
       "callsign_icao": "BAW78U",
@@ -47085,7 +47085,7 @@
     }
   },
   "CFE221": {
-    "time": 1792438835.9696612,
+    "time": 1792525837.3451953,
     "route": {
       "callsign": "CFE221",
       "callsign_icao": "CFE221",
@@ -49327,7 +49327,7 @@
     }
   },
   "CFE76D": {
-    "time": 1792439135.0413277,
+    "time": 1792525837.3451953,
     "route": {
       "callsign": "CFE76D",
       "callsign_icao": "CFE76D",
@@ -52170,7 +52170,7 @@
     }
   },
   "CPA256": {
-    "time": 1792352434.2227666,
+    "time": 1792525837.3451953,
     "route": {
       "callsign": "CPA256",
       "callsign_icao": "CPA256",
@@ -52284,7 +52284,7 @@
     }
   },
   "AFR49VJ": {
-    "time": 1792439435.3915195,
+    "time": 1792525837.3451953,
     "route": {
       "callsign": "AFR49VJ",
       "callsign_icao": "AFR49VJ",
@@ -52436,7 +52436,7 @@
     }
   },
   "LBT845": {
-    "time": 1792352434.2227666,
+    "time": 1792525837.3451953,
     "route": {
       "callsign": "LBT845",
       "callsign_icao": "LBT845",
@@ -52854,7 +52854,7 @@
     }
   },
   "THY9PG": {
-    "time": 1792439135.0413277,
+    "time": 1792525837.3451953,
     "route": {
       "callsign": "THY9PG",
       "callsign_icao": "THY9PG",
@@ -53196,7 +53196,7 @@
     }
   },
   "SAS87J": {
-    "time": 1792439135.0413277,
+    "time": 1792525837.3451953,
     "route": {
       "callsign": "SAS87J",
       "callsign_icao": "SAS87J",
@@ -54443,7 +54443,7 @@
     }
   },
   "AEE2FL": {
-    "time": 1792353663.465291,
+    "time": 1792525837.3451953,
     "route": {
       "callsign": "AEE2FL",
       "callsign_icao": "AEE2FL",
@@ -58229,7 +58229,7 @@
     }
   },
   "RYR16UF": {
-    "time": 1792356034.9002278,
+    "time": 1792525837.3451953,
     "route": {
       "callsign": "RYR16UF",
       "callsign_icao": "RYR16UF",
@@ -67138,7 +67138,7 @@
     }
   },
   "EZY34HW": {
-    "time": 1792362034.9890163,
+    "time": 1792525837.3451953,
     "route": {
       "callsign": "EZY34HW",
       "callsign_icao": "EZY34HW",
@@ -188727,6 +188727,82 @@
         "longitude": 11.1004,
         "municipality": "Oslo",
         "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "RYR92LR": {
+    "time": 1792525837.3451953,
+    "route": {
+      "callsign": "RYR92LR",
+      "callsign_icao": "RYR92LR",
+      "callsign_iata": "FR92LR",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 359,
+        "iata_code": "BVA",
+        "icao_code": "LFOB",
+        "latitude": 49.4544,
+        "longitude": 2.11278,
+        "municipality": "Beauvais",
+        "name": "Paris Beauvais Till\u00e9 Airport"
+      }
+    }
+  },
+  "WUK13GW": {
+    "time": 1792525837.3451953,
+    "route": {
+      "callsign": "WUK13GW",
+      "callsign_icao": "WUK13GW",
+      "callsign_iata": "W913GW",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "AL",
+        "country_name": "Albania",
+        "elevation": 126,
+        "iata_code": "TIA",
+        "icao_code": "LATI",
+        "latitude": 41.4147,
+        "longitude": 19.7206,
+        "municipality": "Tirana",
+        "name": "Tirana International Airport Mother Teresa"
       }
     }
   }
