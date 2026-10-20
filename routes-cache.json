@@ -51524,7 +51524,7 @@
     }
   },
   "SWR39L": {
-    "time": 1792352125.655487,
+    "time": 1792525239.8759522,
     "route": {
       "callsign": "SWR39L",
       "callsign_icao": "SWR39L",
@@ -52550,7 +52550,7 @@
     }
   },
   "IBE07HA": {
-    "time": 1792352733.020722,
+    "time": 1792525239.8759522,
     "route": {
       "callsign": "IBE07HA",
       "callsign_icao": "IBE07HA",
@@ -188437,6 +188437,82 @@
         "longitude": -6.27007,
         "municipality": "Dublin",
         "name": "Dublin Airport"
+      }
+    }
+  },
+  "RYR96HW": {
+    "time": 1792525239.8759522,
+    "route": {
+      "callsign": "RYR96HW",
+      "callsign_icao": "RYR96HW",
+      "callsign_iata": "FR96HW",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EJU47QR": {
+    "time": 1792525239.8759522,
+    "route": {
+      "callsign": "EJU47QR",
+      "callsign_icao": "EJU47QR",
+      "callsign_iata": "EC47QR",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
       }
     }
   }
