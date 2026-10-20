@@ -74389,7 +74389,7 @@
     }
   },
   "DAL30": {
-    "time": 1792384833.4097877,
+    "time": 1792472460.184454,
     "route": {
       "callsign": "DAL30",
       "callsign_icao": "DAL30",
@@ -74845,7 +74845,7 @@
     }
   },
   "ACA826": {
-    "time": 1792385725.0543563,
+    "time": 1792472460.184454,
     "route": {
       "callsign": "ACA826",
       "callsign_icao": "ACA826",
@@ -152087,6 +152087,82 @@
         "longitude": 16.5697,
         "municipality": "Vienna",
         "name": "Vienna International Airport"
+      }
+    }
+  },
+  "ACA892": {
+    "time": 1792472460.184454,
+    "route": {
+      "callsign": "ACA892",
+      "callsign_icao": "ACA892",
+      "callsign_iata": "AC892",
+      "airline": {
+        "name": "Air Canada",
+        "icao": "ACA",
+        "iata": "AC",
+        "country": "Canada",
+        "country_iso": "CA",
+        "callsign": "AIR CANADA"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 118,
+        "iata_code": "YUL",
+        "icao_code": "CYUL",
+        "latitude": 45.4706,
+        "longitude": -73.7408,
+        "municipality": "Montr\u00e9al",
+        "name": "Montreal / Pierre Elliott Trudeau International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      }
+    }
+  },
+  "CHG562": {
+    "time": 1792472460.184454,
+    "route": {
+      "callsign": "CHG562",
+      "callsign_icao": "CHG562",
+      "callsign_iata": "562",
+      "airline": {
+        "name": "AC Challenge Aero",
+        "icao": "CHG",
+        "iata": null,
+        "country": "Ukraine",
+        "country_iso": "UA",
+        "callsign": "SKY CHALLENGER"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1026,
+        "iata_code": "ATL",
+        "icao_code": "KATL",
+        "latitude": 33.6367,
+        "longitude": -84.4281,
+        "municipality": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 659,
+        "iata_code": "LGG",
+        "icao_code": "EBLG",
+        "latitude": 50.6374,
+        "longitude": 5.44322,
+        "municipality": "Li\u00e8ge",
+        "name": "Li\u00e8ge Airport"
       }
     }
   }
