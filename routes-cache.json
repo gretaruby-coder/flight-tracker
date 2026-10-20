@@ -70824,7 +70824,7 @@
     }
   },
   "RYR200Z": {
-    "time": 1792368634.9059415,
+    "time": 1792536034.2218804,
     "route": {
       "callsign": "RYR200Z",
       "callsign_icao": "RYR200Z",
@@ -113326,7 +113326,7 @@
     }
   },
   "RYR70GE": {
-    "time": 1792407662.8025937,
+    "time": 1792536034.2218804,
     "route": {
       "callsign": "RYR70GE",
       "callsign_icao": "RYR70GE",
@@ -146007,7 +146007,7 @@
     }
   },
   "RYR4ZQ": {
-    "time": 1792449048.3132746,
+    "time": 1792536034.2218804,
     "route": {
       "callsign": "RYR4ZQ",
       "callsign_icao": "RYR4ZQ",
@@ -191615,6 +191615,120 @@
         "longitude": -2.84972,
         "municipality": "Liverpool",
         "name": "Liverpool John Lennon Airport"
+      }
+    }
+  },
+  "RYR61FA": {
+    "time": 1792536034.2218804,
+    "route": {
+      "callsign": "RYR61FA",
+      "callsign_icao": "RYR61FA",
+      "callsign_iata": "FR61FA",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 302,
+        "iata_code": "CGN",
+        "icao_code": "EDDK",
+        "latitude": 50.8659,
+        "longitude": 7.14274,
+        "municipality": "Cologne",
+        "name": "Cologne Bonn Airport"
+      },
+      "destination": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      }
+    }
+  },
+  "EZY48VW": {
+    "time": 1792536034.2218804,
+    "route": {
+      "callsign": "EZY48VW",
+      "callsign_icao": "EZY48VW",
+      "callsign_iata": "U248VW",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 37,
+        "iata_code": "OLB",
+        "icao_code": "LIEO",
+        "latitude": 40.8987,
+        "longitude": 9.51763,
+        "municipality": "Olbia (SS)",
+        "name": "Olbia Costa Smeralda Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "RUK3213": {
+    "time": 1792536034.2218804,
+    "route": {
+      "callsign": "RUK3213",
+      "callsign_icao": "RUK3213",
+      "callsign_iata": "RK3213",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 468,
+        "iata_code": "GRO",
+        "icao_code": "LEGE",
+        "latitude": 41.901,
+        "longitude": 2.76055,
+        "municipality": "Girona",
+        "name": "Girona-Costa Brava Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
