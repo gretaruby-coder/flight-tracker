@@ -85761,7 +85761,7 @@
     }
   },
   "KQA108": {
-    "time": 1792391727.08599,
+    "time": 1792483258.2646089,
     "route": {
       "callsign": "KQA108",
       "callsign_icao": "KQA108",
@@ -93492,7 +93492,7 @@
     }
   },
   "SHT3G": {
-    "time": 1792395637.796459,
+    "time": 1792483258.2646089,
     "route": {
       "callsign": "SHT3G",
       "callsign_icao": null,
@@ -94656,7 +94656,7 @@
     }
   },
   "EZY728U": {
-    "time": 1792395955.864105,
+    "time": 1792483258.2646089,
     "route": {
       "callsign": "EZY728U",
       "callsign_icao": "EZY728U",
@@ -95599,7 +95599,7 @@
     }
   },
   "ACA852": {
-    "time": 1792396525.4631486,
+    "time": 1792483258.2646089,
     "route": {
       "callsign": "ACA852",
       "callsign_icao": "ACA852",
@@ -96017,7 +96017,7 @@
     }
   },
   "RYR161B": {
-    "time": 1792396525.4631486,
+    "time": 1792483258.2646089,
     "route": {
       "callsign": "RYR161B",
       "callsign_icao": "RYR161B",
@@ -160153,6 +160153,120 @@
         "longitude": 5.21814,
         "municipality": "Bergen",
         "name": "Bergen Airport, Flesland"
+      }
+    }
+  },
+  "ACA906": {
+    "time": 1792483258.2646089,
+    "route": {
+      "callsign": "ACA906",
+      "callsign_icao": "ACA906",
+      "callsign_iata": "AC906",
+      "airline": {
+        "name": "Air Canada",
+        "icao": "ACA",
+        "iata": "AC",
+        "country": "Canada",
+        "country_iso": "CA",
+        "callsign": "AIR CANADA"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      }
+    }
+  },
+  "RUK1593": {
+    "time": 1792483258.2646089,
+    "route": {
+      "callsign": "RUK1593",
+      "callsign_icao": "RUK1593",
+      "callsign_iata": "RK1593",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 302,
+        "iata_code": "CGN",
+        "icao_code": "EDDK",
+        "latitude": 50.8659,
+        "longitude": 7.14274,
+        "municipality": "Cologne",
+        "name": "Cologne Bonn Airport"
+      }
+    }
+  },
+  "EZY45WJ": {
+    "time": 1792483258.2646089,
+    "route": {
+      "callsign": "EZY45WJ",
+      "callsign_icao": "EZY45WJ",
+      "callsign_iata": "U245WJ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 15,
+        "iata_code": "BHD",
+        "icao_code": "EGAC",
+        "latitude": 54.6181,
+        "longitude": -5.8725,
+        "municipality": "Belfast",
+        "name": "George Best Belfast City Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
