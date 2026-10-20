@@ -36936,7 +36936,7 @@
     }
   },
   "WMT3EU": {
-    "time": 1792431327.3763099,
+    "time": 1792526458.7611718,
     "route": {
       "callsign": "WMT3EU",
       "callsign_icao": "WMT3EU",
@@ -51600,7 +51600,7 @@
     }
   },
   "BAW239": {
-    "time": 1792352125.655487,
+    "time": 1792526458.7611718,
     "route": {
       "callsign": "BAW239",
       "callsign_icao": "BAW239",
@@ -52132,7 +52132,7 @@
     }
   },
   "LGL4L": {
-    "time": 1792352125.655487,
+    "time": 1792526458.7611718,
     "route": {
       "callsign": "LGL4L",
       "callsign_icao": "LGL4L",
@@ -52246,7 +52246,7 @@
     }
   },
   "IGO24V": {
-    "time": 1792438835.9696612,
+    "time": 1792526458.7611718,
     "route": {
       "callsign": "IGO24V",
       "callsign_icao": "IGO24V",
@@ -52778,7 +52778,7 @@
     }
   },
   "DLH3VT": {
-    "time": 1792439727.8030915,
+    "time": 1792526458.7611718,
     "route": {
       "callsign": "DLH3VT",
       "callsign_icao": "DLH3VT",
@@ -53873,7 +53873,7 @@
     }
   },
   "BAW508": {
-    "time": 1792353325.7062087,
+    "time": 1792526458.7611718,
     "route": {
       "callsign": "BAW508",
       "callsign_icao": "BAW508",
@@ -55165,7 +55165,7 @@
     }
   },
   "KLC90N": {
-    "time": 1792353930.780132,
+    "time": 1792526458.7611718,
     "route": {
       "callsign": "KLC90N",
       "callsign_icao": "KLC90N",
@@ -58343,7 +58343,7 @@
     }
   },
   "UAL122": {
-    "time": 1792356034.9002278,
+    "time": 1792526458.7611718,
     "route": {
       "callsign": "UAL122",
       "callsign_icao": "UAL122",
@@ -139599,7 +139599,7 @@
     }
   },
   "EZY46MD": {
-    "time": 1792437636.9904287,
+    "time": 1792526458.7611718,
     "route": {
       "callsign": "EZY46MD",
       "callsign_icao": "EZY46MD",
@@ -188879,6 +188879,82 @@
         "longitude": -8.68139,
         "municipality": "Porto",
         "name": "Francisco de S\u00e1 Carneiro Airport"
+      }
+    }
+  },
+  "EJU62ZG": {
+    "time": 1792526458.7611718,
+    "route": {
+      "callsign": "EJU62ZG",
+      "callsign_icao": "EJU62ZG",
+      "callsign_iata": "EC62ZG",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 266,
+        "iata_code": "NCL",
+        "icao_code": "EGNT",
+        "latitude": 55.0375,
+        "longitude": -1.69167,
+        "municipality": "Newcastle",
+        "name": "Newcastle Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
+      }
+    }
+  },
+  "EZY58CV": {
+    "time": 1792526458.7611718,
+    "route": {
+      "callsign": "EZY58CV",
+      "callsign_icao": "EZY58CV",
+      "callsign_iata": "U258CV",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
