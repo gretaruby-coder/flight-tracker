@@ -32746,7 +32746,7 @@
     }
   },
   "EZY794E": {
-    "time": 1792342862.0372162,
+    "time": 1792484134.0208344,
     "route": {
       "callsign": "EZY794E",
       "callsign_icao": "EZY794E",
@@ -40190,7 +40190,7 @@
     }
   },
   "EZY82AU": {
-    "time": 1792346125.00109,
+    "time": 1792484134.0208344,
     "route": {
       "callsign": "EZY82AU",
       "callsign_icao": "EZY82AU",
@@ -95903,7 +95903,7 @@
     }
   },
   "BAW779C": {
-    "time": 1792396525.4631486,
+    "time": 1792484134.0208344,
     "route": {
       "callsign": "BAW779C",
       "callsign_icao": "BAW779C",
@@ -96853,7 +96853,7 @@
     }
   },
   "SWR8HG": {
-    "time": 1792397129.0689895,
+    "time": 1792484134.0208344,
     "route": {
       "callsign": "SWR8HG",
       "callsign_icao": "SWR8HG",
@@ -98093,7 +98093,7 @@
     }
   },
   "BAW9EW": {
-    "time": 1792397733.7780166,
+    "time": 1792484134.0208344,
     "route": {
       "callsign": "BAW9EW",
       "callsign_icao": "BAW9EW",
@@ -98131,7 +98131,7 @@
     }
   },
   "ACA864": {
-    "time": 1792397733.7780166,
+    "time": 1792484134.0208344,
     "route": {
       "callsign": "ACA864",
       "callsign_icao": "ACA864",
@@ -98321,7 +98321,7 @@
     }
   },
   "AFR71PP": {
-    "time": 1792397733.7780166,
+    "time": 1792484134.0208344,
     "route": {
       "callsign": "AFR71PP",
       "callsign_icao": "AFR71PP",
@@ -160837,6 +160837,120 @@
         "longitude": 10.8885,
         "municipality": "Verona",
         "name": "Verona Villafranca Airport"
+      }
+    }
+  },
+  "BOX459": {
+    "time": 1792484134.0208344,
+    "route": {
+      "callsign": "BOX459",
+      "callsign_icao": "BOX459",
+      "callsign_iata": "3S459",
+      "airline": {
+        "name": "AeroLogic",
+        "icao": "BOX",
+        "iata": "3S",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "GERMAN CARGO"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1026,
+        "iata_code": "ATL",
+        "icao_code": "KATL",
+        "latitude": 33.6367,
+        "longitude": -84.4281,
+        "municipality": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "DLH8UL": {
+    "time": 1792484134.0208344,
+    "route": {
+      "callsign": "DLH8UL",
+      "callsign_icao": "DLH8UL",
+      "callsign_iata": "LH8UL",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 53,
+        "iata_code": "HAM",
+        "icao_code": "EDDH",
+        "latitude": 53.6304,
+        "longitude": 9.98823,
+        "municipality": "Hamburg",
+        "name": "Hamburg Helmut Schmidt Airport"
+      }
+    }
+  },
+  "EZY42QP": {
+    "time": 1792484134.0208344,
+    "route": {
+      "callsign": "EZY42QP",
+      "callsign_icao": "EZY42QP",
+      "callsign_iata": "U242QP",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "IM",
+        "country_name": "Isle of Man",
+        "elevation": 52,
+        "iata_code": "IOM",
+        "icao_code": "EGNS",
+        "latitude": 54.0833,
+        "longitude": -4.62389,
+        "municipality": "Castletown",
+        "name": "Isle of Man Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
