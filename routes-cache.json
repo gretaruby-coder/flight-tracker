@@ -69684,7 +69684,7 @@
     }
   },
   "RYR2JF": {
-    "time": 1792365632.3764815,
+    "time": 1792454725.6143842,
     "route": {
       "callsign": "RYR2JF",
       "callsign_icao": "RYR2JF",
@@ -148587,6 +148587,120 @@
         "longitude": -1.8425,
         "municipality": "Bournemouth",
         "name": "Bournemouth Airport"
+      }
+    }
+  },
+  "RJA272": {
+    "time": 1792454725.6143842,
+    "route": {
+      "callsign": "RJA272",
+      "callsign_icao": "RJA272",
+      "callsign_iata": "RJ272",
+      "airline": {
+        "name": "Royal Jordanian",
+        "icao": "RJA",
+        "iata": "RJ",
+        "country": "Jordan",
+        "country_iso": "JO",
+        "callsign": "JORDANIAN"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 645,
+        "iata_code": "DTW",
+        "icao_code": "KDTW",
+        "latitude": 42.2124,
+        "longitude": -83.3534,
+        "municipality": "Detroit",
+        "name": "Detroit Metropolitan Wayne County Airport"
+      },
+      "destination": {
+        "country_iso_name": "JO",
+        "country_name": "Jordan",
+        "elevation": 2395,
+        "iata_code": "AMM",
+        "icao_code": "OJAI",
+        "latitude": 31.7226,
+        "longitude": 35.9932,
+        "municipality": "Amman",
+        "name": "Queen Alia International Airport"
+      }
+    }
+  },
+  "EZY8284": {
+    "time": 1792454725.6143842,
+    "route": {
+      "callsign": "EZY8284",
+      "callsign_icao": "EZY8284",
+      "callsign_iata": "U28284",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 353,
+        "iata_code": "LIN",
+        "icao_code": "LIML",
+        "latitude": 45.4451,
+        "longitude": 9.27674,
+        "municipality": "Milan",
+        "name": "Milano Linate Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "RYR37SU": {
+    "time": 1792454725.6143842,
+    "route": {
+      "callsign": "RYR37SU",
+      "callsign_icao": "RYR37SU",
+      "callsign_iata": "FR37SU",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "RO",
+        "country_name": "Romania",
+        "elevation": 314,
+        "iata_code": "OTP",
+        "icao_code": "LROP",
+        "latitude": 44.57111,
+        "longitude": 26.085,
+        "municipality": "Bucharest",
+        "name": "Henri Coand\u0103 International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
