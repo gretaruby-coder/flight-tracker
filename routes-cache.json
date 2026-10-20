@@ -71318,7 +71318,7 @@
     }
   },
   "WUK597": {
-    "time": 1792369849.2710574,
+    "time": 1792460729.5899806,
     "route": {
       "callsign": "WUK597",
       "callsign_icao": "WUK597",
@@ -150335,6 +150335,44 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "ETD16": {
+    "time": 1792460729.5899806,
+    "route": {
+      "callsign": "ETD16",
+      "callsign_icao": "ETD16",
+      "callsign_iata": "EY16",
+      "airline": {
+        "name": "Etihad Airways",
+        "icao": "ETD",
+        "iata": "EY",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "ETIHAD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 88,
+        "iata_code": "AUH",
+        "icao_code": "OMAA",
+        "latitude": 24.44376,
+        "longitude": 54.65172,
+        "municipality": "Abu Dhabi",
+        "name": "Abu Dhabi International Airport"
       }
     }
   }
