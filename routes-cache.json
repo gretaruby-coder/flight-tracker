@@ -8310,7 +8310,7 @@
     }
   },
   "EZY31QZ": {
-    "time": 1792328726.1860528,
+    "time": 1792488652.528372,
     "route": {
       "callsign": "EZY31QZ",
       "callsign_icao": "EZY31QZ",
@@ -26452,7 +26452,7 @@
     }
   },
   "RYR72SR": {
-    "time": 1792339524.7963963,
+    "time": 1792488652.528372,
     "route": {
       "callsign": "RYR72SR",
       "callsign_icao": "RYR72SR",
@@ -62540,7 +62540,7 @@
     }
   },
   "EZY58ER": {
-    "time": 1792358725.959225,
+    "time": 1792488652.528372,
     "route": {
       "callsign": "EZY58ER",
       "callsign_icao": "EZY58ER",
@@ -103174,7 +103174,7 @@
     }
   },
   "KLM195": {
-    "time": 1792400727.3413322,
+    "time": 1792488652.528372,
     "route": {
       "callsign": "KLM195",
       "callsign_icao": "KLM195",
@@ -103440,7 +103440,7 @@
     }
   },
   "BAW5WB": {
-    "time": 1792401040.7950327,
+    "time": 1792488652.528372,
     "route": {
       "callsign": "BAW5WB",
       "callsign_icao": "BAW5WB",
@@ -104459,7 +104459,7 @@
     }
   },
   "BAW379": {
-    "time": 1792401336.2871988,
+    "time": 1792488652.528372,
     "route": {
       "callsign": "BAW379",
       "callsign_icao": "BAW379",
@@ -104908,7 +104908,7 @@
     }
   },
   "BAW65": {
-    "time": 1792401927.6541204,
+    "time": 1792488652.528372,
     "route": {
       "callsign": "BAW65",
       "callsign_icao": "BAW65",
@@ -105326,7 +105326,7 @@
     }
   },
   "AAL109": {
-    "time": 1792402250.8314908,
+    "time": 1792488652.528372,
     "route": {
       "callsign": "AAL109",
       "callsign_icao": "AAL109",
@@ -105402,7 +105402,7 @@
     }
   },
   "BAW22E": {
-    "time": 1792402250.8314908,
+    "time": 1792488652.528372,
     "route": {
       "callsign": "BAW22E",
       "callsign_icao": "BAW22E",
@@ -105592,7 +105592,7 @@
     }
   },
   "BAW8K": {
-    "time": 1792402250.8314908,
+    "time": 1792488652.528372,
     "route": {
       "callsign": "BAW8K",
       "callsign_icao": "BAW8K",
@@ -105744,7 +105744,7 @@
     }
   },
   "BAW2X": {
-    "time": 1792402250.8314908,
+    "time": 1792488652.528372,
     "route": {
       "callsign": "BAW2X",
       "callsign_icao": "BAW2X",
@@ -163794,6 +163794,82 @@
         "longitude": 55.3644,
         "municipality": "Dubai",
         "name": "Dubai International Airport"
+      }
+    }
+  },
+  "THY8MS": {
+    "time": 1792488652.528372,
+    "route": {
+      "callsign": "THY8MS",
+      "callsign_icao": "THY8MS",
+      "callsign_iata": "TK8MS",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 5889,
+        "iata_code": "KSY",
+        "icao_code": "LTCF",
+        "latitude": 40.5622,
+        "longitude": 43.115,
+        "municipality": "Kars",
+        "name": "Kars Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
+      }
+    }
+  },
+  "TFL17T": {
+    "time": 1792488652.528372,
+    "route": {
+      "callsign": "TFL17T",
+      "callsign_icao": "TFL17T",
+      "callsign_iata": "OR17T",
+      "airline": {
+        "name": "Arkefly",
+        "icao": "TFL",
+        "iata": "OR",
+        "country": "Netherlands",
+        "country_iso": "NL",
+        "callsign": "ARKEFLY"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -15,
+        "iata_code": "RTM",
+        "icao_code": "EHRD",
+        "latitude": 51.9569,
+        "longitude": 4.43722,
+        "municipality": "Rotterdam",
+        "name": "Rotterdam The Hague Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
       }
     }
   }
