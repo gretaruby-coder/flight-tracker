@@ -49783,7 +49783,7 @@
     }
   },
   "BAW495": {
-    "time": 1792350933.0581455,
+    "time": 1792529137.2984955,
     "route": {
       "callsign": "BAW495",
       "callsign_icao": "BAW495",
@@ -57697,7 +57697,7 @@
     }
   },
   "BAW43HA": {
-    "time": 1792441851.4631376,
+    "time": 1792529137.2984955,
     "route": {
       "callsign": "BAW43HA",
       "callsign_icao": "BAW43HA",
@@ -57887,7 +57887,7 @@
     }
   },
   "BAW314S": {
-    "time": 1792355724.8831859,
+    "time": 1792529137.2984955,
     "route": {
       "callsign": "BAW314S",
       "callsign_icao": "BAW314S",
@@ -58723,7 +58723,7 @@
     }
   },
   "BAW890": {
-    "time": 1792356331.9304788,
+    "time": 1792529137.2984955,
     "route": {
       "callsign": "BAW890",
       "callsign_icao": "BAW890",
@@ -58837,7 +58837,7 @@
     }
   },
   "EZY57HU": {
-    "time": 1792356331.9304788,
+    "time": 1792529137.2984955,
     "route": {
       "callsign": "EZY57HU",
       "callsign_icao": "EZY57HU",
@@ -60623,7 +60623,7 @@
     }
   },
   "ELY314": {
-    "time": 1792357261.517396,
+    "time": 1792529137.2984955,
     "route": {
       "callsign": "ELY314",
       "callsign_icao": "ELY314",
@@ -61749,7 +61749,7 @@
     }
   },
   "TAP31TY": {
-    "time": 1792358133.0134444,
+    "time": 1792529137.2984955,
     "route": {
       "callsign": "TAP31TY",
       "callsign_icao": "TAP31TY",
@@ -61787,7 +61787,7 @@
     }
   },
   "BAW465M": {
-    "time": 1792358133.0134444,
+    "time": 1792529137.2984955,
     "route": {
       "callsign": "BAW465M",
       "callsign_icao": "BAW465M",
@@ -66834,7 +66834,7 @@
     }
   },
   "EXS7FN": {
-    "time": 1792362034.9890163,
+    "time": 1792529137.2984955,
     "route": {
       "callsign": "EXS7FN",
       "callsign_icao": "EXS7FN",
@@ -189639,6 +189639,82 @@
         "longitude": 5.21814,
         "municipality": "Bergen",
         "name": "Bergen Airport, Flesland"
+      }
+    }
+  },
+  "CSN654": {
+    "time": 1792529137.2984955,
+    "route": {
+      "callsign": "CSN654",
+      "callsign_icao": "CSN654",
+      "callsign_iata": "CZ654",
+      "airline": {
+        "name": "China Southern Airlines",
+        "icao": "CSN",
+        "iata": "CZ",
+        "country": "China",
+        "country_iso": "CN",
+        "callsign": "CHINA SOUTHERN"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "CN",
+        "country_name": "China",
+        "elevation": 495,
+        "iata_code": "CGO",
+        "icao_code": "ZHCC",
+        "latitude": 34.5197,
+        "longitude": 113.841,
+        "municipality": "Zhengzhou",
+        "name": "Zhengzhou Xinzheng International Airport"
+      }
+    }
+  },
+  "EXS6KU": {
+    "time": 1792529137.2984955,
+    "route": {
+      "callsign": "EXS6KU",
+      "callsign_icao": "EXS6KU",
+      "callsign_iata": "LS6KU",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 681,
+        "iata_code": "LBA",
+        "icao_code": "EGNM",
+        "latitude": 53.8659,
+        "longitude": -1.66057,
+        "municipality": "Leeds",
+        "name": "Leeds Bradford Airport"
+      },
+      "destination": {
+        "country_iso_name": "BG",
+        "country_name": "Bulgaria",
+        "elevation": 135,
+        "iata_code": "BOJ",
+        "icao_code": "LBBG",
+        "latitude": 42.5696,
+        "longitude": 27.5152,
+        "municipality": "Burgas",
+        "name": "Burgas Airport"
       }
     }
   }
