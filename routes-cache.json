@@ -73895,7 +73895,7 @@
     }
   },
   "BAW216": {
-    "time": 1792384246.6079667,
+    "time": 1792472126.0274982,
     "route": {
       "callsign": "BAW216",
       "callsign_icao": "BAW216",
@@ -74655,7 +74655,7 @@
     }
   },
   "VIR450": {
-    "time": 1792385434.6314087,
+    "time": 1792472126.0274982,
     "route": {
       "callsign": "VIR450",
       "callsign_icao": "VIR450",
@@ -74807,7 +74807,7 @@
     }
   },
   "BAW40F": {
-    "time": 1792385434.6314087,
+    "time": 1792472126.0274982,
     "route": {
       "callsign": "BAW40F",
       "callsign_icao": "BAW40F",
@@ -152049,6 +152049,44 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "AUA42": {
+    "time": 1792472126.0274982,
+    "route": {
+      "callsign": "AUA42",
+      "callsign_icao": "AUA42",
+      "callsign_iata": "OS42",
+      "airline": {
+        "name": "Austrian Airlines",
+        "icao": "AUA",
+        "iata": "OS",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "AUSTRIAN"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 312,
+        "iata_code": "IAD",
+        "icao_code": "KIAD",
+        "latitude": 38.9445,
+        "longitude": -77.4558,
+        "municipality": "Washington",
+        "name": "Washington Dulles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 600,
+        "iata_code": "VIE",
+        "icao_code": "LOWW",
+        "latitude": 48.1103,
+        "longitude": 16.5697,
+        "municipality": "Vienna",
+        "name": "Vienna International Airport"
       }
     }
   }
