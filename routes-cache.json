@@ -418,7 +418,7 @@
     }
   },
   "THY3UN": {
-    "time": 1792332059.3780794,
+    "time": 1792504864.9872358,
     "route": {
       "callsign": "THY3UN",
       "callsign_icao": "THY3UN",
@@ -8949,7 +8949,7 @@
     }
   },
   "BAW873": {
-    "time": 1792329034.4253557,
+    "time": 1792504864.9872358,
     "route": {
       "callsign": "BAW873",
       "callsign_icao": "BAW873",
@@ -13215,7 +13215,7 @@
     }
   },
   "SWR13Y": {
-    "time": 1792331724.1598558,
+    "time": 1792504864.9872358,
     "route": {
       "callsign": "SWR13Y",
       "callsign_icao": "SWR13Y",
@@ -13823,7 +13823,7 @@
     }
   },
   "AFR85WE": {
-    "time": 1792418463.5885205,
+    "time": 1792504864.9872358,
     "route": {
       "callsign": "AFR85WE",
       "callsign_icao": "AFR85WE",
@@ -14621,7 +14621,7 @@
     }
   },
   "EXS31NH": {
-    "time": 1792332634.3750288,
+    "time": 1792504864.9872358,
     "route": {
       "callsign": "EXS31NH",
       "callsign_icao": "EXS31NH",
@@ -14811,7 +14811,7 @@
     }
   },
   "EFW22D": {
-    "time": 1792332634.3750288,
+    "time": 1792504864.9872358,
     "route": {
       "callsign": "EFW22D",
       "callsign_icao": "EFW22D",
@@ -16286,7 +16286,7 @@
     }
   },
   "BAW853S": {
-    "time": 1792333528.1251373,
+    "time": 1792504864.9872358,
     "route": {
       "callsign": "BAW853S",
       "callsign_icao": "BAW853S",
@@ -21212,7 +21212,7 @@
     }
   },
   "EZY82JC": {
-    "time": 1792336534.8641913,
+    "time": 1792504864.9872358,
     "route": {
       "callsign": "EZY82JC",
       "callsign_icao": "EZY82JC",
@@ -123309,7 +123309,7 @@
     }
   },
   "VIR141": {
-    "time": 1792417835.9010825,
+    "time": 1792504864.9872358,
     "route": {
       "callsign": "VIR141",
       "callsign_icao": "VIR141",
@@ -176478,6 +176478,82 @@
         "longitude": 9.98823,
         "municipality": "Hamburg",
         "name": "Hamburg Helmut Schmidt Airport"
+      }
+    }
+  },
+  "EXS1434": {
+    "time": 1792504864.9872358,
+    "route": {
+      "callsign": "EXS1434",
+      "callsign_icao": "EXS1434",
+      "callsign_iata": "LS1434",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 177,
+        "iata_code": "AYT",
+        "icao_code": "LTAI",
+        "latitude": 36.8987,
+        "longitude": 30.8005,
+        "municipality": "Antalya",
+        "name": "Antalya International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "RYR643J": {
+    "time": 1792504864.9872358,
+    "route": {
+      "callsign": "RYR643J",
+      "callsign_icao": "RYR643J",
+      "callsign_iata": "FR643J",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 90,
+        "iata_code": "NTE",
+        "icao_code": "LFRS",
+        "latitude": 47.1532,
+        "longitude": -1.61073,
+        "municipality": "Nantes",
+        "name": "Nantes Atlantique Airport"
       }
     }
   }
