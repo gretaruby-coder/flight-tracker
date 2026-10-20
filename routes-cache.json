@@ -943,7 +943,7 @@
     }
   },
   "EIN161": {
-    "time": 1792335033.5903208,
+    "time": 1792506041.259105,
     "route": {
       "callsign": "EIN161",
       "callsign_icao": "EIN161",
@@ -15374,7 +15374,7 @@
     }
   },
   "DLH4JK": {
-    "time": 1792419336.5817926,
+    "time": 1792506041.259105,
     "route": {
       "callsign": "DLH4JK",
       "callsign_icao": "DLH4JK",
@@ -40608,7 +40608,7 @@
     }
   },
   "EZY861Z": {
-    "time": 1792346462.6271145,
+    "time": 1792506041.259105,
     "route": {
       "callsign": "EZY861Z",
       "callsign_icao": "EZY861Z",
@@ -177352,6 +177352,120 @@
         "longitude": -1.74803,
         "municipality": "Birmingham",
         "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "NOZ22R": {
+    "time": 1792506041.259105,
+    "route": {
+      "callsign": "NOZ22R",
+      "callsign_icao": "NOZ22R",
+      "callsign_iata": "22R",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      }
+    }
+  },
+  "NOZ1VE": {
+    "time": 1792506041.259105,
+    "route": {
+      "callsign": "NOZ1VE",
+      "callsign_icao": "NOZ1VE",
+      "callsign_iata": "1VE",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "EZY92EP": {
+    "time": 1792506041.259105,
+    "route": {
+      "callsign": "EZY92EP",
+      "callsign_icao": "EZY92EP",
+      "callsign_iata": "U292EP",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 59,
+        "iata_code": "EFL",
+        "icao_code": "LGKF",
+        "latitude": 38.1201,
+        "longitude": 20.5005,
+        "municipality": "Kefallinia Island",
+        "name": "Kefallinia Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
