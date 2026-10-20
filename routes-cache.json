@@ -56481,7 +56481,7 @@
     }
   },
   "SAS534": {
-    "time": 1792441524.40407,
+    "time": 1792527926.1456368,
     "route": {
       "callsign": "SAS534",
       "callsign_icao": "SAS534",
@@ -57241,7 +57241,7 @@
     }
   },
   "NOZ7YW": {
-    "time": 1792355125.808983,
+    "time": 1792527926.1456368,
     "route": {
       "callsign": "NOZ7YW",
       "callsign_icao": "NOZ7YW",
@@ -60471,7 +60471,7 @@
     }
   },
   "BAW895": {
-    "time": 1792357261.517396,
+    "time": 1792527926.1456368,
     "route": {
       "callsign": "BAW895",
       "callsign_icao": "BAW895",
@@ -64516,7 +64516,7 @@
     }
   },
   "EZY93HL": {
-    "time": 1792359931.7378163,
+    "time": 1792527926.1456368,
     "route": {
       "callsign": "EZY93HL",
       "callsign_icao": "EZY93HL",
@@ -129654,7 +129654,7 @@
     }
   },
   "EZY96WL": {
-    "time": 1792425929.3858402,
+    "time": 1792527926.1456368,
     "route": {
       "callsign": "EZY96WL",
       "callsign_icao": "EZY96WL",
@@ -141333,7 +141333,7 @@
     }
   },
   "SXS6TK": {
-    "time": 1792441240.7567482,
+    "time": 1792527926.1456368,
     "route": {
       "callsign": "SXS6TK",
       "callsign_icao": "SXS6TK",
@@ -141371,7 +141371,7 @@
     }
   },
   "KLC1131": {
-    "time": 1792441524.40407,
+    "time": 1792527926.1456368,
     "route": {
       "callsign": "KLC1131",
       "callsign_icao": "KLC1131",
@@ -189297,6 +189297,120 @@
         "longitude": -3.34333,
         "municipality": "Cardiff",
         "name": "Cardiff International Airport"
+      }
+    }
+  },
+  "EXS95H": {
+    "time": 1792527926.1456368,
+    "route": {
+      "callsign": "EXS95H",
+      "callsign_icao": "EXS95H",
+      "callsign_iata": "LS95H",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 54,
+        "iata_code": "JSI",
+        "icao_code": "LGSK",
+        "latitude": 39.1771,
+        "longitude": 23.5037,
+        "municipality": "Skiathos",
+        "name": "Skiathos Island National Airport"
+      }
+    }
+  },
+  "BAW2065": {
+    "time": 1792527926.1456368,
+    "route": {
+      "callsign": "BAW2065",
+      "callsign_icao": "BAW2065",
+      "callsign_iata": "BA2065",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "MU",
+        "country_name": "Mauritius",
+        "elevation": 186,
+        "iata_code": "MRU",
+        "icao_code": "FIMP",
+        "latitude": -20.4302,
+        "longitude": 57.6836,
+        "municipality": "Plaine Magnein",
+        "name": "Sir Seewoosagur Ramgoolam International Airport"
+      }
+    }
+  },
+  "AFR1268": {
+    "time": 1792527926.1456368,
+    "route": {
+      "callsign": "AFR1268",
+      "callsign_icao": "AFR1268",
+      "callsign_iata": "AF62GQ",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
