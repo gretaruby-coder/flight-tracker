@@ -69798,7 +69798,7 @@
     }
   },
   "EZY24LT": {
-    "time": 1792365632.3764815,
+    "time": 1792537259.0779324,
     "route": {
       "callsign": "EZY24LT",
       "callsign_icao": "EZY24LT",
@@ -191881,6 +191881,158 @@
         "longitude": 8.72811,
         "municipality": "Milan",
         "name": "Malpensa International Airport"
+      }
+    }
+  },
+  "EZY17MR": {
+    "time": 1792537259.0779324,
+    "route": {
+      "callsign": "EZY17MR",
+      "callsign_icao": "EZY17MR",
+      "callsign_iata": "U217MR",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 80,
+        "iata_code": "LPL",
+        "icao_code": "EGGP",
+        "latitude": 53.3336,
+        "longitude": -2.84972,
+        "municipality": "Liverpool",
+        "name": "Liverpool John Lennon Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      }
+    }
+  },
+  "RYR61": {
+    "time": 1792537259.0779324,
+    "route": {
+      "callsign": "RYR61",
+      "callsign_icao": "RYR61",
+      "callsign_iata": "FR61",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 163,
+        "iata_code": null,
+        "icao_code": "EGSY",
+        "latitude": 51.4048,
+        "longitude": -3.43575,
+        "municipality": "St. Athan",
+        "name": "St. Athan Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 123,
+        "iata_code": "BLQ",
+        "icao_code": "LIPE",
+        "latitude": 44.5354,
+        "longitude": 11.2887,
+        "municipality": "Bologna",
+        "name": "Bologna Guglielmo Marconi Airport"
+      }
+    }
+  },
+  "EZY34KL": {
+    "time": 1792537259.0779324,
+    "route": {
+      "callsign": "EZY34KL",
+      "callsign_icao": "EZY34KL",
+      "callsign_iata": "U234KL",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "WUK4R": {
+    "time": 1792537259.0779324,
+    "route": {
+      "callsign": "WUK4R",
+      "callsign_icao": "WUK4R",
+      "callsign_iata": "W94R",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 1998,
+        "iata_code": "MAD",
+        "icao_code": "LEMD",
+        "latitude": 40.47193,
+        "longitude": -3.56264,
+        "municipality": "Madrid",
+        "name": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
