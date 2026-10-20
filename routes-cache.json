@@ -100549,7 +100549,7 @@
     }
   },
   "THY30S": {
-    "time": 1792398925.3177173,
+    "time": 1792487126.6863565,
     "route": {
       "callsign": "THY30S",
       "callsign_icao": "THY30S",
@@ -101554,7 +101554,7 @@
     }
   },
   "QTR120": {
-    "time": 1792399536.4579718,
+    "time": 1792487126.6863565,
     "route": {
       "callsign": "QTR120",
       "callsign_icao": "QTR120",
@@ -102535,7 +102535,7 @@
     }
   },
   "IBE07SG": {
-    "time": 1792400126.360863,
+    "time": 1792487126.6863565,
     "route": {
       "callsign": "IBE07SG",
       "callsign_icao": "IBE07SG",
@@ -102687,7 +102687,7 @@
     }
   },
   "AAL134": {
-    "time": 1792400463.2989936,
+    "time": 1792487126.6863565,
     "route": {
       "callsign": "AAL134",
       "callsign_icao": "AAL134",
@@ -162844,6 +162844,158 @@
         "longitude": 8.57056,
         "municipality": "Frankfurt am Main",
         "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "SWR3AV": {
+    "time": 1792487126.6863565,
+    "route": {
+      "callsign": "SWR3AV",
+      "callsign_icao": "SWR3AV",
+      "callsign_iata": "LX3AV",
+      "airline": {
+        "name": "Swiss International Air Lines",
+        "icao": "SWR",
+        "iata": "LX",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": "SWISS"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
+      }
+    }
+  },
+  "ACA842": {
+    "time": 1792487126.6863565,
+    "route": {
+      "callsign": "ACA842",
+      "callsign_icao": "ACA842",
+      "callsign_iata": "AC842",
+      "airline": {
+        "name": "Air Canada",
+        "icao": "ACA",
+        "iata": "AC",
+        "country": "Canada",
+        "country_iso": "CA",
+        "callsign": "AIR CANADA"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "RYR6VW": {
+    "time": 1792487126.6863565,
+    "route": {
+      "callsign": "RYR6VW",
+      "callsign_icao": "RYR6VW",
+      "callsign_iata": "FR6VW",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 65,
+        "iata_code": "PIK",
+        "icao_code": "EGPK",
+        "latitude": 55.502,
+        "longitude": -4.58702,
+        "municipality": "Prestwick, South Ayrshire",
+        "name": "Glasgow Prestwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
+      }
+    }
+  },
+  "RYR81EN": {
+    "time": 1792487126.6863565,
+    "route": {
+      "callsign": "RYR81EN",
+      "callsign_icao": "RYR81EN",
+      "callsign_iata": "FR81EN",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 665,
+        "iata_code": "NOC",
+        "icao_code": "EIKN",
+        "latitude": 53.9103,
+        "longitude": -8.81849,
+        "municipality": "Charlestown",
+        "name": "Ireland West Knock Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
