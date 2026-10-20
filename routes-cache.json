@@ -563,7 +563,7 @@
     }
   },
   "BAW865": {
-    "time": 1792420254.2195206,
+    "time": 1792516836.6101844,
     "route": {
       "callsign": "BAW865",
       "callsign_icao": "BAW865",
@@ -1209,7 +1209,7 @@
     }
   },
   "BAW484C": {
-    "time": 1792342524.5909483,
+    "time": 1792516836.6101844,
     "route": {
       "callsign": "BAW484C",
       "callsign_icao": "BAW484C",
@@ -32556,7 +32556,7 @@
     }
   },
   "BAW5VY": {
-    "time": 1792429265.0756001,
+    "time": 1792516836.6101844,
     "route": {
       "callsign": "BAW5VY",
       "callsign_icao": "BAW5VY",
@@ -34359,7 +34359,7 @@
     }
   },
   "DLH918": {
-    "time": 1792429838.0893567,
+    "time": 1792516836.6101844,
     "route": {
       "callsign": "DLH918",
       "callsign_icao": "DLH918",
@@ -36518,7 +36518,7 @@
     }
   },
   "BAW461": {
-    "time": 1792344648.0972672,
+    "time": 1792516836.6101844,
     "route": {
       "callsign": "BAW461",
       "callsign_icao": "BAW461",
@@ -37081,7 +37081,7 @@
     }
   },
   "BAW834": {
-    "time": 1792344924.832382,
+    "time": 1792516836.6101844,
     "route": {
       "callsign": "BAW834",
       "callsign_icao": "BAW834",
@@ -38062,7 +38062,7 @@
     }
   },
   "SWR3F": {
-    "time": 1792345232.7395291,
+    "time": 1792516836.6101844,
     "route": {
       "callsign": "SWR3F",
       "callsign_icao": "SWR3F",
@@ -39392,7 +39392,7 @@
     }
   },
   "EZY12BE": {
-    "time": 1792345834.7131286,
+    "time": 1792516836.6101844,
     "route": {
       "callsign": "EZY12BE",
       "callsign_icao": "EZY12BE",
@@ -40646,7 +40646,7 @@
     }
   },
   "CFE37E": {
-    "time": 1792346462.6271145,
+    "time": 1792516836.6101844,
     "route": {
       "callsign": "CFE37E",
       "callsign_icao": "CFE37E",
@@ -44090,7 +44090,7 @@
     }
   },
   "EZY82WL": {
-    "time": 1792347924.7523627,
+    "time": 1792516836.6101844,
     "route": {
       "callsign": "EZY82WL",
       "callsign_icao": "EZY82WL",
@@ -50574,7 +50574,7 @@
     }
   },
   "ABY258": {
-    "time": 1792351234.8614054,
+    "time": 1792516836.6101844,
     "route": {
       "callsign": "ABY258",
       "callsign_icao": "ABY258",
@@ -132072,7 +132072,7 @@
     }
   },
   "SWR18P": {
-    "time": 1792428336.9751124,
+    "time": 1792516836.6101844,
     "route": {
       "callsign": "SWR18P",
       "callsign_icao": "SWR18P",
@@ -184292,6 +184292,82 @@
         "longitude": 28.0862,
         "municipality": "Rhodes Island",
         "name": "Diagoras Airport"
+      }
+    }
+  },
+  "EZY23ZV": {
+    "time": 1792516836.6101844,
+    "route": {
+      "callsign": "EZY23ZV",
+      "callsign_icao": "EZY23ZV",
+      "callsign_iata": "U223ZV",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 302,
+        "iata_code": "MAH",
+        "icao_code": "LEMH",
+        "latitude": 39.8626,
+        "longitude": 4.21865,
+        "municipality": "Menorca Island",
+        "name": "Menorca Airport"
+      }
+    }
+  },
+  "SWR52": {
+    "time": 1792516836.6101844,
+    "route": {
+      "callsign": "SWR52",
+      "callsign_icao": "SWR52",
+      "callsign_iata": "LX52",
+      "airline": {
+        "name": "Swiss International Air Lines",
+        "icao": "SWR",
+        "iata": "LX",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": "SWISS"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 20,
+        "iata_code": "BOS",
+        "icao_code": "KBOS",
+        "latitude": 42.3643,
+        "longitude": -71.0052,
+        "municipality": "Boston",
+        "name": "Logan International Airport"
       }
     }
   }
