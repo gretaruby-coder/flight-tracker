@@ -1,76 +1,9 @@
 {
-  "updated": "2026-10-21T02:15:34.223921+00:00",
+  "updated": "2026-10-21T02:20:33.068562+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": [
-    {
-      "hex": "3c64ef",
-      "type": "adsb_icao",
-      "flight": "DLH401  ",
-      "r": "D-AIGO",
-      "t": "A343",
-      "desc": "AIRBUS A-340-300",
-      "alt_baro": 39000,
-      "alt_geom": 39175,
-      "gs": 478.9,
-      "ias": 247,
-      "tas": 468,
-      "mach": 0.796,
-      "wd": 211,
-      "ws": 38,
-      "oat": -46,
-      "tat": -17,
-      "track": 99.01,
-      "track_rate": 0.0,
-      "roll": 0.0,
-      "mag_heading": 102.13,
-      "true_heading": 103.41,
-      "baro_rate": 0,
-      "geom_rate": 32,
-      "squawk": "2237",
-      "emergency": "none",
-      "category": "A5",
-      "nav_qnh": 1012.8,
-      "nav_altitude_mcp": 39008,
-      "lat": 51.332501,
-      "lon": 0.119019,
-      "nic": 8,
-      "rc": 186,
-      "seen_pos": 0.468,
-      "version": 2,
-      "nic_baro": 1,
-      "nac_p": 9,
-      "nac_v": 1,
-      "sil": 3,
-      "sil_type": "perhour",
-      "gva": 2,
-      "sda": 2,
-      "alert": 0,
-      "spi": 0,
-      "mlat": [],
-      "tisb": [],
-      "messages": 142137,
-      "seen": 0.0,
-      "rssi": -7.8,
-      "dst": 20.952,
-      "dir": 109.4,
-      "registered_owner": "Lufthansa",
-      "registered_owner_operator_flag_code": "DLH",
-      "origin": {
-        "iata": "JFK",
-        "icao": "KJFK",
-        "name": "John F Kennedy International Airport"
-      },
-      "destination": {
-        "iata": "FRA",
-        "icao": "EDDF",
-        "name": "Frankfurt am Main Airport"
-      },
-      "airline_name": "Lufthansa",
-      "airline_iata": "LH"
-    }
-  ]
+  "aircraft": []
 }
