@@ -3402,7 +3402,7 @@
     }
   },
   "ACA860": {
-    "time": 1792497327.8695738,
+    "time": 1792584635.7873878,
     "route": {
       "callsign": "ACA860",
       "callsign_icao": "ACA860",
@@ -4628,7 +4628,7 @@
     }
   },
   "EXS28V": {
-    "time": 1792325126.6556811,
+    "time": 1792584635.7873878,
     "route": {
       "callsign": "EXS28V",
       "callsign_icao": "EXS28V",
@@ -12234,7 +12234,7 @@
     }
   },
   "EXS4GC": {
-    "time": 1792331133.358789,
+    "time": 1792584635.7873878,
     "route": {
       "callsign": "EXS4GC",
       "callsign_icao": "EXS4GC",
@@ -97347,7 +97347,7 @@
     }
   },
   "BAW716": {
-    "time": 1792397434.4842212,
+    "time": 1792584635.7873878,
     "route": {
       "callsign": "BAW716",
       "callsign_icao": "BAW716",
@@ -116252,7 +116252,7 @@
     }
   },
   "AEE1SC": {
-    "time": 1792497663.4505832,
+    "time": 1792584635.7873878,
     "route": {
       "callsign": "AEE1SC",
       "callsign_icao": "AEE1SC",
@@ -125060,7 +125060,7 @@
     }
   },
   "BAW72J": {
-    "time": 1792420254.2195206,
+    "time": 1792584635.7873878,
     "route": {
       "callsign": "BAW72J",
       "callsign_icao": "BAW72J",
@@ -204738,6 +204738,120 @@
         "longitude": 22.9709,
         "municipality": "Thessaloniki",
         "name": "Thessaloniki Macedonia International Airport"
+      }
+    }
+  },
+  "DAL231": {
+    "time": 1792584635.7873878,
+    "route": {
+      "callsign": "DAL231",
+      "callsign_icao": "DAL231",
+      "callsign_iata": "DL231",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 435,
+        "iata_code": "RDU",
+        "icao_code": "KRDU",
+        "latitude": 35.8776,
+        "longitude": -78.7875,
+        "municipality": "Raleigh/Durham",
+        "name": "Raleigh Durham International Airport"
+      }
+    }
+  },
+  "EXS9WF": {
+    "time": 1792584635.7873878,
+    "route": {
+      "callsign": "EXS9WF",
+      "callsign_icao": "EXS9WF",
+      "callsign_iata": "LS9WF",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
+      }
+    }
+  },
+  "WUK8MQ": {
+    "time": 1792584635.7873878,
+    "route": {
+      "callsign": "WUK8MQ",
+      "callsign_icao": "WUK8MQ",
+      "callsign_iata": "W98MQ",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "SK",
+        "country_name": "Slovakia",
+        "elevation": 755,
+        "iata_code": "KSC",
+        "icao_code": "LZKZ",
+        "latitude": 48.6631,
+        "longitude": 21.2411,
+        "municipality": "Ko\u0161ice",
+        "name": "Ko\u0161ice Airport"
       }
     }
   }
