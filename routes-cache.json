@@ -13063,7 +13063,7 @@
     }
   },
   "BAW586M": {
-    "time": 1792421139.7772956,
+    "time": 1792592438.6212976,
     "route": {
       "callsign": "BAW586M",
       "callsign_icao": "BAW586M",
@@ -14773,7 +14773,7 @@
     }
   },
   "LOG18D": {
-    "time": 1792419336.5817926,
+    "time": 1792592438.6212976,
     "route": {
       "callsign": "LOG18D",
       "callsign_icao": "LOG18D",
@@ -23022,7 +23022,7 @@
     }
   },
   "EZY83HG": {
-    "time": 1792433735.9789886,
+    "time": 1792592438.6212976,
     "route": {
       "callsign": "EZY83HG",
       "callsign_icao": "EZY83HG",
@@ -170109,7 +170109,7 @@
     }
   },
   "CFE62N": {
-    "time": 1792497035.920526,
+    "time": 1792592438.6212976,
     "route": {
       "callsign": "CFE62N",
       "callsign_icao": "CFE62N",
@@ -208265,6 +208265,196 @@
         "longitude": 15.0664,
         "municipality": "Catania",
         "name": "Catania-Fontanarossa Airport"
+      }
+    }
+  },
+  "GEC8223": {
+    "time": 1792592438.6212976,
+    "route": {
+      "callsign": "GEC8223",
+      "callsign_icao": "GEC8223",
+      "callsign_iata": "LH8223",
+      "airline": {
+        "name": "Lufthansa Cargo",
+        "icao": "GEC",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA CARGO"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 607,
+        "iata_code": "DFW",
+        "icao_code": "KDFW",
+        "latitude": 32.8968,
+        "longitude": -97.038,
+        "municipality": "Dallas-Fort Worth",
+        "name": "Dallas Fort Worth International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "EZY13TD": {
+    "time": 1792592438.6212976,
+    "route": {
+      "callsign": "EZY13TD",
+      "callsign_icao": "EZY13TD",
+      "callsign_iata": "U213TD",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 20,
+        "iata_code": "DLM",
+        "icao_code": "LTBS",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "name": "Dalaman International Airport"
+      }
+    }
+  },
+  "TOM362": {
+    "time": 1792592438.6212976,
+    "route": {
+      "callsign": "TOM362",
+      "callsign_icao": "TOM362",
+      "callsign_iata": "BY362",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 143,
+        "iata_code": "SSH",
+        "icao_code": "HESH",
+        "latitude": 27.9773,
+        "longitude": 34.395,
+        "municipality": "Sharm el-Sheikh",
+        "name": "Sharm El Sheikh International Airport"
+      }
+    }
+  },
+  "VLG364R": {
+    "time": 1792592438.6212976,
+    "route": {
+      "callsign": "VLG364R",
+      "callsign_icao": "VLG364R",
+      "callsign_iata": "VY364R",
+      "airline": {
+        "name": "Vueling Airlines",
+        "icao": "VLG",
+        "iata": "VY",
+        "country": "Spain",
+        "country_iso": "ES",
+        "callsign": "VUELING"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 142,
+        "iata_code": "FLR",
+        "icao_code": "LIRQ",
+        "latitude": 43.81,
+        "longitude": 11.2051,
+        "municipality": "Firenze",
+        "name": "Peretola Airport"
+      }
+    }
+  },
+  "SWU1932": {
+    "time": 1792592438.6212976,
+    "route": {
+      "callsign": "SWU1932",
+      "callsign_icao": "SWU1932",
+      "callsign_iata": "LX1932",
+      "airline": {
+        "name": "Swiss European Air Lines",
+        "icao": "SWU",
+        "iata": "LX",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": "EUROSWISS"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 789,
+        "iata_code": "BZO",
+        "icao_code": "LIPB",
+        "latitude": 46.4602,
+        "longitude": 11.3264,
+        "municipality": "Bolzano",
+        "name": "Bolzano Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
