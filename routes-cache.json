@@ -193251,5 +193251,81 @@
         "name": "London Gatwick Airport"
       }
     }
+  },
+  "BOX393": {
+    "time": 1792546524.3995848,
+    "route": {
+      "callsign": "BOX393",
+      "callsign_icao": "BOX393",
+      "callsign_iata": "3S393",
+      "airline": {
+        "name": "AeroLogic",
+        "icao": "BOX",
+        "iata": "3S",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "GERMAN CARGO"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 896,
+        "iata_code": "CVG",
+        "icao_code": "KCVG",
+        "latitude": 39.0488,
+        "longitude": -84.6678,
+        "municipality": "Cincinnati / Covington",
+        "name": "Cincinnati Northern Kentucky International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 465,
+        "iata_code": "LEJ",
+        "icao_code": "EDDP",
+        "latitude": 51.42389,
+        "longitude": 12.23639,
+        "municipality": "Leipzig",
+        "name": "Leipzig/Halle Airport"
+      }
+    }
+  },
+  "EZY2628": {
+    "time": 1792546524.3995848,
+    "route": {
+      "callsign": "EZY2628",
+      "callsign_icao": "EZY2628",
+      "callsign_iata": "U22628",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "TN",
+        "country_name": "Tunisia",
+        "elevation": 19,
+        "iata_code": "DJE",
+        "icao_code": "DTTJ",
+        "latitude": 33.875,
+        "longitude": 10.7755,
+        "municipality": "Djerba",
+        "name": "Djerba Zarzis International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
   }
 }
