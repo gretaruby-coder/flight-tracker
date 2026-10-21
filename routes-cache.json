@@ -36138,7 +36138,7 @@
     }
   },
   "SWR7GK": {
-    "time": 1792431052.3097043,
+    "time": 1792604438.0900419,
     "route": {
       "callsign": "SWR7GK",
       "callsign_icao": "SWR7GK",
@@ -40722,7 +40722,7 @@
     }
   },
   "SIA318": {
-    "time": 1792435239.2716877,
+    "time": 1792604438.0900419,
     "route": {
       "callsign": "SIA318",
       "callsign_icao": "SIA318",
@@ -42432,7 +42432,7 @@
     }
   },
   "EZY27LF": {
-    "time": 1792436727.0558615,
+    "time": 1792604438.0900419,
     "route": {
       "callsign": "EZY27LF",
       "callsign_icao": "EZY27LF",
@@ -42774,7 +42774,7 @@
     }
   },
   "RYR45KP": {
-    "time": 1792437036.4382284,
+    "time": 1792604438.0900419,
     "route": {
       "callsign": "RYR45KP",
       "callsign_icao": "RYR45KP",
@@ -43375,7 +43375,7 @@
     }
   },
   "SHT7P": {
-    "time": 1792516233.8620741,
+    "time": 1792604438.0900419,
     "route": {
       "callsign": "SHT7P",
       "callsign_icao": null,
@@ -44311,7 +44311,7 @@
     }
   },
   "BAW309": {
-    "time": 1792514734.1906939,
+    "time": 1792604438.0900419,
     "route": {
       "callsign": "BAW309",
       "callsign_icao": "BAW309",
@@ -97986,7 +97986,7 @@
     }
   },
   "SHT4C": {
-    "time": 1792493728.275972,
+    "time": 1792604438.0900419,
     "route": {
       "callsign": "SHT4C",
       "callsign_icao": null,
@@ -184334,7 +184334,7 @@
     }
   },
   "SWR52": {
-    "time": 1792516836.6101844,
+    "time": 1792604438.0900419,
     "route": {
       "callsign": "SWR52",
       "callsign_icao": "SWR52",
@@ -213570,6 +213570,151 @@
         "longitude": 1.37312,
         "municipality": "Ibiza",
         "name": "Ibiza Airport"
+      }
+    }
+  },
+  "BAW16UP": {
+    "time": 1792604438.0900419,
+    "route": {
+      "callsign": "BAW16UP",
+      "callsign_icao": "BAW16UP",
+      "callsign_iata": "BA16UP",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "FBU72J": {
+    "time": 1792604438.0900419,
+    "route": {
+      "callsign": "FBU72J",
+      "callsign_icao": "FBU72J",
+      "callsign_iata": "72J",
+      "airline": {
+        "name": "French Bee",
+        "icao": "FBU",
+        "iata": null,
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 291,
+        "iata_code": "ORY",
+        "icao_code": "LFPO",
+        "latitude": 48.72333,
+        "longitude": 2.37944,
+        "municipality": "Paris",
+        "name": "Paris-Orly Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      }
+    }
+  },
+  "DLA4MV": {
+    "time": 1792604438.0900419,
+    "route": {
+      "callsign": "DLA4MV",
+      "callsign_icao": "DLA4MV",
+      "callsign_iata": "EN4MV",
+      "airline": {
+        "name": "Air Dolomiti",
+        "icao": "DLA",
+        "iata": "EN",
+        "country": "Italy",
+        "country_iso": "IT",
+        "callsign": "DOLOMOTI"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 353,
+        "iata_code": "LIN",
+        "icao_code": "LIML",
+        "latitude": 45.4451,
+        "longitude": 9.27674,
+        "municipality": "Milan",
+        "name": "Milano Linate Airport"
+      }
+    }
+  },
+  "OEFIX": {
+    "time": 1792604438.0900419,
+    "route": {
+      "callsign": "OEFIX",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 37,
+        "iata_code": "OLB",
+        "icao_code": "LIEO",
+        "latitude": 40.8987,
+        "longitude": 9.51763,
+        "municipality": "Olbia (SS)",
+        "name": "Olbia Costa Smeralda Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
       }
     }
   }
