@@ -25243,7 +25243,7 @@
     }
   },
   "RYR49EY": {
-    "time": 1792498837.9856026,
+    "time": 1792608925.9289145,
     "route": {
       "callsign": "RYR49EY",
       "callsign_icao": "RYR49EY",
@@ -42660,7 +42660,7 @@
     }
   },
   "BAW7PI": {
-    "time": 1792435239.2716877,
+    "time": 1792608925.9289145,
     "route": {
       "callsign": "BAW7PI",
       "callsign_icao": "BAW7PI",
@@ -45603,7 +45603,7 @@
     }
   },
   "CPA253": {
-    "time": 1792437926.3296323,
+    "time": 1792608925.9289145,
     "route": {
       "callsign": "CPA253",
       "callsign_icao": "CPA253",
@@ -46211,7 +46211,7 @@
     }
   },
   "BAW720": {
-    "time": 1792519835.5407171,
+    "time": 1792608925.9289145,
     "route": {
       "callsign": "BAW720",
       "callsign_icao": "BAW720",
@@ -46857,7 +46857,7 @@
     }
   },
   "SAS49K": {
-    "time": 1792436463.4727983,
+    "time": 1792608925.9289145,
     "route": {
       "callsign": "SAS49K",
       "callsign_icao": "SAS49K",
@@ -51866,7 +51866,7 @@
     }
   },
   "NSZ60X": {
-    "time": 1792440935.37733,
+    "time": 1792608925.9289145,
     "route": {
       "callsign": "NSZ60X",
       "callsign_icao": "NSZ60X",
@@ -214810,6 +214810,75 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "VJT582": {
+    "time": 1792608925.9289145,
+    "route": {
+      "callsign": "VJT582",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "JO",
+        "country_name": "Jordan",
+        "elevation": 2555,
+        "iata_code": "ADJ",
+        "icao_code": "OJAM",
+        "latitude": 31.9727,
+        "longitude": 35.9916,
+        "municipality": "Amman",
+        "name": "Amman Civil (Marka International) Airport"
+      },
+      "destination": {
+        "country_iso_name": "SA",
+        "country_name": "Saudi Arabia",
+        "elevation": 2049,
+        "iata_code": "RUH",
+        "icao_code": "OERK",
+        "latitude": 24.9576,
+        "longitude": 46.6988,
+        "municipality": "Riyadh",
+        "name": "King Khaled International Airport"
+      }
+    }
+  },
+  "EJU54WD": {
+    "time": 1792608925.9289145,
+    "route": {
+      "callsign": "EJU54WD",
+      "callsign_icao": "EJU54WD",
+      "callsign_iata": "EC54WD",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
       }
     }
   }
