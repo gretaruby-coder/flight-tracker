@@ -1765,7 +1765,7 @@
     }
   },
   "BAW271": {
-    "time": 1792410928.2999444,
+    "time": 1792584067.514709,
     "route": {
       "callsign": "BAW271",
       "callsign_icao": "BAW271",
@@ -5008,7 +5008,7 @@
     }
   },
   "RYR7445": {
-    "time": 1792326033.5656939,
+    "time": 1792584067.514709,
     "route": {
       "callsign": "RYR7445",
       "callsign_icao": "RYR7445",
@@ -5229,7 +5229,7 @@
     }
   },
   "AFR38XY": {
-    "time": 1792497663.4505832,
+    "time": 1792584067.514709,
     "route": {
       "callsign": "AFR38XY",
       "callsign_icao": "AFR38XY",
@@ -5799,7 +5799,7 @@
     }
   },
   "BAW6B": {
-    "time": 1792497663.4505832,
+    "time": 1792584067.514709,
     "route": {
       "callsign": "BAW6B",
       "callsign_icao": "BAW6B",
@@ -112984,7 +112984,7 @@
     }
   },
   "BAW16MT": {
-    "time": 1792493728.275972,
+    "time": 1792584067.514709,
     "route": {
       "callsign": "BAW16MT",
       "callsign_icao": "BAW16MT",
@@ -113136,7 +113136,7 @@
     }
   },
   "BAW21B": {
-    "time": 1792495526.0128574,
+    "time": 1792584067.514709,
     "route": {
       "callsign": "BAW21B",
       "callsign_icao": "BAW21B",
@@ -115292,7 +115292,7 @@
     }
   },
   "VIR20V": {
-    "time": 1792409127.1420288,
+    "time": 1792584067.514709,
     "route": {
       "callsign": "VIR20V",
       "callsign_icao": "VIR20V",
@@ -118245,7 +118245,7 @@
     }
   },
   "KLM791": {
-    "time": 1792411837.9103947,
+    "time": 1792584067.514709,
     "route": {
       "callsign": "KLM791",
       "callsign_icao": "KLM791",
@@ -119309,7 +119309,7 @@
     }
   },
   "AFR44BY": {
-    "time": 1792412726.0993667,
+    "time": 1792584067.514709,
     "route": {
       "callsign": "AFR44BY",
       "callsign_icao": "AFR44BY",
@@ -204517,6 +204517,82 @@
         "longitude": -1.32806,
         "municipality": "Nottingham",
         "name": "East Midlands Airport"
+      }
+    }
+  },
+  "EZY8147": {
+    "time": 1792584067.514709,
+    "route": {
+      "callsign": "EZY8147",
+      "callsign_icao": "EZY8147",
+      "callsign_iata": "U28147",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 46,
+        "iata_code": "ACE",
+        "icao_code": "GCRR",
+        "latitude": 28.9455,
+        "longitude": -13.6052,
+        "municipality": "Lanzarote Island",
+        "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      }
+    }
+  },
+  "AFR178": {
+    "time": 1792584067.514709,
+    "route": {
+      "callsign": "AFR178",
+      "callsign_icao": "AFR178",
+      "callsign_iata": "AF178",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "MX",
+        "country_name": "Mexico",
+        "elevation": 7316,
+        "iata_code": "MEX",
+        "icao_code": "MMMX",
+        "latitude": 19.4363,
+        "longitude": -99.0721,
+        "municipality": "Mexico City",
+        "name": "Licenciado Benito Juarez International Airport"
       }
     }
   }
