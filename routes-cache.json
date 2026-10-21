@@ -73256,7 +73256,7 @@
     }
   },
   "UPS217": {
-    "time": 1792381835.2772348,
+    "time": 1792552232.2739863,
     "route": {
       "callsign": "UPS217",
       "callsign_icao": "UPS217",
@@ -73370,7 +73370,7 @@
     }
   },
   "DLH411": {
-    "time": 1792382124.7564163,
+    "time": 1792552232.2739863,
     "route": {
       "callsign": "DLH411",
       "callsign_icao": "DLH411",
@@ -193774,6 +193774,44 @@
         "longitude": 11.7861,
         "municipality": "Munich",
         "name": "Munich Airport"
+      }
+    }
+  },
+  "AUA32X": {
+    "time": 1792552232.2739863,
+    "route": {
+      "callsign": "AUA32X",
+      "callsign_icao": "AUA32X",
+      "callsign_iata": "OS32X",
+      "airline": {
+        "name": "Austrian Airlines",
+        "icao": "AUA",
+        "iata": "OS",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "AUSTRIAN"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 600,
+        "iata_code": "VIE",
+        "icao_code": "LOWW",
+        "latitude": 48.1103,
+        "longitude": 16.5697,
+        "municipality": "Vienna",
+        "name": "Vienna International Airport"
       }
     }
   }
