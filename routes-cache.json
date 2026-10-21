@@ -73515,7 +73515,7 @@
     }
   },
   "CPA251": {
-    "time": 1792469732.2261987,
+    "time": 1792556132.7462828,
     "route": {
       "callsign": "CPA251",
       "callsign_icao": "CPA251",
@@ -77460,7 +77460,7 @@
     }
   },
   "DLH419": {
-    "time": 1792387850.0118346,
+    "time": 1792556132.7462828,
     "route": {
       "callsign": "DLH419",
       "callsign_icao": "DLH419",
@@ -194116,6 +194116,44 @@
         "longitude": 8.54806,
         "municipality": "Zurich",
         "name": "Z\u00fcrich Airport"
+      }
+    }
+  },
+  "TFL393": {
+    "time": 1792556132.7462828,
+    "route": {
+      "callsign": "TFL393",
+      "callsign_icao": "TFL393",
+      "callsign_iata": "OR393",
+      "airline": {
+        "name": "Arkefly",
+        "icao": "TFL",
+        "iata": "OR",
+        "country": "Netherlands",
+        "country_iso": "NL",
+        "callsign": "ARKEFLY"
+      },
+      "origin": {
+        "country_iso_name": "CW",
+        "country_name": "Cura\u00e7ao",
+        "elevation": 29,
+        "iata_code": "CUR",
+        "icao_code": "TNCC",
+        "latitude": 12.1889,
+        "longitude": -68.9598,
+        "municipality": "Willemstad",
+        "name": "Hato International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
       }
     }
   }
