@@ -20376,7 +20376,7 @@
     }
   },
   "BAW43XP": {
-    "time": 1792507839.8746076,
+    "time": 1792597835.104633,
     "route": {
       "callsign": "BAW43XP",
       "callsign_icao": "BAW43XP",
@@ -22832,7 +22832,7 @@
     }
   },
   "RYR41ZL": {
-    "time": 1792509928.3181617,
+    "time": 1792597835.104633,
     "route": {
       "callsign": "RYR41ZL",
       "callsign_icao": "RYR41ZL",
@@ -23585,7 +23585,7 @@
     }
   },
   "LOG4MU": {
-    "time": 1792425052.4651213,
+    "time": 1792597835.104633,
     "route": {
       "callsign": "LOG4MU",
       "callsign_icao": "LOG4MU",
@@ -23813,7 +23813,7 @@
     }
   },
   "DLH7VY": {
-    "time": 1792425052.4651213,
+    "time": 1792597835.104633,
     "route": {
       "callsign": "DLH7VY",
       "callsign_icao": "DLH7VY",
@@ -24908,7 +24908,7 @@
     }
   },
   "EZY17GR": {
-    "time": 1792428336.9751124,
+    "time": 1792597835.104633,
     "route": {
       "callsign": "EZY17GR",
       "callsign_icao": "EZY17GR",
@@ -26034,7 +26034,7 @@
     }
   },
   "BAW225Y": {
-    "time": 1792339524.7963963,
+    "time": 1792597835.104633,
     "route": {
       "callsign": "BAW225Y",
       "callsign_icao": "BAW225Y",
@@ -91364,7 +91364,7 @@
     }
   },
   "RYR94EL": {
-    "time": 1792394433.980089,
+    "time": 1792597835.104633,
     "route": {
       "callsign": "RYR94EL",
       "callsign_icao": "RYR94EL",
@@ -129046,7 +129046,7 @@
     }
   },
   "DLH6RF": {
-    "time": 1792425052.4651213,
+    "time": 1792597835.104633,
     "route": {
       "callsign": "DLH6RF",
       "callsign_icao": "DLH6RF",
@@ -137713,7 +137713,7 @@
     }
   },
   "RYR8ZW": {
-    "time": 1792434927.3746698,
+    "time": 1792597835.104633,
     "route": {
       "callsign": "RYR8ZW",
       "callsign_icao": "RYR8ZW",
@@ -137903,7 +137903,7 @@
     }
   },
   "EZY74VH": {
-    "time": 1792434927.3746698,
+    "time": 1792597835.104633,
     "route": {
       "callsign": "EZY74VH",
       "callsign_icao": "EZY74VH",
@@ -211166,6 +211166,82 @@
         "longitude": 39.1565,
         "municipality": "Jeddah",
         "name": "King Abdulaziz International Airport"
+      }
+    }
+  },
+  "GTI8414": {
+    "time": 1792597835.104633,
+    "route": {
+      "callsign": "GTI8414",
+      "callsign_icao": "GTI8414",
+      "callsign_iata": "5Y8414",
+      "airline": {
+        "name": "Atlas Air",
+        "icao": "GTI",
+        "iata": "5Y",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "GIANT"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 659,
+        "iata_code": "LGG",
+        "icao_code": "EBLG",
+        "latitude": 50.6374,
+        "longitude": 5.44322,
+        "municipality": "Li\u00e8ge",
+        "name": "Li\u00e8ge Airport"
+      }
+    }
+  },
+  "EXS2LS": {
+    "time": 1792597835.104633,
+    "route": {
+      "callsign": "EXS2LS",
+      "callsign_icao": "EXS2LS",
+      "callsign_iata": "LS2LS",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 177,
+        "iata_code": "AYT",
+        "icao_code": "LTAI",
+        "latitude": 36.8987,
+        "longitude": 30.8005,
+        "municipality": "Antalya",
+        "name": "Antalya International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 38,
+        "iata_code": "BOH",
+        "icao_code": "EGHH",
+        "latitude": 50.78,
+        "longitude": -1.8425,
+        "municipality": "Bournemouth",
+        "name": "Bournemouth Airport"
       }
     }
   }
