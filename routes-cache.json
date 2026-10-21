@@ -18034,7 +18034,7 @@
     }
   },
   "SHT9B": {
-    "time": 1792497926.9572916,
+    "time": 1792603526.799509,
     "route": {
       "callsign": "SHT9B",
       "callsign_icao": null,
@@ -32556,7 +32556,7 @@
     }
   },
   "BAW5VY": {
-    "time": 1792516836.6101844,
+    "time": 1792603526.799509,
     "route": {
       "callsign": "BAW5VY",
       "callsign_icao": "BAW5VY",
@@ -35036,7 +35036,7 @@
     }
   },
   "BAW50G": {
-    "time": 1792430437.4709473,
+    "time": 1792603526.799509,
     "route": {
       "callsign": "BAW50G",
       "callsign_icao": "BAW50G",
@@ -38556,7 +38556,7 @@
     }
   },
   "DLH2MW": {
-    "time": 1792432527.2622945,
+    "time": 1792603526.799509,
     "route": {
       "callsign": "DLH2MW",
       "callsign_icao": "DLH2MW",
@@ -88452,7 +88452,7 @@
     }
   },
   "EZY79XU": {
-    "time": 1792392925.3895366,
+    "time": 1792603526.799509,
     "route": {
       "callsign": "EZY79XU",
       "callsign_icao": "EZY79XU",
@@ -183080,7 +183080,7 @@
     }
   },
   "EZY74FX": {
-    "time": 1792514438.2603164,
+    "time": 1792603526.799509,
     "route": {
       "callsign": "EZY74FX",
       "callsign_icao": "EZY74FX",
@@ -213280,6 +213280,151 @@
         "longitude": 2.07846,
         "municipality": "Barcelona",
         "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      }
+    }
+  },
+  "LZB852": {
+    "time": 1792603526.799509,
+    "route": {
+      "callsign": "LZB852",
+      "callsign_icao": "LZB852",
+      "callsign_iata": "FB852",
+      "airline": {
+        "name": "Bulgaria Air",
+        "icao": "LZB",
+        "iata": "FB",
+        "country": "Bulgaria",
+        "country_iso": "BG",
+        "callsign": "FLYING BULGARIA"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "BG",
+        "country_name": "Bulgaria",
+        "elevation": 1742,
+        "iata_code": "SOF",
+        "icao_code": "LBSF",
+        "latitude": 42.69669,
+        "longitude": 23.41144,
+        "municipality": "Sofia",
+        "name": "Sofia Airport"
+      }
+    }
+  },
+  "CASTLE28": {
+    "time": 1792603526.799509,
+    "route": {
+      "callsign": "CASTLE28",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 598,
+        "iata_code": "BQH",
+        "icao_code": "EGKB",
+        "latitude": 51.3308,
+        "longitude": 0.0325,
+        "municipality": "London",
+        "name": "London Biggin Hill Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 246,
+        "iata_code": null,
+        "icao_code": "EGST",
+        "latitude": 52.0772,
+        "longitude": 0.9775,
+        "municipality": "Hadleigh",
+        "name": "Elmsett Airfield"
+      }
+    }
+  },
+  "RYR2MV": {
+    "time": 1792603526.799509,
+    "route": {
+      "callsign": "RYR2MV",
+      "callsign_icao": "RYR2MV",
+      "callsign_iata": "FR2MV",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
+      }
+    }
+  },
+  "LOG22LW": {
+    "time": 1792603526.799509,
+    "route": {
+      "callsign": "LOG22LW",
+      "callsign_icao": "LOG22LW",
+      "callsign_iata": "LC22LW",
+      "airline": {
+        "name": "Loganair",
+        "icao": "LOG",
+        "iata": "LC",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "LOGAN"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 44,
+        "iata_code": "SOU",
+        "icao_code": "EGHI",
+        "latitude": 50.9503,
+        "longitude": -1.3568,
+        "municipality": "Southampton",
+        "name": "Southampton Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 266,
+        "iata_code": "NCL",
+        "icao_code": "EGNT",
+        "latitude": 55.0375,
+        "longitude": -1.69167,
+        "municipality": "Newcastle",
+        "name": "Newcastle Airport"
       }
     }
   }
