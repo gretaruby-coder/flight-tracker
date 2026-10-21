@@ -193396,5 +193396,119 @@
         "name": "Frankfurt am Main Airport"
       }
     }
+  },
+  "RYR1EU": {
+    "time": 1792548324.66334,
+    "route": {
+      "callsign": "RYR1EU",
+      "callsign_icao": "RYR1EU",
+      "callsign_iata": "FR1EU",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
+      }
+    }
+  },
+  "EZY41GE": {
+    "time": 1792548324.66334,
+    "route": {
+      "callsign": "EZY41GE",
+      "callsign_icao": "EZY41GE",
+      "callsign_iata": "U241GE",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 644,
+        "iata_code": "RMU",
+        "icao_code": "LEMI",
+        "latitude": 37.803,
+        "longitude": -1.125,
+        "municipality": "Corvera",
+        "name": "Regi\u00f3n de Murcia International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      }
+    }
+  },
+  "EZY41FQ": {
+    "time": 1792548324.66334,
+    "route": {
+      "callsign": "EZY41FQ",
+      "callsign_icao": "EZY41FQ",
+      "callsign_iata": "U241FQ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 115,
+        "iata_code": "HER",
+        "icao_code": "LGIR",
+        "latitude": 35.3397,
+        "longitude": 25.1803,
+        "municipality": "Heraklion",
+        "name": "Heraklion International Nikos Kazantzakis Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 80,
+        "iata_code": "LPL",
+        "icao_code": "EGGP",
+        "latitude": 53.3336,
+        "longitude": -2.84972,
+        "municipality": "Liverpool",
+        "name": "Liverpool John Lennon Airport"
+      }
+    }
   }
 }
