@@ -50688,7 +50688,7 @@
     }
   },
   "BAW756": {
-    "time": 1792525533.5270343,
+    "time": 1792613738.8800704,
     "route": {
       "callsign": "BAW756",
       "callsign_icao": "BAW756",
@@ -54329,7 +54329,7 @@
     }
   },
   "SIA319": {
-    "time": 1792527335.7092695,
+    "time": 1792613738.8800704,
     "route": {
       "callsign": "SIA319",
       "callsign_icao": "SIA319",
@@ -55545,7 +55545,7 @@
     }
   },
   "BAW638": {
-    "time": 1792527335.7092695,
+    "time": 1792613738.8800704,
     "route": {
       "callsign": "BAW638",
       "callsign_icao": "BAW638",
@@ -55949,7 +55949,7 @@
     }
   },
   "KLM1016": {
-    "time": 1792527335.7092695,
+    "time": 1792613738.8800704,
     "route": {
       "callsign": "KLM1016",
       "callsign_icao": "KLM1016",
@@ -57051,7 +57051,7 @@
     }
   },
   "SWR5EG": {
-    "time": 1792441851.4631376,
+    "time": 1792613738.8800704,
     "route": {
       "callsign": "SWR5EG",
       "callsign_icao": "SWR5EG",
@@ -57507,7 +57507,7 @@
     }
   },
   "AUA33T": {
-    "time": 1792441851.4631376,
+    "time": 1792613738.8800704,
     "route": {
       "callsign": "AUA33T",
       "callsign_icao": "AUA33T",
@@ -58799,7 +58799,7 @@
     }
   },
   "BEL4AH": {
-    "time": 1792527335.7092695,
+    "time": 1792613738.8800704,
     "route": {
       "callsign": "BEL4AH",
       "callsign_icao": "BEL4AH",
@@ -58875,7 +58875,7 @@
     }
   },
   "IBS1864": {
-    "time": 1792446035.0306828,
+    "time": 1792613738.8800704,
     "route": {
       "callsign": "IBS1864",
       "callsign_icao": "IBS1864",
@@ -155352,7 +155352,7 @@
     }
   },
   "RYR185L": {
-    "time": 1792476932.0893986,
+    "time": 1792613738.8800704,
     "route": {
       "callsign": "RYR185L",
       "callsign_icao": "RYR185L",
@@ -171874,7 +171874,7 @@
     }
   },
   "VJT750": {
-    "time": 1792499126.7951396,
+    "time": 1792613738.8800704,
     "route": {
       "callsign": "VJT750",
       "callsign_icao": null,
@@ -215632,6 +215632,120 @@
         "longitude": 0.05528,
         "municipality": "London",
         "name": "London City Airport"
+      }
+    }
+  },
+  "BAW317": {
+    "time": 1792613738.8800704,
+    "route": {
+      "callsign": "BAW317",
+      "callsign_icao": "BAW317",
+      "callsign_iata": "BA317",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "NOZ7CT": {
+    "time": 1792613738.8800704,
+    "route": {
+      "callsign": "NOZ7CT",
+      "callsign_icao": "NOZ7CT",
+      "callsign_iata": "7CT",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 374,
+        "iata_code": "LIS",
+        "icao_code": "LPPT",
+        "latitude": 38.7813,
+        "longitude": -9.13592,
+        "municipality": "Lisbon",
+        "name": "Humberto Delgado Airport (Lisbon Portela Airport)"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "RYR4WF": {
+    "time": 1792613738.8800704,
+    "route": {
+      "callsign": "RYR4WF",
+      "callsign_icao": "RYR4WF",
+      "callsign_iata": "FR4WF",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
       }
     }
   }
