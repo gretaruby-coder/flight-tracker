@@ -73439,7 +73439,7 @@
     }
   },
   "UAL321": {
-    "time": 1792382460.749733,
+    "time": 1792554924.8929415,
     "route": {
       "callsign": "UAL321",
       "callsign_icao": "UAL321",
@@ -73971,7 +73971,7 @@
     }
   },
   "OCN51": {
-    "time": 1792384523.3453722,
+    "time": 1792554924.8929415,
     "route": {
       "callsign": "OCN51",
       "callsign_icao": "OCN51",
@@ -193926,6 +193926,82 @@
         "longitude": 12.252,
         "municipality": "Rome",
         "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      }
+    }
+  },
+  "UAL108": {
+    "time": 1792554924.8929415,
+    "route": {
+      "callsign": "UAL108",
+      "callsign_icao": "UAL108",
+      "callsign_iata": "UA108",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      }
+    }
+  },
+  "DLH431": {
+    "time": 1792554924.8929415,
+    "route": {
+      "callsign": "DLH431",
+      "callsign_icao": "DLH431",
+      "callsign_iata": "LH431",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
       }
     }
   }
