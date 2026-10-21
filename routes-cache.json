@@ -7930,7 +7930,7 @@
     }
   },
   "EJU93RF": {
-    "time": 1792328461.0650053,
+    "time": 1792613434.6721516,
     "route": {
       "callsign": "EJU93RF",
       "callsign_icao": "EJU93RF",
@@ -28687,7 +28687,7 @@
     }
   },
   "BAW899": {
-    "time": 1792340725.0460784,
+    "time": 1792613434.6721516,
     "route": {
       "callsign": "BAW899",
       "callsign_icao": "BAW899",
@@ -51638,7 +51638,7 @@
     }
   },
   "AIC118": {
-    "time": 1792352125.655487,
+    "time": 1792613434.6721516,
     "route": {
       "callsign": "AIC118",
       "callsign_icao": "AIC118",
@@ -52246,7 +52246,7 @@
     }
   },
   "IGO24V": {
-    "time": 1792526458.7611718,
+    "time": 1792613434.6721516,
     "route": {
       "callsign": "IGO24V",
       "callsign_icao": "IGO24V",
@@ -53196,7 +53196,7 @@
     }
   },
   "SAS87J": {
-    "time": 1792525837.3451953,
+    "time": 1792613434.6721516,
     "route": {
       "callsign": "SAS87J",
       "callsign_icao": "SAS87J",
@@ -56747,7 +56747,7 @@
     }
   },
   "AIC170": {
-    "time": 1792354837.0480418,
+    "time": 1792613434.6721516,
     "route": {
       "callsign": "AIC170",
       "callsign_icao": "AIC170",
@@ -60996,7 +60996,7 @@
     }
   },
   "BAW507": {
-    "time": 1792526129.6806214,
+    "time": 1792613434.6721516,
     "route": {
       "callsign": "BAW507",
       "callsign_icao": "BAW507",
@@ -128307,7 +128307,7 @@
     }
   },
   "RYR5ZC": {
-    "time": 1792516233.8620741,
+    "time": 1792613434.6721516,
     "route": {
       "callsign": "RYR5ZC",
       "callsign_icao": "RYR5ZC",
@@ -215556,6 +215556,82 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "CKS262": {
+    "time": 1792613434.6721516,
+    "route": {
+      "callsign": "CKS262",
+      "callsign_icao": "CKS262",
+      "callsign_iata": "K4262",
+      "airline": {
+        "name": "Kalitta Air",
+        "icao": "CKS",
+        "iata": "K4",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "CONNIE"
+      },
+      "origin": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 184,
+        "iata_code": "BRU",
+        "icao_code": "EBBR",
+        "latitude": 50.9014,
+        "longitude": 4.48444,
+        "municipality": "Brussels",
+        "name": "Brussels Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 896,
+        "iata_code": "CVG",
+        "icao_code": "KCVG",
+        "latitude": 39.0488,
+        "longitude": -84.6678,
+        "municipality": "Cincinnati / Covington",
+        "name": "Cincinnati Northern Kentucky International Airport"
+      }
+    }
+  },
+  "CFE18M": {
+    "time": 1792613434.6721516,
+    "route": {
+      "callsign": "CFE18M",
+      "callsign_icao": "CFE18M",
+      "callsign_iata": "CJ18M",
+      "airline": {
+        "name": "BA CityFlyer",
+        "icao": "CFE",
+        "iata": "CJ",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "FLYER"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 19,
+        "iata_code": "LCY",
+        "icao_code": "EGLC",
+        "latitude": 51.5053,
+        "longitude": 0.05528,
+        "municipality": "London",
+        "name": "London City Airport"
       }
     }
   }
