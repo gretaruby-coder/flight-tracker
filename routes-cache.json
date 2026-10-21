@@ -55659,7 +55659,7 @@
     }
   },
   "AAL142": {
-    "time": 1792446035.0306828,
+    "time": 1792617926.559298,
     "route": {
       "callsign": "AAL142",
       "callsign_icao": "AAL142",
@@ -58305,7 +58305,7 @@
     }
   },
   "KLM51B": {
-    "time": 1792530060.5309906,
+    "time": 1792617926.559298,
     "route": {
       "callsign": "KLM51B",
       "callsign_icao": "KLM51B",
@@ -61711,7 +61711,7 @@
     }
   },
   "WUK4DF": {
-    "time": 1792457724.5117874,
+    "time": 1792617926.559298,
     "route": {
       "callsign": "WUK4DF",
       "callsign_icao": "WUK4DF",
@@ -64326,7 +64326,7 @@
     }
   },
   "MSR780": {
-    "time": 1792446335.2255797,
+    "time": 1792617926.559298,
     "route": {
       "callsign": "MSR780",
       "callsign_icao": "MSR780",
@@ -68392,7 +68392,7 @@
     }
   },
   "WUK557": {
-    "time": 1792527634.5604086,
+    "time": 1792617926.559298,
     "route": {
       "callsign": "WUK557",
       "callsign_icao": "WUK557",
@@ -142967,7 +142967,7 @@
     }
   },
   "RYR3TN": {
-    "time": 1792444236.6186495,
+    "time": 1792617926.559298,
     "route": {
       "callsign": "RYR3TN",
       "callsign_icao": "RYR3TN",
@@ -216803,6 +216803,120 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "EZY56UT": {
+    "time": 1792617926.559298,
+    "route": {
+      "callsign": "EZY56UT",
+      "callsign_icao": "EZY56UT",
+      "callsign_iata": "U256UT",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 644,
+        "iata_code": "RMU",
+        "icao_code": "LEMI",
+        "latitude": 37.803,
+        "longitude": -1.125,
+        "municipality": "Corvera",
+        "name": "Regi\u00f3n de Murcia International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EJU3976": {
+    "time": 1792617926.559298,
+    "route": {
+      "callsign": "EJU3976",
+      "callsign_icao": "EJU3976",
+      "callsign_iata": "EC3976",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 12,
+        "iata_code": "NCE",
+        "icao_code": "LFMN",
+        "latitude": 43.6584,
+        "longitude": 7.21587,
+        "municipality": "Nice",
+        "name": "Nice-C\u00f4te d'Azur Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 291,
+        "iata_code": "ORY",
+        "icao_code": "LFPO",
+        "latitude": 48.72333,
+        "longitude": 2.37944,
+        "municipality": "Paris",
+        "name": "Paris-Orly Airport"
+      }
+    }
+  },
+  "EXS63FW": {
+    "time": 1792617926.559298,
+    "route": {
+      "callsign": "EXS63FW",
+      "callsign_icao": "EXS63FW",
+      "callsign_iata": "LS63FW",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 26,
+        "iata_code": "KLX",
+        "icao_code": "LGKL",
+        "latitude": 37.0683,
+        "longitude": 22.0255,
+        "municipality": "Kalamata",
+        "name": "Kalamata Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
       }
     }
   }
