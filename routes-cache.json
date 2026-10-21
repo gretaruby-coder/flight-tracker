@@ -34093,7 +34093,7 @@
     }
   },
   "RYR2CK": {
-    "time": 1792441851.4631376,
+    "time": 1792608334.3734314,
     "route": {
       "callsign": "RYR2CK",
       "callsign_icao": "RYR2CK",
@@ -34245,7 +34245,7 @@
     }
   },
   "WUK7RW": {
-    "time": 1792431933.24341,
+    "time": 1792608334.3734314,
     "route": {
       "callsign": "WUK7RW",
       "callsign_icao": "WUK7RW",
@@ -45717,7 +45717,7 @@
     }
   },
   "RYR5SR": {
-    "time": 1792517726.0539174,
+    "time": 1792608334.3734314,
     "route": {
       "callsign": "RYR5SR",
       "callsign_icao": "RYR5SR",
@@ -45755,7 +45755,7 @@
     }
   },
   "CSZ887": {
-    "time": 1792521932.2817974,
+    "time": 1792608334.3734314,
     "route": {
       "callsign": "CSZ887",
       "callsign_icao": "CSZ887",
@@ -45907,7 +45907,7 @@
     }
   },
   "EJU46KY": {
-    "time": 1792348835.1738014,
+    "time": 1792608334.3734314,
     "route": {
       "callsign": "EJU46KY",
       "callsign_icao": "EJU46KY",
@@ -46933,7 +46933,7 @@
     }
   },
   "AUA3M": {
-    "time": 1792437036.4382284,
+    "time": 1792608334.3734314,
     "route": {
       "callsign": "AUA3M",
       "callsign_icao": "AUA3M",
@@ -48225,7 +48225,7 @@
     }
   },
   "EZY43DN": {
-    "time": 1792439135.0413277,
+    "time": 1792608334.3734314,
     "route": {
       "callsign": "EZY43DN",
       "callsign_icao": "EZY43DN",
@@ -51030,7 +51030,7 @@
     }
   },
   "EZY207G": {
-    "time": 1792521932.2817974,
+    "time": 1792608334.3734314,
     "route": {
       "callsign": "EZY207G",
       "callsign_icao": "EZY207G",
@@ -55393,7 +55393,7 @@
     }
   },
   "BAW55CL": {
-    "time": 1792505439.436872,
+    "time": 1792608334.3734314,
     "route": {
       "callsign": "BAW55CL",
       "callsign_icao": "BAW55CL",
@@ -88718,7 +88718,7 @@
     }
   },
   "EZY73GW": {
-    "time": 1792392925.3895366,
+    "time": 1792608334.3734314,
     "route": {
       "callsign": "EZY73GW",
       "callsign_icao": "EZY73GW",
@@ -128193,7 +128193,7 @@
     }
   },
   "RYR47HE": {
-    "time": 1792423852.8831124,
+    "time": 1792608334.3734314,
     "route": {
       "callsign": "RYR47HE",
       "callsign_icao": "RYR47HE",
@@ -214703,6 +214703,75 @@
         "longitude": -0.36833,
         "municipality": "London",
         "name": "London Luton Airport"
+      }
+    }
+  },
+  "EJU82FA": {
+    "time": 1792608334.3734314,
+    "route": {
+      "callsign": "EJU82FA",
+      "callsign_icao": "EJU82FA",
+      "callsign_iata": "EC82FA",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 681,
+        "iata_code": "LBA",
+        "icao_code": "EGNM",
+        "latitude": 53.8659,
+        "longitude": -1.66057,
+        "municipality": "Leeds",
+        "name": "Leeds Bradford Airport"
+      }
+    }
+  },
+  "REV905": {
+    "time": 1792608334.3734314,
+    "route": {
+      "callsign": "REV905",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "JE",
+        "country_name": "Jersey",
+        "elevation": 277,
+        "iata_code": "JER",
+        "icao_code": "EGJJ",
+        "latitude": 49.2079,
+        "longitude": -2.19551,
+        "municipality": "Saint Helier",
+        "name": "Jersey Airport"
+      },
+      "destination": {
+        "country_iso_name": "JE",
+        "country_name": "Jersey",
+        "elevation": 277,
+        "iata_code": "JER",
+        "icao_code": "EGJJ",
+        "latitude": 49.2079,
+        "longitude": -2.19551,
+        "municipality": "Saint Helier",
+        "name": "Jersey Airport"
       }
     }
   }
