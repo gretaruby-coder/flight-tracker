@@ -150681,7 +150681,7 @@
     }
   },
   "BCS2696": {
-    "time": 1792462531.7521725,
+    "time": 1792555834.202497,
     "route": {
       "callsign": "BCS2696",
       "callsign_icao": "BCS2696",
@@ -151566,7 +151566,7 @@
     }
   },
   "WUK7LU": {
-    "time": 1792469432.1980703,
+    "time": 1792555834.202497,
     "route": {
       "callsign": "WUK7LU",
       "callsign_icao": "WUK7LU",
@@ -194078,6 +194078,44 @@
         "longitude": 16.5697,
         "municipality": "Vienna",
         "name": "Vienna International Airport"
+      }
+    }
+  },
+  "AAL92": {
+    "time": 1792555834.202497,
+    "route": {
+      "callsign": "AAL92",
+      "callsign_icao": "AAL92",
+      "callsign_iata": "AA92",
+      "airline": {
+        "name": "American Airlines",
+        "icao": "AAL",
+        "iata": "AA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "AMERICAN"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 36,
+        "iata_code": "PHL",
+        "icao_code": "KPHL",
+        "latitude": 39.8719,
+        "longitude": -75.2411,
+        "municipality": "Philadelphia",
+        "name": "Philadelphia International Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
       }
     }
   }
