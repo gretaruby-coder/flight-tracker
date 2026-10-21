@@ -76099,7 +76099,7 @@
     }
   },
   "EXS129W": {
-    "time": 1792386634.2199078,
+    "time": 1792571451.534438,
     "route": {
       "callsign": "EXS129W",
       "callsign_icao": "EXS129W",
@@ -89706,7 +89706,7 @@
     }
   },
   "EZY29PG": {
-    "time": 1792393530.2976093,
+    "time": 1792571451.534438,
     "route": {
       "callsign": "EZY29PG",
       "callsign_icao": "EZY29PG",
@@ -95599,7 +95599,7 @@
     }
   },
   "ACA852": {
-    "time": 1792483258.2646089,
+    "time": 1792571451.534438,
     "route": {
       "callsign": "ACA852",
       "callsign_icao": "ACA852",
@@ -99112,7 +99112,7 @@
     }
   },
   "SWR1MY": {
-    "time": 1792485048.6188636,
+    "time": 1792571451.534438,
     "route": {
       "callsign": "SWR1MY",
       "callsign_icao": "SWR1MY",
@@ -102946,7 +102946,7 @@
     }
   },
   "DLA4AJ": {
-    "time": 1792400463.2989936,
+    "time": 1792571451.534438,
     "route": {
       "callsign": "DLA4AJ",
       "callsign_icao": "DLA4AJ",
@@ -142017,7 +142017,7 @@
     }
   },
   "RYR2FU": {
-    "time": 1792442433.9798603,
+    "time": 1792571451.534438,
     "route": {
       "callsign": "RYR2FU",
       "callsign_icao": "RYR2FU",
@@ -161183,7 +161183,7 @@
     }
   },
   "TAP34A": {
-    "time": 1792484435.2492306,
+    "time": 1792571451.534438,
     "route": {
       "callsign": "TAP34A",
       "callsign_icao": "TAP34A",
@@ -161411,7 +161411,7 @@
     }
   },
   "NOZ33B": {
-    "time": 1792484726.2093751,
+    "time": 1792571451.534438,
     "route": {
       "callsign": "NOZ33B",
       "callsign_icao": "NOZ33B",
@@ -200244,6 +200244,158 @@
         "longitude": -4.43306,
         "municipality": "Paisley, Renfrewshire",
         "name": "Glasgow International Airport"
+      }
+    }
+  },
+  "VKG216": {
+    "time": 1792571451.534438,
+    "route": {
+      "callsign": "VKG216",
+      "callsign_icao": "VKG216",
+      "callsign_iata": "216",
+      "airline": {
+        "name": "SunClass Airlines",
+        "icao": "VKG",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": "VIKING"
+      },
+      "origin": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 247,
+        "iata_code": "BLL",
+        "icao_code": "EKBI",
+        "latitude": 55.7403,
+        "longitude": 9.15178,
+        "municipality": "Billund",
+        "name": "Billund Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "NSZ3851": {
+    "time": 1792571451.534438,
+    "route": {
+      "callsign": "NSZ3851",
+      "callsign_icao": "NSZ3851",
+      "callsign_iata": "D83851",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 247,
+        "iata_code": "BLL",
+        "icao_code": "EKBI",
+        "latitude": 55.7403,
+        "longitude": 9.15178,
+        "municipality": "Billund",
+        "name": "Billund Airport"
+      }
+    }
+  },
+  "DAL287": {
+    "time": 1792571451.534438,
+    "route": {
+      "callsign": "DAL287",
+      "callsign_icao": "DAL287",
+      "callsign_iata": "DL287",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "MP",
+        "country_name": "Northern Mariana Islands",
+        "elevation": 215,
+        "iata_code": "SPN",
+        "icao_code": "PGSN",
+        "latitude": 15.119,
+        "longitude": 145.729,
+        "municipality": "Saipan Island",
+        "name": "Saipan International Airport"
+      },
+      "destination": {
+        "country_iso_name": "JP",
+        "country_name": "Japan",
+        "elevation": 141,
+        "iata_code": "NRT",
+        "icao_code": "RJAA",
+        "latitude": 35.7647,
+        "longitude": 140.386,
+        "municipality": "Tokyo",
+        "name": "Narita International Airport"
+      }
+    }
+  },
+  "RUK4116": {
+    "time": 1792571451.534438,
+    "route": {
+      "callsign": "RUK4116",
+      "callsign_icao": "RUK4116",
+      "callsign_iata": "RK4116",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 644,
+        "iata_code": "RMU",
+        "icao_code": "LEMI",
+        "latitude": 37.803,
+        "longitude": -1.125,
+        "municipality": "Corvera",
+        "name": "Regi\u00f3n de Murcia International Airport"
       }
     }
   }
