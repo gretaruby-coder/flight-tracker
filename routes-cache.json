@@ -43748,7 +43748,7 @@
     }
   },
   "RYR59JH": {
-    "time": 1792533324.2854428,
+    "time": 1792619727.170806,
     "route": {
       "callsign": "RYR59JH",
       "callsign_icao": "RYR59JH",
@@ -66606,7 +66606,7 @@
     }
   },
   "EIN4HW": {
-    "time": 1792361732.449306,
+    "time": 1792619727.170806,
     "route": {
       "callsign": "EIN4HW",
       "callsign_icao": "EIN4HW",
@@ -217107,6 +217107,82 @@
         "longitude": -2.71909,
         "municipality": "Bristol",
         "name": "Bristol Airport"
+      }
+    }
+  },
+  "UAE78P": {
+    "time": 1792619727.170806,
+    "route": {
+      "callsign": "UAE78P",
+      "callsign_icao": "UAE78P",
+      "callsign_iata": "EK78P",
+      "airline": {
+        "name": "Emirates",
+        "icao": "UAE",
+        "iata": "EK",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "EMIRATES"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      },
+      "destination": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 62,
+        "iata_code": "DXB",
+        "icao_code": "OMDB",
+        "latitude": 25.2528,
+        "longitude": 55.3644,
+        "municipality": "Dubai",
+        "name": "Dubai International Airport"
+      }
+    }
+  },
+  "EJU48ZB": {
+    "time": 1792619727.170806,
+    "route": {
+      "callsign": "EJU48ZB",
+      "callsign_icao": "EJU48ZB",
+      "callsign_iata": "EC48ZB",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
       }
     }
   }
