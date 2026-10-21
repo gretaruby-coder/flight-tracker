@@ -3250,7 +3250,7 @@
     }
   },
   "RYR42LL": {
-    "time": 1792426835.0621762,
+    "time": 1792598127.4725363,
     "route": {
       "callsign": "RYR42LL",
       "callsign_icao": "RYR42LL",
@@ -22528,7 +22528,7 @@
     }
   },
   "BAW831": {
-    "time": 1792425929.3858402,
+    "time": 1792598127.4725363,
     "route": {
       "callsign": "BAW831",
       "callsign_icao": "BAW831",
@@ -35758,7 +35758,7 @@
     }
   },
   "EZY91BW": {
-    "time": 1792440935.37733,
+    "time": 1792598127.4725363,
     "route": {
       "callsign": "EZY91BW",
       "callsign_icao": "EZY91BW",
@@ -85533,7 +85533,7 @@
     }
   },
   "BAW510": {
-    "time": 1792479032.4902105,
+    "time": 1792598127.4725363,
     "route": {
       "callsign": "BAW510",
       "callsign_icao": "BAW510",
@@ -129578,7 +129578,7 @@
     }
   },
   "CFE6LJ": {
-    "time": 1792425929.3858402,
+    "time": 1792598127.4725363,
     "route": {
       "callsign": "CFE6LJ",
       "callsign_icao": "CFE6LJ",
@@ -142777,7 +142777,7 @@
     }
   },
   "EZY35GL": {
-    "time": 1792443660.1795025,
+    "time": 1792598127.4725363,
     "route": {
       "callsign": "EZY35GL",
       "callsign_icao": "EZY35GL",
@@ -211242,6 +211242,120 @@
         "longitude": -1.8425,
         "municipality": "Bournemouth",
         "name": "Bournemouth Airport"
+      }
+    }
+  },
+  "FIN7061": {
+    "time": 1792598127.4725363,
+    "route": {
+      "callsign": "FIN7061",
+      "callsign_icao": "FIN7061",
+      "callsign_iata": "AY7061",
+      "airline": {
+        "name": "Finnair",
+        "icao": "FIN",
+        "iata": "AY",
+        "country": "Finland",
+        "country_iso": "FI",
+        "callsign": "FINNAIR"
+      },
+      "origin": {
+        "country_iso_name": "FI",
+        "country_name": "Finland",
+        "elevation": 179,
+        "iata_code": "HEL",
+        "icao_code": "EFHK",
+        "latitude": 60.3172,
+        "longitude": 24.9633,
+        "municipality": "Helsinki",
+        "name": "Helsinki Vantaa Airport"
+      },
+      "destination": {
+        "country_iso_name": "HU",
+        "country_name": "Hungary",
+        "elevation": 495,
+        "iata_code": "BUD",
+        "icao_code": "LHBP",
+        "latitude": 47.42976,
+        "longitude": 19.26109,
+        "municipality": "Budapest",
+        "name": "Budapest Liszt Ferenc International Airport"
+      }
+    }
+  },
+  "EZY9001": {
+    "time": 1792598127.4725363,
+    "route": {
+      "callsign": "EZY9001",
+      "callsign_icao": "EZY9001",
+      "callsign_iata": "U29001",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EJU89NC": {
+    "time": 1792598127.4725363,
+    "route": {
+      "callsign": "EJU89NC",
+      "callsign_icao": "EJU89NC",
+      "callsign_iata": "EC89NC",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 374,
+        "iata_code": "LIS",
+        "icao_code": "LPPT",
+        "latitude": 38.7813,
+        "longitude": -9.13592,
+        "municipality": "Lisbon",
+        "name": "Humberto Delgado Airport (Lisbon Portela Airport)"
       }
     }
   }
