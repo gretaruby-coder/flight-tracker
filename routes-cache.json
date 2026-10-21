@@ -81747,7 +81747,7 @@
     }
   },
   "BAW346": {
-    "time": 1792483834.6563494,
+    "time": 1792581335.683112,
     "route": {
       "callsign": "BAW346",
       "callsign_icao": "BAW346",
@@ -85039,7 +85039,7 @@
     }
   },
   "AAL174": {
-    "time": 1792391450.3456924,
+    "time": 1792581335.683112,
     "route": {
       "callsign": "AAL174",
       "callsign_icao": "AAL174",
@@ -114794,7 +114794,7 @@
     }
   },
   "AAL80": {
-    "time": 1792408535.4226768,
+    "time": 1792581335.683112,
     "route": {
       "callsign": "AAL80",
       "callsign_icao": "AAL80",
@@ -114870,7 +114870,7 @@
     }
   },
   "UAL26": {
-    "time": 1792408838.4774373,
+    "time": 1792581335.683112,
     "route": {
       "callsign": "UAL26",
       "callsign_icao": "UAL26",
@@ -115060,7 +115060,7 @@
     }
   },
   "UAE1": {
-    "time": 1792408838.4774373,
+    "time": 1792581335.683112,
     "route": {
       "callsign": "UAE1",
       "callsign_icao": "UAE1",
@@ -165425,7 +165425,7 @@
     }
   },
   "EZY29RX": {
-    "time": 1792491334.2626047,
+    "time": 1792581335.683112,
     "route": {
       "callsign": "EZY29RX",
       "callsign_icao": "EZY29RX",
@@ -168147,7 +168147,7 @@
     }
   },
   "BAW759": {
-    "time": 1792494636.8620293,
+    "time": 1792581335.683112,
     "route": {
       "callsign": "BAW759",
       "callsign_icao": "BAW759",
@@ -168679,7 +168679,7 @@
     }
   },
   "EWG473": {
-    "time": 1792494934.2844644,
+    "time": 1792581335.683112,
     "route": {
       "callsign": "EWG473",
       "callsign_icao": "EWG473",
@@ -203498,6 +203498,120 @@
         "longitude": 23.9445,
         "municipality": "Athens",
         "name": "Athens Eleftherios Venizelos International Airport"
+      }
+    }
+  },
+  "FIN1975": {
+    "time": 1792581335.683112,
+    "route": {
+      "callsign": "FIN1975",
+      "callsign_icao": "FIN1975",
+      "callsign_iata": "AY1975",
+      "airline": {
+        "name": "Finnair",
+        "icao": "FIN",
+        "iata": "AY",
+        "country": "Finland",
+        "country_iso": "FI",
+        "callsign": "FINNAIR"
+      },
+      "origin": {
+        "country_iso_name": "FI",
+        "country_name": "Finland",
+        "elevation": 179,
+        "iata_code": "HEL",
+        "icao_code": "EFHK",
+        "latitude": 60.3172,
+        "longitude": 24.9633,
+        "municipality": "Helsinki",
+        "name": "Helsinki Vantaa Airport"
+      },
+      "destination": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 250,
+        "iata_code": "AGA",
+        "icao_code": "GMAD",
+        "latitude": 30.32248,
+        "longitude": -9.412,
+        "municipality": "Agadir (Temsia)",
+        "name": "Al Massira Airport"
+      }
+    }
+  },
+  "CFE37Y": {
+    "time": 1792581335.683112,
+    "route": {
+      "callsign": "CFE37Y",
+      "callsign_icao": "CFE37Y",
+      "callsign_iata": "CJ37Y",
+      "airline": {
+        "name": "BA CityFlyer",
+        "icao": "CFE",
+        "iata": "CJ",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "FLYER"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 19,
+        "iata_code": "LCY",
+        "icao_code": "EGLC",
+        "latitude": 51.5053,
+        "longitude": 0.05528,
+        "municipality": "London",
+        "name": "London City Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
+      }
+    }
+  },
+  "WJA63": {
+    "time": 1792581335.683112,
+    "route": {
+      "callsign": "WJA63",
+      "callsign_icao": "WJA63",
+      "callsign_iata": "WS63",
+      "airline": {
+        "name": "WestJet",
+        "icao": "WJA",
+        "iata": "WS",
+        "country": "Canada",
+        "country_iso": "CA",
+        "callsign": "WESTJET"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 477,
+        "iata_code": "YHZ",
+        "icao_code": "CYHZ",
+        "latitude": 44.8808,
+        "longitude": -63.5086,
+        "municipality": "Halifax",
+        "name": "Halifax / Stanfield International Airport"
       }
     }
   }
