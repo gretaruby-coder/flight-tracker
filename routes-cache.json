@@ -867,7 +867,7 @@
     }
   },
   "BAW8": {
-    "time": 1792506927.6742897,
+    "time": 1792596655.7185802,
     "route": {
       "callsign": "BAW8",
       "callsign_icao": "BAW8",
@@ -17882,7 +17882,7 @@
     }
   },
   "BAW97A": {
-    "time": 1792506330.6971657,
+    "time": 1792596655.7185802,
     "route": {
       "callsign": "BAW97A",
       "callsign_icao": "BAW97A",
@@ -20946,7 +20946,7 @@
     }
   },
   "THY2LD": {
-    "time": 1792510251.2536268,
+    "time": 1792596655.7185802,
     "route": {
       "callsign": "THY2LD",
       "callsign_icao": "THY2LD",
@@ -23250,7 +23250,7 @@
     }
   },
   "BEL6RA": {
-    "time": 1792424738.0294008,
+    "time": 1792596655.7185802,
     "route": {
       "callsign": "BEL6RA",
       "callsign_icao": "BEL6RA",
@@ -24421,7 +24421,7 @@
     }
   },
   "BAW542W": {
-    "time": 1792509035.9336379,
+    "time": 1792596655.7185802,
     "route": {
       "callsign": "BAW542W",
       "callsign_icao": "BAW542W",
@@ -110442,7 +110442,7 @@
     }
   },
   "BAW920U": {
-    "time": 1792405525.0242352,
+    "time": 1792596655.7185802,
     "route": {
       "callsign": "BAW920U",
       "callsign_icao": "BAW920U",
@@ -127402,7 +127402,7 @@
     }
   },
   "KLC29Z": {
-    "time": 1792509345.8092465,
+    "time": 1792596655.7185802,
     "route": {
       "callsign": "KLC29Z",
       "callsign_icao": "KLC29Z",
@@ -128590,7 +128590,7 @@
     }
   },
   "KLC65J": {
-    "time": 1792424738.0294008,
+    "time": 1792596655.7185802,
     "route": {
       "callsign": "KLC65J",
       "callsign_icao": "KLC65J",
@@ -210444,6 +210444,158 @@
         "longitude": -1.74803,
         "municipality": "Birmingham",
         "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "SWU1933": {
+    "time": 1792596655.7185802,
+    "route": {
+      "callsign": "SWU1933",
+      "callsign_icao": "SWU1933",
+      "callsign_iata": "LX1933",
+      "airline": {
+        "name": "Swiss European Air Lines",
+        "icao": "SWU",
+        "iata": "LX",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": "EUROSWISS"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 789,
+        "iata_code": "BZO",
+        "icao_code": "LIPB",
+        "latitude": 46.4602,
+        "longitude": 11.3264,
+        "municipality": "Bolzano",
+        "name": "Bolzano Airport"
+      }
+    }
+  },
+  "TOM74K": {
+    "time": 1792596655.7185802,
+    "route": {
+      "callsign": "TOM74K",
+      "callsign_icao": "TOM74K",
+      "callsign_iata": "BY74K",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 24,
+        "iata_code": "IBZ",
+        "icao_code": "LEIB",
+        "latitude": 38.8729,
+        "longitude": 1.37312,
+        "municipality": "Ibiza",
+        "name": "Ibiza Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 220,
+        "iata_code": "CWL",
+        "icao_code": "EGFF",
+        "latitude": 51.3967,
+        "longitude": -3.34333,
+        "municipality": "Cardiff",
+        "name": "Cardiff International Airport"
+      }
+    }
+  },
+  "EXS84EM": {
+    "time": 1792596655.7185802,
+    "route": {
+      "callsign": "EXS84EM",
+      "callsign_icao": "EXS84EM",
+      "callsign_iata": "LS84EM",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
+      }
+    }
+  },
+  "SXS4PL": {
+    "time": 1792596655.7185802,
+    "route": {
+      "callsign": "SXS4PL",
+      "callsign_icao": "SXS4PL",
+      "callsign_iata": "XQ4PL",
+      "airline": {
+        "name": "SunExpress",
+        "icao": "SXS",
+        "iata": "XQ",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "SUNEXPRESS"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1046,
+        "iata_code": "NUE",
+        "icao_code": "EDDN",
+        "latitude": 49.4987,
+        "longitude": 11.07806,
+        "municipality": "Nuremberg",
+        "name": "Nuremberg Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 177,
+        "iata_code": "AYT",
+        "icao_code": "LTAI",
+        "latitude": 36.8987,
+        "longitude": 30.8005,
+        "municipality": "Antalya",
+        "name": "Antalya International Airport"
       }
     }
   }
