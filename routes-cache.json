@@ -151186,7 +151186,7 @@
     }
   },
   "BCS62B": {
-    "time": 1792467046.322566,
+    "time": 1792553724.2309046,
     "route": {
       "callsign": "BCS62B",
       "callsign_icao": "BCS62B",
@@ -193850,6 +193850,44 @@
         "longitude": -87.9048,
         "municipality": "Chicago",
         "name": "Chicago O'Hare International Airport"
+      }
+    }
+  },
+  "UAL57": {
+    "time": 1792553724.2309046,
+    "route": {
+      "callsign": "UAL57",
+      "callsign_icao": "UAL57",
+      "callsign_iata": "UA57",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
       }
     }
   }
