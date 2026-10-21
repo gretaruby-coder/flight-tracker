@@ -3136,7 +3136,7 @@
     }
   },
   "BAW264": {
-    "time": 1792488033.832012,
+    "time": 1792575934.0719311,
     "route": {
       "callsign": "BAW264",
       "callsign_icao": "BAW264",
@@ -103592,7 +103592,7 @@
     }
   },
   "UAL924": {
-    "time": 1792487734.2928817,
+    "time": 1792575934.0719311,
     "route": {
       "callsign": "UAL924",
       "callsign_icao": "UAL924",
@@ -129236,7 +129236,7 @@
     }
   },
   "RYR27LQ": {
-    "time": 1792425325.6753318,
+    "time": 1792575934.0719311,
     "route": {
       "callsign": "RYR27LQ",
       "callsign_icao": "RYR27LQ",
@@ -201985,6 +201985,82 @@
         "longitude": 55.5172,
         "municipality": "Sharjah",
         "name": "Sharjah International Airport"
+      }
+    }
+  },
+  "DAL221": {
+    "time": 1792575934.0719311,
+    "route": {
+      "callsign": "DAL221",
+      "callsign_icao": "DAL221",
+      "callsign_iata": "DL221",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 4227,
+        "iata_code": "SLC",
+        "icao_code": "KSLC",
+        "latitude": 40.78575,
+        "longitude": -111.97975,
+        "municipality": "Salt Lake City",
+        "name": "Salt Lake City International Airport"
+      }
+    }
+  },
+  "EZY35TH": {
+    "time": 1792575934.0719311,
+    "route": {
+      "callsign": "EZY35TH",
+      "callsign_icao": "EZY35TH",
+      "callsign_iata": "U235TH",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
