@@ -53652,7 +53652,7 @@
     }
   },
   "EFW3MG": {
-    "time": 1792525533.5270343,
+    "time": 1792623034.732668,
     "route": {
       "callsign": "EFW3MG",
       "callsign_icao": "EFW3MG",
@@ -62616,7 +62616,7 @@
     }
   },
   "EFW74V": {
-    "time": 1792450859.4817843,
+    "time": 1792623034.732668,
     "route": {
       "callsign": "EFW74V",
       "callsign_icao": "EFW74V",
@@ -67936,7 +67936,7 @@
     }
   },
   "EZY31UA": {
-    "time": 1792362926.0549097,
+    "time": 1792623034.732668,
     "route": {
       "callsign": "EZY31UA",
       "callsign_icao": "EZY31UA",
@@ -146387,7 +146387,7 @@
     }
   },
   "EZY32EH": {
-    "time": 1792449933.9849076,
+    "time": 1792623034.732668,
     "route": {
       "callsign": "EZY32EH",
       "callsign_icao": "EZY32EH",
@@ -146577,7 +146577,7 @@
     }
   },
   "DHK52H": {
-    "time": 1792450235.0967655,
+    "time": 1792623034.732668,
     "route": {
       "callsign": "DHK52H",
       "callsign_icao": "DHK52H",
@@ -217552,6 +217552,82 @@
         "longitude": 27.157,
         "municipality": "\u0130zmir",
         "name": "Adnan Menderes International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "RYR6YQ": {
+    "time": 1792623034.732668,
+    "route": {
+      "callsign": "RYR6YQ",
+      "callsign_icao": "RYR6YQ",
+      "callsign_iata": "FR6YQ",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 24,
+        "iata_code": "FAO",
+        "icao_code": "LPFR",
+        "latitude": 37.0144,
+        "longitude": -7.96591,
+        "municipality": "Faro",
+        "name": "Faro Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 106,
+        "iata_code": "NRN",
+        "icao_code": "EDLV",
+        "latitude": 51.6024,
+        "longitude": 6.14217,
+        "municipality": "Weeze",
+        "name": "Weeze Airport"
+      }
+    }
+  },
+  "EZY9002": {
+    "time": 1792623034.732668,
+    "route": {
+      "callsign": "EZY9002",
+      "callsign_icao": "EZY9002",
+      "callsign_iata": "U29002",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
       },
       "destination": {
         "country_iso_name": "GB",
