@@ -73591,7 +73591,7 @@
     }
   },
   "UAL16": {
-    "time": 1792383033.5009077,
+    "time": 1792555263.3458138,
     "route": {
       "callsign": "UAL16",
       "callsign_icao": "UAL16",
@@ -73667,7 +73667,7 @@
     }
   },
   "BEL52B": {
-    "time": 1792383332.5142202,
+    "time": 1792555263.3458138,
     "route": {
       "callsign": "BEL52B",
       "callsign_icao": "BEL52B",
@@ -73705,7 +73705,7 @@
     }
   },
   "BAW2066": {
-    "time": 1792383332.5142202,
+    "time": 1792555263.3458138,
     "route": {
       "callsign": "BAW2066",
       "callsign_icao": "BAW2066",
@@ -151490,7 +151490,7 @@
     }
   },
   "BCS2960": {
-    "time": 1792468856.3259914,
+    "time": 1792555263.3458138,
     "route": {
       "callsign": "BCS2960",
       "callsign_icao": "BCS2960",
@@ -194002,6 +194002,44 @@
         "longitude": 8.57056,
         "municipality": "Frankfurt am Main",
         "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "AUA2R": {
+    "time": 1792555263.3458138,
+    "route": {
+      "callsign": "AUA2R",
+      "callsign_icao": "AUA2R",
+      "callsign_iata": "OS2R",
+      "airline": {
+        "name": "Austrian Airlines",
+        "icao": "AUA",
+        "iata": "OS",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "AUSTRIAN"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 600,
+        "iata_code": "VIE",
+        "icao_code": "LOWW",
+        "latitude": 48.1103,
+        "longitude": 16.5697,
+        "municipality": "Vienna",
+        "name": "Vienna International Airport"
       }
     }
   }
