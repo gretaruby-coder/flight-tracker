@@ -2359,7 +2359,7 @@
     }
   },
   "RWD710": {
-    "time": 1792303484.8091307,
+    "time": 1792568124.7755282,
     "route": {
       "callsign": "RWD710",
       "callsign_icao": "RWD710",
@@ -23737,7 +23737,7 @@
     }
   },
   "VLG6614": {
-    "time": 1792338036.6914313,
+    "time": 1792568124.7755282,
     "route": {
       "callsign": "VLG6614",
       "callsign_icao": "VLG6614",
@@ -89440,7 +89440,7 @@
     }
   },
   "BAW4MJ": {
-    "time": 1792480535.0300949,
+    "time": 1792568124.7755282,
     "route": {
       "callsign": "BAW4MJ",
       "callsign_icao": "BAW4MJ",
@@ -93264,7 +93264,7 @@
     }
   },
   "VIR3N": {
-    "time": 1792395637.796459,
+    "time": 1792568124.7755282,
     "route": {
       "callsign": "VIR3N",
       "callsign_icao": "VIR3N",
@@ -93523,7 +93523,7 @@
     }
   },
   "AUR401": {
-    "time": 1792395637.796459,
+    "time": 1792568124.7755282,
     "route": {
       "callsign": "AUR401",
       "callsign_icao": "AUR401",
@@ -95036,7 +95036,7 @@
     }
   },
   "KLC47M": {
-    "time": 1792396234.781845,
+    "time": 1792568124.7755282,
     "route": {
       "callsign": "KLC47M",
       "callsign_icao": "KLC47M",
@@ -198351,6 +198351,120 @@
         "longitude": 2.73881,
         "municipality": "Palma De Mallorca",
         "name": "Palma de Mallorca Airport"
+      }
+    }
+  },
+  "EXS44U": {
+    "time": 1792568124.7755282,
+    "route": {
+      "callsign": "EXS44U",
+      "callsign_icao": "EXS44U",
+      "callsign_iata": "LS44U",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 308,
+        "iata_code": "ATH",
+        "icao_code": "LGAV",
+        "latitude": 37.9364,
+        "longitude": 23.9445,
+        "municipality": "Athens",
+        "name": "Athens Eleftherios Venizelos International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "WZZ55": {
+    "time": 1792568124.7755282,
+    "route": {
+      "callsign": "WZZ55",
+      "callsign_icao": "WZZ55",
+      "callsign_iata": "W655",
+      "airline": {
+        "name": "Wizz Air",
+        "icao": "WZZ",
+        "iata": "W6",
+        "country": "Hungary",
+        "country_iso": "HU",
+        "callsign": "WIZZ AIR"
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 29,
+        "iata_code": "SVG",
+        "icao_code": "ENZV",
+        "latitude": 58.8767,
+        "longitude": 5.63778,
+        "municipality": "Stavanger",
+        "name": "Stavanger Airport, Sola"
+      },
+      "destination": {
+        "country_iso_name": "PL",
+        "country_name": "Poland",
+        "elevation": 791,
+        "iata_code": "KRK",
+        "icao_code": "EPKK",
+        "latitude": 50.0777,
+        "longitude": 19.7848,
+        "municipality": "Krak\u00f3w",
+        "name": "Krak\u00f3w John Paul II International Airport"
+      }
+    }
+  },
+  "RK19RU": {
+    "time": 1792568124.7755282,
+    "route": {
+      "callsign": "RK19RU",
+      "callsign_icao": "RUK19RU",
+      "callsign_iata": "RK19RU",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 1545,
+        "iata_code": "RAK",
+        "icao_code": "GMMX",
+        "latitude": 31.6069,
+        "longitude": -8.0363,
+        "municipality": "Marrakech",
+        "name": "Menara Airport"
       }
     }
   }
