@@ -15412,7 +15412,7 @@
     }
   },
   "RYR16YG": {
-    "time": 1792431327.3763099,
+    "time": 1792607453.436017,
     "route": {
       "callsign": "RYR16YG",
       "callsign_icao": "RYR16YG",
@@ -41064,7 +41064,7 @@
     }
   },
   "KLM68L": {
-    "time": 1792435239.2716877,
+    "time": 1792607453.436017,
     "route": {
       "callsign": "KLM68L",
       "callsign_icao": "KLM68L",
@@ -41254,7 +41254,7 @@
     }
   },
   "DLH8YA": {
-    "time": 1792520437.8408673,
+    "time": 1792607453.436017,
     "route": {
       "callsign": "DLH8YA",
       "callsign_icao": "DLH8YA",
@@ -42394,7 +42394,7 @@
     }
   },
   "BAW707": {
-    "time": 1792451432.537062,
+    "time": 1792607453.436017,
     "route": {
       "callsign": "BAW707",
       "callsign_icao": "BAW707",
@@ -42926,7 +42926,7 @@
     }
   },
   "AEE605": {
-    "time": 1792521050.5974011,
+    "time": 1792607453.436017,
     "route": {
       "callsign": "AEE605",
       "callsign_icao": "AEE605",
@@ -44463,7 +44463,7 @@
     }
   },
   "BAW924": {
-    "time": 1792520139.8451276,
+    "time": 1792607453.436017,
     "route": {
       "callsign": "BAW924",
       "callsign_icao": "BAW924",
@@ -47237,7 +47237,7 @@
     }
   },
   "EIN52N": {
-    "time": 1792349435.389201,
+    "time": 1792607453.436017,
     "route": {
       "callsign": "EIN52N",
       "callsign_icao": "EIN52N",
@@ -49897,7 +49897,7 @@
     }
   },
   "EZY131X": {
-    "time": 1792440637.4122367,
+    "time": 1792607453.436017,
     "route": {
       "callsign": "EZY131X",
       "callsign_icao": "EZY131X",
@@ -69000,7 +69000,7 @@
     }
   },
   "RYR45YU": {
-    "time": 1792480535.0300949,
+    "time": 1792607453.436017,
     "route": {
       "callsign": "RYR45YU",
       "callsign_icao": "RYR45YU",
@@ -126649,7 +126649,7 @@
     }
   },
   "EZY17LA": {
-    "time": 1792422065.0661085,
+    "time": 1792607453.436017,
     "route": {
       "callsign": "EZY17LA",
       "callsign_icao": "EZY17LA",
@@ -128818,7 +128818,7 @@
     }
   },
   "BAW773": {
-    "time": 1792512639.055703,
+    "time": 1792607453.436017,
     "route": {
       "callsign": "BAW773",
       "callsign_icao": "BAW773",
@@ -214399,6 +214399,82 @@
         "longitude": -1.32806,
         "municipality": "Nottingham",
         "name": "East Midlands Airport"
+      }
+    }
+  },
+  "KLM1142": {
+    "time": 1792607453.436017,
+    "route": {
+      "callsign": "KLM1142",
+      "callsign_icao": "KLM1142",
+      "callsign_iata": "KL1142",
+      "airline": {
+        "name": "KLM Royal Dutch Airlines",
+        "icao": "KLM",
+        "iata": "KL",
+        "country": "Netherlands",
+        "country_iso": "NL",
+        "callsign": "KLM"
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "WUK243": {
+    "time": 1792607453.436017,
+    "route": {
+      "callsign": "WUK243",
+      "callsign_icao": "WUK243",
+      "callsign_iata": "W9243",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "MK",
+        "country_name": "North Macedonia",
+        "elevation": 781,
+        "iata_code": "SKP",
+        "icao_code": "LWSK",
+        "latitude": 41.9616,
+        "longitude": 21.6214,
+        "municipality": "Skopje",
+        "name": "Skopje International Airport"
       }
     }
   }
