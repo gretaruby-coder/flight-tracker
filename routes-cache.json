@@ -72724,7 +72724,7 @@
     }
   },
   "CFG017": {
-    "time": 1792378525.1842513,
+    "time": 1792551032.2699678,
     "route": {
       "callsign": "CFG17",
       "callsign_icao": "CFG17",
@@ -146235,7 +146235,7 @@
     }
   },
   "EZY59NW": {
-    "time": 1792449328.8944066,
+    "time": 1792551032.2699678,
     "route": {
       "callsign": "EZY59NW",
       "callsign_icao": "EZY59NW",
@@ -193622,6 +193622,82 @@
         "longitude": 23.9445,
         "municipality": "Athens",
         "name": "Athens Eleftherios Venizelos International Airport"
+      }
+    }
+  },
+  "DAL70": {
+    "time": 1792551032.2699678,
+    "route": {
+      "callsign": "DAL70",
+      "callsign_icao": "DAL70",
+      "callsign_iata": "DL70",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1026,
+        "iata_code": "ATL",
+        "icao_code": "KATL",
+        "latitude": 33.6367,
+        "longitude": -84.4281,
+        "municipality": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "AFR327": {
+    "time": 1792551032.2699678,
+    "route": {
+      "callsign": "AFR327",
+      "callsign_icao": "AFR327",
+      "callsign_iata": "AF327",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 374,
+        "iata_code": "YOW",
+        "icao_code": "CYOW",
+        "latitude": 45.3225,
+        "longitude": -75.6692,
+        "municipality": "Ottawa",
+        "name": "Ottawa Macdonald-Cartier International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
       }
     }
   }
