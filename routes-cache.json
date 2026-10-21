@@ -9854,7 +9854,7 @@
     }
   },
   "BAW347N": {
-    "time": 1792499726.325875,
+    "time": 1792598728.0072575,
     "route": {
       "callsign": "BAW347N",
       "callsign_icao": "BAW347N",
@@ -16400,7 +16400,7 @@
     }
   },
   "VLG8961": {
-    "time": 1792421439.7294157,
+    "time": 1792598728.0072575,
     "route": {
       "callsign": "VLG8961",
       "callsign_icao": "VLG8961",
@@ -26376,7 +26376,7 @@
     }
   },
   "EIN7EG": {
-    "time": 1792425929.3858402,
+    "time": 1792598728.0072575,
     "route": {
       "callsign": "EIN7EG",
       "callsign_icao": "EIN7EG",
@@ -26604,7 +26604,7 @@
     }
   },
   "BAW22B": {
-    "time": 1792511440.5683513,
+    "time": 1792598728.0072575,
     "route": {
       "callsign": "BAW22B",
       "callsign_icao": "BAW22B",
@@ -27364,7 +27364,7 @@
     }
   },
   "KLC991": {
-    "time": 1792427127.3151603,
+    "time": 1792598728.0072575,
     "route": {
       "callsign": "KLC991",
       "callsign_icao": "KLC991",
@@ -29295,7 +29295,7 @@
     }
   },
   "KLM77C": {
-    "time": 1792428035.3243656,
+    "time": 1792598728.0072575,
     "route": {
       "callsign": "KLM77C",
       "callsign_icao": "KLM77C",
@@ -31758,7 +31758,7 @@
     }
   },
   "WUK784": {
-    "time": 1792435839.7005558,
+    "time": 1792598728.0072575,
     "route": {
       "callsign": "WUK784",
       "callsign_icao": "WUK784",
@@ -37492,7 +37492,7 @@
     }
   },
   "RYR37HR": {
-    "time": 1792438525.9320555,
+    "time": 1792598728.0072575,
     "route": {
       "callsign": "RYR37HR",
       "callsign_icao": "RYR37HR",
@@ -129958,7 +129958,7 @@
     }
   },
   "AAL81": {
-    "time": 1792426534.5888648,
+    "time": 1792598728.0072575,
     "route": {
       "callsign": "AAL81",
       "callsign_icao": "AAL81",
@@ -138656,7 +138656,7 @@
     }
   },
   "EZY32KL": {
-    "time": 1792436463.4727983,
+    "time": 1792598728.0072575,
     "route": {
       "callsign": "EZY32KL",
       "callsign_icao": "EZY32KL",
@@ -181802,7 +181802,7 @@
     }
   },
   "SHT9C": {
-    "time": 1792512327.4077954,
+    "time": 1792598728.0072575,
     "route": {
       "callsign": "SHT9C",
       "callsign_icao": null,
@@ -211584,6 +211584,82 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "EXS8RE": {
+    "time": 1792598728.0072575,
+    "route": {
+      "callsign": "EXS8RE",
+      "callsign_icao": "EXS8RE",
+      "callsign_iata": "LS8RE",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 26,
+        "iata_code": "GLA",
+        "icao_code": "EGPF",
+        "latitude": 55.8719,
+        "longitude": -4.43306,
+        "municipality": "Paisley, Renfrewshire",
+        "name": "Glasgow International Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 20,
+        "iata_code": "DLM",
+        "icao_code": "LTBS",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "name": "Dalaman International Airport"
+      }
+    }
+  },
+  "EZY12TR": {
+    "time": 1792598728.0072575,
+    "route": {
+      "callsign": "EZY12TR",
+      "callsign_icao": "EZY12TR",
+      "callsign_iata": "U212TR",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "MT",
+        "country_name": "Malta",
+        "elevation": 300,
+        "iata_code": "MLA",
+        "icao_code": "LMML",
+        "latitude": 35.8575,
+        "longitude": 14.4775,
+        "municipality": "Valletta",
+        "name": "Malta International Airport"
       }
     }
   }
