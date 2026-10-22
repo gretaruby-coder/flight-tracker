@@ -14545,7 +14545,7 @@
     }
   },
   "EIN42W": {
-    "time": 1792497327.8695738,
+    "time": 1792672254.0964813,
     "route": {
       "callsign": "EIN42W",
       "callsign_icao": "EIN42W",
@@ -68658,7 +68658,7 @@
     }
   },
   "EZY76RK": {
-    "time": 1792533928.9952497,
+    "time": 1792672254.0964813,
     "route": {
       "callsign": "EZY76RK",
       "callsign_icao": "EZY76RK",
@@ -119385,7 +119385,7 @@
     }
   },
   "MEA202": {
-    "time": 1792499726.325875,
+    "time": 1792672254.0964813,
     "route": {
       "callsign": "MEA202",
       "callsign_icao": "MEA202",
@@ -171204,7 +171204,7 @@
     }
   },
   "EIN4TH": {
-    "time": 1792498235.851937,
+    "time": 1792672254.0964813,
     "route": {
       "callsign": "EIN4TH",
       "callsign_icao": "EIN4TH",
@@ -173152,7 +173152,7 @@
     }
   },
   "UBT70A": {
-    "time": 1792500640.3495677,
+    "time": 1792672254.0964813,
     "route": {
       "callsign": "UBT70A",
       "callsign_icao": "UBT70A",
@@ -173874,7 +173874,7 @@
     }
   },
   "SWR457": {
-    "time": 1792501529.386793,
+    "time": 1792672254.0964813,
     "route": {
       "callsign": "SWR457",
       "callsign_icao": "SWR457",
@@ -226412,6 +226412,82 @@
         "longitude": 30.8005,
         "municipality": "Antalya",
         "name": "Antalya International Airport"
+      }
+    }
+  },
+  "BAW355": {
+    "time": 1792672254.0964813,
+    "route": {
+      "callsign": "BAW355",
+      "callsign_icao": "BAW355",
+      "callsign_iata": "BA355",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 12,
+        "iata_code": "NCE",
+        "icao_code": "LFMN",
+        "latitude": 43.6584,
+        "longitude": 7.21587,
+        "municipality": "Nice",
+        "name": "Nice-C\u00f4te d'Azur Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "GTI8092": {
+    "time": 1792672254.0964813,
+    "route": {
+      "callsign": "GTI8092",
+      "callsign_icao": "GTI8092",
+      "callsign_iata": "5Y8092",
+      "airline": {
+        "name": "Atlas Air",
+        "icao": "GTI",
+        "iata": "5Y",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "GIANT"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
       }
     }
   }
