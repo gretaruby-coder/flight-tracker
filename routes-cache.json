@@ -33827,7 +33827,7 @@
     }
   },
   "DLH4H": {
-    "time": 1792515926.9669092,
+    "time": 1792690834.8249574,
     "route": {
       "callsign": "DLH4H",
       "callsign_icao": "DLH4H",
@@ -34359,7 +34359,7 @@
     }
   },
   "DLH918": {
-    "time": 1792603237.2190456,
+    "time": 1792690834.8249574,
     "route": {
       "callsign": "DLH918",
       "callsign_icao": "DLH918",
@@ -36100,7 +36100,7 @@
     }
   },
   "UAE70M": {
-    "time": 1792604128.8292825,
+    "time": 1792690834.8249574,
     "route": {
       "callsign": "UAE70M",
       "callsign_icao": "UAE70M",
@@ -39278,7 +39278,7 @@
     }
   },
   "LOG63R": {
-    "time": 1792520437.8408673,
+    "time": 1792690834.8249574,
     "route": {
       "callsign": "LOG63R",
       "callsign_icao": "LOG63R",
@@ -42888,7 +42888,7 @@
     }
   },
   "EZY76HZ": {
-    "time": 1792347333.0377164,
+    "time": 1792690834.8249574,
     "route": {
       "callsign": "EZY76HZ",
       "callsign_icao": "EZY76HZ",
@@ -60395,7 +60395,7 @@
     }
   },
   "EZY905X": {
-    "time": 1792357261.517396,
+    "time": 1792690834.8249574,
     "route": {
       "callsign": "EZY905X",
       "callsign_icao": "EZY905X",
@@ -91022,7 +91022,7 @@
     }
   },
   "RYR7VK": {
-    "time": 1792522526.4755366,
+    "time": 1792690834.8249574,
     "route": {
       "callsign": "RYR7VK",
       "callsign_icao": "RYR7VK",
@@ -133509,7 +133509,7 @@
     }
   },
   "EZY31GT": {
-    "time": 1792596328.340163,
+    "time": 1792690834.8249574,
     "route": {
       "callsign": "EZY31GT",
       "callsign_icao": "EZY31GT",
@@ -134414,7 +134414,7 @@
     }
   },
   "EIN1HL": {
-    "time": 1792604128.8292825,
+    "time": 1792690834.8249574,
     "route": {
       "callsign": "EIN1HL",
       "callsign_icao": "EIN1HL",
@@ -146653,7 +146653,7 @@
     }
   },
   "RYR3SG": {
-    "time": 1792450235.0967655,
+    "time": 1792690834.8249574,
     "route": {
       "callsign": "RYR3SG",
       "callsign_icao": "RYR3SG",
@@ -230256,6 +230256,82 @@
         "longitude": 28.931,
         "municipality": "Chi\u015fin\u0103u",
         "name": "Chi\u015fin\u0103u International Airport"
+      }
+    }
+  },
+  "CFG2DJ": {
+    "time": 1792690834.8249574,
+    "route": {
+      "callsign": "CFG2DJ",
+      "callsign_icao": "CFG2DJ",
+      "callsign_iata": "DE2DJ",
+      "airline": {
+        "name": "Condor Flugdienst",
+        "icao": "CFG",
+        "iata": "DE",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "CONDOR"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EZY8282": {
+    "time": 1792690834.8249574,
+    "route": {
+      "callsign": "EZY8282",
+      "callsign_icao": "EZY8282",
+      "callsign_iata": "U28282",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 177,
+        "iata_code": "BRI",
+        "icao_code": "LIBD",
+        "latitude": 41.1389,
+        "longitude": 16.7606,
+        "municipality": "Bari",
+        "name": "Bari Karol Wojty\u0142a Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
