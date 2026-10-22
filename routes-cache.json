@@ -54975,7 +54975,7 @@
     }
   },
   "TAY813": {
-    "time": 1792353930.780132,
+    "time": 1792641660.058103,
     "route": {
       "callsign": "TAY813",
       "callsign_icao": "TAY813",
@@ -151528,7 +151528,7 @@
     }
   },
   "AAL704": {
-    "time": 1792468856.3259914,
+    "time": 1792641660.058103,
     "route": {
       "callsign": "AAL704",
       "callsign_icao": "AAL704",
@@ -218589,6 +218589,44 @@
         "longitude": 2.55,
         "municipality": "Paris",
         "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "FDX6248": {
+    "time": 1792641660.058103,
+    "route": {
+      "callsign": "FDX6248",
+      "callsign_icao": "FDX6248",
+      "callsign_iata": "FX6248",
+      "airline": {
+        "name": "FedEx Express",
+        "icao": "FDX",
+        "iata": "FX",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "FEDEX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 797,
+        "iata_code": "IND",
+        "icao_code": "KIND",
+        "latitude": 39.7173,
+        "longitude": -86.2944,
+        "municipality": "Indianapolis",
+        "name": "Indianapolis International Airport"
+      },
+      "destination": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 659,
+        "iata_code": "LGG",
+        "icao_code": "EBLG",
+        "latitude": 50.6374,
+        "longitude": 5.44322,
+        "municipality": "Li\u00e8ge",
+        "name": "Li\u00e8ge Airport"
       }
     }
   }
