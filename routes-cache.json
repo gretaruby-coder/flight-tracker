@@ -494,7 +494,7 @@
     }
   },
   "CPA257": {
-    "time": 1792589453.0147333,
+    "time": 1792676737.9537854,
     "route": {
       "callsign": "CPA257",
       "callsign_icao": "CPA257",
@@ -9557,7 +9557,7 @@
     }
   },
   "BAW122": {
-    "time": 1792589453.0147333,
+    "time": 1792676737.9537854,
     "route": {
       "callsign": "BAW122",
       "callsign_icao": "BAW122",
@@ -11367,7 +11367,7 @@
     }
   },
   "ACA857": {
-    "time": 1792416930.2378228,
+    "time": 1792676737.9537854,
     "route": {
       "callsign": "ACA857",
       "callsign_icao": "ACA857",
@@ -12835,7 +12835,7 @@
     }
   },
   "BAW134": {
-    "time": 1792503050.762787,
+    "time": 1792676737.9537854,
     "route": {
       "callsign": "BAW134",
       "callsign_icao": "BAW134",
@@ -15222,7 +15222,7 @@
     }
   },
   "EXS53RU": {
-    "time": 1792500333.0578783,
+    "time": 1792676737.9537854,
     "route": {
       "callsign": "EXS53RU",
       "callsign_icao": "EXS53RU",
@@ -61559,7 +61559,7 @@
     }
   },
   "RUK7E": {
-    "time": 1792358133.0134444,
+    "time": 1792676737.9537854,
     "route": {
       "callsign": "RUK7E",
       "callsign_icao": "RUK7E",
@@ -121713,7 +121713,7 @@
     }
   },
   "BAW571": {
-    "time": 1792588536.7316692,
+    "time": 1792676737.9537854,
     "route": {
       "callsign": "BAW571",
       "callsign_icao": "BAW571",
@@ -172323,7 +172323,7 @@
     }
   },
   "FJO65K": {
-    "time": 1792499450.1961446,
+    "time": 1792676737.9537854,
     "route": {
       "callsign": "FJO65K",
       "callsign_icao": null,
@@ -227037,6 +227037,82 @@
         "longitude": -13.8638,
         "municipality": "Fuerteventura Island",
         "name": "Fuerteventura Airport"
+      }
+    }
+  },
+  "EXS3898": {
+    "time": 1792676737.9537854,
+    "route": {
+      "callsign": "EXS3898",
+      "callsign_icao": "EXS3898",
+      "callsign_iata": "LS3898",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 233,
+        "iata_code": "REU",
+        "icao_code": "LERS",
+        "latitude": 41.1474,
+        "longitude": 1.16717,
+        "municipality": "Reus",
+        "name": "Reus Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "TFL4LX": {
+    "time": 1792676737.9537854,
+    "route": {
+      "callsign": "TFL4LX",
+      "callsign_icao": "TFL4LX",
+      "callsign_iata": "OR4LX",
+      "airline": {
+        "name": "Arkefly",
+        "icao": "TFL",
+        "iata": "OR",
+        "country": "Netherlands",
+        "country_iso": "NL",
+        "callsign": "ARKEFLY"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
       }
     }
   }
