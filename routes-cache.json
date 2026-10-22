@@ -77308,7 +77308,7 @@
     }
   },
   "BAW456": {
-    "time": 1792561233.4444485,
+    "time": 1792647933.966881,
     "route": {
       "callsign": "BAW456",
       "callsign_icao": "BAW456",
@@ -81291,7 +81291,7 @@
     }
   },
   "THA910": {
-    "time": 1792561533.2423575,
+    "time": 1792647933.966881,
     "route": {
       "callsign": "THA910",
       "callsign_icao": "THA910",
@@ -84089,7 +84089,7 @@
     }
   },
   "EZY87GH": {
-    "time": 1792477844.6444821,
+    "time": 1792647933.966881,
     "route": {
       "callsign": "EZY87GH",
       "callsign_icao": "EZY87GH",
@@ -118891,7 +118891,7 @@
     }
   },
   "EZY84DE": {
-    "time": 1792412436.4675872,
+    "time": 1792647933.966881,
     "route": {
       "callsign": "EZY84DE",
       "callsign_icao": "EZY84DE",
@@ -134870,7 +134870,7 @@
     }
   },
   "EFW76D": {
-    "time": 1792431636.9755254,
+    "time": 1792647933.966881,
     "route": {
       "callsign": "EFW76D",
       "callsign_icao": "EFW76D",
@@ -151863,7 +151863,7 @@
     }
   },
   "EZY87JW": {
-    "time": 1792471240.448157,
+    "time": 1792647933.966881,
     "route": {
       "callsign": "EZY87JW",
       "callsign_icao": "EZY87JW",
@@ -155732,7 +155732,7 @@
     }
   },
   "RYR31VD": {
-    "time": 1792477232.4906,
+    "time": 1792647933.966881,
     "route": {
       "callsign": "RYR31VD",
       "callsign_icao": "RYR31VD",
@@ -158606,7 +158606,7 @@
     }
   },
   "BAW524": {
-    "time": 1792481445.2960453,
+    "time": 1792647933.966881,
     "route": {
       "callsign": "BAW524",
       "callsign_icao": "BAW524",
@@ -219684,6 +219684,120 @@
         "longitude": 5.22142,
         "municipality": "Marseille",
         "name": "Marseille Provence Airport"
+      }
+    }
+  },
+  "EXS7PJ": {
+    "time": 1792647933.966881,
+    "route": {
+      "callsign": "EXS7PJ",
+      "callsign_icao": "EXS7PJ",
+      "callsign_iata": "LS7PJ",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
+      },
+      "destination": {
+        "country_iso_name": "MT",
+        "country_name": "Malta",
+        "elevation": 300,
+        "iata_code": "MLA",
+        "icao_code": "LMML",
+        "latitude": 35.8575,
+        "longitude": 14.4775,
+        "municipality": "Valletta",
+        "name": "Malta International Airport"
+      }
+    }
+  },
+  "EZY23HY": {
+    "time": 1792647933.966881,
+    "route": {
+      "callsign": "EZY23HY",
+      "callsign_icao": "EZY23HY",
+      "callsign_iata": "U223HY",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1487,
+        "iata_code": "MUC",
+        "icao_code": "EDDM",
+        "latitude": 48.3538,
+        "longitude": 11.7861,
+        "municipality": "Munich",
+        "name": "Munich Airport"
+      }
+    }
+  },
+  "EJU4691": {
+    "time": 1792647933.966881,
+    "route": {
+      "callsign": "EJU4691",
+      "callsign_icao": "EJU4691",
+      "callsign_iata": "EC4691",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 1545,
+        "iata_code": "RAK",
+        "icao_code": "GMMX",
+        "latitude": 31.6069,
+        "longitude": -8.0363,
+        "municipality": "Marrakech",
+        "name": "Menara Airport"
       }
     }
   }
