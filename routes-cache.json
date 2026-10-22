@@ -2770,7 +2770,7 @@
     }
   },
   "EIN43R": {
-    "time": 1792494060.691986,
+    "time": 1792667437.2768784,
     "route": {
       "callsign": "EIN43R",
       "callsign_icao": "EIN43R",
@@ -10835,7 +10835,7 @@
     }
   },
   "BAW514": {
-    "time": 1792330251.9790797,
+    "time": 1792667437.2768784,
     "route": {
       "callsign": "BAW514",
       "callsign_icao": "BAW514",
@@ -113820,7 +113820,7 @@
     }
   },
   "DAL10": {
-    "time": 1792574725.446403,
+    "time": 1792667437.2768784,
     "route": {
       "callsign": "DAL10",
       "callsign_icao": "DAL10",
@@ -114186,7 +114186,7 @@
     }
   },
   "BAW224U": {
-    "time": 1792408236.613326,
+    "time": 1792667437.2768784,
     "route": {
       "callsign": "BAW224U",
       "callsign_icao": "BAW224U",
@@ -143993,7 +143993,7 @@
     }
   },
   "RYR8FD": {
-    "time": 1792445454.361687,
+    "time": 1792667437.2768784,
     "route": {
       "callsign": "RYR8FD",
       "callsign_icao": "RYR8FD",
@@ -225383,6 +225383,120 @@
         "longitude": 14.4775,
         "municipality": "Valletta",
         "name": "Malta International Airport"
+      }
+    }
+  },
+  "BAW612": {
+    "time": 1792667437.2768784,
+    "route": {
+      "callsign": "BAW612",
+      "callsign_icao": "BAW612",
+      "callsign_iata": "BA612",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 7,
+        "iata_code": "VCE",
+        "icao_code": "LIPZ",
+        "latitude": 45.5053,
+        "longitude": 12.3519,
+        "municipality": "Venice",
+        "name": "Venice Marco Polo Airport"
+      }
+    }
+  },
+  "TOM9BM": {
+    "time": 1792667437.2768784,
+    "route": {
+      "callsign": "TOM9BM",
+      "callsign_icao": "TOM9BM",
+      "callsign_iata": "BY9BM",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 22,
+        "iata_code": "SKG",
+        "icao_code": "LGTS",
+        "latitude": 40.5197,
+        "longitude": 22.9709,
+        "municipality": "Thessaloniki",
+        "name": "Thessaloniki Macedonia International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      }
+    }
+  },
+  "EXS85RM": {
+    "time": 1792667437.2768784,
+    "route": {
+      "callsign": "EXS85RM",
+      "callsign_icao": "EXS85RM",
+      "callsign_iata": "LS85RM",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 59,
+        "iata_code": "EFL",
+        "icao_code": "LGKF",
+        "latitude": 38.1201,
+        "longitude": 20.5005,
+        "municipality": "Kefallinia Island",
+        "name": "Kefallinia Airport"
       }
     }
   }
