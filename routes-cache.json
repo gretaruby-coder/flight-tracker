@@ -943,7 +943,7 @@
     }
   },
   "EIN161": {
-    "time": 1792593328.4234197,
+    "time": 1792681840.5344799,
     "route": {
       "callsign": "EIN161",
       "callsign_icao": "EIN161",
@@ -14393,7 +14393,7 @@
     }
   },
   "KLM1010": {
-    "time": 1792592138.6017377,
+    "time": 1792681840.5344799,
     "route": {
       "callsign": "KLM1010",
       "callsign_icao": "KLM1010",
@@ -20224,7 +20224,7 @@
     }
   },
   "DLH7H": {
-    "time": 1792594527.2172954,
+    "time": 1792681840.5344799,
     "route": {
       "callsign": "DLH7H",
       "callsign_icao": "DLH7H",
@@ -20908,7 +20908,7 @@
     }
   },
   "SAS809": {
-    "time": 1792336534.8641913,
+    "time": 1792681840.5344799,
     "route": {
       "callsign": "SAS809",
       "callsign_icao": "SAS809",
@@ -124383,7 +124383,7 @@
     }
   },
   "RYR596G": {
-    "time": 1792419036.7560291,
+    "time": 1792681840.5344799,
     "route": {
       "callsign": "RYR596G",
       "callsign_icao": "RYR596G",
@@ -126991,7 +126991,7 @@
     }
   },
   "EXS621": {
-    "time": 1792422328.1009037,
+    "time": 1792681840.5344799,
     "route": {
       "callsign": "EXS621",
       "callsign_icao": "EXS621",
@@ -161487,7 +161487,7 @@
     }
   },
   "BAW872": {
-    "time": 1792595126.3630161,
+    "time": 1792681840.5344799,
     "route": {
       "callsign": "BAW872",
       "callsign_icao": "BAW872",
@@ -181764,7 +181764,7 @@
     }
   },
   "UPS223": {
-    "time": 1792512327.4077954,
+    "time": 1792681840.5344799,
     "route": {
       "callsign": "UPS223",
       "callsign_icao": "UPS223",
@@ -228118,6 +228118,113 @@
         "longitude": 27.0917,
         "municipality": "Kos Island",
         "name": "Kos Airport"
+      }
+    }
+  },
+  "EXS2HJ": {
+    "time": 1792681840.5344799,
+    "route": {
+      "callsign": "EXS2HJ",
+      "callsign_icao": "EXS2HJ",
+      "callsign_iata": "LS2HJ",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 294,
+        "iata_code": "NAP",
+        "icao_code": "LIRN",
+        "latitude": 40.886,
+        "longitude": 14.2908,
+        "municipality": "N\u00e1poli",
+        "name": "Naples International Airport"
+      }
+    }
+  },
+  "NJE5UC": {
+    "time": 1792681840.5344799,
+    "route": {
+      "callsign": "NJE5UC",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 502,
+        "iata_code": "ORK",
+        "icao_code": "EICK",
+        "latitude": 51.8413,
+        "longitude": -8.49111,
+        "municipality": "Cork",
+        "name": "Cork Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 915,
+        "iata_code": "LUG",
+        "icao_code": "LSZA",
+        "latitude": 46.0043,
+        "longitude": 8.91058,
+        "municipality": "Lugano",
+        "name": "Lugano Airport"
+      }
+    }
+  },
+  "CFG1HP": {
+    "time": 1792681840.5344799,
+    "route": {
+      "callsign": "CFG1HP",
+      "callsign_icao": "CFG1HP",
+      "callsign_iata": "DE1HP",
+      "airline": {
+        "name": "Condor Flugdienst",
+        "icao": "CFG",
+        "iata": "DE",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "CONDOR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
       }
     }
   }
