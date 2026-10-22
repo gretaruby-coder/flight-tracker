@@ -14089,7 +14089,7 @@
     }
   },
   "BAW94Q": {
-    "time": 1792425325.6753318,
+    "time": 1792683936.8468168,
     "route": {
       "callsign": "BAW94Q",
       "callsign_icao": "BAW94Q",
@@ -22376,7 +22376,7 @@
     }
   },
   "BAW5E": {
-    "time": 1792596328.340163,
+    "time": 1792683936.8468168,
     "route": {
       "callsign": "BAW5E",
       "callsign_icao": "BAW5E",
@@ -23250,7 +23250,7 @@
     }
   },
   "BEL6RA": {
-    "time": 1792596655.7185802,
+    "time": 1792683936.8468168,
     "route": {
       "callsign": "BEL6RA",
       "callsign_icao": "BEL6RA",
@@ -25205,7 +25205,7 @@
     }
   },
   "KLM37X": {
-    "time": 1792509928.3181617,
+    "time": 1792683936.8468168,
     "route": {
       "callsign": "KLM37X",
       "callsign_icao": "KLM37X",
@@ -125516,7 +125516,7 @@
     }
   },
   "BAW749": {
-    "time": 1792508127.8239257,
+    "time": 1792683936.8468168,
     "route": {
       "callsign": "BAW749",
       "callsign_icao": "BAW749",
@@ -127143,7 +127143,7 @@
     }
   },
   "EZY79NW": {
-    "time": 1792592725.6563118,
+    "time": 1792683936.8468168,
     "route": {
       "callsign": "EZY79NW",
       "callsign_icao": "EZY79NW",
@@ -128590,7 +128590,7 @@
     }
   },
   "KLC65J": {
-    "time": 1792596655.7185802,
+    "time": 1792683936.8468168,
     "route": {
       "callsign": "KLC65J",
       "callsign_icao": "KLC65J",
@@ -209923,7 +209923,7 @@
     }
   },
   "EXS72GL": {
-    "time": 1792595436.097717,
+    "time": 1792683936.8468168,
     "route": {
       "callsign": "EXS72GL",
       "callsign_icao": "EXS72GL",
@@ -228598,6 +228598,82 @@
         "longitude": 11.1004,
         "municipality": "Oslo",
         "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "TOM539": {
+    "time": 1792683936.8468168,
+    "route": {
+      "callsign": "TOM539",
+      "callsign_icao": "TOM539",
+      "callsign_iata": "BY539",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 250,
+        "iata_code": "AGA",
+        "icao_code": "GMAD",
+        "latitude": 30.32248,
+        "longitude": -9.412,
+        "municipality": "Agadir (Temsia)",
+        "name": "Al Massira Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "BAW613": {
+    "time": 1792683936.8468168,
+    "route": {
+      "callsign": "BAW613",
+      "callsign_icao": "BAW613",
+      "callsign_iata": "BA613",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
       }
     }
   }
