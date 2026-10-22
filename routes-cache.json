@@ -13633,7 +13633,7 @@
     }
   },
   "DLH542": {
-    "time": 1792332059.3780794,
+    "time": 1792679128.73311,
     "route": {
       "callsign": "DLH542",
       "callsign_icao": "DLH542",
@@ -14051,7 +14051,7 @@
     }
   },
   "AAL91": {
-    "time": 1792592725.6563118,
+    "time": 1792679128.73311,
     "route": {
       "callsign": "AAL91",
       "callsign_icao": "AAL91",
@@ -15374,7 +15374,7 @@
     }
   },
   "DLH4JK": {
-    "time": 1792592725.6563118,
+    "time": 1792679128.73311,
     "route": {
       "callsign": "DLH4JK",
       "callsign_icao": "DLH4JK",
@@ -20870,7 +20870,7 @@
     }
   },
   "EJU63FY": {
-    "time": 1792592138.6017377,
+    "time": 1792679128.73311,
     "route": {
       "callsign": "EJU63FY",
       "callsign_icao": "EJU63FY",
@@ -110670,7 +110670,7 @@
     }
   },
   "GTAYC": {
-    "time": 1792405525.0242352,
+    "time": 1792679128.73311,
     "route": {
       "callsign": "GTAYC",
       "callsign_icao": null,
@@ -227531,6 +227531,113 @@
         "longitude": 25.4793,
         "municipality": "Santorini Island",
         "name": "Santorini Airport"
+      }
+    }
+  },
+  "EXS78LQ": {
+    "time": 1792679128.73311,
+    "route": {
+      "callsign": "EXS78LQ",
+      "callsign_icao": "EXS78LQ",
+      "callsign_iata": "LS78LQ",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "FJO649": {
+    "time": 1792679128.73311,
+    "route": {
+      "callsign": "FJO649",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 3959,
+        "iata_code": "ELP",
+        "icao_code": "KELP",
+        "latitude": 31.8072,
+        "longitude": -106.378,
+        "municipality": "El Paso",
+        "name": "El Paso International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 218,
+        "iata_code": "LBG",
+        "icao_code": "LFPB",
+        "latitude": 48.9694,
+        "longitude": 2.44139,
+        "municipality": "Paris",
+        "name": "Paris-Le Bourget Airport"
+      }
+    }
+  },
+  "UAE1X": {
+    "time": 1792679128.73311,
+    "route": {
+      "callsign": "UAE1X",
+      "callsign_icao": "UAE1X",
+      "callsign_iata": "EK1X",
+      "airline": {
+        "name": "Emirates",
+        "icao": "UAE",
+        "iata": "EK",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "EMIRATES"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      },
+      "destination": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 62,
+        "iata_code": "DXB",
+        "icao_code": "OMDB",
+        "latitude": 25.2528,
+        "longitude": 55.3644,
+        "municipality": "Dubai",
+        "name": "Dubai International Airport"
       }
     }
   }
