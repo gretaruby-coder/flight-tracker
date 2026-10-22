@@ -72952,7 +72952,7 @@
     }
   },
   "VIR92MC": {
-    "time": 1792467931.8421624,
+    "time": 1792641032.7363114,
     "route": {
       "callsign": "VIR92MC",
       "callsign_icao": "VIR92MC",
@@ -73477,7 +73477,7 @@
     }
   },
   "BAW9E": {
-    "time": 1792554037.1548257,
+    "time": 1792641032.7363114,
     "route": {
       "callsign": "BAW9E",
       "callsign_icao": "BAW9E",
@@ -218464,6 +218464,82 @@
         "longitude": -79.6306,
         "municipality": "Toronto",
         "name": "Lester B. Pearson International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "CLX11T": {
+    "time": 1792641032.7363114,
+    "route": {
+      "callsign": "CLX11T",
+      "callsign_icao": "CLX11T",
+      "callsign_iata": "CV11T",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 152,
+        "iata_code": "ANC",
+        "icao_code": "PANC",
+        "latitude": 61.1744,
+        "longitude": -149.996,
+        "municipality": "Anchorage",
+        "name": "Ted Stevens Anchorage International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      }
+    }
+  },
+  "UAL989": {
+    "time": 1792641032.7363114,
+    "route": {
+      "callsign": "UAL989",
+      "callsign_icao": "UAL989",
+      "callsign_iata": "UA989",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 312,
+        "iata_code": "IAD",
+        "icao_code": "KIAD",
+        "latitude": 38.9445,
+        "longitude": -77.4558,
+        "municipality": "Washington",
+        "name": "Washington Dulles International Airport"
       },
       "destination": {
         "country_iso_name": "DE",
