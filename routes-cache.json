@@ -79550,7 +79550,7 @@
     }
   },
   "BAW2230": {
-    "time": 1792388733.8570347,
+    "time": 1792641326.1982539,
     "route": {
       "callsign": "BAW2230",
       "callsign_icao": "BAW2230",
@@ -218551,6 +218551,44 @@
         "longitude": 8.57056,
         "municipality": "Frankfurt am Main",
         "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "AFR279": {
+    "time": 1792641326.1982539,
+    "route": {
+      "callsign": "AFR279",
+      "callsign_icao": "AFR279",
+      "callsign_iata": "AF279",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "JP",
+        "country_name": "Japan",
+        "elevation": 35,
+        "iata_code": "HND",
+        "icao_code": "RJTT",
+        "latitude": 35.5523,
+        "longitude": 139.78,
+        "municipality": "Tokyo",
+        "name": "Tokyo Haneda International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
       }
     }
   }
