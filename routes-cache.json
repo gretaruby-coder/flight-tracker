@@ -48795,7 +48795,7 @@
     }
   },
   "RYR29HK": {
-    "time": 1792516233.8620741,
+    "time": 1792657856.9196553,
     "route": {
       "callsign": "RYR29HK",
       "callsign_icao": "RYR29HK",
@@ -95599,7 +95599,7 @@
     }
   },
   "ACA852": {
-    "time": 1792571451.534438,
+    "time": 1792657856.9196553,
     "route": {
       "callsign": "ACA852",
       "callsign_icao": "ACA852",
@@ -96055,7 +96055,7 @@
     }
   },
   "WZZ2050": {
-    "time": 1792569929.0153909,
+    "time": 1792657856.9196553,
     "route": {
       "callsign": "WZZ2050",
       "callsign_icao": "WZZ2050",
@@ -96891,7 +96891,7 @@
     }
   },
   "VIR198S": {
-    "time": 1792397129.0689895,
+    "time": 1792657856.9196553,
     "route": {
       "callsign": "VIR198S",
       "callsign_icao": "VIR198S",
@@ -97568,7 +97568,7 @@
     }
   },
   "ITY202": {
-    "time": 1792485048.6188636,
+    "time": 1792657856.9196553,
     "route": {
       "callsign": "ITY202",
       "callsign_icao": "ITY202",
@@ -99150,7 +99150,7 @@
     }
   },
   "GOWAR": {
-    "time": 1792398327.7226243,
+    "time": 1792657856.9196553,
     "route": {
       "callsign": "GOWAR",
       "callsign_icao": null,
@@ -99713,7 +99713,7 @@
     }
   },
   "UAE7CN": {
-    "time": 1792486235.923629,
+    "time": 1792657856.9196553,
     "route": {
       "callsign": "UAE7CN",
       "callsign_icao": "UAE7CN",
@@ -105668,7 +105668,7 @@
     }
   },
   "EJU38MQ": {
-    "time": 1792402250.8314908,
+    "time": 1792657856.9196553,
     "route": {
       "callsign": "EJU38MQ",
       "callsign_icao": "EJU38MQ",
@@ -106200,7 +106200,7 @@
     }
   },
   "BAW396U": {
-    "time": 1792493137.2801743,
+    "time": 1792657856.9196553,
     "route": {
       "callsign": "BAW396U",
       "callsign_icao": "BAW396U",
@@ -119461,7 +119461,7 @@
     }
   },
   "VLG6626": {
-    "time": 1792413052.563891,
+    "time": 1792657856.9196553,
     "route": {
       "callsign": "VLG6626",
       "callsign_icao": "VLG6626",
@@ -181239,7 +181239,7 @@
     }
   },
   "EXS1TL": {
-    "time": 1792511729.5282454,
+    "time": 1792657856.9196553,
     "route": {
       "callsign": "EXS1TL",
       "callsign_icao": "EXS1TL",
@@ -223594,6 +223594,82 @@
         "longitude": 14.2908,
         "municipality": "N\u00e1poli",
         "name": "Naples International Airport"
+      }
+    }
+  },
+  "BOX457": {
+    "time": 1792657856.9196553,
+    "route": {
+      "callsign": "BOX457",
+      "callsign_icao": "BOX457",
+      "callsign_iata": "3S457",
+      "airline": {
+        "name": "AeroLogic",
+        "icao": "BOX",
+        "iata": "3S",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "GERMAN CARGO"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1026,
+        "iata_code": "ATL",
+        "icao_code": "KATL",
+        "latitude": 33.6367,
+        "longitude": -84.4281,
+        "municipality": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "NSZ5261": {
+    "time": 1792657856.9196553,
+    "route": {
+      "callsign": "NSZ5261",
+      "callsign_icao": "NSZ5261",
+      "callsign_iata": "D85261",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 506,
+        "iata_code": "GOT",
+        "icao_code": "ESGG",
+        "latitude": 57.6628,
+        "longitude": 12.2798,
+        "municipality": "Gothenburg",
+        "name": "Gothenburg-Landvetter Airport"
       }
     }
   }
