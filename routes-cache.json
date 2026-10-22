@@ -21896,7 +21896,7 @@
     }
   },
   "KLC23R": {
-    "time": 1792510839.0503385,
+    "time": 1792686327.7057185,
     "route": {
       "callsign": "KLC23R",
       "callsign_icao": "KLC23R",
@@ -27440,7 +27440,7 @@
     }
   },
   "KAL907": {
-    "time": 1792599643.571411,
+    "time": 1792686327.7057185,
     "route": {
       "callsign": "KAL907",
       "callsign_icao": "KAL907",
@@ -27851,7 +27851,7 @@
     }
   },
   "BAW408": {
-    "time": 1792511729.5282454,
+    "time": 1792686327.7057185,
     "route": {
       "callsign": "BAW408",
       "callsign_icao": "BAW408",
@@ -33675,7 +33675,7 @@
     }
   },
   "UAE79Y": {
-    "time": 1792513527.6451435,
+    "time": 1792686327.7057185,
     "route": {
       "callsign": "UAE79Y",
       "callsign_icao": "UAE79Y",
@@ -174064,7 +174064,7 @@
     }
   },
   "EZY13FX": {
-    "time": 1792501835.9051385,
+    "time": 1792686327.7057185,
     "route": {
       "callsign": "EZY13FX",
       "callsign_icao": "EZY13FX",
@@ -181909,7 +181909,7 @@
     }
   },
   "AFR12SQ": {
-    "time": 1792512639.055703,
+    "time": 1792686327.7057185,
     "route": {
       "callsign": "AFR12SQ",
       "callsign_icao": "AFR12SQ",
@@ -182745,7 +182745,7 @@
     }
   },
   "AFR332": {
-    "time": 1792513848.677412,
+    "time": 1792686327.7057185,
     "route": {
       "callsign": "AFR332",
       "callsign_icao": "AFR332",
@@ -184410,7 +184410,7 @@
     }
   },
   "CKS263": {
-    "time": 1792517127.7768295,
+    "time": 1792686327.7057185,
     "route": {
       "callsign": "CKS263",
       "callsign_icao": "CKS263",
@@ -229123,6 +229123,75 @@
         "longitude": 21.7622,
         "municipality": "Vaasa",
         "name": "Vaasa Airport"
+      }
+    }
+  },
+  "FJO62L": {
+    "time": 1792686327.7057185,
+    "route": {
+      "callsign": "FJO62L",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 37,
+        "iata_code": "OLB",
+        "icao_code": "LIEO",
+        "latitude": 40.8987,
+        "longitude": 9.51763,
+        "municipality": "Olbia (SS)",
+        "name": "Olbia Costa Smeralda Airport"
+      }
+    }
+  },
+  "EXS98UT": {
+    "time": 1792686327.7057185,
+    "route": {
+      "callsign": "EXS98UT",
+      "callsign_icao": "EXS98UT",
+      "callsign_iata": "LS98UT",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
       }
     }
   }
