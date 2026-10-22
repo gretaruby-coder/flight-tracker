@@ -74655,7 +74655,7 @@
     }
   },
   "VIR450": {
-    "time": 1792558860.3189125,
+    "time": 1792645525.2853703,
     "route": {
       "callsign": "VIR450",
       "callsign_icao": "VIR450",
@@ -74845,7 +74845,7 @@
     }
   },
   "ACA826": {
-    "time": 1792472460.184454,
+    "time": 1792645525.2853703,
     "route": {
       "callsign": "ACA826",
       "callsign_icao": "ACA826",
@@ -76251,7 +76251,7 @@
     }
   },
   "UAL929": {
-    "time": 1792474833.3019083,
+    "time": 1792645525.2853703,
     "route": {
       "callsign": "UAL929",
       "callsign_icao": "UAL929",
@@ -76631,7 +76631,7 @@
     }
   },
   "DAL224": {
-    "time": 1792387232.5323837,
+    "time": 1792645525.2853703,
     "route": {
       "callsign": "DAL224",
       "callsign_icao": "DAL224",
@@ -79208,7 +79208,7 @@
     }
   },
   "DLH471": {
-    "time": 1792388733.8570347,
+    "time": 1792645525.2853703,
     "route": {
       "callsign": "DLH471",
       "callsign_icao": "DLH471",
@@ -82462,7 +82462,7 @@
     }
   },
   "DAL58": {
-    "time": 1792558524.0961761,
+    "time": 1792645525.2853703,
     "route": {
       "callsign": "DAL58",
       "callsign_icao": "DAL58",
@@ -218931,6 +218931,44 @@
         "longitude": -3.37229,
         "municipality": "Edinburgh",
         "name": "Edinburgh Airport"
+      }
+    }
+  },
+  "DAL106": {
+    "time": 1792645525.2853703,
+    "route": {
+      "callsign": "DAL106",
+      "callsign_icao": "DAL106",
+      "callsign_iata": "DL106",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
       }
     }
   }
