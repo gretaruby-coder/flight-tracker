@@ -19737,7 +19737,7 @@
     }
   },
   "BAW762": {
-    "time": 1792597235.5881472,
+    "time": 1792685128.998886,
     "route": {
       "callsign": "BAW762",
       "callsign_icao": "BAW762",
@@ -26376,7 +26376,7 @@
     }
   },
   "EIN7EG": {
-    "time": 1792598728.0072575,
+    "time": 1792685128.998886,
     "route": {
       "callsign": "EIN7EG",
       "callsign_icao": "EIN7EG",
@@ -30580,7 +30580,7 @@
     }
   },
   "EIN169": {
-    "time": 1792512639.055703,
+    "time": 1792685128.998886,
     "route": {
       "callsign": "EIN169",
       "callsign_icao": "EIN169",
@@ -37119,7 +37119,7 @@
     }
   },
   "BAW442K": {
-    "time": 1792518925.9321518,
+    "time": 1792685128.998886,
     "route": {
       "callsign": "BAW442K",
       "callsign_icao": "BAW442K",
@@ -134072,7 +134072,7 @@
     }
   },
   "BAW94HG": {
-    "time": 1792430727.2901373,
+    "time": 1792685128.998886,
     "route": {
       "callsign": "BAW94HG",
       "callsign_icao": "BAW94HG",
@@ -163494,7 +163494,7 @@
     }
   },
   "RYR6RR": {
-    "time": 1792488033.832012,
+    "time": 1792685128.998886,
     "route": {
       "callsign": "RYR6RR",
       "callsign_icao": "RYR6RR",
@@ -182555,7 +182555,7 @@
     }
   },
   "WUK91NX": {
-    "time": 1792513527.6451435,
+    "time": 1792685128.998886,
     "route": {
       "callsign": "WUK91NX",
       "callsign_icao": "WUK91NX",
@@ -199108,7 +199108,7 @@
     }
   },
   "EJU62PV": {
-    "time": 1792569326.9002454,
+    "time": 1792685128.998886,
     "route": {
       "callsign": "EJU62PV",
       "callsign_icao": "EJU62PV",
@@ -228895,6 +228895,120 @@
         "longitude": 4.76389,
         "municipality": "Amsterdam",
         "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "VKG215": {
+    "time": 1792685128.998886,
+    "route": {
+      "callsign": "VKG215",
+      "callsign_icao": "VKG215",
+      "callsign_iata": "215",
+      "airline": {
+        "name": "SunClass Airlines",
+        "icao": "VKG",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": "VIKING"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      },
+      "destination": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 247,
+        "iata_code": "BLL",
+        "icao_code": "EKBI",
+        "latitude": 55.7403,
+        "longitude": 9.15178,
+        "municipality": "Billund",
+        "name": "Billund Airport"
+      }
+    }
+  },
+  "EZY96PK": {
+    "time": 1792685128.998886,
+    "route": {
+      "callsign": "EZY96PK",
+      "callsign_icao": "EZY96PK",
+      "callsign_iata": "U296PK",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 294,
+        "iata_code": "NAP",
+        "icao_code": "LIRN",
+        "latitude": 40.886,
+        "longitude": 14.2908,
+        "municipality": "N\u00e1poli",
+        "name": "Naples International Airport"
+      }
+    }
+  },
+  "NSZ5330": {
+    "time": 1792685128.998886,
+    "route": {
+      "callsign": "NSZ5330",
+      "callsign_icao": "NSZ5330",
+      "callsign_iata": "D85330",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 286,
+        "iata_code": "TRF",
+        "icao_code": "ENTO",
+        "latitude": 59.1867,
+        "longitude": 10.2586,
+        "municipality": "Torp",
+        "name": "Sandefjord Airport, Torp"
       }
     }
   }
