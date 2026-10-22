@@ -73743,7 +73743,7 @@
     }
   },
   "ACA832": {
-    "time": 1792470646.9714139,
+    "time": 1792644634.3603213,
     "route": {
       "callsign": "ACA832",
       "callsign_icao": "ACA832",
@@ -74427,7 +74427,7 @@
     }
   },
   "AAL50": {
-    "time": 1792557933.2863348,
+    "time": 1792644634.3603213,
     "route": {
       "callsign": "AAL50",
       "callsign_icao": "AAL50",
@@ -75947,7 +75947,7 @@
     }
   },
   "BAW9HL": {
-    "time": 1792473034.8732905,
+    "time": 1792644634.3603213,
     "route": {
       "callsign": "BAW9HL",
       "callsign_icao": "BAW9HL",
@@ -218817,6 +218817,82 @@
         "longitude": 20.3091,
         "municipality": "Belgrade",
         "name": "Belgrade Nikola Tesla Airport"
+      }
+    }
+  },
+  "DAL130": {
+    "time": 1792644634.3603213,
+    "route": {
+      "callsign": "DAL130",
+      "callsign_icao": "DAL130",
+      "callsign_iata": "DL130",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1026,
+        "iata_code": "ATL",
+        "icao_code": "KATL",
+        "latitude": 33.6367,
+        "longitude": -84.4281,
+        "municipality": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1487,
+        "iata_code": "MUC",
+        "icao_code": "EDDM",
+        "latitude": 48.3538,
+        "longitude": 11.7861,
+        "municipality": "Munich",
+        "name": "Munich Airport"
+      }
+    }
+  },
+  "WUK7DB": {
+    "time": 1792644634.3603213,
+    "route": {
+      "callsign": "WUK7DB",
+      "callsign_icao": "WUK7DB",
+      "callsign_iata": "W97DB",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 553,
+        "iata_code": "SPX",
+        "icao_code": "HESX",
+        "latitude": 30.10815,
+        "longitude": 30.89569,
+        "municipality": "Giza",
+        "name": "Sphinx International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
