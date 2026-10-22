@@ -91820,7 +91820,7 @@
     }
   },
   "SAS94B": {
-    "time": 1792568433.6094887,
+    "time": 1792655135.5223708,
     "route": {
       "callsign": "SAS94B",
       "callsign_icao": "SAS94B",
@@ -92162,7 +92162,7 @@
     }
   },
   "VLG6650": {
-    "time": 1792395047.9579926,
+    "time": 1792655135.5223708,
     "route": {
       "callsign": "VLG6650",
       "callsign_icao": "VLG6650",
@@ -92200,7 +92200,7 @@
     }
   },
   "BAW729": {
-    "time": 1792568734.704919,
+    "time": 1792655135.5223708,
     "route": {
       "callsign": "BAW729",
       "callsign_icao": "BAW729",
@@ -92504,7 +92504,7 @@
     }
   },
   "FIN3ML": {
-    "time": 1792568734.704919,
+    "time": 1792655135.5223708,
     "route": {
       "callsign": "FIN3ML",
       "callsign_icao": "FIN3ML",
@@ -93226,7 +93226,7 @@
     }
   },
   "EIN38A": {
-    "time": 1792568734.704919,
+    "time": 1792655135.5223708,
     "route": {
       "callsign": "EIN38A",
       "callsign_icao": "EIN38A",
@@ -93454,7 +93454,7 @@
     }
   },
   "EIN15E": {
-    "time": 1792568734.704919,
+    "time": 1792655135.5223708,
     "route": {
       "callsign": "EIN15E",
       "callsign_icao": "EIN15E",
@@ -93523,7 +93523,7 @@
     }
   },
   "AUR401": {
-    "time": 1792568124.7755282,
+    "time": 1792655135.5223708,
     "route": {
       "callsign": "AUR401",
       "callsign_icao": "AUR401",
@@ -94960,7 +94960,7 @@
     }
   },
   "BAW17R": {
-    "time": 1792568734.704919,
+    "time": 1792655135.5223708,
     "route": {
       "callsign": "BAW17R",
       "callsign_icao": "BAW17R",
@@ -95371,7 +95371,7 @@
     }
   },
   "ABY265": {
-    "time": 1792485939.311288,
+    "time": 1792655135.5223708,
     "route": {
       "callsign": "ABY265",
       "callsign_icao": "ABY265",
@@ -96511,7 +96511,7 @@
     }
   },
   "AZW724": {
-    "time": 1792396864.4784822,
+    "time": 1792655135.5223708,
     "route": {
       "callsign": "AZW724",
       "callsign_icao": "AZW724",
@@ -106649,7 +106649,7 @@
     }
   },
   "EXS91KB": {
-    "time": 1792567852.113054,
+    "time": 1792655135.5223708,
     "route": {
       "callsign": "EXS91KB",
       "callsign_icao": "EXS91KB",
@@ -135820,7 +135820,7 @@
     }
   },
   "RYR9QX": {
-    "time": 1792559433.8612688,
+    "time": 1792655135.5223708,
     "route": {
       "callsign": "RYR9QX",
       "callsign_icao": "RYR9QX",
@@ -198393,7 +198393,7 @@
     }
   },
   "WZZ55": {
-    "time": 1792568124.7755282,
+    "time": 1792655135.5223708,
     "route": {
       "callsign": "WZZ55",
       "callsign_icao": "WZZ55",
@@ -222848,6 +222848,82 @@
         "longitude": 77.1031,
         "municipality": "New Delhi",
         "name": "Indira Gandhi International Airport"
+      }
+    }
+  },
+  "CLX46L": {
+    "time": 1792655135.5223708,
+    "route": {
+      "callsign": "CLX46L",
+      "callsign_icao": "CLX46L",
+      "callsign_iata": "CV46L",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 152,
+        "iata_code": "ANC",
+        "icao_code": "PANC",
+        "latitude": 61.1744,
+        "longitude": -149.996,
+        "municipality": "Anchorage",
+        "name": "Ted Stevens Anchorage International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      }
+    }
+  },
+  "EJU72BA": {
+    "time": 1792655135.5223708,
+    "route": {
+      "callsign": "EJU72BA",
+      "callsign_icao": "EJU72BA",
+      "callsign_iata": "EC72BA",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 821,
+        "iata_code": "LYS",
+        "icao_code": "LFLL",
+        "latitude": 45.72556,
+        "longitude": 5.08111,
+        "municipality": "Lyon",
+        "name": "Lyon Saint-Exup\u00e9ry Airport"
       }
     }
   }
