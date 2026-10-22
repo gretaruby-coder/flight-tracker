@@ -68316,7 +68316,7 @@
     }
   },
   "EZY45MC": {
-    "time": 1792514734.1906939,
+    "time": 1792663271.2357507,
     "route": {
       "callsign": "EZY45MC",
       "callsign_icao": "EZY45MC",
@@ -107675,7 +107675,7 @@
     }
   },
   "UAL900": {
-    "time": 1792491636.3610942,
+    "time": 1792663271.2357507,
     "route": {
       "callsign": "UAL900",
       "callsign_icao": "UAL900",
@@ -108891,7 +108891,7 @@
     }
   },
   "WUK76YB": {
-    "time": 1792575051.9194026,
+    "time": 1792663271.2357507,
     "route": {
       "callsign": "WUK76YB",
       "callsign_icao": "WUK76YB",
@@ -109689,7 +109689,7 @@
     }
   },
   "ICE54B": {
-    "time": 1792404936.527826,
+    "time": 1792663271.2357507,
     "route": {
       "callsign": "ICE54B",
       "callsign_icao": "ICE54B",
@@ -110259,7 +110259,7 @@
     }
   },
   "SHT9A": {
-    "time": 1792405239.806933,
+    "time": 1792663271.2357507,
     "route": {
       "callsign": "SHT9A",
       "callsign_icao": null,
@@ -180942,7 +180942,7 @@
     }
   },
   "BAW550": {
-    "time": 1792511136.4459636,
+    "time": 1792663271.2357507,
     "route": {
       "callsign": "BAW550",
       "callsign_icao": "BAW550",
@@ -224796,6 +224796,75 @@
         "longitude": 12.2798,
         "municipality": "Gothenburg",
         "name": "Gothenburg-Landvetter Airport"
+      }
+    }
+  },
+  "CFE17Z": {
+    "time": 1792663271.2357507,
+    "route": {
+      "callsign": "CFE17Z",
+      "callsign_icao": "CFE17Z",
+      "callsign_iata": "CJ17Z",
+      "airline": {
+        "name": "BA CityFlyer",
+        "icao": "CFE",
+        "iata": "CJ",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "FLYER"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 19,
+        "iata_code": "LCY",
+        "icao_code": "EGLC",
+        "latitude": 51.5053,
+        "longitude": 0.05528,
+        "municipality": "London",
+        "name": "London City Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 24,
+        "iata_code": "IBZ",
+        "icao_code": "LEIB",
+        "latitude": 38.8729,
+        "longitude": 1.37312,
+        "municipality": "Ibiza",
+        "name": "Ibiza Airport"
+      }
+    }
+  },
+  "GGYTO": {
+    "time": 1792663271.2357507,
+    "route": {
+      "callsign": "GGYTO",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 131,
+        "iata_code": null,
+        "icao_code": "EGLM",
+        "latitude": 51.5008,
+        "longitude": -0.77444,
+        "municipality": "Maidenhead",
+        "name": "White Waltham Airfield"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 131,
+        "iata_code": null,
+        "icao_code": "EGLM",
+        "latitude": 51.5008,
+        "longitude": -0.77444,
+        "municipality": "Maidenhead",
+        "name": "White Waltham Airfield"
       }
     }
   }
