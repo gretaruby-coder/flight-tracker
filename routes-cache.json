@@ -13557,7 +13557,7 @@
     }
   },
   "BAW332": {
-    "time": 1792509639.1354954,
+    "time": 1792681529.865334,
     "route": {
       "callsign": "BAW332",
       "callsign_icao": "BAW332",
@@ -21060,7 +21060,7 @@
     }
   },
   "AFR28UE": {
-    "time": 1792595126.3630161,
+    "time": 1792681529.865334,
     "route": {
       "callsign": "AFR28UE",
       "callsign_icao": "AFR28UE",
@@ -21934,7 +21934,7 @@
     }
   },
   "EWG5EB": {
-    "time": 1792594867.2215176,
+    "time": 1792681529.865334,
     "route": {
       "callsign": "EWG5EB",
       "callsign_icao": "EWG5EB",
@@ -29637,7 +29637,7 @@
     }
   },
   "EZY3171": {
-    "time": 1792341325.1819289,
+    "time": 1792681529.865334,
     "route": {
       "callsign": "EZY3171",
       "callsign_icao": "EZY3171",
@@ -44501,7 +44501,7 @@
     }
   },
   "BAW79T": {
-    "time": 1792595126.3630161,
+    "time": 1792681529.865334,
     "route": {
       "callsign": "BAW79T",
       "callsign_icao": "BAW79T",
@@ -119119,7 +119119,7 @@
     }
   },
   "BAW407": {
-    "time": 1792504236.5814123,
+    "time": 1792681529.865334,
     "route": {
       "callsign": "BAW407",
       "callsign_icao": "BAW407",
@@ -126466,7 +126466,7 @@
     }
   },
   "KLC85F": {
-    "time": 1792593935.5035005,
+    "time": 1792681529.865334,
     "route": {
       "callsign": "KLC85F",
       "callsign_icao": "KLC85F",
@@ -129160,7 +129160,7 @@
     }
   },
   "EXS80LN": {
-    "time": 1792425325.6753318,
+    "time": 1792681529.865334,
     "route": {
       "callsign": "EXS80LN",
       "callsign_icao": "EXS80LN",
@@ -184182,7 +184182,7 @@
     }
   },
   "BAW915": {
-    "time": 1792516233.8620741,
+    "time": 1792681529.865334,
     "route": {
       "callsign": "BAW915",
       "callsign_icao": "BAW915",
@@ -228042,6 +228042,82 @@
         "longitude": -16.5725,
         "municipality": "Tenerife",
         "name": "Tenerife Sur Airport"
+      }
+    }
+  },
+  "BAW538": {
+    "time": 1792681529.865334,
+    "route": {
+      "callsign": "BAW538",
+      "callsign_icao": "BAW538",
+      "callsign_iata": "BA538",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      }
+    }
+  },
+  "RYR6AR": {
+    "time": 1792681529.865334,
+    "route": {
+      "callsign": "RYR6AR",
+      "callsign_icao": "RYR6AR",
+      "callsign_iata": "FR6AR",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 412,
+        "iata_code": "KGS",
+        "icao_code": "LGKO",
+        "latitude": 36.7933,
+        "longitude": 27.0917,
+        "municipality": "Kos Island",
+        "name": "Kos Airport"
       }
     }
   }
