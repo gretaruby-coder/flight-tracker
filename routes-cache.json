@@ -75111,7 +75111,7 @@
     }
   },
   "DAL140": {
-    "time": 1792557050.7520294,
+    "time": 1792643725.5102851,
     "route": {
       "callsign": "DAL140",
       "callsign_icao": "DAL140",
@@ -84697,7 +84697,7 @@
     }
   },
   "FDX5067": {
-    "time": 1792391127.18429,
+    "time": 1792643725.5102851,
     "route": {
       "callsign": "FDX5067",
       "callsign_icao": "FDX5067",
@@ -218703,6 +218703,44 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "LCO3604": {
+    "time": 1792643725.5102851,
+    "route": {
+      "callsign": "LCO3604",
+      "callsign_icao": "LCO3604",
+      "callsign_iata": "UC3604",
+      "airline": {
+        "name": "LAN Cargo",
+        "icao": "LCO",
+        "iata": "UC",
+        "country": "Chile",
+        "country_iso": "CL",
+        "callsign": "LAN CARGO"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 8,
+        "iata_code": "MIA",
+        "icao_code": "KMIA",
+        "latitude": 25.7932,
+        "longitude": -80.2906,
+        "municipality": "Miami",
+        "name": "Miami International Airport"
+      },
+      "destination": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 184,
+        "iata_code": "BRU",
+        "icao_code": "EBBR",
+        "latitude": 50.9014,
+        "longitude": 4.48444,
+        "municipality": "Brussels",
+        "name": "Brussels Airport"
       }
     }
   }
