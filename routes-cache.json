@@ -1354,7 +1354,7 @@
     }
   },
   "SWR59K": {
-    "time": 1792510528.7794683,
+    "time": 1792683326.1229782,
     "route": {
       "callsign": "SWR59K",
       "callsign_icao": "SWR59K",
@@ -12455,7 +12455,7 @@
     }
   },
   "BAW491": {
-    "time": 1792585239.8010473,
+    "time": 1792683326.1229782,
     "route": {
       "callsign": "BAW491",
       "callsign_icao": "BAW491",
@@ -23098,7 +23098,7 @@
     }
   },
   "ITY247": {
-    "time": 1792518331.9283814,
+    "time": 1792683326.1229782,
     "route": {
       "callsign": "ITY247",
       "callsign_icao": "ITY247",
@@ -24117,7 +24117,7 @@
     }
   },
   "VIR157L": {
-    "time": 1792510528.7794683,
+    "time": 1792683326.1229782,
     "route": {
       "callsign": "VIR157L",
       "callsign_icao": "VIR157L",
@@ -49175,7 +49175,7 @@
     }
   },
   "CFE4MW": {
-    "time": 1792507535.3206966,
+    "time": 1792683326.1229782,
     "route": {
       "callsign": "CFE4MW",
       "callsign_icao": "CFE4MW",
@@ -71850,7 +71850,7 @@
     }
   },
   "EZY51TL": {
-    "time": 1792370733.7302666,
+    "time": 1792683326.1229782,
     "route": {
       "callsign": "EZY51TL",
       "callsign_icao": "EZY51TL",
@@ -81785,7 +81785,7 @@
     }
   },
   "RYR63XT": {
-    "time": 1792514438.2603164,
+    "time": 1792683326.1229782,
     "route": {
       "callsign": "RYR63XT",
       "callsign_icao": "RYR63XT",
@@ -127585,7 +127585,7 @@
     }
   },
   "EXS9GL": {
-    "time": 1792595436.097717,
+    "time": 1792683326.1229782,
     "route": {
       "callsign": "EXS9GL",
       "callsign_icao": "EXS9GL",
@@ -228370,6 +228370,120 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "EXS8VD": {
+    "time": 1792683326.1229782,
+    "route": {
+      "callsign": "EXS8VD",
+      "callsign_icao": "EXS8VD",
+      "callsign_iata": "LS8VD",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 681,
+        "iata_code": "LBA",
+        "icao_code": "EGNM",
+        "latitude": 53.8659,
+        "longitude": -1.66057,
+        "municipality": "Leeds",
+        "name": "Leeds Bradford Airport"
+      },
+      "destination": {
+        "country_iso_name": "CZ",
+        "country_name": "Czech Republic",
+        "elevation": 1247,
+        "iata_code": "PRG",
+        "icao_code": "LKPR",
+        "latitude": 50.1008,
+        "longitude": 14.26,
+        "municipality": "Prague",
+        "name": "V\u00e1clav Havel Airport Prague"
+      }
+    }
+  },
+  "RYR8KG": {
+    "time": 1792683326.1229782,
+    "route": {
+      "callsign": "RYR8KG",
+      "callsign_icao": "RYR8KG",
+      "callsign_iata": "FR8KG",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "PL",
+        "country_name": "Poland",
+        "elevation": 791,
+        "iata_code": "KRK",
+        "icao_code": "EPKK",
+        "latitude": 50.0777,
+        "longitude": 19.7848,
+        "municipality": "Krak\u00f3w",
+        "name": "Krak\u00f3w John Paul II International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 286,
+        "iata_code": "TRF",
+        "icao_code": "ENTO",
+        "latitude": 59.1867,
+        "longitude": 10.2586,
+        "municipality": "Torp",
+        "name": "Sandefjord Airport, Torp"
+      }
+    }
+  },
+  "RYR898": {
+    "time": 1792683326.1229782,
+    "route": {
+      "callsign": "RYR898",
+      "callsign_icao": "RYR898",
+      "callsign_iata": "FR898",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 80,
+        "iata_code": "LPL",
+        "icao_code": "EGGP",
+        "latitude": 53.3336,
+        "longitude": -2.84972,
+        "municipality": "Liverpool",
+        "name": "Liverpool John Lennon Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 6,
+        "iata_code": "CFU",
+        "icao_code": "LGKR",
+        "latitude": 39.6019,
+        "longitude": 19.9117,
+        "municipality": "Kerkyra Island",
+        "name": "Ioannis Kapodistrias International Airport"
       }
     }
   }
