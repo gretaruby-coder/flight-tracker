@@ -5951,7 +5951,7 @@
     }
   },
   "BAW469": {
-    "time": 1792512063.726385,
+    "time": 1792674332.1711857,
     "route": {
       "callsign": "BAW469",
       "callsign_icao": "BAW469",
@@ -10949,7 +10949,7 @@
     }
   },
   "EZY62DB": {
-    "time": 1792330251.9790797,
+    "time": 1792674332.1711857,
     "route": {
       "callsign": "EZY62DB",
       "callsign_icao": "EZY62DB",
@@ -106124,7 +106124,7 @@
     }
   },
   "EZY75VL": {
-    "time": 1792512063.726385,
+    "time": 1792674332.1711857,
     "route": {
       "callsign": "EZY75VL",
       "callsign_icao": "EZY75VL",
@@ -117561,7 +117561,7 @@
     }
   },
   "KLM85Q": {
-    "time": 1792497926.9572916,
+    "time": 1792674332.1711857,
     "route": {
       "callsign": "KLM85Q",
       "callsign_icao": "KLM85Q",
@@ -157138,7 +157138,7 @@
     }
   },
   "EZY12UK": {
-    "time": 1792479032.4902105,
+    "time": 1792674332.1711857,
     "route": {
       "callsign": "EZY12UK",
       "callsign_icao": "EZY12UK",
@@ -172962,7 +172962,7 @@
     }
   },
   "BAW450": {
-    "time": 1792500640.3495677,
+    "time": 1792674332.1711857,
     "route": {
       "callsign": "BAW450",
       "callsign_icao": "BAW450",
@@ -174893,7 +174893,7 @@
     }
   },
   "EZY58HW": {
-    "time": 1792502727.9617379,
+    "time": 1792674332.1711857,
     "route": {
       "callsign": "EZY58HW",
       "callsign_icao": "EZY58HW",
@@ -226785,6 +226785,113 @@
         "longitude": -1.69167,
         "municipality": "Newcastle",
         "name": "Newcastle Airport"
+      }
+    }
+  },
+  "EXS16RS": {
+    "time": 1792674332.1711857,
+    "route": {
+      "callsign": "EXS16RS",
+      "callsign_icao": "EXS16RS",
+      "callsign_iata": "LS16RS",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 250,
+        "iata_code": "AGA",
+        "icao_code": "GMAD",
+        "latitude": 30.32248,
+        "longitude": -9.412,
+        "municipality": "Agadir (Temsia)",
+        "name": "Al Massira Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
+      }
+    }
+  },
+  "RYR8503": {
+    "time": 1792674332.1711857,
+    "route": {
+      "callsign": "RYR8503",
+      "callsign_icao": "RYR8503",
+      "callsign_iata": "FR8503",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 90,
+        "iata_code": "NTE",
+        "icao_code": "LFRS",
+        "latitude": 47.1532,
+        "longitude": -1.61073,
+        "municipality": "Nantes",
+        "name": "Nantes Atlantique Airport"
+      }
+    }
+  },
+  "GSHUG": {
+    "time": 1792674332.1711857,
+    "route": {
+      "callsign": "GSHUG",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 515,
+        "iata_code": "HYC",
+        "icao_code": "EGTB",
+        "latitude": 51.6117,
+        "longitude": -0.80833,
+        "municipality": "High Wycombe",
+        "name": "Wycombe Air Park"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 839,
+        "iata_code": null,
+        "icao_code": "EGTU",
+        "latitude": 50.86,
+        "longitude": -3.23472,
+        "municipality": "Dunkeswell",
+        "name": "Dunkeswell Airport"
       }
     }
   }
