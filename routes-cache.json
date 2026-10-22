@@ -19471,7 +19471,7 @@
     }
   },
   "BAW875": {
-    "time": 1792520139.8451276,
+    "time": 1792683636.4800475,
     "route": {
       "callsign": "BAW875",
       "callsign_icao": "BAW875",
@@ -24946,7 +24946,7 @@
     }
   },
   "DLH4PK": {
-    "time": 1792596927.1295986,
+    "time": 1792683636.4800475,
     "route": {
       "callsign": "DLH4PK",
       "callsign_icao": "DLH4PK",
@@ -25844,7 +25844,7 @@
     }
   },
   "QTR21L": {
-    "time": 1792597235.5881472,
+    "time": 1792683636.4800475,
     "route": {
       "callsign": "QTR21L",
       "callsign_icao": "QTR21L",
@@ -33530,7 +33530,7 @@
     }
   },
   "EZY82EB": {
-    "time": 1792343124.8844082,
+    "time": 1792683636.4800475,
     "route": {
       "callsign": "EZY82EB",
       "callsign_icao": "EZY82EB",
@@ -35188,7 +35188,7 @@
     }
   },
   "DAL4": {
-    "time": 1792344037.0377107,
+    "time": 1792683636.4800475,
     "route": {
       "callsign": "DAL4",
       "callsign_icao": "DAL4",
@@ -130300,7 +130300,7 @@
     }
   },
   "BAW608": {
-    "time": 1792513848.677412,
+    "time": 1792683636.4800475,
     "route": {
       "callsign": "BAW608",
       "callsign_icao": "BAW608",
@@ -186334,7 +186334,7 @@
     }
   },
   "UPS213": {
-    "time": 1792521050.5974011,
+    "time": 1792683636.4800475,
     "route": {
       "callsign": "UPS213",
       "callsign_icao": "UPS213",
@@ -190631,7 +190631,7 @@
     }
   },
   "EZY96PA": {
-    "time": 1792532126.1372442,
+    "time": 1792683636.4800475,
     "route": {
       "callsign": "EZY96PA",
       "callsign_icao": "EZY96PA",
@@ -228484,6 +228484,120 @@
         "longitude": 19.9117,
         "municipality": "Kerkyra Island",
         "name": "Ioannis Kapodistrias International Airport"
+      }
+    }
+  },
+  "OCN2": {
+    "time": 1792683636.4800475,
+    "route": {
+      "callsign": "OCN2",
+      "callsign_icao": "OCN2",
+      "callsign_iata": "2",
+      "airline": {
+        "name": "O Air",
+        "icao": "OCN",
+        "iata": null,
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "O-BIRD"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "DO",
+        "country_name": "Dominican Republic",
+        "elevation": 47,
+        "iata_code": "PUJ",
+        "icao_code": "MDPC",
+        "latitude": 18.5674,
+        "longitude": -68.3634,
+        "municipality": "Punta Cana",
+        "name": "Punta Cana International Airport"
+      }
+    }
+  },
+  "EXS104V": {
+    "time": 1792683636.4800475,
+    "route": {
+      "callsign": "EXS104V",
+      "callsign_icao": "EXS104V",
+      "callsign_iata": "LS104V",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 233,
+        "iata_code": "REU",
+        "icao_code": "LERS",
+        "latitude": 41.1474,
+        "longitude": 1.16717,
+        "municipality": "Reus",
+        "name": "Reus Airport"
+      }
+    }
+  },
+  "NSZ5YR": {
+    "time": 1792683636.4800475,
+    "route": {
+      "callsign": "NSZ5YR",
+      "callsign_icao": "NSZ5YR",
+      "callsign_iata": "D85YR",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
       }
     }
   }
