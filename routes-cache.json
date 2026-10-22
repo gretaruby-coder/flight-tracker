@@ -44805,7 +44805,7 @@
     }
   },
   "CCA855": {
-    "time": 1792609267.4963696,
+    "time": 1792695931.0148966,
     "route": {
       "callsign": "CCA855",
       "callsign_icao": "CCA855",
@@ -44919,7 +44919,7 @@
     }
   },
   "DLH7CY": {
-    "time": 1792522235.8417947,
+    "time": 1792695931.0148966,
     "route": {
       "callsign": "DLH7CY",
       "callsign_icao": "DLH7CY",
@@ -47047,7 +47047,7 @@
     }
   },
   "QTR33W": {
-    "time": 1792609267.4963696,
+    "time": 1792695931.0148966,
     "route": {
       "callsign": "QTR33W",
       "callsign_icao": "QTR33W",
@@ -47845,7 +47845,7 @@
     }
   },
   "AFR54EF": {
-    "time": 1792523733.9172297,
+    "time": 1792695931.0148966,
     "route": {
       "callsign": "AFR54EF",
       "callsign_icao": "AFR54EF",
@@ -67480,7 +67480,7 @@
     }
   },
   "EZY2648": {
-    "time": 1792362324.4155962,
+    "time": 1792695931.0148966,
     "route": {
       "callsign": "EZY2648",
       "callsign_icao": "EZY2648",
@@ -139713,7 +139713,7 @@
     }
   },
   "WUK3WN": {
-    "time": 1792607727.588855,
+    "time": 1792695931.0148966,
     "route": {
       "callsign": "WUK3WN",
       "callsign_icao": "WUK3WN",
@@ -187018,7 +187018,7 @@
     }
   },
   "AIC2015": {
-    "time": 1792522235.8417947,
+    "time": 1792695931.0148966,
     "route": {
       "callsign": "AIC2015",
       "callsign_icao": "AIC2015",
@@ -187322,7 +187322,7 @@
     }
   },
   "AFR59MN": {
-    "time": 1792523127.3882005,
+    "time": 1792695931.0148966,
     "route": {
       "callsign": "AFR59MN",
       "callsign_icao": "AFR59MN",
@@ -231382,6 +231382,120 @@
         "longitude": 16.5697,
         "municipality": "Vienna",
         "name": "Vienna International Airport"
+      }
+    }
+  },
+  "EZY2362": {
+    "time": 1792695931.0148966,
+    "route": {
+      "callsign": "EZY2362",
+      "callsign_icao": "EZY2362",
+      "callsign_iata": "U22362",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "EJU8342": {
+    "time": 1792695931.0148966,
+    "route": {
+      "callsign": "EJU8342",
+      "callsign_icao": "EJU8342",
+      "callsign_iata": "EC8342",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 294,
+        "iata_code": "NAP",
+        "icao_code": "LIRN",
+        "latitude": 40.886,
+        "longitude": 14.2908,
+        "municipality": "N\u00e1poli",
+        "name": "Naples International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EZY81QH": {
+    "time": 1792695931.0148966,
+    "route": {
+      "callsign": "EZY81QH",
+      "callsign_icao": "EZY81QH",
+      "callsign_iata": "U281QH",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 24,
+        "iata_code": "IBZ",
+        "icao_code": "LEIB",
+        "latitude": 38.8729,
+        "longitude": 1.37312,
+        "municipality": "Ibiza",
+        "name": "Ibiza Airport"
       }
     }
   }
