@@ -2953,7 +2953,7 @@
     }
   },
   "GBSYY": {
-    "time": 1792322090.89593,
+    "time": 1792656638.3758016,
     "route": {
       "callsign": "GBSYY",
       "callsign_icao": null,
@@ -38024,7 +38024,7 @@
     }
   },
   "RYR1VW": {
-    "time": 1792518635.4186742,
+    "time": 1792656638.3758016,
     "route": {
       "callsign": "RYR1VW",
       "callsign_icao": "RYR1VW",
@@ -65048,7 +65048,7 @@
     }
   },
   "RYR1QD": {
-    "time": 1792360232.9585886,
+    "time": 1792656638.3758016,
     "route": {
       "callsign": "RYR1QD",
       "callsign_icao": "RYR1QD",
@@ -96625,7 +96625,7 @@
     }
   },
   "IBE0713": {
-    "time": 1792569929.0153909,
+    "time": 1792656638.3758016,
     "route": {
       "callsign": "IBE713",
       "callsign_icao": "IBE713",
@@ -97119,7 +97119,7 @@
     }
   },
   "SAS53D": {
-    "time": 1792570237.299894,
+    "time": 1792656638.3758016,
     "route": {
       "callsign": "SAS53D",
       "callsign_icao": "SAS53D",
@@ -98884,7 +98884,7 @@
     }
   },
   "EZY63EW": {
-    "time": 1792488927.8759878,
+    "time": 1792656638.3758016,
     "route": {
       "callsign": "EZY63EW",
       "callsign_icao": "EZY63EW",
@@ -98998,7 +98998,7 @@
     }
   },
   "WZZ298": {
-    "time": 1792570237.299894,
+    "time": 1792656638.3758016,
     "route": {
       "callsign": "WZZ298",
       "callsign_icao": "WZZ298",
@@ -99941,7 +99941,7 @@
     }
   },
   "DLH405": {
-    "time": 1792568734.704919,
+    "time": 1792656638.3758016,
     "route": {
       "callsign": "DLH405",
       "callsign_icao": "DLH405",
@@ -100891,7 +100891,7 @@
     }
   },
   "DAL3": {
-    "time": 1792399235.721313,
+    "time": 1792656638.3758016,
     "route": {
       "callsign": "DAL3",
       "callsign_icao": "DAL3",
@@ -159093,7 +159093,7 @@
     }
   },
   "EZS51JQ": {
-    "time": 1792568433.6094887,
+    "time": 1792656638.3758016,
     "route": {
       "callsign": "EZS51JQ",
       "callsign_icao": "EZS51JQ",
@@ -159967,7 +159967,7 @@
     }
   },
   "UAL177": {
-    "time": 1792482925.8271863,
+    "time": 1792656638.3758016,
     "route": {
       "callsign": "UAL177",
       "callsign_icao": "UAL177",
@@ -185201,7 +185201,7 @@
     }
   },
   "RYR30WP": {
-    "time": 1792518331.9283814,
+    "time": 1792656638.3758016,
     "route": {
       "callsign": "RYR30WP",
       "callsign_icao": "RYR30WP",
@@ -223221,6 +223221,82 @@
         "longitude": 25.1803,
         "municipality": "Heraklion",
         "name": "Heraklion International Nikos Kazantzakis Airport"
+      }
+    }
+  },
+  "BAW642": {
+    "time": 1792656638.3758016,
+    "route": {
+      "callsign": "BAW642",
+      "callsign_icao": "BAW642",
+      "callsign_iata": "BA642",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 59,
+        "iata_code": "EFL",
+        "icao_code": "LGKF",
+        "latitude": 38.1201,
+        "longitude": 20.5005,
+        "municipality": "Kefallinia Island",
+        "name": "Kefallinia Airport"
+      }
+    }
+  },
+  "EZY95YJ": {
+    "time": 1792656638.3758016,
+    "route": {
+      "callsign": "EZY95YJ",
+      "callsign_icao": "EZY95YJ",
+      "callsign_iata": "U295YJ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 405,
+        "iata_code": "JMK",
+        "icao_code": "LGMK",
+        "latitude": 37.4351,
+        "longitude": 25.3481,
+        "municipality": "Mykonos Island",
+        "name": "Mikonos Airport"
       }
     }
   }
