@@ -149997,7 +149997,7 @@
     }
   },
   "ETD6HZ": {
-    "time": 1792459525.2780335,
+    "time": 1792632648.1941853,
     "route": {
       "callsign": "ETD6HZ",
       "callsign_icao": "ETD6HZ",
@@ -218323,6 +218323,44 @@
         "longitude": 12.23639,
         "municipality": "Leipzig",
         "name": "Leipzig/Halle Airport"
+      }
+    }
+  },
+  "TOM699": {
+    "time": 1792632648.1941853,
+    "route": {
+      "callsign": "TOM699",
+      "callsign_icao": "TOM699",
+      "callsign_iata": "BY699",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 32,
+        "iata_code": "HRG",
+        "icao_code": "HEGN",
+        "latitude": 27.18033,
+        "longitude": 33.80729,
+        "municipality": "Hurghada",
+        "name": "Hurghada International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
       }
     }
   }
