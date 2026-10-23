@@ -234683,5 +234683,43 @@
         "name": "Cardiff International Airport"
       }
     }
+  },
+  "BCS4906": {
+    "time": 1792722926.386431,
+    "route": {
+      "callsign": "BCS4906",
+      "callsign_icao": "BCS4906",
+      "callsign_iata": "QY4906",
+      "airline": {
+        "name": "European Air Transport",
+        "icao": "BCS",
+        "iata": "QY",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "EUROTRANS"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 302,
+        "iata_code": "CGN",
+        "icao_code": "EDDK",
+        "latitude": 50.8659,
+        "longitude": 7.14274,
+        "municipality": "Cologne",
+        "name": "Cologne Bonn Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 885,
+        "iata_code": "EAP",
+        "icao_code": "LFSB",
+        "latitude": 47.60068,
+        "longitude": 7.52112,
+        "municipality": "Saint-Louis",
+        "name": "EuroAirport Basel-Mulhouse-Freiburg"
+      }
+    }
   }
 }
