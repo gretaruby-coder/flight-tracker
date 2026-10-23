@@ -7101,7 +7101,7 @@
     }
   },
   "BAW8ER": {
-    "time": 1792675240.4421666,
+    "time": 1792762526.9127374,
     "route": {
       "callsign": "BAW8ER",
       "callsign_icao": "BAW8ER",
@@ -9892,7 +9892,7 @@
     }
   },
   "VLG368N": {
-    "time": 1792675854.335811,
+    "time": 1792762526.9127374,
     "route": {
       "callsign": "VLG368N",
       "callsign_icao": "VLG368N",
@@ -11481,7 +11481,7 @@
     }
   },
   "IBE07RZ": {
-    "time": 1792675854.335811,
+    "time": 1792762526.9127374,
     "route": {
       "callsign": "IBE07RZ",
       "callsign_icao": "IBE07RZ",
@@ -114452,7 +114452,7 @@
     }
   },
   "BAW386": {
-    "time": 1792586435.5048568,
+    "time": 1792762526.9127374,
     "route": {
       "callsign": "BAW386",
       "callsign_icao": "BAW386",
@@ -119233,7 +119233,7 @@
     }
   },
   "RYR5HT": {
-    "time": 1792512063.726385,
+    "time": 1792762526.9127374,
     "route": {
       "callsign": "RYR5HT",
       "callsign_icao": "RYR5HT",
@@ -123043,7 +123043,7 @@
     }
   },
   "VLG9PL": {
-    "time": 1792523434.510561,
+    "time": 1792762526.9127374,
     "route": {
       "callsign": "VLG9PL",
       "callsign_icao": "VLG9PL",
@@ -170489,7 +170489,7 @@
     }
   },
   "AFR328K": {
-    "time": 1792497327.8695738,
+    "time": 1792762526.9127374,
     "route": {
       "callsign": "AFR328K",
       "callsign_icao": "AFR328K",
@@ -174140,7 +174140,7 @@
     }
   },
   "CFE98G": {
-    "time": 1792674639.262231,
+    "time": 1792762526.9127374,
     "route": {
       "callsign": "CFE98G",
       "callsign_icao": "CFE98G",
@@ -244204,6 +244204,120 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EZY21DY": {
+    "time": 1792762526.9127374,
+    "route": {
+      "callsign": "EZY21DY",
+      "callsign_icao": "EZY21DY",
+      "callsign_iata": "U221DY",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 6,
+        "iata_code": "PSA",
+        "icao_code": "LIRP",
+        "latitude": 43.6839,
+        "longitude": 10.3927,
+        "municipality": "Pisa",
+        "name": "Pisa International Airport"
+      }
+    }
+  },
+  "EXS83J": {
+    "time": 1792762526.9127374,
+    "route": {
+      "callsign": "EXS83J",
+      "callsign_icao": "EXS83J",
+      "callsign_iata": "LS83J",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 60,
+        "iata_code": "MJT",
+        "icao_code": "LGMT",
+        "latitude": 39.0567,
+        "longitude": 26.5983,
+        "municipality": "Mytilene",
+        "name": "Mytilene International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      }
+    }
+  },
+  "EXS1354": {
+    "time": 1792762526.9127374,
+    "route": {
+      "callsign": "EXS1354",
+      "callsign_icao": "EXS1354",
+      "callsign_iata": "LS1354",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 127,
+        "iata_code": "JTR",
+        "icao_code": "LGSR",
+        "latitude": 36.3992,
+        "longitude": 25.4793,
+        "municipality": "Santorini Island",
+        "name": "Santorini Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
       }
     }
   }
