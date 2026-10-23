@@ -43748,7 +43748,7 @@
     }
   },
   "RYR59JH": {
-    "time": 1792619727.170806,
+    "time": 1792790435.6367908,
     "route": {
       "callsign": "RYR59JH",
       "callsign_icao": "RYR59JH",
@@ -55279,7 +55279,7 @@
     }
   },
   "BAW822": {
-    "time": 1792701638.8216522,
+    "time": 1792790435.6367908,
     "route": {
       "callsign": "BAW822",
       "callsign_icao": "BAW822",
@@ -58609,7 +58609,7 @@
     }
   },
   "AIC130": {
-    "time": 1792701329.710339,
+    "time": 1792790435.6367908,
     "route": {
       "callsign": "AIC130",
       "callsign_icao": "AIC130",
@@ -62015,7 +62015,7 @@
     }
   },
   "SHT8P": {
-    "time": 1792703734.7159312,
+    "time": 1792790435.6367908,
     "route": {
       "callsign": "SHT8P",
       "callsign_icao": null,
@@ -64402,7 +64402,7 @@
     }
   },
   "DLH7LW": {
-    "time": 1792703734.7159312,
+    "time": 1792790435.6367908,
     "route": {
       "callsign": "DLH7LW",
       "callsign_icao": "DLH7LW",
@@ -64516,7 +64516,7 @@
     }
   },
   "EZY93HL": {
-    "time": 1792703435.985408,
+    "time": 1792790435.6367908,
     "route": {
       "callsign": "EZY93HL",
       "callsign_icao": "EZY93HL",
@@ -90649,7 +90649,7 @@
     }
   },
   "RYR94PB": {
-    "time": 1792482925.8271863,
+    "time": 1792790435.6367908,
     "route": {
       "callsign": "RYR94PB",
       "callsign_icao": "RYR94PB",
@@ -143157,7 +143157,7 @@
     }
   },
   "AEE3DW": {
-    "time": 1792568734.704919,
+    "time": 1792790435.6367908,
     "route": {
       "callsign": "AEE3DW",
       "callsign_icao": "AEE3DW",
@@ -190517,7 +190517,7 @@
     }
   },
   "EXS97YF": {
-    "time": 1792532126.1372442,
+    "time": 1792790435.6367908,
     "route": {
       "callsign": "EXS97YF",
       "callsign_icao": "EXS97YF",
@@ -250957,6 +250957,120 @@
         "longitude": 4.48444,
         "municipality": "Brussels",
         "name": "Brussels Airport"
+      }
+    }
+  },
+  "CPA038": {
+    "time": 1792790435.6367908,
+    "route": {
+      "callsign": "CPA38",
+      "callsign_icao": "CPA38",
+      "callsign_iata": "CX38",
+      "airline": {
+        "name": "Cathay Pacific",
+        "icao": "CPA",
+        "iata": "CX",
+        "country": "Hong Kong",
+        "country_iso": "HK",
+        "callsign": "CATHAY"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
+      },
+      "destination": {
+        "country_iso_name": "HK",
+        "country_name": "Hong Kong",
+        "elevation": 28,
+        "iata_code": "HKG",
+        "icao_code": "VHHH",
+        "latitude": 22.3089,
+        "longitude": 113.915,
+        "municipality": "Hong Kong",
+        "name": "Hong Kong International Airport"
+      }
+    }
+  },
+  "EXS81LE": {
+    "time": 1792790435.6367908,
+    "route": {
+      "callsign": "EXS81LE",
+      "callsign_icao": "EXS81LE",
+      "callsign_iata": "LS81LE",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
+      }
+    }
+  },
+  "EXS54GH": {
+    "time": 1792790435.6367908,
+    "route": {
+      "callsign": "EXS54GH",
+      "callsign_icao": "EXS54GH",
+      "callsign_iata": "LS54GH",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
