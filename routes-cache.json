@@ -89440,7 +89440,7 @@
     }
   },
   "BAW4MJ": {
-    "time": 1792568124.7755282,
+    "time": 1792740649.7748952,
     "route": {
       "callsign": "BAW4MJ",
       "callsign_icao": "BAW4MJ",
@@ -94017,7 +94017,7 @@
     }
   },
   "NOZ32A": {
-    "time": 1792567525.816334,
+    "time": 1792740649.7748952,
     "route": {
       "callsign": "NOZ32A",
       "callsign_icao": "NOZ32A",
@@ -94321,7 +94321,7 @@
     }
   },
   "BAW298": {
-    "time": 1792653334.6949685,
+    "time": 1792740649.7748952,
     "route": {
       "callsign": "BAW298",
       "callsign_icao": "BAW298",
@@ -129236,7 +129236,7 @@
     }
   },
   "RYR27LQ": {
-    "time": 1792575934.0719311,
+    "time": 1792740649.7748952,
     "route": {
       "callsign": "RYR27LQ",
       "callsign_icao": "RYR27LQ",
@@ -200704,7 +200704,7 @@
     }
   },
   "BAW694": {
-    "time": 1792572635.842631,
+    "time": 1792740649.7748952,
     "route": {
       "callsign": "BAW694",
       "callsign_icao": "BAW694",
@@ -219201,7 +219201,7 @@
     }
   },
   "EXS31DR": {
-    "time": 1792646435.0389817,
+    "time": 1792740649.7748952,
     "route": {
       "callsign": "EXS31DR",
       "callsign_icao": "EXS31DR",
@@ -221833,7 +221833,7 @@
     }
   },
   "EZY926P": {
-    "time": 1792652464.6604638,
+    "time": 1792740649.7748952,
     "route": {
       "callsign": "EZY926P",
       "callsign_icao": "EZY926P",
@@ -238004,6 +238004,120 @@
         "longitude": 30.8005,
         "municipality": "Antalya",
         "name": "Antalya International Airport"
+      }
+    }
+  },
+  "EXS79D": {
+    "time": 1792740649.7748952,
+    "route": {
+      "callsign": "EXS79D",
+      "callsign_icao": "EXS79D",
+      "callsign_iata": "LS79D",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      }
+    }
+  },
+  "VKG452": {
+    "time": 1792740649.7748952,
+    "route": {
+      "callsign": "VKG452",
+      "callsign_icao": "VKG452",
+      "callsign_iata": "452",
+      "airline": {
+        "name": "SunClass Airlines",
+        "icao": "VKG",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": "VIKING"
+      },
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 236,
+        "iata_code": "MMX",
+        "icao_code": "ESMS",
+        "latitude": 55.53631,
+        "longitude": 13.3762,
+        "municipality": "Malm\u00f6",
+        "name": "Malm\u00f6 Sturup Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "QTR22B": {
+    "time": 1792740649.7748952,
+    "route": {
+      "callsign": "QTR22B",
+      "callsign_icao": "QTR22B",
+      "callsign_iata": "QR22B",
+      "airline": {
+        "name": "Qatar Airways",
+        "icao": "QTR",
+        "iata": "QR",
+        "country": "Qatar",
+        "country_iso": "QA",
+        "callsign": "QATARI"
+      },
+      "origin": {
+        "country_iso_name": "QA",
+        "country_name": "Qatar",
+        "elevation": 13,
+        "iata_code": "DOH",
+        "icao_code": "OTHH",
+        "latitude": 25.27306,
+        "longitude": 51.60806,
+        "municipality": "Doha",
+        "name": "Hamad International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
       }
     }
   }
