@@ -3022,7 +3022,7 @@
     }
   },
   "EZY42MY": {
-    "time": 1792583726.9580405,
+    "time": 1792756864.2329533,
     "route": {
       "callsign": "EZY42MY",
       "callsign_icao": "EZY42MY",
@@ -4452,7 +4452,7 @@
     }
   },
   "BAW843": {
-    "time": 1792584935.6986823,
+    "time": 1792756864.2329533,
     "route": {
       "callsign": "BAW843",
       "callsign_icao": "BAW843",
@@ -10797,7 +10797,7 @@
     }
   },
   "EZY74TM": {
-    "time": 1792655433.7806017,
+    "time": 1792756864.2329533,
     "route": {
       "callsign": "EZY74TM",
       "callsign_icao": "EZY74TM",
@@ -15716,7 +15716,7 @@
     }
   },
   "EIN45N": {
-    "time": 1792497327.8695738,
+    "time": 1792756864.2329533,
     "route": {
       "callsign": "EIN45N",
       "callsign_icao": "EIN45N",
@@ -27212,7 +27212,7 @@
     }
   },
   "RYR41WM": {
-    "time": 1792585239.8010473,
+    "time": 1792756864.2329533,
     "route": {
       "callsign": "RYR41WM",
       "callsign_icao": "RYR41WM",
@@ -39962,7 +39962,7 @@
     }
   },
   "CFE39R": {
-    "time": 1792585529.2393227,
+    "time": 1792756864.2329533,
     "route": {
       "callsign": "CFE39R",
       "callsign_icao": "CFE39R",
@@ -102421,7 +102421,7 @@
     }
   },
   "RYR89JD": {
-    "time": 1792659327.7078078,
+    "time": 1792756864.2329533,
     "route": {
       "callsign": "RYR89JD",
       "callsign_icao": "RYR89JD",
@@ -118245,7 +118245,7 @@
     }
   },
   "KLM791": {
-    "time": 1792584067.514709,
+    "time": 1792756864.2329533,
     "route": {
       "callsign": "KLM791",
       "callsign_icao": "KLM791",
@@ -120276,7 +120276,7 @@
     }
   },
   "BAW12J": {
-    "time": 1792582528.033258,
+    "time": 1792756864.2329533,
     "route": {
       "callsign": "BAW12J",
       "callsign_icao": "BAW12J",
@@ -120801,7 +120801,7 @@
     }
   },
   "BAW787": {
-    "time": 1792588836.8822439,
+    "time": 1792756864.2329533,
     "route": {
       "callsign": "BAW787",
       "callsign_icao": "BAW787",
@@ -204856,7 +204856,7 @@
     }
   },
   "CXA822": {
-    "time": 1792584935.6986823,
+    "time": 1792756864.2329533,
     "route": {
       "callsign": "CXA822",
       "callsign_icao": "CXA822",
@@ -208490,7 +208490,7 @@
     }
   },
   "VLG415M": {
-    "time": 1792592725.6563118,
+    "time": 1792756864.2329533,
     "route": {
       "callsign": "VLG415M",
       "callsign_icao": "VLG415M",
@@ -242546,6 +242546,82 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "EZY72KE": {
+    "time": 1792756864.2329533,
+    "route": {
+      "callsign": "EZY72KE",
+      "callsign_icao": "EZY72KE",
+      "callsign_iata": "U272KE",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 12,
+        "iata_code": "NCE",
+        "icao_code": "LFMN",
+        "latitude": 43.6584,
+        "longitude": 7.21587,
+        "municipality": "Nice",
+        "name": "Nice-C\u00f4te d'Azur Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "BOX445": {
+    "time": 1792756864.2329533,
+    "route": {
+      "callsign": "BOX445",
+      "callsign_icao": "BOX445",
+      "callsign_iata": "3S445",
+      "airline": {
+        "name": "AeroLogic",
+        "icao": "BOX",
+        "iata": "3S",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "GERMAN CARGO"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
       }
     }
   }
