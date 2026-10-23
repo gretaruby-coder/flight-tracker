@@ -2732,7 +2732,7 @@
     }
   },
   "TAP36GS": {
-    "time": 1792582835.0991008,
+    "time": 1792754725.648086,
     "route": {
       "callsign": "TAP36GS",
       "callsign_icao": "TAP36GS",
@@ -115665,7 +115665,7 @@
     }
   },
   "EIN714": {
-    "time": 1792668037.8188083,
+    "time": 1792754725.648086,
     "route": {
       "callsign": "EIN714",
       "callsign_icao": "EIN714",
@@ -115924,7 +115924,7 @@
     }
   },
   "BAW327": {
-    "time": 1792409728.2719712,
+    "time": 1792754725.648086,
     "route": {
       "callsign": "BAW327",
       "callsign_icao": "BAW327",
@@ -117599,7 +117599,7 @@
     }
   },
   "DAL2": {
-    "time": 1792585529.2393227,
+    "time": 1792754725.648086,
     "route": {
       "callsign": "DAL2",
       "callsign_icao": "DAL2",
@@ -166741,7 +166741,7 @@
     }
   },
   "UAE72V": {
-    "time": 1792583135.7195728,
+    "time": 1792754725.648086,
     "route": {
       "callsign": "UAE72V",
       "callsign_icao": "UAE72V",
@@ -167121,7 +167121,7 @@
     }
   },
   "EJU69JY": {
-    "time": 1792580127.2890549,
+    "time": 1792754725.648086,
     "route": {
       "callsign": "EJU69JY",
       "callsign_icao": "EJU69JY",
@@ -191353,7 +191353,7 @@
     }
   },
   "EZY47JF": {
-    "time": 1792534833.7495046,
+    "time": 1792754725.648086,
     "route": {
       "callsign": "EZY47JF",
       "callsign_icao": "EZY47JF",
@@ -202597,7 +202597,7 @@
     }
   },
   "DAL233": {
-    "time": 1792579535.0055888,
+    "time": 1792754725.648086,
     "route": {
       "callsign": "DAL233",
       "callsign_icao": "DAL233",
@@ -241641,6 +241641,234 @@
         "longitude": 6.20444,
         "municipality": "Luxembourg",
         "name": "Luxembourg-Findel International Airport"
+      }
+    }
+  },
+  "BAW66K": {
+    "time": 1792754725.648086,
+    "route": {
+      "callsign": "BAW66K",
+      "callsign_icao": "BAW66K",
+      "callsign_iata": "BA66K",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 405,
+        "iata_code": "JMK",
+        "icao_code": "LGMK",
+        "latitude": 37.4351,
+        "longitude": 25.3481,
+        "municipality": "Mykonos Island",
+        "name": "Mikonos Airport"
+      }
+    }
+  },
+  "PGT36ZR": {
+    "time": 1792754725.648086,
+    "route": {
+      "callsign": "PGT36ZR",
+      "callsign_icao": "PGT36ZR",
+      "callsign_iata": "H936ZR",
+      "airline": {
+        "name": "Pegasus Airlines",
+        "icao": "PGT",
+        "iata": "H9",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "SUNTURK"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 312,
+        "iata_code": "SAW",
+        "icao_code": "LTFJ",
+        "latitude": 40.8986,
+        "longitude": 29.3092,
+        "municipality": "Pendik, Istanbul",
+        "name": "Istanbul Sabiha G\u00f6k\u00e7en International Airport"
+      }
+    }
+  },
+  "EZS57TY": {
+    "time": 1792754725.648086,
+    "route": {
+      "callsign": "EZS57TY",
+      "callsign_icao": "EZS57TY",
+      "callsign_iata": "DS57TY",
+      "airline": {
+        "name": "Easyjet Switzerland",
+        "icao": "EZS",
+        "iata": "DS",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      }
+    }
+  },
+  "EZY35AY": {
+    "time": 1792754725.648086,
+    "route": {
+      "callsign": "EZY35AY",
+      "callsign_icao": "EZY35AY",
+      "callsign_iata": "U235AY",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 12,
+        "iata_code": "NCE",
+        "icao_code": "LFMN",
+        "latitude": 43.6584,
+        "longitude": 7.21587,
+        "municipality": "Nice",
+        "name": "Nice-C\u00f4te d'Azur Airport"
+      }
+    }
+  },
+  "RYR48TD": {
+    "time": 1792754725.648086,
+    "route": {
+      "callsign": "RYR48TD",
+      "callsign_icao": "RYR48TD",
+      "callsign_iata": "FR48TD",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 7,
+        "iata_code": "VCE",
+        "icao_code": "LIPZ",
+        "latitude": 45.5053,
+        "longitude": 12.3519,
+        "municipality": "Venice",
+        "name": "Venice Marco Polo Airport"
+      },
+      "destination": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      }
+    }
+  },
+  "WUK9224": {
+    "time": 1792754725.648086,
+    "route": {
+      "callsign": "WUK9224",
+      "callsign_icao": "WUK9224",
+      "callsign_iata": "W99224",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 240,
+        "iata_code": "VLC",
+        "icao_code": "LEVC",
+        "latitude": 39.4893,
+        "longitude": -0.48163,
+        "municipality": "Valencia",
+        "name": "Valencia Airport"
       }
     }
   }
