@@ -3402,7 +3402,7 @@
     }
   },
   "ACA860": {
-    "time": 1792584635.7873878,
+    "time": 1792755049.736877,
     "route": {
       "callsign": "ACA860",
       "callsign_icao": "ACA860",
@@ -8607,7 +8607,7 @@
     }
   },
   "UAL147": {
-    "time": 1792583726.9580405,
+    "time": 1792755049.736877,
     "route": {
       "callsign": "UAL147",
       "callsign_icao": "UAL147",
@@ -111820,7 +111820,7 @@
     }
   },
   "EZY81FW": {
-    "time": 1792666236.9733057,
+    "time": 1792755049.736877,
     "route": {
       "callsign": "EZY81FW",
       "callsign_icao": "EZY81FW",
@@ -115513,7 +115513,7 @@
     }
   },
   "RYR7964": {
-    "time": 1792409452.6791997,
+    "time": 1792755049.736877,
     "route": {
       "callsign": "RYR7964",
       "callsign_icao": "RYR7964",
@@ -168831,7 +168831,7 @@
     }
   },
   "NSZ5WU": {
-    "time": 1792581926.511669,
+    "time": 1792755049.736877,
     "route": {
       "callsign": "NSZ5WU",
       "callsign_icao": "NSZ5WU",
@@ -208718,7 +208718,7 @@
     }
   },
   "MGETS": {
-    "time": 1792593053.76543,
+    "time": 1792755049.736877,
     "route": {
       "callsign": "MGETS",
       "callsign_icao": null,
@@ -241869,6 +241869,158 @@
         "longitude": -0.48163,
         "municipality": "Valencia",
         "name": "Valencia Airport"
+      }
+    }
+  },
+  "KAC104": {
+    "time": 1792755049.736877,
+    "route": {
+      "callsign": "KAC104",
+      "callsign_icao": "KAC104",
+      "callsign_iata": "KU104",
+      "airline": {
+        "name": "Kuwait Airways",
+        "icao": "KAC",
+        "iata": "KU",
+        "country": "Kuwait",
+        "country_iso": "KW",
+        "callsign": "KUWAITI"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "KW",
+        "country_name": "Kuwait",
+        "elevation": 206,
+        "iata_code": "KWI",
+        "icao_code": "OKBK",
+        "latitude": 29.2266,
+        "longitude": 47.9689,
+        "municipality": "Kuwait City",
+        "name": "Kuwait International Airport"
+      }
+    }
+  },
+  "NSZ5720": {
+    "time": 1792755049.736877,
+    "route": {
+      "callsign": "NSZ5720",
+      "callsign_icao": "NSZ5720",
+      "callsign_iata": "D85720",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      },
+      "destination": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 247,
+        "iata_code": "BLL",
+        "icao_code": "EKBI",
+        "latitude": 55.7403,
+        "longitude": 9.15178,
+        "municipality": "Billund",
+        "name": "Billund Airport"
+      }
+    }
+  },
+  "EXS42KR": {
+    "time": 1792755049.736877,
+    "route": {
+      "callsign": "EXS42KR",
+      "callsign_icao": "EXS42KR",
+      "callsign_iata": "LS42KR",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 177,
+        "iata_code": "AYT",
+        "icao_code": "LTAI",
+        "latitude": 36.8987,
+        "longitude": 30.8005,
+        "municipality": "Antalya",
+        "name": "Antalya International Airport"
+      }
+    }
+  },
+  "TOM7MT": {
+    "time": 1792755049.736877,
+    "route": {
+      "callsign": "TOM7MT",
+      "callsign_icao": "TOM7MT",
+      "callsign_iata": "BY7MT",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 24,
+        "iata_code": "IBZ",
+        "icao_code": "LEIB",
+        "latitude": 38.8729,
+        "longitude": 1.37312,
+        "municipality": "Ibiza",
+        "name": "Ibiza Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
