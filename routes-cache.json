@@ -7633,7 +7633,7 @@
     }
   },
   "LOG39D": {
-    "time": 1792669239.762386,
+    "time": 1792755936.5599658,
     "route": {
       "callsign": "LOG39D",
       "callsign_icao": "LOG39D",
@@ -15450,7 +15450,7 @@
     }
   },
   "EZY34FP": {
-    "time": 1792498235.851937,
+    "time": 1792755936.5599658,
     "route": {
       "callsign": "EZY34FP",
       "callsign_icao": "EZY34FP",
@@ -106991,7 +106991,7 @@
     }
   },
   "BAW919": {
-    "time": 1792663530.5494366,
+    "time": 1792755936.5599658,
     "route": {
       "callsign": "BAW919",
       "callsign_icao": "BAW919",
@@ -114794,7 +114794,7 @@
     }
   },
   "AAL80": {
-    "time": 1792667738.66927,
+    "time": 1792755936.5599658,
     "route": {
       "callsign": "AAL80",
       "callsign_icao": "AAL80",
@@ -118131,7 +118131,7 @@
     }
   },
   "RYR85YB": {
-    "time": 1792516536.9951515,
+    "time": 1792755936.5599658,
     "route": {
       "callsign": "RYR85YB",
       "callsign_icao": "RYR85YB",
@@ -118359,7 +118359,7 @@
     }
   },
   "EWG40E": {
-    "time": 1792583433.1715858,
+    "time": 1792755936.5599658,
     "route": {
       "callsign": "EWG40E",
       "callsign_icao": "EWG40E",
@@ -118663,7 +118663,7 @@
     }
   },
   "KLM705": {
-    "time": 1792498837.9856026,
+    "time": 1792755936.5599658,
     "route": {
       "callsign": "KLM705",
       "callsign_icao": "KLM705",
@@ -120725,7 +120725,7 @@
     }
   },
   "EXS4DV": {
-    "time": 1792414236.258459,
+    "time": 1792755936.5599658,
     "route": {
       "callsign": "EXS4DV",
       "callsign_icao": "EXS4DV",
@@ -203122,7 +203122,7 @@
     }
   },
   "VLG24YL": {
-    "time": 1792580733.068192,
+    "time": 1792755936.5599658,
     "route": {
       "callsign": "VLG24YL",
       "callsign_icao": "VLG24YL",
@@ -242135,6 +242135,82 @@
         "longitude": 20.5005,
         "municipality": "Kefallinia Island",
         "name": "Kefallinia Airport"
+      }
+    }
+  },
+  "EZY47PR": {
+    "time": 1792755936.5599658,
+    "route": {
+      "callsign": "EZY47PR",
+      "callsign_icao": "EZY47PR",
+      "callsign_iata": "U247PR",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 177,
+        "iata_code": "BRI",
+        "icao_code": "LIBD",
+        "latitude": 41.1389,
+        "longitude": 16.7606,
+        "municipality": "Bari",
+        "name": "Bari Karol Wojty\u0142a Airport"
+      }
+    }
+  },
+  "TSC517": {
+    "time": 1792755936.5599658,
+    "route": {
+      "callsign": "TSC517",
+      "callsign_icao": "TSC517",
+      "callsign_iata": "TS517",
+      "airline": {
+        "name": "Air Transat",
+        "icao": "TSC",
+        "iata": "TS",
+        "country": "Canada",
+        "country_iso": "CA",
+        "callsign": "TRANSAT"
+      },
+      "origin": {
+        "country_iso_name": "JM",
+        "country_name": "Jamaica",
+        "elevation": 4,
+        "iata_code": "MBJ",
+        "icao_code": "MKJS",
+        "latitude": 18.5037,
+        "longitude": -77.9134,
+        "municipality": "Montego Bay",
+        "name": "Sangster International Airport"
+      },
+      "destination": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
       }
     }
   }
