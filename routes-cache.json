@@ -30466,7 +30466,7 @@
     }
   },
   "CFE801": {
-    "time": 1792491636.3610942,
+    "time": 1792750837.0188997,
     "route": {
       "callsign": "CFE801",
       "callsign_icao": "CFE801",
@@ -101333,7 +101333,7 @@
     }
   },
   "AAL731": {
-    "time": 1792658128.6935618,
+    "time": 1792750837.0188997,
     "route": {
       "callsign": "AAL731",
       "callsign_icao": "AAL731",
@@ -108549,7 +108549,7 @@
     }
   },
   "ICE8K": {
-    "time": 1792664137.6936736,
+    "time": 1792750837.0188997,
     "route": {
       "callsign": "ICE8K",
       "callsign_icao": "ICE8K",
@@ -109081,7 +109081,7 @@
     }
   },
   "DAL17": {
-    "time": 1792577735.5481079,
+    "time": 1792750837.0188997,
     "route": {
       "callsign": "DAL17",
       "callsign_icao": "DAL17",
@@ -109689,7 +109689,7 @@
     }
   },
   "ICE54B": {
-    "time": 1792663271.2357507,
+    "time": 1792750837.0188997,
     "route": {
       "callsign": "ICE54B",
       "callsign_icao": "ICE54B",
@@ -111523,7 +111523,7 @@
     }
   },
   "LGL4593": {
-    "time": 1792576863.1926923,
+    "time": 1792750837.0188997,
     "route": {
       "callsign": "LGL4593",
       "callsign_icao": "LGL4593",
@@ -112383,7 +112383,7 @@
     }
   },
   "WUK1509": {
-    "time": 1792664137.6936736,
+    "time": 1792750837.0188997,
     "route": {
       "callsign": "WUK1509",
       "callsign_icao": "WUK1509",
@@ -119005,7 +119005,7 @@
     }
   },
   "MAS3": {
-    "time": 1792664137.6936736,
+    "time": 1792750837.0188997,
     "route": {
       "callsign": "MAS3",
       "callsign_icao": "MAS3",
@@ -165463,7 +165463,7 @@
     }
   },
   "NSZ2ES": {
-    "time": 1792664137.6936736,
+    "time": 1792750837.0188997,
     "route": {
       "callsign": "NSZ2ES",
       "callsign_icao": "NSZ2ES",
@@ -185201,7 +185201,7 @@
     }
   },
   "RYR30WP": {
-    "time": 1792656638.3758016,
+    "time": 1792750837.0188997,
     "route": {
       "callsign": "RYR30WP",
       "callsign_icao": "RYR30WP",
@@ -200058,7 +200058,7 @@
     }
   },
   "AFR13SC": {
-    "time": 1792570835.0833974,
+    "time": 1792750837.0188997,
     "route": {
       "callsign": "AFR13SC",
       "callsign_icao": "AFR13SC",
@@ -240477,6 +240477,82 @@
         "longitude": 19.1341,
         "municipality": "Slia\u010d",
         "name": "Slia\u010d Airport"
+      }
+    }
+  },
+  "EXS61CU": {
+    "time": 1792750837.0188997,
+    "route": {
+      "callsign": "EXS61CU",
+      "callsign_icao": "EXS61CU",
+      "callsign_iata": "LS61CU",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 681,
+        "iata_code": "LBA",
+        "icao_code": "EGNM",
+        "latitude": 53.8659,
+        "longitude": -1.66057,
+        "municipality": "Leeds",
+        "name": "Leeds Bradford Airport"
+      }
+    }
+  },
+  "OMA2101": {
+    "time": 1792750837.0188997,
+    "route": {
+      "callsign": "OMA2101",
+      "callsign_icao": "OMA2101",
+      "callsign_iata": "WY2101",
+      "airline": {
+        "name": "Oman Air",
+        "icao": "OMA",
+        "iata": "WY",
+        "country": "Oman",
+        "country_iso": "OM",
+        "callsign": "OMAN AIR"
+      },
+      "origin": {
+        "country_iso_name": "OM",
+        "country_name": "Oman",
+        "elevation": 48,
+        "iata_code": "MCT",
+        "icao_code": "OOMS",
+        "latitude": 23.5933,
+        "longitude": 58.2844,
+        "municipality": "Muscat",
+        "name": "Muscat International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
       }
     }
   }
