@@ -13253,7 +13253,7 @@
     }
   },
   "RYR86NE": {
-    "time": 1792612863.7212217,
+    "time": 1792784126.5511527,
     "route": {
       "callsign": "RYR86NE",
       "callsign_icao": "RYR86NE",
@@ -43862,7 +43862,7 @@
     }
   },
   "BAW378": {
-    "time": 1792610434.0065694,
+    "time": 1792784126.5511527,
     "route": {
       "callsign": "BAW378",
       "callsign_icao": "BAW378",
@@ -45945,7 +45945,7 @@
     }
   },
   "BAW845": {
-    "time": 1792694437.1249087,
+    "time": 1792784126.5511527,
     "route": {
       "callsign": "BAW845",
       "callsign_icao": "BAW845",
@@ -47199,7 +47199,7 @@
     }
   },
   "NOZ1309": {
-    "time": 1792695327.7277162,
+    "time": 1792784126.5511527,
     "route": {
       "callsign": "NOZ1309",
       "callsign_icao": "NOZ1309",
@@ -49593,7 +49593,7 @@
     }
   },
   "SIA21": {
-    "time": 1792696839.3687396,
+    "time": 1792784126.5511527,
     "route": {
       "callsign": "SIA21",
       "callsign_icao": "SIA21",
@@ -49821,7 +49821,7 @@
     }
   },
   "EJU34BQ": {
-    "time": 1792611637.195724,
+    "time": 1792784126.5511527,
     "route": {
       "callsign": "EJU34BQ",
       "callsign_icao": "EJU34BQ",
@@ -52018,7 +52018,7 @@
     }
   },
   "LHX1MY": {
-    "time": 1792697454.8127463,
+    "time": 1792784126.5511527,
     "route": {
       "callsign": "LHX1MY",
       "callsign_icao": "LHX1MY",
@@ -52702,7 +52702,7 @@
     }
   },
   "WMT1MS": {
-    "time": 1792697454.8127463,
+    "time": 1792784126.5511527,
     "route": {
       "callsign": "WMT1MS",
       "callsign_icao": "WMT1MS",
@@ -61262,7 +61262,7 @@
     }
   },
   "CFE93G": {
-    "time": 1792695666.3707714,
+    "time": 1792784126.5511527,
     "route": {
       "callsign": "CFE93G",
       "callsign_icao": "CFE93G",
@@ -64174,7 +64174,7 @@
     }
   },
   "WZZ10WH": {
-    "time": 1792359632.8027112,
+    "time": 1792784126.5511527,
     "route": {
       "callsign": "WZZ10WH",
       "callsign_icao": "WZZ10WH",
@@ -250128,6 +250128,82 @@
         "longitude": 20.6518,
         "municipality": "Warsaw",
         "name": "Modlin Airport"
+      }
+    }
+  },
+  "EZY73BF": {
+    "time": 1792784126.5511527,
+    "route": {
+      "callsign": "EZY73BF",
+      "callsign_icao": "EZY73BF",
+      "callsign_iata": "U273BF",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 266,
+        "iata_code": "NCL",
+        "icao_code": "EGNT",
+        "latitude": 55.0375,
+        "longitude": -1.69167,
+        "municipality": "Newcastle",
+        "name": "Newcastle Airport"
+      }
+    }
+  },
+  "EDW293": {
+    "time": 1792784126.5511527,
+    "route": {
+      "callsign": "EDW293",
+      "callsign_icao": "EDW293",
+      "callsign_iata": "WK293",
+      "airline": {
+        "name": "Edelweiss Air",
+        "icao": "EDW",
+        "iata": "WK",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": "EDELWEISS"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
       }
     }
   }
