@@ -2359,7 +2359,7 @@
     }
   },
   "RWD710": {
-    "time": 1792568124.7755282,
+    "time": 1792748735.042413,
     "route": {
       "callsign": "RWD710",
       "callsign_icao": "RWD710",
@@ -97423,7 +97423,7 @@
     }
   },
   "CFE909": {
-    "time": 1792661730.8102813,
+    "time": 1792748735.042413,
     "route": {
       "callsign": "CFE909",
       "callsign_icao": "CFE909",
@@ -101592,7 +101592,7 @@
     }
   },
   "BAW8DS": {
-    "time": 1792659036.0872004,
+    "time": 1792748735.042413,
     "route": {
       "callsign": "BAW8DS",
       "callsign_icao": "BAW8DS",
@@ -105022,7 +105022,7 @@
     }
   },
   "LHX4UT": {
-    "time": 1792662038.5646696,
+    "time": 1792748735.042413,
     "route": {
       "callsign": "LHX4UT",
       "callsign_icao": "LHX4UT",
@@ -105820,7 +105820,7 @@
     }
   },
   "LOG82WR": {
-    "time": 1792573833.0468874,
+    "time": 1792748735.042413,
     "route": {
       "callsign": "LOG82WR",
       "callsign_icao": "LOG82WR",
@@ -106276,7 +106276,7 @@
     }
   },
   "BAW301": {
-    "time": 1792662334.3027742,
+    "time": 1792748735.042413,
     "route": {
       "callsign": "BAW301",
       "callsign_icao": "BAW301",
@@ -107295,7 +107295,7 @@
     }
   },
   "BAW852": {
-    "time": 1792662038.5646696,
+    "time": 1792748735.042413,
     "route": {
       "callsign": "BAW852",
       "callsign_icao": "BAW852",
@@ -107333,7 +107333,7 @@
     }
   },
   "SAS41C": {
-    "time": 1792661730.8102813,
+    "time": 1792748735.042413,
     "route": {
       "callsign": "SAS41C",
       "callsign_icao": "SAS41C",
@@ -109043,7 +109043,7 @@
     }
   },
   "UAL5": {
-    "time": 1792591837.8440614,
+    "time": 1792748735.042413,
     "route": {
       "callsign": "UAL5",
       "callsign_icao": "UAL5",
@@ -116031,7 +116031,7 @@
     }
   },
   "BAW252N": {
-    "time": 1792661126.5211859,
+    "time": 1792748735.042413,
     "route": {
       "callsign": "BAW252N",
       "callsign_icao": "BAW252N",
@@ -202293,7 +202293,7 @@
     }
   },
   "DLH2P": {
-    "time": 1792576863.1926923,
+    "time": 1792748735.042413,
     "route": {
       "callsign": "DLH2P",
       "callsign_icao": "DLH2P",
@@ -223225,7 +223225,7 @@
     }
   },
   "BAW642": {
-    "time": 1792656638.3758016,
+    "time": 1792748735.042413,
     "route": {
       "callsign": "BAW642",
       "callsign_icao": "BAW642",
@@ -239876,6 +239876,82 @@
         "longitude": -0.48163,
         "municipality": "Valencia",
         "name": "Valencia Airport"
+      }
+    }
+  },
+  "UAE41P": {
+    "time": 1792748735.042413,
+    "route": {
+      "callsign": "UAE41P",
+      "callsign_icao": "UAE41P",
+      "callsign_iata": "EK41P",
+      "airline": {
+        "name": "Emirates",
+        "icao": "UAE",
+        "iata": "EK",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "EMIRATES"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "SFO",
+        "icao_code": "KSFO",
+        "latitude": 37.619,
+        "longitude": -122.375,
+        "municipality": "San Francisco",
+        "name": "San Francisco International Airport"
+      },
+      "destination": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 62,
+        "iata_code": "DXB",
+        "icao_code": "OMDB",
+        "latitude": 25.2528,
+        "longitude": 55.3644,
+        "municipality": "Dubai",
+        "name": "Dubai International Airport"
+      }
+    }
+  },
+  "UBT795": {
+    "time": 1792748735.042413,
+    "route": {
+      "callsign": "UBT795",
+      "callsign_icao": "UBT795",
+      "callsign_iata": "Z0795",
+      "airline": {
+        "name": "Norse Atlantic UK",
+        "icao": "UBT",
+        "iata": "Z0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Longboat"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "ZA",
+        "country_name": "South Africa",
+        "elevation": 151,
+        "iata_code": "CPT",
+        "icao_code": "FACT",
+        "latitude": -33.9648,
+        "longitude": 18.6017,
+        "municipality": "Cape Town",
+        "name": "Cape Town International Airport"
       }
     }
   }
