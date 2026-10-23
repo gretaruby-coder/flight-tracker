@@ -19547,7 +19547,7 @@
     }
   },
   "RUK46VM": {
-    "time": 1792596328.340163,
+    "time": 1792747236.4610312,
     "route": {
       "callsign": "RUK46VM",
       "callsign_icao": "RUK46VM",
@@ -102687,7 +102687,7 @@
     }
   },
   "AAL134": {
-    "time": 1792660535.8061042,
+    "time": 1792747236.4610312,
     "route": {
       "callsign": "AAL134",
       "callsign_icao": "AAL134",
@@ -102984,7 +102984,7 @@
     }
   },
   "BAW721": {
-    "time": 1792581635.5617414,
+    "time": 1792747236.4610312,
     "route": {
       "callsign": "BAW721",
       "callsign_icao": "BAW721",
@@ -105326,7 +105326,7 @@
     }
   },
   "AAL109": {
-    "time": 1792589453.0147333,
+    "time": 1792747236.4610312,
     "route": {
       "callsign": "AAL109",
       "callsign_icao": "AAL109",
@@ -106763,7 +106763,7 @@
     }
   },
   "AIC162": {
-    "time": 1792574725.446403,
+    "time": 1792747236.4610312,
     "route": {
       "callsign": "AIC162",
       "callsign_icao": "AIC162",
@@ -161221,7 +161221,7 @@
     }
   },
   "WZZ8086": {
-    "time": 1792656066.1183558,
+    "time": 1792747236.4610312,
     "route": {
       "callsign": "WZZ8086",
       "callsign_icao": "WZZ8086",
@@ -161411,7 +161411,7 @@
     }
   },
   "NOZ33B": {
-    "time": 1792658128.6935618,
+    "time": 1792747236.4610312,
     "route": {
       "callsign": "NOZ33B",
       "callsign_icao": "NOZ33B",
@@ -161829,7 +161829,7 @@
     }
   },
   "BAW38W": {
-    "time": 1792660238.510972,
+    "time": 1792747236.4610312,
     "route": {
       "callsign": "BAW38W",
       "callsign_icao": "BAW38W",
@@ -166140,7 +166140,7 @@
     }
   },
   "SXS2VN": {
-    "time": 1792492248.7499816,
+    "time": 1792747236.4610312,
     "route": {
       "callsign": "SXS2VN",
       "callsign_icao": "SXS2VN",
@@ -239572,6 +239572,82 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EXS73J": {
+    "time": 1792747236.4610312,
+    "route": {
+      "callsign": "EXS73J",
+      "callsign_icao": "EXS73J",
+      "callsign_iata": "LS73J",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "MT",
+        "country_name": "Malta",
+        "elevation": 300,
+        "iata_code": "MLA",
+        "icao_code": "LMML",
+        "latitude": 35.8575,
+        "longitude": 14.4775,
+        "municipality": "Valletta",
+        "name": "Malta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "EXS92F": {
+    "time": 1792747236.4610312,
+    "route": {
+      "callsign": "EXS92F",
+      "callsign_icao": "EXS92F",
+      "callsign_iata": "LS92F",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
       }
     }
   }
