@@ -33081,7 +33081,7 @@
     }
   },
   "RYR562G": {
-    "time": 1792531847.0253708,
+    "time": 1792792235.3715897,
     "route": {
       "callsign": "RYR562G",
       "callsign_icao": "RYR562G",
@@ -55127,7 +55127,7 @@
     }
   },
   "WMT7PV": {
-    "time": 1792700436.4252079,
+    "time": 1792792235.3715897,
     "route": {
       "callsign": "WMT7PV",
       "callsign_icao": "WMT7PV",
@@ -72116,7 +72116,7 @@
     }
   },
   "EXS61LV": {
-    "time": 1792534532.3230221,
+    "time": 1792792235.3715897,
     "route": {
       "callsign": "EXS61LV",
       "callsign_icao": "EXS61LV",
@@ -192873,7 +192873,7 @@
     }
   },
   "EXS66Q": {
-    "time": 1792542324.922847,
+    "time": 1792792235.3715897,
     "route": {
       "callsign": "EXS66Q",
       "callsign_icao": "EXS66Q",
@@ -251299,6 +251299,82 @@
         "longitude": 9.15178,
         "municipality": "Billund",
         "name": "Billund Airport"
+      }
+    }
+  },
+  "RYR796P": {
+    "time": 1792792235.3715897,
+    "route": {
+      "callsign": "RYR796P",
+      "callsign_icao": "RYR796P",
+      "callsign_iata": "FR796P",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "MT",
+        "country_name": "Malta",
+        "elevation": 300,
+        "iata_code": "MLA",
+        "icao_code": "LMML",
+        "latitude": 35.8575,
+        "longitude": 14.4775,
+        "municipality": "Valletta",
+        "name": "Malta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 600,
+        "iata_code": "VIE",
+        "icao_code": "LOWW",
+        "latitude": 48.1103,
+        "longitude": 16.5697,
+        "municipality": "Vienna",
+        "name": "Vienna International Airport"
+      }
+    }
+  },
+  "UBT901": {
+    "time": 1792792235.3715897,
+    "route": {
+      "callsign": "UBT901",
+      "callsign_icao": "UBT901",
+      "callsign_iata": "Z0901",
+      "airline": {
+        "name": "Norse Atlantic UK",
+        "icao": "UBT",
+        "iata": "Z0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Longboat"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
