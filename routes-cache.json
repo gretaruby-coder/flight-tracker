@@ -68088,7 +68088,7 @@
     }
   },
   "RYR27XV": {
-    "time": 1792599643.571411,
+    "time": 1792800062.159148,
     "route": {
       "callsign": "RYR27XV",
       "callsign_icao": "RYR27XV",
@@ -88946,7 +88946,7 @@
     }
   },
   "RYR22FR": {
-    "time": 1792671036.0704274,
+    "time": 1792800062.159148,
     "route": {
       "callsign": "RYR22FR",
       "callsign_icao": "RYR22FR",
@@ -120953,7 +120953,7 @@
     }
   },
   "RUK644Q": {
-    "time": 1792625127.043328,
+    "time": 1792800062.159148,
     "route": {
       "callsign": "RUK644Q",
       "callsign_icao": "RUK644Q",
@@ -186296,7 +186296,7 @@
     }
   },
   "EZY28NJ": {
-    "time": 1792520727.1980805,
+    "time": 1792800062.159148,
     "route": {
       "callsign": "EZY28NJ",
       "callsign_icao": "EZY28NJ",
@@ -252287,6 +252287,82 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "RYR63AB": {
+    "time": 1792800062.159148,
+    "route": {
+      "callsign": "RYR63AB",
+      "callsign_icao": "RYR63AB",
+      "callsign_iata": "FR63AB",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 782,
+        "iata_code": "BGY",
+        "icao_code": "LIME",
+        "latitude": 45.6739,
+        "longitude": 9.70417,
+        "municipality": "Milan",
+        "name": "Milan Bergamo Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "EZY65MW": {
+    "time": 1792800062.159148,
+    "route": {
+      "callsign": "EZY65MW",
+      "callsign_icao": "EZY65MW",
+      "callsign_iata": "U265MW",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 1545,
+        "iata_code": "RAK",
+        "icao_code": "GMMX",
+        "latitude": 31.6069,
+        "longitude": -8.0363,
+        "municipality": "Marrakech",
+        "name": "Menara Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
