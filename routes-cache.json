@@ -42546,7 +42546,7 @@
     }
   },
   "RYR50AM": {
-    "time": 1792652728.5801156,
+    "time": 1792832729.2455192,
     "route": {
       "callsign": "RYR50AM",
       "callsign_icao": "RYR50AM",
@@ -80151,7 +80151,7 @@
     }
   },
   "EZY69HM": {
-    "time": 1792733126.9367373,
+    "time": 1792832729.2455192,
     "route": {
       "callsign": "EZY69HM",
       "callsign_icao": "EZY69HM",
@@ -92618,7 +92618,7 @@
     }
   },
   "JBU2220": {
-    "time": 1792741233.5295365,
+    "time": 1792832729.2455192,
     "route": {
       "callsign": "JBU2220",
       "callsign_icao": "JBU2220",
@@ -97005,7 +97005,7 @@
     }
   },
   "BAW14K": {
-    "time": 1792660238.510972,
+    "time": 1792832729.2455192,
     "route": {
       "callsign": "BAW14K",
       "callsign_icao": "BAW14K",
@@ -102010,7 +102010,7 @@
     }
   },
   "EFW88UA": {
-    "time": 1792745134.936811,
+    "time": 1792832729.2455192,
     "route": {
       "callsign": "EFW88UA",
       "callsign_icao": "EFW88UA",
@@ -103212,7 +103212,7 @@
     }
   },
   "BAW71LK": {
-    "time": 1792685735.5344734,
+    "time": 1792832729.2455192,
     "route": {
       "callsign": "BAW71LK",
       "callsign_icao": "BAW71LK",
@@ -161183,7 +161183,7 @@
     }
   },
   "TAP34A": {
-    "time": 1792745437.6088243,
+    "time": 1792832729.2455192,
     "route": {
       "callsign": "TAP34A",
       "callsign_icao": "TAP34A",
@@ -257921,6 +257921,82 @@
         "longitude": -79.6306,
         "municipality": "Toronto",
         "name": "Lester B. Pearson International Airport"
+      }
+    }
+  },
+  "BAW592": {
+    "time": 1792832729.2455192,
+    "route": {
+      "callsign": "BAW592",
+      "callsign_icao": "BAW592",
+      "callsign_iata": "BA592",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 7,
+        "iata_code": "VCE",
+        "icao_code": "LIPZ",
+        "latitude": 45.5053,
+        "longitude": 12.3519,
+        "municipality": "Venice",
+        "name": "Venice Marco Polo Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "BAW672": {
+    "time": 1792832729.2455192,
+    "route": {
+      "callsign": "BAW672",
+      "callsign_icao": "BAW672",
+      "callsign_iata": "BA672",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "CY",
+        "country_name": "Cyprus",
+        "elevation": 8,
+        "iata_code": "LCA",
+        "icao_code": "LCLK",
+        "latitude": 34.8751,
+        "longitude": 33.6249,
+        "municipality": "Larnaca",
+        "name": "Larnaca International Airport"
       }
     }
   }
