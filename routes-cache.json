@@ -4086,7 +4086,7 @@
     }
   },
   "SHT9W": {
-    "time": 1792659036.0872004,
+    "time": 1792867832.2214243,
     "route": {
       "callsign": "SHT9W",
       "callsign_icao": null,
@@ -46947,7 +46947,7 @@
     }
   },
   "ICE454": {
-    "time": 1792781135.329557,
+    "time": 1792867832.2214243,
     "route": {
       "callsign": "ICE454",
       "callsign_icao": "ICE454",
@@ -52032,7 +52032,7 @@
     }
   },
   "LBT845": {
-    "time": 1792699263.6867256,
+    "time": 1792867832.2214243,
     "route": {
       "callsign": "LBT845",
       "callsign_icao": "LBT845",
@@ -59801,7 +59801,7 @@
     }
   },
   "BAW36LU": {
-    "time": 1792616127.5869105,
+    "time": 1792867832.2214243,
     "route": {
       "callsign": "BAW36LU",
       "callsign_icao": "BAW36LU",
@@ -134352,7 +134352,7 @@
     }
   },
   "BAW645": {
-    "time": 1792431327.3763099,
+    "time": 1792867832.2214243,
     "route": {
       "callsign": "BAW645",
       "callsign_icao": "BAW645",
@@ -268743,6 +268743,82 @@
         "longitude": -15.3866,
         "municipality": "Gran Canaria Island",
         "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "TOM5MH": {
+    "time": 1792867832.2214243,
+    "route": {
+      "callsign": "TOM5MH",
+      "callsign_icao": "TOM5MH",
+      "callsign_iata": "BY5MH",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 85,
+        "iata_code": "FUE",
+        "icao_code": "GCFV",
+        "latitude": 28.4527,
+        "longitude": -13.8638,
+        "municipality": "Fuerteventura Island",
+        "name": "Fuerteventura Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 85,
+        "iata_code": "FUE",
+        "icao_code": "GCFV",
+        "latitude": 28.4527,
+        "longitude": -13.8638,
+        "municipality": "Fuerteventura Island",
+        "name": "Fuerteventura Airport"
+      }
+    }
+  },
+  "SAS82P": {
+    "time": 1792867832.2214243,
+    "route": {
+      "callsign": "SAS82P",
+      "callsign_icao": "SAS82P",
+      "callsign_iata": "SK82P",
+      "airline": {
+        "name": "Scandinavian Airlines System",
+        "icao": "SAS",
+        "iata": "SK",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": "SCANDINAVIAN"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 57,
+        "iata_code": "KRS",
+        "icao_code": "ENCN",
+        "latitude": 58.2042,
+        "longitude": 8.08537,
+        "municipality": "Kjevik",
+        "name": "Kristiansand Airport, Kjevik"
       }
     }
   }
