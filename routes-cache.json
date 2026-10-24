@@ -82576,7 +82576,7 @@
     }
   },
   "EXS56AM": {
-    "time": 1792653636.5267038,
+    "time": 1792824035.539152,
     "route": {
       "callsign": "EXS56AM",
       "callsign_icao": "EXS56AM",
@@ -84393,7 +84393,7 @@
     }
   },
   "SWR542D": {
-    "time": 1792651538.099952,
+    "time": 1792824035.539152,
     "route": {
       "callsign": "SWR542D",
       "callsign_icao": "SWR542D",
@@ -84773,7 +84773,7 @@
     }
   },
   "EIN1CM": {
-    "time": 1792737634.8323946,
+    "time": 1792824035.539152,
     "route": {
       "callsign": "EIN1CM",
       "callsign_icao": "EIN1CM",
@@ -86932,7 +86932,7 @@
     }
   },
   "LOG51D": {
-    "time": 1792737326.4933476,
+    "time": 1792824035.539152,
     "route": {
       "callsign": "LOG51D",
       "callsign_icao": "LOG51D",
@@ -87958,7 +87958,7 @@
     }
   },
   "ACA856": {
-    "time": 1792737634.8323946,
+    "time": 1792824035.539152,
     "route": {
       "callsign": "ACA856",
       "callsign_icao": "ACA856",
@@ -89820,7 +89820,7 @@
     }
   },
   "UAE9W": {
-    "time": 1792736435.432787,
+    "time": 1792824035.539152,
     "route": {
       "callsign": "UAE9W",
       "callsign_icao": "UAE9W",
@@ -157822,7 +157822,7 @@
     }
   },
   "EXS145": {
-    "time": 1792652464.6604638,
+    "time": 1792824035.539152,
     "route": {
       "callsign": "EXS145",
       "callsign_icao": "EXS145",
@@ -159511,7 +159511,7 @@
     }
   },
   "EXS7TQ": {
-    "time": 1792656066.1183558,
+    "time": 1792824035.539152,
     "route": {
       "callsign": "EXS7TQ",
       "callsign_icao": "EXS7TQ",
@@ -205875,7 +205875,7 @@
     }
   },
   "EZY817V": {
-    "time": 1792587326.1467507,
+    "time": 1792824035.539152,
     "route": {
       "callsign": "EZY817V",
       "callsign_icao": "EZY817V",
@@ -210037,7 +210037,7 @@
     }
   },
   "LZB851": {
-    "time": 1792596039.242151,
+    "time": 1792824035.539152,
     "route": {
       "callsign": "LZB851",
       "callsign_icao": "LZB851",
@@ -221073,7 +221073,7 @@
     }
   },
   "EXS8EY": {
-    "time": 1792650927.057112,
+    "time": 1792824035.539152,
     "route": {
       "callsign": "EXS8EY",
       "callsign_icao": "EXS8EY",
@@ -255137,6 +255137,82 @@
         "longitude": -4.49911,
         "municipality": "M\u00e1laga",
         "name": "M\u00e1laga-Costa del Sol Airport"
+      }
+    }
+  },
+  "NOZ9460": {
+    "time": 1792824035.539152,
+    "route": {
+      "callsign": "NOZ9460",
+      "callsign_icao": "NOZ9460",
+      "callsign_iata": "9460",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 56,
+        "iata_code": "TRD",
+        "icao_code": "ENVA",
+        "latitude": 63.4578,
+        "longitude": 10.924,
+        "municipality": "Trondheim",
+        "name": "Trondheim Airport, V\u00e6rnes"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "BAW946": {
+    "time": 1792824035.539152,
+    "route": {
+      "callsign": "BAW946",
+      "callsign_icao": "BAW946",
+      "callsign_iata": "BA946",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 147,
+        "iata_code": "DUS",
+        "icao_code": "EDDL",
+        "latitude": 51.2895,
+        "longitude": 6.76678,
+        "municipality": "D\u00fcsseldorf",
+        "name": "D\u00fcsseldorf Airport"
       }
     }
   }
