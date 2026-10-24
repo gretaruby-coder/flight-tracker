@@ -6431,7 +6431,7 @@
     }
   },
   "KLM27M": {
-    "time": 1792675529.7257707,
+    "time": 1792845632.2578995,
     "route": {
       "callsign": "KLM27M",
       "callsign_icao": "KLM27M",
@@ -59445,7 +59445,7 @@
     }
   },
   "RYR76GY": {
-    "time": 1792738863.6276276,
+    "time": 1792845632.2578995,
     "route": {
       "callsign": "RYR76GY",
       "callsign_icao": "RYR76GY",
@@ -93226,7 +93226,7 @@
     }
   },
   "BAW88LP": {
-    "time": 1792742123.7776077,
+    "time": 1792845632.2578995,
     "route": {
       "callsign": "BAW88LP",
       "callsign_icao": "BAW88LP",
@@ -120200,7 +120200,7 @@
     }
   },
   "BAW830D": {
-    "time": 1792758925.495578,
+    "time": 1792845632.2578995,
     "route": {
       "callsign": "BAW830D",
       "callsign_icao": "BAW830D",
@@ -184935,7 +184935,7 @@
     }
   },
   "EZY31UP": {
-    "time": 1792518057.4393878,
+    "time": 1792845632.2578995,
     "route": {
       "callsign": "EZY31UP",
       "callsign_icao": "EZY31UP",
@@ -201457,7 +201457,7 @@
     }
   },
   "EXS1451": {
-    "time": 1792574434.0074925,
+    "time": 1792845632.2578995,
     "route": {
       "callsign": "EXS1451",
       "callsign_icao": "EXS1451",
@@ -261458,6 +261458,182 @@
         "longitude": 27.0917,
         "municipality": "Kos Island",
         "name": "Kos Airport"
+      }
+    }
+  },
+  "EZY36YB": {
+    "time": 1792845632.2578995,
+    "route": {
+      "callsign": "EZY36YB",
+      "callsign_icao": "EZY36YB",
+      "callsign_iata": "U236YB",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "SAS1804": {
+    "time": 1792845632.2578995,
+    "route": {
+      "callsign": "SAS1804",
+      "callsign_icao": "SAS1804",
+      "callsign_iata": "SK1804",
+      "airline": {
+        "name": "Scandinavian Airlines System",
+        "icao": "SAS",
+        "iata": "SK",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": "SCANDINAVIAN"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      },
+      "destination": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      }
+    }
+  },
+  "CMB170": {
+    "time": 1792845632.2578995,
+    "route": {
+      "callsign": "CMB170",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 46,
+        "iata_code": "SNN",
+        "icao_code": "EINN",
+        "latitude": 52.702,
+        "longitude": -8.92482,
+        "municipality": "Shannon",
+        "name": "Shannon Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 294,
+        "iata_code": "NAP",
+        "icao_code": "LIRN",
+        "latitude": 40.886,
+        "longitude": 14.2908,
+        "municipality": "N\u00e1poli",
+        "name": "Naples International Airport"
+      }
+    }
+  },
+  "EZY8648": {
+    "time": 1792845632.2578995,
+    "route": {
+      "callsign": "EZY8648",
+      "callsign_icao": "EZY8648",
+      "callsign_iata": "U28648",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "FJO66L": {
+    "time": 1792845632.2578995,
+    "route": {
+      "callsign": "FJO66L",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 47,
+        "iata_code": "BMA",
+        "icao_code": "ESSB",
+        "latitude": 59.3544,
+        "longitude": 17.9417,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Bromma Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 123,
+        "iata_code": "BLQ",
+        "icao_code": "LIPE",
+        "latitude": 44.5354,
+        "longitude": 11.2887,
+        "municipality": "Bologna",
+        "name": "Bologna Guglielmo Marconi Airport"
       }
     }
   }
