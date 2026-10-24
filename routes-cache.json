@@ -20452,7 +20452,7 @@
     }
   },
   "EZY46LE": {
-    "time": 1792336233.8461406,
+    "time": 1792803031.3259578,
     "route": {
       "callsign": "EZY46LE",
       "callsign_icao": "EZY46LE",
@@ -252705,6 +252705,82 @@
         "longitude": -13.6052,
         "municipality": "Lanzarote Island",
         "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      }
+    }
+  },
+  "MNB9398": {
+    "time": 1792803031.3259578,
+    "route": {
+      "callsign": "MNB9398",
+      "callsign_icao": "MNB9398",
+      "callsign_iata": "MB9398",
+      "airline": {
+        "name": "MNG Airlines",
+        "icao": "MNB",
+        "iata": "MB",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "BLACK SEA"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 302,
+        "iata_code": "CGN",
+        "icao_code": "EDDK",
+        "latitude": 50.8659,
+        "longitude": 7.14274,
+        "municipality": "Cologne",
+        "name": "Cologne Bonn Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
+      }
+    }
+  },
+  "DHK852": {
+    "time": 1792803031.3259578,
+    "route": {
+      "callsign": "DHK852",
+      "callsign_icao": "DHK852",
+      "callsign_iata": "D0852",
+      "airline": {
+        "name": "DHL Air",
+        "icao": "DHK",
+        "iata": "D0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "World Express"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
       }
     }
   }
