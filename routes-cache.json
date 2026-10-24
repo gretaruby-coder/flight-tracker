@@ -12051,7 +12051,7 @@
     }
   },
   "BAW491": {
-    "time": 1792770928.846873,
+    "time": 1792866324.8965676,
     "route": {
       "callsign": "BAW491",
       "callsign_icao": "BAW491",
@@ -38152,7 +38152,7 @@
     }
   },
   "DLH2MW": {
-    "time": 1792775737.241756,
+    "time": 1792866324.8965676,
     "route": {
       "callsign": "DLH2MW",
       "callsign_icao": "DLH2MW",
@@ -40888,7 +40888,7 @@
     }
   },
   "UAE39K": {
-    "time": 1792779333.8387918,
+    "time": 1792866324.8965676,
     "route": {
       "callsign": "UAE39K",
       "callsign_icao": "UAE39K",
@@ -79146,7 +79146,7 @@
     }
   },
   "BAW2230": {
-    "time": 1792641326.1982539,
+    "time": 1792866324.8965676,
     "route": {
       "callsign": "BAW2230",
       "callsign_icao": "BAW2230",
@@ -98556,7 +98556,7 @@
     }
   },
   "EXS69MQ": {
-    "time": 1792654526.7867439,
+    "time": 1792866324.8965676,
     "route": {
       "callsign": "EXS69MQ",
       "callsign_icao": "EXS69MQ",
@@ -184379,7 +184379,7 @@
     }
   },
   "RYR4EX": {
-    "time": 1792517448.7484016,
+    "time": 1792866324.8965676,
     "route": {
       "callsign": "RYR4EX",
       "callsign_icao": "RYR4EX",
@@ -186614,7 +186614,7 @@
     }
   },
   "AIC2015": {
-    "time": 1792695931.0148966,
+    "time": 1792866324.8965676,
     "route": {
       "callsign": "AIC2015",
       "callsign_icao": "AIC2015",
@@ -229552,7 +229552,7 @@
     }
   },
   "RYR1Q": {
-    "time": 1792689637.4473386,
+    "time": 1792866324.8965676,
     "route": {
       "callsign": "RYR1Q",
       "callsign_icao": "RYR1Q",
@@ -268363,6 +268363,120 @@
         "longitude": 5.63778,
         "municipality": "Stavanger",
         "name": "Stavanger Airport, Sola"
+      }
+    }
+  },
+  "EZY18AP": {
+    "time": 1792866324.8965676,
+    "route": {
+      "callsign": "EZY18AP",
+      "callsign_icao": "EZY18AP",
+      "callsign_iata": "U218AP",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "HR",
+        "country_name": "Croatia",
+        "elevation": 79,
+        "iata_code": "SPU",
+        "icao_code": "LDSP",
+        "latitude": 43.5389,
+        "longitude": 16.298,
+        "municipality": "Split",
+        "name": "Split Airport"
+      }
+    }
+  },
+  "SIA7352": {
+    "time": 1792866324.8965676,
+    "route": {
+      "callsign": "SIA7352",
+      "callsign_icao": "SIA7352",
+      "callsign_iata": "SQ7352",
+      "airline": {
+        "name": "Singapore Airlines",
+        "icao": "SIA",
+        "iata": "SQ",
+        "country": "Singapore",
+        "country_iso": "SG",
+        "callsign": "SINGAPORE"
+      },
+      "origin": {
+        "country_iso_name": "IN",
+        "country_name": "India",
+        "elevation": 3000,
+        "iata_code": "BLR",
+        "icao_code": "VOBL",
+        "latitude": 13.1979,
+        "longitude": 77.7063,
+        "municipality": "Bangalore",
+        "name": "Kempegowda International Airport"
+      },
+      "destination": {
+        "country_iso_name": "SG",
+        "country_name": "Singapore",
+        "elevation": 22,
+        "iata_code": "SIN",
+        "icao_code": "WSSS",
+        "latitude": 1.35019,
+        "longitude": 103.994,
+        "municipality": "Singapore",
+        "name": "Singapore Changi Airport"
+      }
+    }
+  },
+  "VLG7831": {
+    "time": 1792866324.8965676,
+    "route": {
+      "callsign": "VLG7831",
+      "callsign_icao": "VLG7831",
+      "callsign_iata": "VY7831",
+      "airline": {
+        "name": "Vueling Airlines",
+        "icao": "VLG",
+        "iata": "VY",
+        "country": "Spain",
+        "country_iso": "ES",
+        "callsign": "VUELING"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
       }
     }
   }
