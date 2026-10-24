@@ -145261,7 +145261,7 @@
     }
   },
   "AIC11E": {
-    "time": 1792791325.989603,
+    "time": 1792880432.0238733,
     "route": {
       "callsign": "AIC11E",
       "callsign_icao": "AIC11E",
@@ -145983,7 +145983,7 @@
     }
   },
   "EXS71U": {
-    "time": 1792614653.6361291,
+    "time": 1792880432.0238733,
     "route": {
       "callsign": "EXS71U",
       "callsign_icao": "EXS71U",
@@ -206383,7 +206383,7 @@
     }
   },
   "EZY18GB": {
-    "time": 1792589453.0147333,
+    "time": 1792880432.0238733,
     "route": {
       "callsign": "EZY18GB",
       "callsign_icao": "EZY18GB",
@@ -232274,7 +232274,7 @@
     }
   },
   "EXS64DM": {
-    "time": 1792704036.34105,
+    "time": 1792880432.0238733,
     "route": {
       "callsign": "EXS64DM",
       "callsign_icao": "EXS64DM",
@@ -271351,6 +271351,196 @@
         "longitude": -3.34333,
         "municipality": "Cardiff",
         "name": "Cardiff International Airport"
+      }
+    }
+  },
+  "EXS1622": {
+    "time": 1792880432.0238733,
+    "route": {
+      "callsign": "EXS1622",
+      "callsign_icao": "EXS1622",
+      "callsign_iata": "LS1622",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 24,
+        "iata_code": "FAO",
+        "icao_code": "LPFR",
+        "latitude": 37.0144,
+        "longitude": -7.96591,
+        "municipality": "Faro",
+        "name": "Faro Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "EZY84AH": {
+    "time": 1792880432.0238733,
+    "route": {
+      "callsign": "EZY84AH",
+      "callsign_icao": "EZY84AH",
+      "callsign_iata": "U284AH",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 127,
+        "iata_code": "JTR",
+        "icao_code": "LGSR",
+        "latitude": 36.3992,
+        "longitude": 25.4793,
+        "municipality": "Santorini Island",
+        "name": "Santorini Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EXS17TU": {
+    "time": 1792880432.0238733,
+    "route": {
+      "callsign": "EXS17TU",
+      "callsign_icao": "EXS17TU",
+      "callsign_iata": "LS17TU",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 46,
+        "iata_code": "ACE",
+        "icao_code": "GCRR",
+        "latitude": 28.9455,
+        "longitude": -13.6052,
+        "municipality": "Lanzarote Island",
+        "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 80,
+        "iata_code": "LPL",
+        "icao_code": "EGGP",
+        "latitude": 53.3336,
+        "longitude": -2.84972,
+        "municipality": "Liverpool",
+        "name": "Liverpool John Lennon Airport"
+      }
+    }
+  },
+  "RYR8221": {
+    "time": 1792880432.0238733,
+    "route": {
+      "callsign": "RYR8221",
+      "callsign_icao": "RYR8221",
+      "callsign_iata": "FR8221",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 782,
+        "iata_code": "BGY",
+        "icao_code": "LIME",
+        "latitude": 45.6739,
+        "longitude": 9.70417,
+        "municipality": "Milan",
+        "name": "Milan Bergamo Airport"
+      }
+    }
+  },
+  "RYR11LD": {
+    "time": 1792880432.0238733,
+    "route": {
+      "callsign": "RYR11LD",
+      "callsign_icao": "RYR11LD",
+      "callsign_iata": "FR11LD",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
