@@ -25174,7 +25174,7 @@
     }
   },
   "BAW817": {
-    "time": 1792771268.2280784,
+    "time": 1792871725.131333,
     "route": {
       "callsign": "BAW817",
       "callsign_icao": "BAW817",
@@ -40052,7 +40052,7 @@
     }
   },
   "BAW995": {
-    "time": 1792697729.1721973,
+    "time": 1792871725.131333,
     "route": {
       "callsign": "BAW995",
       "callsign_icao": "BAW995",
@@ -43610,7 +43610,7 @@
     }
   },
   "SWR8AK": {
-    "time": 1792781434.3367648,
+    "time": 1792871725.131333,
     "route": {
       "callsign": "SWR8AK",
       "callsign_icao": "SWR8AK",
@@ -53925,7 +53925,7 @@
     }
   },
   "CCA938": {
-    "time": 1792785035.0939126,
+    "time": 1792871725.131333,
     "route": {
       "callsign": "CCA938",
       "callsign_icao": "CCA938",
@@ -141081,7 +141081,7 @@
     }
   },
   "RYR537R": {
-    "time": 1792770635.394696,
+    "time": 1792871725.131333,
     "route": {
       "callsign": "RYR537R",
       "callsign_icao": "RYR537R",
@@ -269610,6 +269610,82 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "BAW623": {
+    "time": 1792871725.131333,
+    "route": {
+      "callsign": "BAW623",
+      "callsign_icao": "BAW623",
+      "callsign_iata": "BA623",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 308,
+        "iata_code": "ATH",
+        "icao_code": "LGAV",
+        "latitude": 37.9364,
+        "longitude": 23.9445,
+        "municipality": "Athens",
+        "name": "Athens Eleftherios Venizelos International Airport"
+      }
+    }
+  },
+  "TAP6CY": {
+    "time": 1792871725.131333,
+    "route": {
+      "callsign": "TAP6CY",
+      "callsign_icao": "TAP6CY",
+      "callsign_iata": "TP6CY",
+      "airline": {
+        "name": "TAP Portugal",
+        "icao": "TAP",
+        "iata": "TP",
+        "country": "Portugal",
+        "country_iso": "PT",
+        "callsign": "AIR PORTUGAL"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 374,
+        "iata_code": "LIS",
+        "icao_code": "LPPT",
+        "latitude": 38.7813,
+        "longitude": -9.13592,
+        "municipality": "Lisbon",
+        "name": "Humberto Delgado Airport (Lisbon Portela Airport)"
+      },
+      "destination": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 17,
+        "iata_code": "CPH",
+        "icao_code": "EKCH",
+        "latitude": 55.6179,
+        "longitude": 12.656,
+        "municipality": "Copenhagen",
+        "name": "Copenhagen Kastrup Airport"
       }
     }
   }
