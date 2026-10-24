@@ -70306,7 +70306,7 @@
     }
   },
   "EZY56HR": {
-    "time": 1792619433.4529402,
+    "time": 1792883127.0216475,
     "route": {
       "callsign": "EZY56HR",
       "callsign_icao": "EZY56HR",
@@ -70534,7 +70534,7 @@
     }
   },
   "RYR799": {
-    "time": 1792368937.600033,
+    "time": 1792883127.0216475,
     "route": {
       "callsign": "RYR799",
       "callsign_icao": "RYR799",
@@ -271807,6 +271807,44 @@
         "longitude": -4.43306,
         "municipality": "Paisley, Renfrewshire",
         "name": "Glasgow International Airport"
+      }
+    }
+  },
+  "MSR988": {
+    "time": 1792883127.0216475,
+    "route": {
+      "callsign": "MSR988",
+      "callsign_icao": "MSR988",
+      "callsign_iata": "MS988",
+      "airline": {
+        "name": "Egyptair",
+        "icao": "MSR",
+        "iata": "MS",
+        "country": "Egypt",
+        "country_iso": "EG",
+        "callsign": "EGYPTAIR"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 382,
+        "iata_code": "CAI",
+        "icao_code": "HECA",
+        "latitude": 30.1219,
+        "longitude": 31.4056,
+        "municipality": "Cairo",
+        "name": "Cairo International Airport"
       }
     }
   }
