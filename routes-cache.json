@@ -272265,5 +272265,43 @@
         "name": "London Luton Airport"
       }
     }
+  },
+  "ETH553": {
+    "time": 1792885531.047148,
+    "route": {
+      "callsign": "ETH553",
+      "callsign_icao": "ETH553",
+      "callsign_iata": "ET553",
+      "airline": {
+        "name": "Ethiopian Airlines",
+        "icao": "ETH",
+        "iata": "ET",
+        "country": "Ethiopia",
+        "country_iso": "ET",
+        "callsign": "ETHIOPIAN"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
+      },
+      "destination": {
+        "country_iso_name": "ET",
+        "country_name": "Ethiopia",
+        "elevation": 7630,
+        "iata_code": "ADD",
+        "icao_code": "HAAB",
+        "latitude": 8.97789,
+        "longitude": 38.7993,
+        "municipality": "Addis Ababa",
+        "name": "Addis Ababa Bole International Airport"
+      }
+    }
   }
 }
