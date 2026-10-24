@@ -32753,7 +32753,7 @@
     }
   },
   "BAW725": {
-    "time": 1792777535.1959264,
+    "time": 1792871432.321347,
     "route": {
       "callsign": "BAW725",
       "callsign_icao": "BAW725",
@@ -48581,7 +48581,7 @@
     }
   },
   "BAW183": {
-    "time": 1792782634.5591433,
+    "time": 1792871432.321347,
     "route": {
       "callsign": "BAW183",
       "callsign_icao": "BAW183",
@@ -269534,6 +269534,82 @@
         "longitude": -9.13592,
         "municipality": "Lisbon",
         "name": "Humberto Delgado Airport (Lisbon Portela Airport)"
+      }
+    }
+  },
+  "NSZ6MJ": {
+    "time": 1792871432.321347,
+    "route": {
+      "callsign": "NSZ6MJ",
+      "callsign_icao": "NSZ6MJ",
+      "callsign_iata": "D86MJ",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 24,
+        "iata_code": "FAO",
+        "icao_code": "LPFR",
+        "latitude": 37.0144,
+        "longitude": -7.96591,
+        "municipality": "Faro",
+        "name": "Faro Airport"
+      },
+      "destination": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      }
+    }
+  },
+  "BAW383": {
+    "time": 1792871432.321347,
+    "route": {
+      "callsign": "BAW383",
+      "callsign_icao": "BAW383",
+      "callsign_iata": "BA383",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 1302,
+        "iata_code": "GNB",
+        "icao_code": "LFLS",
+        "latitude": 45.3629,
+        "longitude": 5.32937,
+        "municipality": "Saint-\u00c9tienne-de-Saint-Geoirs",
+        "name": "Grenoble-Is\u00e8re Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
       }
     }
   }
