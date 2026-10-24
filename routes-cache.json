@@ -30594,7 +30594,7 @@
     }
   },
   "AEA11HB": {
-    "time": 1792774234.1845944,
+    "time": 1792870524.8179584,
     "route": {
       "callsign": "AEA11HB",
       "callsign_icao": "AEA11HB",
@@ -33575,7 +33575,7 @@
     }
   },
   "BAW38DB": {
-    "time": 1792783526.7684298,
+    "time": 1792870524.8179584,
     "route": {
       "callsign": "BAW38DB",
       "callsign_icao": "BAW38DB",
@@ -42332,7 +42332,7 @@
     }
   },
   "RYR45KP": {
-    "time": 1792777835.398873,
+    "time": 1792870524.8179584,
     "route": {
       "callsign": "RYR45KP",
       "callsign_icao": "RYR45KP",
@@ -48619,7 +48619,7 @@
     }
   },
   "SVA117": {
-    "time": 1792697454.8127463,
+    "time": 1792870524.8179584,
     "route": {
       "callsign": "SVA117",
       "callsign_icao": "SVA117",
@@ -50474,7 +50474,7 @@
     }
   },
   "VIR25B": {
-    "time": 1792696839.3687396,
+    "time": 1792870524.8179584,
     "route": {
       "callsign": "VIR25B",
       "callsign_icao": "VIR25B",
@@ -140967,7 +140967,7 @@
     }
   },
   "EZY96TY": {
-    "time": 1792441524.40407,
+    "time": 1792870524.8179584,
     "route": {
       "callsign": "EZY96TY",
       "callsign_icao": "EZY96TY",
@@ -269382,6 +269382,82 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "BAW247D": {
+    "time": 1792870524.8179584,
+    "route": {
+      "callsign": "BAW247D",
+      "callsign_icao": "BAW247D",
+      "callsign_iata": "BA247D",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "BR",
+        "country_name": "Brazil",
+        "elevation": 2461,
+        "iata_code": "GRU",
+        "icao_code": "SBGR",
+        "latitude": -23.43194,
+        "longitude": -46.46778,
+        "municipality": "S\u00e3o Paulo",
+        "name": "Guarulhos - Governador Andr\u00e9 Franco Montoro International Airport"
+      }
+    }
+  },
+  "NOZ3BW": {
+    "time": 1792870524.8179584,
+    "route": {
+      "callsign": "NOZ3BW",
+      "callsign_icao": "NOZ3BW",
+      "callsign_iata": "3BW",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
       }
     }
   }
