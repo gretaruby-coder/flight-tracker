@@ -20808,7 +20808,7 @@
     }
   },
   "EZY82JC": {
-    "time": 1792756236.9495847,
+    "time": 1792864524.3400695,
     "route": {
       "callsign": "EZY82JC",
       "callsign_icao": "EZY82JC",
@@ -25250,7 +25250,7 @@
     }
   },
   "EIN172": {
-    "time": 1792770635.394696,
+    "time": 1792864524.3400695,
     "route": {
       "callsign": "EIN172",
       "callsign_icao": "EIN172",
@@ -32753,7 +32753,7 @@
     }
   },
   "SWR316T": {
-    "time": 1792776325.4767935,
+    "time": 1792864524.3400695,
     "route": {
       "callsign": "SWR316T",
       "callsign_icao": "SWR316T",
@@ -36000,7 +36000,7 @@
     }
   },
   "ETD1VT": {
-    "time": 1792777835.398873,
+    "time": 1792864524.3400695,
     "route": {
       "callsign": "ETD1VT",
       "callsign_icao": "ETD1VT",
@@ -40660,7 +40660,7 @@
     }
   },
   "KLM68L": {
-    "time": 1792694126.6933734,
+    "time": 1792864524.3400695,
     "route": {
       "callsign": "KLM68L",
       "callsign_icao": "KLM68L",
@@ -59079,7 +59079,7 @@
     }
   },
   "RYR2YY": {
-    "time": 1792356635.6309927,
+    "time": 1792864524.3400695,
     "route": {
       "callsign": "RYR2YY",
       "callsign_icao": "RYR2YY",
@@ -159335,7 +159335,7 @@
     }
   },
   "RYR45WG": {
-    "time": 1792756236.9495847,
+    "time": 1792864524.3400695,
     "route": {
       "callsign": "RYR45WG",
       "callsign_icao": "RYR45WG",
@@ -204863,7 +204863,7 @@
     }
   },
   "EZY34UV": {
-    "time": 1792760467.6681902,
+    "time": 1792864524.3400695,
     "route": {
       "callsign": "EZY34UV",
       "callsign_icao": "EZY34UV",
@@ -267869,6 +267869,120 @@
         "longitude": 4.76389,
         "municipality": "Amsterdam",
         "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "SAS1820": {
+    "time": 1792864524.3400695,
+    "route": {
+      "callsign": "SAS1820",
+      "callsign_icao": "SAS1820",
+      "callsign_iata": "SK1820",
+      "airline": {
+        "name": "Scandinavian Airlines System",
+        "icao": "SAS",
+        "iata": "SK",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": "SCANDINAVIAN"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      },
+      "destination": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      }
+    }
+  },
+  "BCS89N": {
+    "time": 1792864524.3400695,
+    "route": {
+      "callsign": "BCS89N",
+      "callsign_icao": "BCS89N",
+      "callsign_iata": "QY89N",
+      "airline": {
+        "name": "European Air Transport",
+        "icao": "BCS",
+        "iata": "QY",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "EUROTRANS"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "RYR9QG": {
+    "time": 1792864524.3400695,
+    "route": {
+      "callsign": "RYR9QG",
+      "callsign_icao": "RYR9QG",
+      "callsign_iata": "FR9QG",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
+      },
+      "destination": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 1545,
+        "iata_code": "RAK",
+        "icao_code": "GMMX",
+        "latitude": 31.6069,
+        "longitude": -8.0363,
+        "municipality": "Marrakech",
+        "name": "Menara Airport"
       }
     }
   }
