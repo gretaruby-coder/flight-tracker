@@ -3554,7 +3554,7 @@
     }
   },
   "VLG51GH": {
-    "time": 1792495850.6419566,
+    "time": 1792842637.0589442,
     "route": {
       "callsign": "VLG51GH",
       "callsign_icao": "VLG51GH",
@@ -11025,7 +11025,7 @@
     }
   },
   "EZY35DC": {
-    "time": 1792755325.2335327,
+    "time": 1792842637.0589442,
     "route": {
       "callsign": "EZY35DC",
       "callsign_icao": "EZY35DC",
@@ -113668,7 +113668,7 @@
     }
   },
   "BAW7WN": {
-    "time": 1792668654.894187,
+    "time": 1792842637.0589442,
     "route": {
       "callsign": "BAW7WN",
       "callsign_icao": "BAW7WN",
@@ -115136,7 +115136,7 @@
     }
   },
   "QFA10": {
-    "time": 1792754134.906702,
+    "time": 1792842637.0589442,
     "route": {
       "callsign": "QFA10",
       "callsign_icao": "QFA10",
@@ -116473,7 +116473,7 @@
     }
   },
   "BAW136": {
-    "time": 1792756236.9495847,
+    "time": 1792842637.0589442,
     "route": {
       "callsign": "BAW136",
       "callsign_icao": "BAW136",
@@ -116953,7 +116953,7 @@
     }
   },
   "NOZ81R": {
-    "time": 1792498235.851937,
+    "time": 1792842637.0589442,
     "route": {
       "callsign": "NOZ81R",
       "callsign_icao": "NOZ81R",
@@ -117789,7 +117789,7 @@
     }
   },
   "TAP1329": {
-    "time": 1792670126.760292,
+    "time": 1792842637.0589442,
     "route": {
       "callsign": "TAP1329",
       "callsign_icao": "TAP1329",
@@ -131768,7 +131768,7 @@
     }
   },
   "RYR1T": {
-    "time": 1792745134.936811,
+    "time": 1792842637.0589442,
     "route": {
       "callsign": "RYR1T",
       "callsign_icao": "RYR1T",
@@ -164330,7 +164330,7 @@
     }
   },
   "EZY64YA": {
-    "time": 1792489533.4076734,
+    "time": 1792842637.0589442,
     "route": {
       "callsign": "EZY64YA",
       "callsign_icao": "EZY64YA",
@@ -165425,7 +165425,7 @@
     }
   },
   "EZY29RX": {
-    "time": 1792581335.683112,
+    "time": 1792842637.0589442,
     "route": {
       "callsign": "EZY29RX",
       "callsign_icao": "EZY29RX",
@@ -168793,7 +168793,7 @@
     }
   },
   "WUK6J": {
-    "time": 1792494934.2844644,
+    "time": 1792842637.0589442,
     "route": {
       "callsign": "WUK6J",
       "callsign_icao": "WUK6J",
@@ -228754,7 +228754,7 @@
     }
   },
   "EZY71AQ": {
-    "time": 1792684526.3114247,
+    "time": 1792842637.0589442,
     "route": {
       "callsign": "EZY71AQ",
       "callsign_icao": "EZY71AQ",
@@ -260774,6 +260774,82 @@
         "longitude": 4.76389,
         "municipality": "Amsterdam",
         "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "CFE7019": {
+    "time": 1792842637.0589442,
+    "route": {
+      "callsign": "CFE7019",
+      "callsign_icao": "CFE7019",
+      "callsign_iata": "CJ7019",
+      "airline": {
+        "name": "BA CityFlyer",
+        "icao": "CFE",
+        "iata": "CJ",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "FLYER"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 19,
+        "iata_code": "LCY",
+        "icao_code": "EGLC",
+        "latitude": 51.5053,
+        "longitude": 0.05528,
+        "municipality": "London",
+        "name": "London City Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 142,
+        "iata_code": "FLR",
+        "icao_code": "LIRQ",
+        "latitude": 43.81,
+        "longitude": 11.2051,
+        "municipality": "Firenze",
+        "name": "Peretola Airport"
+      }
+    }
+  },
+  "RYR32NJ": {
+    "time": 1792842637.0589442,
+    "route": {
+      "callsign": "RYR32NJ",
+      "callsign_icao": "RYR32NJ",
+      "callsign_iata": "FR32NJ",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 266,
+        "iata_code": "NCL",
+        "icao_code": "EGNT",
+        "latitude": 55.0375,
+        "longitude": -1.69167,
+        "municipality": "Newcastle",
+        "name": "Newcastle Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 782,
+        "iata_code": "BGY",
+        "icao_code": "LIME",
+        "latitude": 45.6739,
+        "longitude": 9.70417,
+        "municipality": "Milan",
+        "name": "Milan Bergamo Airport"
       }
     }
   }
