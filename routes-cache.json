@@ -12759,7 +12759,7 @@
     }
   },
   "EZY234B": {
-    "time": 1792692064.541775,
+    "time": 1792828233.5976593,
     "route": {
       "callsign": "EZY234B",
       "callsign_icao": "EZY234B",
@@ -36328,7 +36328,7 @@
     }
   },
   "EXS19G": {
-    "time": 1792653334.6949685,
+    "time": 1792828233.5976593,
     "route": {
       "callsign": "EXS19G",
       "callsign_icao": "EXS19G",
@@ -89744,7 +89744,7 @@
     }
   },
   "BAW871": {
-    "time": 1792658437.0734723,
+    "time": 1792828233.5976593,
     "route": {
       "callsign": "BAW871",
       "callsign_icao": "BAW871",
@@ -93675,7 +93675,7 @@
     }
   },
   "BAW563": {
-    "time": 1792655729.5964963,
+    "time": 1792828233.5976593,
     "route": {
       "callsign": "BAW563",
       "callsign_icao": "BAW563",
@@ -94397,7 +94397,7 @@
     }
   },
   "BAW19W": {
-    "time": 1792741533.3938437,
+    "time": 1792828233.5976593,
     "route": {
       "callsign": "BAW19W",
       "callsign_icao": "BAW19W",
@@ -96055,7 +96055,7 @@
     }
   },
   "WZZ2050": {
-    "time": 1792657856.9196553,
+    "time": 1792828233.5976593,
     "route": {
       "callsign": "WZZ2050",
       "callsign_icao": "WZZ2050",
@@ -100207,7 +100207,7 @@
     }
   },
   "UAL46": {
-    "time": 1792398925.3177173,
+    "time": 1792828233.5976593,
     "route": {
       "callsign": "UAL46",
       "callsign_icao": "UAL46",
@@ -102832,7 +102832,7 @@
     }
   },
   "AUR601Y": {
-    "time": 1792571126.5847325,
+    "time": 1792828233.5976593,
     "route": {
       "callsign": "AUR601Y",
       "callsign_icao": "AUR601Y",
@@ -154181,7 +154181,7 @@
     }
   },
   "EZY17QZ": {
-    "time": 1792475725.2784486,
+    "time": 1792828233.5976593,
     "route": {
       "callsign": "EZY17QZ",
       "callsign_icao": "EZY17QZ",
@@ -158347,7 +158347,7 @@
     }
   },
   "WMT8DU": {
-    "time": 1792741832.580449,
+    "time": 1792828233.5976593,
     "route": {
       "callsign": "WMT8DU",
       "callsign_icao": "WMT8DU",
@@ -174596,7 +174596,7 @@
     }
   },
   "EJU52WF": {
-    "time": 1792502436.6318493,
+    "time": 1792828233.5976593,
     "route": {
       "callsign": "EJU52WF",
       "callsign_icao": "EJU52WF",
@@ -236723,7 +236723,7 @@
     }
   },
   "QTR9A": {
-    "time": 1792736726.2554784,
+    "time": 1792828233.5976593,
     "route": {
       "callsign": "QTR9A",
       "callsign_icao": "QTR9A",
@@ -256909,6 +256909,75 @@
         "longitude": 9.98823,
         "municipality": "Hamburg",
         "name": "Hamburg Helmut Schmidt Airport"
+      }
+    }
+  },
+  "CLX83E": {
+    "time": 1792828233.5976593,
+    "route": {
+      "callsign": "CLX83E",
+      "callsign_icao": "CLX83E",
+      "callsign_iata": "CV83E",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 152,
+        "iata_code": "ANC",
+        "icao_code": "PANC",
+        "latitude": 61.1744,
+        "longitude": -149.996,
+        "municipality": "Anchorage",
+        "name": "Ted Stevens Anchorage International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      }
+    }
+  },
+  "VJT827": {
+    "time": 1792828233.5976593,
+    "route": {
+      "callsign": "VJT827",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "SFO",
+        "icao_code": "KSFO",
+        "latitude": 37.619,
+        "longitude": -122.375,
+        "municipality": "San Francisco",
+        "name": "San Francisco International Airport"
       }
     }
   }
