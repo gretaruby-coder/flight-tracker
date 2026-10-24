@@ -72990,7 +72990,7 @@
     }
   },
   "BAW74X": {
-    "time": 1792727723.0699108,
+    "time": 1792815332.231253,
     "route": {
       "callsign": "BAW74X",
       "callsign_icao": "BAW74X",
@@ -73218,7 +73218,7 @@
     }
   },
   "BAW34": {
-    "time": 1792728635.3692808,
+    "time": 1792815332.231253,
     "route": {
       "callsign": "BAW34",
       "callsign_icao": "BAW34",
@@ -253123,6 +253123,44 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "UAL946": {
+    "time": 1792815332.231253,
+    "route": {
+      "callsign": "UAL946",
+      "callsign_icao": "UAL946",
+      "callsign_iata": "UA946",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 312,
+        "iata_code": "IAD",
+        "icao_code": "KIAD",
+        "latitude": 38.9445,
+        "longitude": -77.4558,
+        "municipality": "Washington",
+        "name": "Washington Dulles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
       }
     }
   }
