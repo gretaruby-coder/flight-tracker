@@ -73819,7 +73819,7 @@
     }
   },
   "VIR4C": {
-    "time": 1792644034.7551289,
+    "time": 1792816524.773244,
     "route": {
       "callsign": "VIR4C",
       "callsign_icao": "VIR4C",
@@ -218745,7 +218745,7 @@
     }
   },
   "DAL78": {
-    "time": 1792644034.7551289,
+    "time": 1792816524.773244,
     "route": {
       "callsign": "DAL78",
       "callsign_icao": "DAL78",
@@ -253161,6 +253161,44 @@
         "longitude": 4.76389,
         "municipality": "Amsterdam",
         "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "UAL3011": {
+    "time": 1792816524.773244,
+    "route": {
+      "callsign": "UAL3011",
+      "callsign_icao": "UAL3011",
+      "callsign_iata": "UA3011",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "SFO",
+        "icao_code": "KSFO",
+        "latitude": 37.619,
+        "longitude": -122.375,
+        "municipality": "San Francisco",
+        "name": "San Francisco International Airport"
       }
     }
   }
