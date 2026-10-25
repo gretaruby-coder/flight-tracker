@@ -6255,7 +6255,7 @@
     }
   },
   "BAW9ZY": {
-    "time": 1792761635.8113894,
+    "time": 1792951262.974488,
     "route": {
       "callsign": "BAW9ZY",
       "callsign_icao": "BAW9ZY",
@@ -26698,7 +26698,7 @@
     }
   },
   "VIR155M": {
-    "time": 1792787451.1628404,
+    "time": 1792951262.974488,
     "route": {
       "callsign": "VIR155M",
       "callsign_icao": "VIR155M",
@@ -27876,7 +27876,7 @@
     }
   },
   "BAW198": {
-    "time": 1792862434.8307812,
+    "time": 1792951262.974488,
     "route": {
       "callsign": "BAW198",
       "callsign_icao": "BAW198",
@@ -33085,7 +33085,7 @@
     }
   },
   "KLM40J": {
-    "time": 1792860924.7820013,
+    "time": 1792951262.974488,
     "route": {
       "callsign": "KLM40J",
       "callsign_icao": "KLM40J",
@@ -33655,7 +33655,7 @@
     }
   },
   "BAW362Y": {
-    "time": 1792854637.0165737,
+    "time": 1792951262.974488,
     "route": {
       "callsign": "BAW362Y",
       "callsign_icao": "BAW362Y",
@@ -35475,44 +35475,6 @@
         "longitude": -0.36833,
         "municipality": "London",
         "name": "London Luton Airport"
-      }
-    }
-  },
-  "RYR84UF": {
-    "time": 1792346462.6271145,
-    "route": {
-      "callsign": "RYR84UF",
-      "callsign_icao": "RYR84UF",
-      "callsign_iata": "FR84UF",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 622,
-        "iata_code": "BRS",
-        "icao_code": "EGGD",
-        "latitude": 51.3827,
-        "longitude": -2.71909,
-        "municipality": "Bristol",
-        "name": "Bristol Airport"
-      },
-      "destination": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 7,
-        "iata_code": "VCE",
-        "icao_code": "LIPZ",
-        "latitude": 45.5053,
-        "longitude": 12.3519,
-        "municipality": "Venice",
-        "name": "Venice Marco Polo Airport"
       }
     }
   },
@@ -171885,7 +171847,7 @@
     }
   },
   "NOZ1VE": {
-    "time": 1792772726.2941675,
+    "time": 1792951262.974488,
     "route": {
       "callsign": "NOZ1VE",
       "callsign_icao": "NOZ1VE",
@@ -215236,7 +215198,7 @@
     }
   },
   "SAH51P": {
-    "time": 1792650650.2585378,
+    "time": 1792951262.974488,
     "route": {
       "callsign": "SAH51P",
       "callsign_icao": null,
@@ -309060,6 +309022,151 @@
         "longitude": 2.73881,
         "municipality": "Palma De Mallorca",
         "name": "Palma de Mallorca Airport"
+      }
+    }
+  },
+  "AFR31BE": {
+    "time": 1792951262.974488,
+    "route": {
+      "callsign": "AFR31BE",
+      "callsign_icao": "AFR31BE",
+      "callsign_iata": "AF31BE",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "EXS33HZ": {
+    "time": 1792951262.974488,
+    "route": {
+      "callsign": "EXS33HZ",
+      "callsign_icao": "EXS33HZ",
+      "callsign_iata": "LS33HZ",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 115,
+        "iata_code": "HER",
+        "icao_code": "LGIR",
+        "latitude": 35.3397,
+        "longitude": 25.1803,
+        "municipality": "Heraklion",
+        "name": "Heraklion International Nikos Kazantzakis Airport"
+      }
+    }
+  },
+  "AIC31F": {
+    "time": 1792951262.974488,
+    "route": {
+      "callsign": "AIC31F",
+      "callsign_icao": "AIC31F",
+      "callsign_iata": "AI31F",
+      "airline": {
+        "name": "Air India",
+        "icao": "AIC",
+        "iata": "AI",
+        "country": "India",
+        "country_iso": "IN",
+        "callsign": "AIRINDIA"
+      },
+      "origin": {
+        "country_iso_name": "IN",
+        "country_name": "India",
+        "elevation": 777,
+        "iata_code": "DEL",
+        "icao_code": "VIDP",
+        "latitude": 28.5665,
+        "longitude": 77.1031,
+        "municipality": "New Delhi",
+        "name": "Indira Gandhi International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "EJM42": {
+    "time": 1792951262.974488,
+    "route": {
+      "callsign": "EJM42",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 427,
+        "iata_code": "CIA",
+        "icao_code": "LIRA",
+        "latitude": 41.7994,
+        "longitude": 12.5949,
+        "municipality": "Rome",
+        "name": "Ciampino\u2013G. B. Pastine International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 37,
+        "iata_code": "OLB",
+        "icao_code": "LIEO",
+        "latitude": 40.8987,
+        "longitude": 9.51763,
+        "municipality": "Olbia (SS)",
+        "name": "Olbia Costa Smeralda Airport"
       }
     }
   }
