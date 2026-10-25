@@ -142335,7 +142335,7 @@
     }
   },
   "EZY35GL": {
-    "time": 1792705236.8418267,
+    "time": 1792890933.7802043,
     "route": {
       "callsign": "EZY35GL",
       "callsign_icao": "EZY35GL",
@@ -150087,7 +150087,7 @@
     }
   },
   "EXS53V": {
-    "time": 1792692331.034764,
+    "time": 1792890933.7802043,
     "route": {
       "callsign": "EXS53V",
       "callsign_icao": "EXS53V",
@@ -272985,6 +272985,120 @@
         "longitude": 12.23639,
         "municipality": "Leipzig",
         "name": "Leipzig/Halle Airport"
+      }
+    }
+  },
+  "EXS47AL": {
+    "time": 1792890933.7802043,
+    "route": {
+      "callsign": "EXS47AL",
+      "callsign_icao": "EXS47AL",
+      "callsign_iata": "LS47AL",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 85,
+        "iata_code": "FUE",
+        "icao_code": "GCFV",
+        "latitude": 28.4527,
+        "longitude": -13.8638,
+        "municipality": "Fuerteventura Island",
+        "name": "Fuerteventura Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "TOM213": {
+    "time": 1792890933.7802043,
+    "route": {
+      "callsign": "TOM213",
+      "callsign_icao": "TOM213",
+      "callsign_iata": "BY213",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 20,
+        "iata_code": "DLM",
+        "icao_code": "LTBS",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "name": "Dalaman International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      }
+    }
+  },
+  "TOM96B": {
+    "time": 1792890933.7802043,
+    "route": {
+      "callsign": "TOM96B",
+      "callsign_icao": "TOM96B",
+      "callsign_iata": "BY96B",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 266,
+        "iata_code": "NCL",
+        "icao_code": "EGNT",
+        "latitude": 55.0375,
+        "longitude": -1.69167,
+        "municipality": "Newcastle",
+        "name": "Newcastle Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
       }
     }
   }
