@@ -2144,44 +2144,6 @@
       }
     }
   },
-  "JBU32": {
-    "time": 1792320956.3885431,
-    "route": {
-      "callsign": "JBU32",
-      "callsign_icao": "JBU32",
-      "callsign_iata": "B632",
-      "airline": {
-        "name": "JetBlue Airways",
-        "icao": "JBU",
-        "iata": "B6",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "JETBLUE"
-      },
-      "origin": {
-        "country_iso_name": "NL",
-        "country_name": "Netherlands",
-        "elevation": -11,
-        "iata_code": "AMS",
-        "icao_code": "EHAM",
-        "latitude": 52.3086,
-        "longitude": 4.76389,
-        "municipality": "Amsterdam",
-        "name": "Amsterdam Airport Schiphol"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 20,
-        "iata_code": "BOS",
-        "icao_code": "KBOS",
-        "latitude": 42.3643,
-        "longitude": -71.0052,
-        "municipality": "Boston",
-        "name": "Logan International Airport"
-      }
-    }
-  },
   "BAW41R": {
     "time": 1792840233.245864,
     "route": {
@@ -102694,7 +102656,7 @@
     }
   },
   "EIN1LK": {
-    "time": 1792747851.5292783,
+    "time": 1792926061.1377797,
     "route": {
       "callsign": "EIN1LK",
       "callsign_icao": "EIN1LK",
@@ -104694,7 +104656,7 @@
     }
   },
   "BAW6AC": {
-    "time": 1792838128.21538,
+    "time": 1792926061.1377797,
     "route": {
       "callsign": "BAW6AC",
       "callsign_icao": "BAW6AC",
@@ -126359,7 +126321,7 @@
     }
   },
   "NOZ34G": {
-    "time": 1792769725.8771734,
+    "time": 1792926061.1377797,
     "route": {
       "callsign": "NOZ34G",
       "callsign_icao": "NOZ34G",
@@ -291204,6 +291166,424 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "AFR95CN": {
+    "time": 1792926061.1377797,
+    "route": {
+      "callsign": "AFR95CN",
+      "callsign_icao": "AFR95CN",
+      "callsign_iata": "AF95CN",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "UAL140": {
+    "time": 1792926061.1377797,
+    "route": {
+      "callsign": "UAL140",
+      "callsign_icao": "UAL140",
+      "callsign_iata": "UA140",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IL",
+        "country_name": "Israel",
+        "elevation": 135,
+        "iata_code": "TLV",
+        "icao_code": "LLBG",
+        "latitude": 32.0114,
+        "longitude": 34.8867,
+        "municipality": "Tel Aviv",
+        "name": "Ben Gurion International Airport"
+      }
+    }
+  },
+  "EXS29XH": {
+    "time": 1792926061.1377797,
+    "route": {
+      "callsign": "EXS29XH",
+      "callsign_icao": "EXS29XH",
+      "callsign_iata": "LS29XH",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 468,
+        "iata_code": "GRO",
+        "icao_code": "LEGE",
+        "latitude": 41.901,
+        "longitude": 2.76055,
+        "municipality": "Girona",
+        "name": "Girona-Costa Brava Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 266,
+        "iata_code": "NCL",
+        "icao_code": "EGNT",
+        "latitude": 55.0375,
+        "longitude": -1.69167,
+        "municipality": "Newcastle",
+        "name": "Newcastle Airport"
+      }
+    }
+  },
+  "NSZ2876": {
+    "time": 1792926061.1377797,
+    "route": {
+      "callsign": "NSZ2876",
+      "callsign_icao": "NSZ2876",
+      "callsign_iata": "D82876",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "FI",
+        "country_name": "Finland",
+        "elevation": 179,
+        "iata_code": "HEL",
+        "icao_code": "EFHK",
+        "latitude": 60.3172,
+        "longitude": 24.9633,
+        "municipality": "Helsinki",
+        "name": "Helsinki Vantaa Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      }
+    }
+  },
+  "RYR23JQ": {
+    "time": 1792926061.1377797,
+    "route": {
+      "callsign": "RYR23JQ",
+      "callsign_icao": "RYR23JQ",
+      "callsign_iata": "FR23JQ",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "MT",
+        "country_name": "Malta",
+        "elevation": 300,
+        "iata_code": "MLA",
+        "icao_code": "LMML",
+        "latitude": 35.8575,
+        "longitude": 14.4775,
+        "municipality": "Valletta",
+        "name": "Malta International Airport"
+      }
+    }
+  },
+  "RYR99BT": {
+    "time": 1792926061.1377797,
+    "route": {
+      "callsign": "RYR99BT",
+      "callsign_icao": "RYR99BT",
+      "callsign_iata": "FR99BT",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 90,
+        "iata_code": "NTE",
+        "icao_code": "LFRS",
+        "latitude": 47.1532,
+        "longitude": -1.61073,
+        "municipality": "Nantes",
+        "name": "Nantes Atlantique Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "NOZ1323": {
+    "time": 1792926061.1377797,
+    "route": {
+      "callsign": "NOZ1323",
+      "callsign_icao": "NOZ1323",
+      "callsign_iata": "1323",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 31,
+        "iata_code": "TOS",
+        "icao_code": "ENTC",
+        "latitude": 69.6833,
+        "longitude": 18.9189,
+        "municipality": "Troms\u00f8",
+        "name": "Troms\u00f8 Airport, Langnes"
+      }
+    }
+  },
+  "AIC111D": {
+    "time": 1792926061.1377797,
+    "route": {
+      "callsign": "AIC111D",
+      "callsign_icao": "AIC111D",
+      "callsign_iata": "AI111D",
+      "airline": {
+        "name": "Air India",
+        "icao": "AIC",
+        "iata": "AI",
+        "country": "India",
+        "country_iso": "IN",
+        "callsign": "AIRINDIA"
+      },
+      "origin": {
+        "country_iso_name": "IN",
+        "country_name": "India",
+        "elevation": 777,
+        "iata_code": "DEL",
+        "icao_code": "VIDP",
+        "latitude": 28.5665,
+        "longitude": 77.1031,
+        "municipality": "New Delhi",
+        "name": "Indira Gandhi International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "AFR15KD": {
+    "time": 1792926061.1377797,
+    "route": {
+      "callsign": "AFR15KD",
+      "callsign_icao": "AFR15KD",
+      "callsign_iata": "AF15KD",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "TOM406": {
+    "time": 1792926061.1377797,
+    "route": {
+      "callsign": "TOM406",
+      "callsign_icao": "TOM406",
+      "callsign_iata": "BY406",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 143,
+        "iata_code": "SSH",
+        "icao_code": "HESH",
+        "latitude": 27.9773,
+        "longitude": 34.395,
+        "municipality": "Sharm el-Sheikh",
+        "name": "Sharm El Sheikh International Airport"
+      }
+    }
+  },
+  "EZY59EZ": {
+    "time": 1792926061.1377797,
+    "route": {
+      "callsign": "EZY59EZ",
+      "callsign_icao": "EZY59EZ",
+      "callsign_iata": "U259EZ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 143,
+        "iata_code": "SSH",
+        "icao_code": "HESH",
+        "latitude": 27.9773,
+        "longitude": 34.395,
+        "municipality": "Sharm el-Sheikh",
+        "name": "Sharm El Sheikh International Airport"
       }
     }
   }
