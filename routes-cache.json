@@ -217961,7 +217961,7 @@
     }
   },
   "ACA844": {
-    "time": 1792809631.9559808,
+    "time": 1792903532.4634905,
     "route": {
       "callsign": "ACA844",
       "callsign_icao": "ACA844",
@@ -273897,6 +273897,44 @@
         "longitude": 16.5697,
         "municipality": "Vienna",
         "name": "Vienna International Airport"
+      }
+    }
+  },
+  "AAL762": {
+    "time": 1792903532.4634905,
+    "route": {
+      "callsign": "AAL762",
+      "callsign_icao": "AAL762",
+      "callsign_iata": "AA762",
+      "airline": {
+        "name": "American Airlines",
+        "icao": "AAL",
+        "iata": "AA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "AMERICAN"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1203,
+        "iata_code": "PIT",
+        "icao_code": "KPIT",
+        "latitude": 40.4915,
+        "longitude": -80.2329,
+        "municipality": "Pittsburgh",
+        "name": "Pittsburgh International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 607,
+        "iata_code": "DFW",
+        "icao_code": "KDFW",
+        "latitude": 32.8968,
+        "longitude": -97.038,
+        "municipality": "Dallas-Fort Worth",
+        "name": "Dallas Fort Worth International Airport"
       }
     }
   }
