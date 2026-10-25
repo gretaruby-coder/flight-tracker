@@ -72282,7 +72282,7 @@
     }
   },
   "CFG017": {
-    "time": 1792807832.0743191,
+    "time": 1792896634.630738,
     "route": {
       "callsign": "CFG17",
       "callsign_icao": "CFG17",
@@ -273517,6 +273517,44 @@
         "longitude": -2.71909,
         "municipality": "Bristol",
         "name": "Bristol Airport"
+      }
+    }
+  },
+  "EZY8582": {
+    "time": 1792896634.630738,
+    "route": {
+      "callsign": "EZY8582",
+      "callsign_icao": "EZY8582",
+      "callsign_iata": "U28582",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 20,
+        "iata_code": "DLM",
+        "icao_code": "LTBS",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "name": "Dalaman International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
