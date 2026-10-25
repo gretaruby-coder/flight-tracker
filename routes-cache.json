@@ -21803,7 +21803,7 @@
     }
   },
   "BAW817": {
-    "time": 1792871725.131333,
+    "time": 1792965325.0661864,
     "route": {
       "callsign": "BAW817",
       "callsign_icao": "BAW817",
@@ -49352,7 +49352,7 @@
     }
   },
   "CSN674": {
-    "time": 1792787726.9448311,
+    "time": 1792965325.0661864,
     "route": {
       "callsign": "CSN674",
       "callsign_icao": "CSN674",
@@ -53221,7 +53221,7 @@
     }
   },
   "GCR7988": {
-    "time": 1792790724.5182996,
+    "time": 1792965325.0661864,
     "route": {
       "callsign": "GCR7988",
       "callsign_icao": "GCR7988",
@@ -54392,7 +54392,7 @@
     }
   },
   "AVA121": {
-    "time": 1792791635.0582259,
+    "time": 1792965325.0661864,
     "route": {
       "callsign": "AVA121",
       "callsign_icao": "AVA121",
@@ -56212,44 +56212,6 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
-      }
-    }
-  },
-  "EXS48H": {
-    "time": 1792360524.8442085,
-    "route": {
-      "callsign": "EXS48H",
-      "callsign_icao": "EXS48H",
-      "callsign_iata": "LS48H",
-      "airline": {
-        "name": "Jet2.com",
-        "icao": "EXS",
-        "iata": "LS",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "CHANNEX"
-      },
-      "origin": {
-        "country_iso_name": "HR",
-        "country_name": "Croatia",
-        "elevation": 527,
-        "iata_code": "DBV",
-        "icao_code": "LDDU",
-        "latitude": 42.5614,
-        "longitude": 18.2682,
-        "municipality": "Dubrovnik",
-        "name": "Dubrovnik Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 257,
-        "iata_code": "MAN",
-        "icao_code": "EGCC",
-        "latitude": 53.34938,
-        "longitude": -2.27952,
-        "municipality": "Manchester",
-        "name": "Manchester Airport"
       }
     }
   },
@@ -207481,7 +207443,7 @@
     }
   },
   "UAE20": {
-    "time": 1792791325.989603,
+    "time": 1792965325.0661864,
     "route": {
       "callsign": "UAE20",
       "callsign_icao": "UAE20",
@@ -313278,6 +313240,82 @@
         "longitude": 18.4662,
         "municipality": "Gda\u0144sk",
         "name": "Gda\u0144sk Lech Wa\u0142\u0119sa Airport"
+      }
+    }
+  },
+  "DLH5EM": {
+    "time": 1792965325.0661864,
+    "route": {
+      "callsign": "DLH5EM",
+      "callsign_icao": "DLH5EM",
+      "callsign_iata": "LH5EM",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 17,
+        "iata_code": "CPH",
+        "icao_code": "EKCH",
+        "latitude": 55.6179,
+        "longitude": 12.656,
+        "municipality": "Copenhagen",
+        "name": "Copenhagen Kastrup Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "WMT7U": {
+    "time": 1792965325.0661864,
+    "route": {
+      "callsign": "WMT7U",
+      "callsign_icao": "WMT7U",
+      "callsign_iata": "W47U",
+      "airline": {
+        "name": "Wizz Air Malta",
+        "icao": "WMT",
+        "iata": "W4",
+        "country": "Malta",
+        "country_iso": "MT",
+        "callsign": "Wizzairmalta"
+      },
+      "origin": {
+        "country_iso_name": "RO",
+        "country_name": "Romania",
+        "elevation": 1039,
+        "iata_code": "CLJ",
+        "icao_code": "LRCL",
+        "latitude": 46.7852,
+        "longitude": 23.6862,
+        "municipality": "Cluj-Napoca",
+        "name": "Cluj-Napoca International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1276,
+        "iata_code": "STR",
+        "icao_code": "EDDS",
+        "latitude": 48.6899,
+        "longitude": 9.22196,
+        "municipality": "Stuttgart",
+        "name": "Stuttgart Airport"
       }
     }
   }
