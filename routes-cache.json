@@ -11495,7 +11495,7 @@
     }
   },
   "BAW473D": {
-    "time": 1792837529.2362292,
+    "time": 1792926635.7831774,
     "route": {
       "callsign": "BAW473D",
       "callsign_icao": "BAW473D",
@@ -106625,7 +106625,7 @@
     }
   },
   "BAW28F": {
-    "time": 1792836934.5238094,
+    "time": 1792926635.7831774,
     "route": {
       "callsign": "BAW28F",
       "callsign_icao": "BAW28F",
@@ -111378,7 +111378,7 @@
     }
   },
   "SIA317": {
-    "time": 1792753528.3339465,
+    "time": 1792926635.7831774,
     "route": {
       "callsign": "SIA317",
       "callsign_icao": "SIA317",
@@ -116815,7 +116815,7 @@
     }
   },
   "BAW26V": {
-    "time": 1792840233.245864,
+    "time": 1792926635.7831774,
     "route": {
       "callsign": "BAW26V",
       "callsign_icao": "BAW26V",
@@ -236471,7 +236471,7 @@
     }
   },
   "BAW674": {
-    "time": 1792737634.8323946,
+    "time": 1792926635.7831774,
     "route": {
       "callsign": "BAW674",
       "callsign_icao": "BAW674",
@@ -291774,6 +291774,189 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "KLM708": {
+    "time": 1792926635.7831774,
+    "route": {
+      "callsign": "KLM708",
+      "callsign_icao": "KLM708",
+      "callsign_iata": "KL708",
+      "airline": {
+        "name": "KLM Royal Dutch Airlines",
+        "icao": "KLM",
+        "iata": "KL",
+        "country": "Netherlands",
+        "country_iso": "NL",
+        "callsign": "KLM"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 180,
+        "iata_code": "TER",
+        "icao_code": "LPLA",
+        "latitude": 38.7618,
+        "longitude": -27.0908,
+        "municipality": "Praia da Vit\u00f3ria",
+        "name": "Lajes Airport"
+      },
+      "destination": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 180,
+        "iata_code": "TER",
+        "icao_code": "LPLA",
+        "latitude": 38.7618,
+        "longitude": -27.0908,
+        "municipality": "Praia da Vit\u00f3ria",
+        "name": "Lajes Airport"
+      }
+    }
+  },
+  "IBE07FG": {
+    "time": 1792926635.7831774,
+    "route": {
+      "callsign": "IBE07FG",
+      "callsign_icao": "IBE07FG",
+      "callsign_iata": "IB07FG",
+      "airline": {
+        "name": "Iberia Airlines",
+        "icao": "IBE",
+        "iata": "IB",
+        "country": "Spain",
+        "country_iso": "ES",
+        "callsign": "IBERIA"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 1998,
+        "iata_code": "MAD",
+        "icao_code": "LEMD",
+        "latitude": 40.47193,
+        "longitude": -3.56264,
+        "municipality": "Madrid",
+        "name": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "BCS381": {
+    "time": 1792926635.7831774,
+    "route": {
+      "callsign": "BCS381",
+      "callsign_icao": "BCS381",
+      "callsign_iata": "QY381",
+      "airline": {
+        "name": "European Air Transport",
+        "icao": "BCS",
+        "iata": "QY",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "EUROTRANS"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 896,
+        "iata_code": "CVG",
+        "icao_code": "KCVG",
+        "latitude": 39.0488,
+        "longitude": -84.6678,
+        "municipality": "Cincinnati / Covington",
+        "name": "Cincinnati Northern Kentucky International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 465,
+        "iata_code": "LEJ",
+        "icao_code": "EDDP",
+        "latitude": 51.42389,
+        "longitude": 12.23639,
+        "municipality": "Leipzig",
+        "name": "Leipzig/Halle Airport"
+      }
+    }
+  },
+  "EAL993": {
+    "time": 1792926635.7831774,
+    "route": {
+      "callsign": "EAL993",
+      "callsign_icao": "EAL993",
+      "callsign_iata": "EA993",
+      "airline": {
+        "name": "European Air Express",
+        "icao": "EAL",
+        "iata": "EA",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "STAR WING"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "SR",
+        "country_name": "Suriname",
+        "elevation": 59,
+        "iata_code": "PBM",
+        "icao_code": "SMJP",
+        "latitude": 5.45283,
+        "longitude": -55.1878,
+        "municipality": "Zandery",
+        "name": "Johan Adolf Pengel International Airport"
+      }
+    }
+  },
+  "DASBG": {
+    "time": 1792926635.7831774,
+    "route": {
+      "callsign": "DASBG",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 7,
+        "iata_code": "VCE",
+        "icao_code": "LIPZ",
+        "latitude": 45.5053,
+        "longitude": 12.3519,
+        "municipality": "Venice",
+        "name": "Venice Marco Polo Airport"
       }
     }
   }
