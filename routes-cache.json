@@ -193108,7 +193108,7 @@
     }
   },
   "ETD6PX": {
-    "time": 1792549523.801707,
+    "time": 1792896925.5831485,
     "route": {
       "callsign": "ETD6PX",
       "callsign_icao": "ETD6PX",
@@ -273555,6 +273555,44 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EZS13DF": {
+    "time": 1792896925.5831485,
+    "route": {
+      "callsign": "EZS13DF",
+      "callsign_icao": "EZS13DF",
+      "callsign_iata": "DS13DF",
+      "airline": {
+        "name": "Easyjet Switzerland",
+        "icao": "EZS",
+        "iata": "DS",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "IS",
+        "country_name": "Iceland",
+        "elevation": 171,
+        "iata_code": "KEF",
+        "icao_code": "BIKF",
+        "latitude": 63.985,
+        "longitude": -22.6056,
+        "municipality": "Reykjav\u00edk",
+        "name": "Keflavik International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 885,
+        "iata_code": "BSL",
+        "icao_code": "LFSB",
+        "latitude": 47.59,
+        "longitude": 7.52917,
+        "municipality": "B\u00e2le/Mulhouse",
+        "name": "EuroAirport Basel-Mulhouse-Freiburg Airport"
       }
     }
   }
