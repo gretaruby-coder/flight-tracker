@@ -313812,5 +313812,119 @@
         "name": "London Gatwick Airport"
       }
     }
+  },
+  "AIC71A": {
+    "time": 1792968924.8140218,
+    "route": {
+      "callsign": "AIC71A",
+      "callsign_icao": "AIC71A",
+      "callsign_iata": "AI71A",
+      "airline": {
+        "name": "Air India",
+        "icao": "AIC",
+        "iata": "AI",
+        "country": "India",
+        "country_iso": "IN",
+        "callsign": "AIRINDIA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IN",
+        "country_name": "India",
+        "elevation": 777,
+        "iata_code": "DEL",
+        "icao_code": "VIDP",
+        "latitude": 28.5665,
+        "longitude": 77.1031,
+        "municipality": "New Delhi",
+        "name": "Indira Gandhi International Airport"
+      }
+    }
+  },
+  "EZY59UV": {
+    "time": 1792968924.8140218,
+    "route": {
+      "callsign": "EZY59UV",
+      "callsign_icao": "EZY59UV",
+      "callsign_iata": "U259UV",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "EZY23NY": {
+    "time": 1792968924.8140218,
+    "route": {
+      "callsign": "EZY23NY",
+      "callsign_icao": "EZY23NY",
+      "callsign_iata": "U223NY",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 215,
+        "iata_code": "ABZ",
+        "icao_code": "EGPD",
+        "latitude": 57.2019,
+        "longitude": -2.19778,
+        "municipality": "Aberdeen",
+        "name": "Aberdeen Dyce Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
   }
 }
