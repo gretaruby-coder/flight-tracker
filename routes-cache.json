@@ -33047,7 +33047,7 @@
     }
   },
   "EIN723": {
-    "time": 1792870250.9441838,
+    "time": 1792958728.9760497,
     "route": {
       "callsign": "EIN723",
       "callsign_icao": "EIN723",
@@ -42654,7 +42654,7 @@
     }
   },
   "SAS812": {
-    "time": 1792524035.9897323,
+    "time": 1792958728.9760497,
     "route": {
       "callsign": "SAS812",
       "callsign_icao": "SAS812",
@@ -114964,7 +114964,7 @@
     }
   },
   "BAW774": {
-    "time": 1792763727.3257957,
+    "time": 1792958728.9760497,
     "route": {
       "callsign": "BAW774",
       "callsign_icao": "BAW774",
@@ -122259,7 +122259,7 @@
     }
   },
   "BAW415": {
-    "time": 1792425665.0603905,
+    "time": 1792958728.9760497,
     "route": {
       "callsign": "BAW415",
       "callsign_icao": "BAW415",
@@ -153180,7 +153180,7 @@
     }
   },
   "EFW16PH": {
-    "time": 1792743035.5315585,
+    "time": 1792958728.9760497,
     "route": {
       "callsign": "EFW16PH",
       "callsign_icao": "EFW16PH",
@@ -243231,7 +243231,7 @@
     }
   },
   "BAW5RI": {
-    "time": 1792788925.445551,
+    "time": 1792958728.9760497,
     "route": {
       "callsign": "BAW5RI",
       "callsign_icao": "BAW5RI",
@@ -311948,6 +311948,158 @@
         "longitude": -6.27007,
         "municipality": "Dublin",
         "name": "Dublin Airport"
+      }
+    }
+  },
+  "RYR5VT": {
+    "time": 1792958728.9760497,
+    "route": {
+      "callsign": "RYR5VT",
+      "callsign_icao": "RYR5VT",
+      "callsign_iata": "FR5VT",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "RYR6YT": {
+    "time": 1792958728.9760497,
+    "route": {
+      "callsign": "RYR6YT",
+      "callsign_icao": "RYR6YT",
+      "callsign_iata": "FR6YT",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 40,
+        "iata_code": "RMI",
+        "icao_code": "LIPR",
+        "latitude": 44.0203,
+        "longitude": 12.6117,
+        "municipality": "Rimini",
+        "name": "Federico Fellini International Airport"
+      },
+      "destination": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 600,
+        "iata_code": "VIE",
+        "icao_code": "LOWW",
+        "latitude": 48.1103,
+        "longitude": 16.5697,
+        "municipality": "Vienna",
+        "name": "Vienna International Airport"
+      }
+    }
+  },
+  "AUR621": {
+    "time": 1792958728.9760497,
+    "route": {
+      "callsign": "AUR621",
+      "callsign_icao": "AUR621",
+      "callsign_iata": "GR621",
+      "airline": {
+        "name": "Aurigny Air Services",
+        "icao": "AUR",
+        "iata": "GR",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "AYLINE"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "GG",
+        "country_name": "Guernsey",
+        "elevation": 336,
+        "iata_code": "GCI",
+        "icao_code": "EGJB",
+        "latitude": 49.435,
+        "longitude": -2.60197,
+        "municipality": "Saint Peter Port",
+        "name": "Guernsey Airport"
+      }
+    }
+  },
+  "RYR32FP": {
+    "time": 1792958728.9760497,
+    "route": {
+      "callsign": "RYR32FP",
+      "callsign_icao": "RYR32FP",
+      "callsign_iata": "FR32FP",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 157,
+        "iata_code": "BER",
+        "icao_code": "EDDB",
+        "latitude": 52.35139,
+        "longitude": 13.49389,
+        "municipality": "Berlin",
+        "name": "Berlin Brandenburg Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 6,
+        "iata_code": "PSA",
+        "icao_code": "LIRP",
+        "latitude": 43.6839,
+        "longitude": 10.3927,
+        "municipality": "Pisa",
+        "name": "Pisa International Airport"
       }
     }
   }
