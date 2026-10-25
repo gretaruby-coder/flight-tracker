@@ -40716,7 +40716,7 @@
     }
   },
   "AUA3M": {
-    "time": 1792782934.5107512,
+    "time": 1792959636.2663064,
     "route": {
       "callsign": "AUA3M",
       "callsign_icao": "AUA3M",
@@ -41628,7 +41628,7 @@
     }
   },
   "DLH8H": {
-    "time": 1792787726.9448311,
+    "time": 1792959636.2663064,
     "route": {
       "callsign": "DLH8H",
       "callsign_icao": "DLH8H",
@@ -47352,7 +47352,7 @@
     }
   },
   "JBU1107": {
-    "time": 1792869634.4388585,
+    "time": 1792959636.2663064,
     "route": {
       "callsign": "JBU1107",
       "callsign_icao": "JBU1107",
@@ -47846,7 +47846,7 @@
     }
   },
   "KLC90N": {
-    "time": 1792526458.7611718,
+    "time": 1792959636.2663064,
     "route": {
       "callsign": "KLC90N",
       "callsign_icao": "KLC90N",
@@ -53715,7 +53715,7 @@
     }
   },
   "CFE93G": {
-    "time": 1792784126.5511527,
+    "time": 1792959636.2663064,
     "route": {
       "callsign": "CFE93G",
       "callsign_icao": "CFE93G",
@@ -130774,7 +130774,7 @@
     }
   },
   "BAW99XC": {
-    "time": 1792671036.0704274,
+    "time": 1792959636.2663064,
     "route": {
       "callsign": "BAW99XC",
       "callsign_icao": "BAW99XC",
@@ -181260,7 +181260,7 @@
     }
   },
   "TAR791": {
-    "time": 1792526129.6806214,
+    "time": 1792959636.2663064,
     "route": {
       "callsign": "TAR791",
       "callsign_icao": "TAR791",
@@ -312062,6 +312062,82 @@
         "longitude": 19.26109,
         "municipality": "Budapest",
         "name": "Budapest Liszt Ferenc International Airport"
+      }
+    }
+  },
+  "CFG3HE": {
+    "time": 1792959636.2663064,
+    "route": {
+      "callsign": "CFG3HE",
+      "callsign_icao": "CFG3HE",
+      "callsign_iata": "DE3HE",
+      "airline": {
+        "name": "Condor Flugdienst",
+        "icao": "CFG",
+        "iata": "DE",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "CONDOR"
+      },
+      "origin": {
+        "country_iso_name": "HR",
+        "country_name": "Croatia",
+        "elevation": 278,
+        "iata_code": "RJK",
+        "icao_code": "LDRI",
+        "latitude": 45.2169,
+        "longitude": 14.5703,
+        "municipality": "Rijeka",
+        "name": "Rijeka Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "VLG9RK": {
+    "time": 1792959636.2663064,
+    "route": {
+      "callsign": "VLG9RK",
+      "callsign_icao": "VLG9RK",
+      "callsign_iata": "VY9RK",
+      "airline": {
+        "name": "Vueling Airlines",
+        "icao": "VLG",
+        "iata": "VY",
+        "country": "Spain",
+        "country_iso": "ES",
+        "callsign": "VUELING"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 302,
+        "iata_code": "MAH",
+        "icao_code": "LEMH",
+        "latitude": 39.8626,
+        "longitude": 4.21865,
+        "municipality": "Menorca Island",
+        "name": "Menorca Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
       }
     }
   }
