@@ -6932,7 +6932,7 @@
     }
   },
   "FJO54A": {
-    "time": 1792491636.3610942,
+    "time": 1792929033.10561,
     "route": {
       "callsign": "FJO54A",
       "callsign_icao": null,
@@ -11533,7 +11533,7 @@
     }
   },
   "TFL757": {
-    "time": 1792584327.4686177,
+    "time": 1792929033.10561,
     "route": {
       "callsign": "TFL757",
       "callsign_icao": "TFL757",
@@ -82445,7 +82445,7 @@
     }
   },
   "BAW812": {
-    "time": 1792737050.0215006,
+    "time": 1792929033.10561,
     "route": {
       "callsign": "BAW812",
       "callsign_icao": "BAW812",
@@ -114321,7 +114321,7 @@
     }
   },
   "UAE1": {
-    "time": 1792839327.6166453,
+    "time": 1792929033.10561,
     "route": {
       "callsign": "UAE1",
       "callsign_icao": "UAE1",
@@ -293584,6 +293584,196 @@
         "longitude": 11.1004,
         "municipality": "Oslo",
         "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "AFR61WT": {
+    "time": 1792929033.10561,
+    "route": {
+      "callsign": "AFR61WT",
+      "callsign_icao": "AFR61WT",
+      "callsign_iata": "AF61WT",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "EZY97GJ": {
+    "time": 1792929033.10561,
+    "route": {
+      "callsign": "EZY97GJ",
+      "callsign_icao": "EZY97GJ",
+      "callsign_iata": "U297GJ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      }
+    }
+  },
+  "ASL32Y": {
+    "time": 1792929033.10561,
+    "route": {
+      "callsign": "ASL32Y",
+      "callsign_icao": "ASL32Y",
+      "callsign_iata": "32Y",
+      "airline": {
+        "name": "Spurling Aviation",
+        "icao": "ASL",
+        "iata": null,
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "AIR SEATTLE"
+      },
+      "origin": {
+        "country_iso_name": "RS",
+        "country_name": "Serbia",
+        "elevation": 335,
+        "iata_code": "BEG",
+        "icao_code": "LYBE",
+        "latitude": 44.8184,
+        "longitude": 20.3091,
+        "municipality": "Belgrade",
+        "name": "Belgrade Nikola Tesla Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "RYR92RC": {
+    "time": 1792929033.10561,
+    "route": {
+      "callsign": "RYR92RC",
+      "callsign_icao": "RYR92RC",
+      "callsign_iata": "FR92RC",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 302,
+        "iata_code": "CGN",
+        "icao_code": "EDDK",
+        "latitude": 50.8659,
+        "longitude": 7.14274,
+        "municipality": "Cologne",
+        "name": "Cologne Bonn Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      }
+    }
+  },
+  "EZY2591": {
+    "time": 1792929033.10561,
+    "route": {
+      "callsign": "EZY2591",
+      "callsign_icao": "EZY2591",
+      "callsign_iata": "U22591",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "CY",
+        "country_name": "Cyprus",
+        "elevation": 41,
+        "iata_code": "PFO",
+        "icao_code": "LCPH",
+        "latitude": 34.718,
+        "longitude": 32.4857,
+        "municipality": "Paphos",
+        "name": "Paphos International Airport"
       }
     }
   }
