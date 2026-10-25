@@ -314420,5 +314420,81 @@
         "name": "London Gatwick Airport"
       }
     }
+  },
+  "RYR62ST": {
+    "time": 1792971633.5884264,
+    "route": {
+      "callsign": "RYR62ST",
+      "callsign_icao": "RYR62ST",
+      "callsign_iata": "FR62ST",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      },
+      "destination": {
+        "country_iso_name": "PL",
+        "country_name": "Poland",
+        "elevation": 791,
+        "iata_code": "KRK",
+        "icao_code": "EPKK",
+        "latitude": 50.0777,
+        "longitude": 19.7848,
+        "municipality": "Krak\u00f3w",
+        "name": "Krak\u00f3w John Paul II International Airport"
+      }
+    }
+  },
+  "TOM5MN": {
+    "time": 1792971633.5884264,
+    "route": {
+      "callsign": "TOM5MN",
+      "callsign_icao": "TOM5MN",
+      "callsign_iata": "BY5MN",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      }
+    }
   }
 }
