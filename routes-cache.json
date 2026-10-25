@@ -1955,7 +1955,7 @@
     }
   },
   "BAW180": {
-    "time": 1792733725.5020263,
+    "time": 1792906524.9410548,
     "route": {
       "callsign": "BAW180",
       "callsign_icao": "BAW180",
@@ -78576,7 +78576,7 @@
     }
   },
   "ETH718": {
-    "time": 1792646728.2089264,
+    "time": 1792906524.9410548,
     "route": {
       "callsign": "ETH718",
       "callsign_icao": "ETH718",
@@ -274239,6 +274239,44 @@
         "longitude": 8.57056,
         "municipality": "Frankfurt am Main",
         "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "AAL110": {
+    "time": 1792906524.9410548,
+    "route": {
+      "callsign": "AAL110",
+      "callsign_icao": "AAL110",
+      "callsign_iata": "AA110",
+      "airline": {
+        "name": "American Airlines",
+        "icao": "AAL",
+        "iata": "AA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "AMERICAN"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
       }
     }
   }
