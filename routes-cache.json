@@ -76341,7 +76341,7 @@
     }
   },
   "SWR5HA": {
-    "time": 1792819847.0540202,
+    "time": 1792908934.0585847,
     "route": {
       "callsign": "SWR5HA",
       "callsign_icao": "SWR5HA",
@@ -274733,6 +274733,120 @@
         "longitude": 14.2908,
         "municipality": "N\u00e1poli",
         "name": "Naples International Airport"
+      }
+    }
+  },
+  "RYR745": {
+    "time": 1792908934.0585847,
+    "route": {
+      "callsign": "RYR745",
+      "callsign_icao": "RYR745",
+      "callsign_iata": "FR745",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 162,
+        "iata_code": "BOD",
+        "icao_code": "LFBD",
+        "latitude": 44.8283,
+        "longitude": -0.71556,
+        "municipality": "Bordeaux/M\u00e9rignac",
+        "name": "Bordeaux-M\u00e9rignac Airport"
+      },
+      "destination": {
+        "country_iso_name": "HU",
+        "country_name": "Hungary",
+        "elevation": 495,
+        "iata_code": "BUD",
+        "icao_code": "LHBP",
+        "latitude": 47.42976,
+        "longitude": 19.26109,
+        "municipality": "Budapest",
+        "name": "Budapest Liszt Ferenc International Airport"
+      }
+    }
+  },
+  "RUK91BN": {
+    "time": 1792908934.0585847,
+    "route": {
+      "callsign": "RUK91BN",
+      "callsign_icao": "RUK91BN",
+      "callsign_iata": "RK91BN",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 1545,
+        "iata_code": "RAK",
+        "icao_code": "GMMX",
+        "latitude": 31.6069,
+        "longitude": -8.0363,
+        "municipality": "Marrakech",
+        "name": "Menara Airport"
+      }
+    }
+  },
+  "EZY74MZ": {
+    "time": 1792908934.0585847,
+    "route": {
+      "callsign": "EZY74MZ",
+      "callsign_icao": "EZY74MZ",
+      "callsign_iata": "U274MZ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 644,
+        "iata_code": "RMU",
+        "icao_code": "LEMI",
+        "latitude": 37.803,
+        "longitude": -1.125,
+        "municipality": "Corvera",
+        "name": "Regi\u00f3n de Murcia International Airport"
       }
     }
   }
