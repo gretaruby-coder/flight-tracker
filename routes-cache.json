@@ -151801,7 +151801,7 @@
     }
   },
   "AAL70": {
-    "time": 1792818632.9785135,
+    "time": 1792905033.704424,
     "route": {
       "callsign": "AAL70",
       "callsign_icao": "AAL70",
@@ -274087,6 +274087,82 @@
         "longitude": 6.20444,
         "municipality": "Luxembourg",
         "name": "Luxembourg-Findel International Airport"
+      }
+    }
+  },
+  "TOM057": {
+    "time": 1792905033.704424,
+    "route": {
+      "callsign": "TOM57",
+      "callsign_icao": "TOM57",
+      "callsign_iata": "BY57",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "DO",
+        "country_name": "Dominican Republic",
+        "elevation": 47,
+        "iata_code": "PUJ",
+        "icao_code": "MDPC",
+        "latitude": 18.5674,
+        "longitude": -68.3634,
+        "municipality": "Punta Cana",
+        "name": "Punta Cana International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "UAL70": {
+    "time": 1792905033.704424,
+    "route": {
+      "callsign": "UAL70",
+      "callsign_icao": "UAL70",
+      "callsign_iata": "UA70",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
       }
     }
   }
