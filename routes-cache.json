@@ -72510,7 +72510,7 @@
     }
   },
   "VIR92MC": {
-    "time": 1792730434.0643005,
+    "time": 1792902325.517003,
     "route": {
       "callsign": "VIR92MC",
       "callsign_icao": "VIR92MC",
@@ -72776,7 +72776,7 @@
     }
   },
   "BAW34": {
-    "time": 1792815332.231253,
+    "time": 1792902325.517003,
     "route": {
       "callsign": "BAW34",
       "callsign_icao": "BAW34",
@@ -75695,7 +75695,7 @@
     }
   },
   "UBT70Z": {
-    "time": 1792731325.1119142,
+    "time": 1792902325.517003,
     "route": {
       "callsign": "UBT70Z",
       "callsign_icao": "UBT70Z",
@@ -273821,6 +273821,82 @@
         "longitude": 12.252,
         "municipality": "Rome",
         "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      }
+    }
+  },
+  "CLX73M": {
+    "time": 1792902325.517003,
+    "route": {
+      "callsign": "CLX73M",
+      "callsign_icao": "CLX73M",
+      "callsign_iata": "CV73M",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 97,
+        "iata_code": "IAH",
+        "icao_code": "KIAH",
+        "latitude": 29.9844,
+        "longitude": -95.3414,
+        "municipality": "Houston",
+        "name": "George Bush Intercontinental Houston Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
+      }
+    }
+  },
+  "AUA034": {
+    "time": 1792902325.517003,
+    "route": {
+      "callsign": "AUA34",
+      "callsign_icao": "AUA34",
+      "callsign_iata": "OS34",
+      "airline": {
+        "name": "Austrian Airlines",
+        "icao": "AUA",
+        "iata": "OS",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "AUSTRIAN"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 600,
+        "iata_code": "VIE",
+        "icao_code": "LOWW",
+        "latitude": 48.1103,
+        "longitude": 16.5697,
+        "municipality": "Vienna",
+        "name": "Vienna International Airport"
       }
     }
   }
