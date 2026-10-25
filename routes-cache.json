@@ -26926,7 +26926,7 @@
     }
   },
   "BAW493U": {
-    "time": 1792770336.3733509,
+    "time": 1792954528.1639605,
     "route": {
       "callsign": "BAW493U",
       "callsign_icao": "BAW493U",
@@ -32553,7 +32553,7 @@
     }
   },
   "ITY220": {
-    "time": 1792777835.398873,
+    "time": 1792954528.1639605,
     "route": {
       "callsign": "ITY220",
       "callsign_icao": "ITY220",
@@ -35023,7 +35023,7 @@
     }
   },
   "VIR26Q": {
-    "time": 1792692639.3337033,
+    "time": 1792954528.1639605,
     "route": {
       "callsign": "VIR26Q",
       "callsign_icao": "VIR26Q",
@@ -40602,7 +40602,7 @@
     }
   },
   "JAL44": {
-    "time": 1792867238.2380285,
+    "time": 1792954528.1639605,
     "route": {
       "callsign": "JAL44",
       "callsign_icao": "JAL44",
@@ -40944,7 +40944,7 @@
     }
   },
   "NOZ1309": {
-    "time": 1792784126.5511527,
+    "time": 1792954528.1639605,
     "route": {
       "callsign": "NOZ1309",
       "callsign_icao": "NOZ1309",
@@ -41244,44 +41244,6 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
-      }
-    }
-  },
-  "PIA758": {
-    "time": 1792349724.8052425,
-    "route": {
-      "callsign": "PIA758",
-      "callsign_icao": "PIA758",
-      "callsign_iata": "PK758",
-      "airline": {
-        "name": "Pakistan International Airlines",
-        "icao": "PIA",
-        "iata": "PK",
-        "country": "Pakistan",
-        "country_iso": "PK",
-        "callsign": "PAKISTAN"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 83,
-        "iata_code": "LHR",
-        "icao_code": "EGLL",
-        "latitude": 51.4706,
-        "longitude": -0.46194,
-        "municipality": "London",
-        "name": "London Heathrow Airport"
-      },
-      "destination": {
-        "country_iso_name": "PK",
-        "country_name": "Pakistan",
-        "elevation": 712,
-        "iata_code": "LHE",
-        "icao_code": "OPLA",
-        "latitude": 31.5216,
-        "longitude": 74.4036,
-        "municipality": "Lahore",
-        "name": "Alama Iqbal International Airport"
       }
     }
   },
@@ -78784,7 +78746,7 @@
     }
   },
   "CFE8PR": {
-    "time": 1792835132.672677,
+    "time": 1792954528.1639605,
     "route": {
       "callsign": "CFE8PR",
       "callsign_icao": "CFE8PR",
@@ -127513,7 +127475,7 @@
     }
   },
   "KLC70A": {
-    "time": 1792865433.7305322,
+    "time": 1792954528.1639605,
     "route": {
       "callsign": "KLC70A",
       "callsign_icao": "KLC70A",
@@ -310455,6 +310417,82 @@
         "longitude": 2.07846,
         "municipality": "Barcelona",
         "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "NSZ2769": {
+    "time": 1792954528.1639605,
+    "route": {
+      "callsign": "NSZ2769",
+      "callsign_icao": "NSZ2769",
+      "callsign_iata": "D82769",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "FI",
+        "country_name": "Finland",
+        "elevation": 179,
+        "iata_code": "HEL",
+        "icao_code": "EFHK",
+        "latitude": 60.3172,
+        "longitude": 24.9633,
+        "municipality": "Helsinki",
+        "name": "Helsinki Vantaa Airport"
+      }
+    }
+  },
+  "AUR620": {
+    "time": 1792954528.1639605,
+    "route": {
+      "callsign": "AUR620",
+      "callsign_icao": "AUR620",
+      "callsign_iata": "GR620",
+      "airline": {
+        "name": "Aurigny Air Services",
+        "icao": "AUR",
+        "iata": "GR",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "AYLINE"
+      },
+      "origin": {
+        "country_iso_name": "GG",
+        "country_name": "Guernsey",
+        "elevation": 336,
+        "iata_code": "GCI",
+        "icao_code": "EGJB",
+        "latitude": 49.435,
+        "longitude": -2.60197,
+        "municipality": "Saint Peter Port",
+        "name": "Guernsey Airport"
       },
       "destination": {
         "country_iso_name": "GB",
