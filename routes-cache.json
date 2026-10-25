@@ -639,7 +639,7 @@
     }
   },
   "ITY204": {
-    "time": 1792853728.2384338,
+    "time": 1792941925.9501872,
     "route": {
       "callsign": "ITY204",
       "callsign_icao": "ITY204",
@@ -257369,7 +257369,7 @@
     }
   },
   "BAW698": {
-    "time": 1792842036.3246295,
+    "time": 1792941925.9501872,
     "route": {
       "callsign": "BAW698",
       "callsign_icao": "BAW698",
@@ -304148,6 +304148,151 @@
         "longitude": -16.5725,
         "municipality": "Tenerife",
         "name": "Tenerife Sur Airport"
+      }
+    }
+  },
+  "EZY92NY": {
+    "time": 1792941925.9501872,
+    "route": {
+      "callsign": "EZY92NY",
+      "callsign_icao": "EZY92NY",
+      "callsign_iata": "U292NY",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 412,
+        "iata_code": "KGS",
+        "icao_code": "LGKO",
+        "latitude": 36.7933,
+        "longitude": 27.0917,
+        "municipality": "Kos Island",
+        "name": "Kos Airport"
+      }
+    }
+  },
+  "SAZ71": {
+    "time": 1792941925.9501872,
+    "route": {
+      "callsign": "SAZ71",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
+      },
+      "destination": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 192,
+        "iata_code": "FNC",
+        "icao_code": "LPMA",
+        "latitude": 32.6979,
+        "longitude": -16.7745,
+        "municipality": "Funchal",
+        "name": "Madeira International Airport Cristiano Ronaldo"
+      }
+    }
+  },
+  "EZY73EB": {
+    "time": 1792941925.9501872,
+    "route": {
+      "callsign": "EZY73EB",
+      "callsign_icao": "EZY73EB",
+      "callsign_iata": "U273EB",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 12,
+        "iata_code": "NCE",
+        "icao_code": "LFMN",
+        "latitude": 43.6584,
+        "longitude": 7.21587,
+        "municipality": "Nice",
+        "name": "Nice-C\u00f4te d'Azur Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      }
+    }
+  },
+  "TOM533": {
+    "time": 1792941925.9501872,
+    "route": {
+      "callsign": "TOM533",
+      "callsign_icao": "TOM533",
+      "callsign_iata": "BY533",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "CV",
+        "country_name": "Cape Verde",
+        "elevation": 69,
+        "iata_code": "BVC",
+        "icao_code": "GVBA",
+        "latitude": 16.1365,
+        "longitude": -22.8889,
+        "municipality": "Rabil",
+        "name": "Rabil Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
