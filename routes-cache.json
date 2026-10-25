@@ -168275,7 +168275,7 @@
     }
   },
   "RYR72TB": {
-    "time": 1792792525.787471,
+    "time": 1792888834.0214272,
     "route": {
       "callsign": "RYR72TB",
       "callsign_icao": "RYR72TB",
@@ -272833,6 +272833,44 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EXS18QH": {
+    "time": 1792888834.0214272,
+    "route": {
+      "callsign": "EXS18QH",
+      "callsign_icao": "EXS18QH",
+      "callsign_iata": "LS18QH",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 177,
+        "iata_code": "AYT",
+        "icao_code": "LTAI",
+        "latitude": 36.8987,
+        "longitude": 30.8005,
+        "municipality": "Antalya",
+        "name": "Antalya International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
       }
     }
   }
