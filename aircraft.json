@@ -1,81 +1,9 @@
 {
-  "updated": "2026-10-26T02:45:34.267856+00:00",
+  "updated": "2026-10-26T02:50:32.331898+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": [
-    {
-      "hex": "400666",
-      "type": "adsb_icao",
-      "flight": "DHK4906 ",
-      "r": "G-BMRD",
-      "t": "B752",
-      "desc": "BOEING 757-200",
-      "alt_baro": 29350,
-      "alt_geom": 29925,
-      "gs": 529.3,
-      "ias": 280,
-      "tas": 440,
-      "mach": 0.732,
-      "wd": 293,
-      "ws": 101,
-      "oat": -35,
-      "tat": -10,
-      "track": 141.98,
-      "track_rate": 0.0,
-      "roll": 0.18,
-      "mag_heading": 147.13,
-      "true_heading": 148.3,
-      "baro_rate": 1280,
-      "geom_rate": 1312,
-      "squawk": "6301",
-      "emergency": "none",
-      "category": "A4",
-      "nav_qnh": 1012.8,
-      "nav_altitude_mcp": 32992,
-      "nav_heading": 146.25,
-      "nav_modes": [
-        "vnav",
-        "tcas"
-      ],
-      "lat": 51.169739,
-      "lon": -0.256991,
-      "nic": 8,
-      "rc": 186,
-      "seen_pos": 0.0,
-      "version": 2,
-      "nic_baro": 1,
-      "nac_p": 10,
-      "nac_v": 1,
-      "sil": 3,
-      "sil_type": "perhour",
-      "gva": 2,
-      "sda": 2,
-      "alert": 0,
-      "spi": 0,
-      "mlat": [],
-      "tisb": [],
-      "messages": 58307,
-      "seen": 0.0,
-      "rssi": -7.8,
-      "dst": 17.687,
-      "dir": 161.3,
-      "registered_owner": "DHL Air",
-      "registered_owner_operator_flag_code": "DHK",
-      "origin": {
-        "iata": "EMA",
-        "icao": "EGNX",
-        "name": "East Midlands Airport"
-      },
-      "destination": {
-        "iata": "BSL",
-        "icao": "LFSB",
-        "name": "EuroAirport Basel-Mulhouse-Freiburg Airport"
-      },
-      "airline_name": "DHL Air",
-      "airline_iata": "D0"
-    }
-  ]
+  "aircraft": []
 }
