@@ -44281,7 +44281,7 @@
     }
   },
   "HVN56": {
-    "time": 1792926935.4946024,
+    "time": 1793013925.0445912,
     "route": {
       "callsign": "HVN56",
       "callsign_icao": "HVN56",
@@ -92598,7 +92598,7 @@
     }
   },
   "BAW283": {
-    "time": 1792925135.6751359,
+    "time": 1793013925.0445912,
     "route": {
       "callsign": "BAW283",
       "callsign_icao": "BAW283",
@@ -262144,7 +262144,7 @@
     }
   },
   "EZY95JB": {
-    "time": 1792912233.8715653,
+    "time": 1793013925.0445912,
     "route": {
       "callsign": "EZY95JB",
       "callsign_icao": "EZY95JB",
@@ -274093,7 +274093,7 @@
     }
   },
   "EZY68PA": {
-    "time": 1792924249.0673585,
+    "time": 1793013925.0445912,
     "route": {
       "callsign": "EZY68PA",
       "callsign_icao": "EZY68PA",
@@ -276442,7 +276442,7 @@
     }
   },
   "WUK59RS": {
-    "time": 1792926935.4946024,
+    "time": 1793013925.0445912,
     "route": {
       "callsign": "WUK59RS",
       "callsign_icao": "WUK59RS",
@@ -317438,6 +317438,82 @@
         "longitude": 17.9186,
         "municipality": "Stockholm",
         "name": "Stockholm-Arlanda Airport"
+      }
+    }
+  },
+  "UAL53": {
+    "time": 1793013925.0445912,
+    "route": {
+      "callsign": "UAL53",
+      "callsign_icao": "UAL53",
+      "callsign_iata": "UA53",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 312,
+        "iata_code": "IAD",
+        "icao_code": "KIAD",
+        "latitude": 38.9445,
+        "longitude": -77.4558,
+        "municipality": "Washington",
+        "name": "Washington Dulles International Airport"
+      }
+    }
+  },
+  "AUR604": {
+    "time": 1793013925.0445912,
+    "route": {
+      "callsign": "AUR604",
+      "callsign_icao": "AUR604",
+      "callsign_iata": "GR604",
+      "airline": {
+        "name": "Aurigny Air Services",
+        "icao": "AUR",
+        "iata": "GR",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "AYLINE"
+      },
+      "origin": {
+        "country_iso_name": "GG",
+        "country_name": "Guernsey",
+        "elevation": 336,
+        "iata_code": "GCI",
+        "icao_code": "EGJB",
+        "latitude": 49.435,
+        "longitude": -2.60197,
+        "municipality": "Saint Peter Port",
+        "name": "Guernsey Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
