@@ -90318,7 +90318,7 @@
     }
   },
   "KLM30V": {
-    "time": 1792667738.66927,
+    "time": 1793010327.2844799,
     "route": {
       "callsign": "KLM30V",
       "callsign_icao": "KLM30V",
@@ -94573,44 +94573,6 @@
       }
     }
   },
-  "NSZ28T": {
-    "time": 1792405239.806933,
-    "route": {
-      "callsign": "NSZ28T",
-      "callsign_icao": "NSZ28T",
-      "callsign_iata": "D828T",
-      "airline": {
-        "name": "Norwegian Air Sweden AOC",
-        "icao": "NSZ",
-        "iata": "D8",
-        "country": "Sweden",
-        "country_iso": "SE",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "DK",
-        "country_name": "Denmark",
-        "elevation": 10,
-        "iata_code": "AAL",
-        "icao_code": "EKYT",
-        "latitude": 57.09276,
-        "longitude": 9.84924,
-        "municipality": "Aalborg",
-        "name": "Aalborg Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 53,
-        "iata_code": "AGP",
-        "icao_code": "LEMG",
-        "latitude": 36.6749,
-        "longitude": -4.49911,
-        "municipality": "M\u00e1laga",
-        "name": "M\u00e1laga-Costa del Sol Airport"
-      }
-    }
-  },
   "EZY68YP": {
     "time": 1792840233.245864,
     "route": {
@@ -95164,37 +95126,6 @@
         "longitude": -77.4558,
         "municipality": "Washington",
         "name": "Washington Dulles International Airport"
-      }
-    }
-  },
-  "GRIDB": {
-    "time": 1792405525.0242352,
-    "route": {
-      "callsign": "GRIDB",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 270,
-        "iata_code": "OXF",
-        "icao_code": "EGTK",
-        "latitude": 51.8369,
-        "longitude": -1.32,
-        "municipality": "Kidlington",
-        "name": "Oxford (Kidlington) Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 26,
-        "iata_code": null,
-        "icao_code": "EGCJ",
-        "latitude": 53.78846,
-        "longitude": -1.21688,
-        "municipality": "Selby",
-        "name": "Sherburn-In-Elmet Airfield"
       }
     }
   },
@@ -185019,7 +184950,7 @@
     }
   },
   "UAE74W": {
-    "time": 1792923037.1916401,
+    "time": 1793010327.2844799,
     "route": {
       "callsign": "UAE74W",
       "callsign_icao": "UAE74W",
@@ -225207,7 +225138,7 @@
     }
   },
   "NOZ4DE": {
-    "time": 1792751451.2502234,
+    "time": 1793010327.2844799,
     "route": {
       "callsign": "NOZ4DE",
       "callsign_icao": "NOZ4DE",
@@ -270514,7 +270445,7 @@
     }
   },
   "EZY39NR": {
-    "time": 1792918862.0972679,
+    "time": 1793010327.2844799,
     "route": {
       "callsign": "EZY39NR",
       "callsign_icao": "EZY39NR",
@@ -316771,6 +316702,82 @@
         "longitude": -73.7789,
         "municipality": "New York",
         "name": "John F Kennedy International Airport"
+      }
+    }
+  },
+  "BAW232": {
+    "time": 1793010327.2844799,
+    "route": {
+      "callsign": "BAW232",
+      "callsign_icao": "BAW232",
+      "callsign_iata": "BA232",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "RU",
+        "country_name": "Russia",
+        "elevation": 588,
+        "iata_code": "DME",
+        "icao_code": "UUDD",
+        "latitude": 55.4088,
+        "longitude": 37.9063,
+        "municipality": "Moscow",
+        "name": "Domodedovo International Airport"
+      }
+    }
+  },
+  "NSZ3512": {
+    "time": 1793010327.2844799,
+    "route": {
+      "callsign": "NSZ3512",
+      "callsign_icao": "NSZ3512",
+      "callsign_iata": "D83512",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 17,
+        "iata_code": "CPH",
+        "icao_code": "EKCH",
+        "latitude": 55.6179,
+        "longitude": 12.656,
+        "municipality": "Copenhagen",
+        "name": "Copenhagen Kastrup Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
