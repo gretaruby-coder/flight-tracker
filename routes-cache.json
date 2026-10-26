@@ -60775,44 +60775,6 @@
       }
     }
   },
-  "UPS208": {
-    "time": 1792370733.7302666,
-    "route": {
-      "callsign": "UPS208",
-      "callsign_icao": "UPS208",
-      "callsign_iata": "5X208",
-      "airline": {
-        "name": "United Parcel Service",
-        "icao": "UPS",
-        "iata": "5X",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "UPS"
-      },
-      "origin": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 302,
-        "iata_code": "CGN",
-        "icao_code": "EDDK",
-        "latitude": 50.8659,
-        "longitude": 7.14274,
-        "municipality": "Cologne",
-        "name": "Cologne Bonn Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 18,
-        "iata_code": "EWR",
-        "icao_code": "KEWR",
-        "latitude": 40.6925,
-        "longitude": -74.1687,
-        "municipality": "New York",
-        "name": "Newark Liberty International Airport"
-      }
-    }
-  },
   "ETD8MY": {
     "time": 1792891230.5325956,
     "route": {
@@ -60962,44 +60924,6 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
-      }
-    }
-  },
-  "WUK7FC": {
-    "time": 1792371034.0802155,
-    "route": {
-      "callsign": "WUK7FC",
-      "callsign_icao": "WUK7FC",
-      "callsign_iata": "W97FC",
-      "airline": {
-        "name": "Wizz Air UK",
-        "icao": "WUK",
-        "iata": "W9",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "IL",
-        "country_name": "Israel",
-        "elevation": 135,
-        "iata_code": "TLV",
-        "icao_code": "LLBG",
-        "latitude": 32.0114,
-        "longitude": 34.8867,
-        "municipality": "Tel Aviv",
-        "name": "Ben Gurion International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 526,
-        "iata_code": "LTN",
-        "icao_code": "EGGW",
-        "latitude": 51.8747,
-        "longitude": -0.36833,
-        "municipality": "London",
-        "name": "London Luton Airport"
       }
     }
   },
@@ -314570,6 +314494,113 @@
         "longitude": 12.23639,
         "municipality": "Leipzig",
         "name": "Leipzig/Halle Airport"
+      }
+    }
+  },
+  "RYR269M": {
+    "time": 1792975834.3768804,
+    "route": {
+      "callsign": "RYR269M",
+      "callsign_icao": "RYR269M",
+      "callsign_iata": "FR269M",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 266,
+        "iata_code": "NCL",
+        "icao_code": "EGNT",
+        "latitude": 55.0375,
+        "longitude": -1.69167,
+        "municipality": "Newcastle",
+        "name": "Newcastle Airport"
+      },
+      "destination": {
+        "country_iso_name": "HR",
+        "country_name": "Croatia",
+        "elevation": 289,
+        "iata_code": "ZAD",
+        "icao_code": "LDZD",
+        "latitude": 44.1083,
+        "longitude": 15.3467,
+        "municipality": "Zemunik (Zadar)",
+        "name": "Zadar Airport"
+      }
+    }
+  },
+  "HLE56": {
+    "time": 1792975834.3768804,
+    "route": {
+      "callsign": "HLE56",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 319,
+        "iata_code": null,
+        "icao_code": "EGHO",
+        "latitude": 51.2106,
+        "longitude": -1.6,
+        "municipality": "Andover",
+        "name": "Thruxton Aerodrome"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 319,
+        "iata_code": null,
+        "icao_code": "EGHO",
+        "latitude": 51.2106,
+        "longitude": -1.6,
+        "municipality": "Andover",
+        "name": "Thruxton Aerodrome"
+      }
+    }
+  },
+  "RYR6PN": {
+    "time": 1792975834.3768804,
+    "route": {
+      "callsign": "RYR6PN",
+      "callsign_icao": "RYR6PN",
+      "callsign_iata": "FR6PN",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 408,
+        "iata_code": "FKB",
+        "icao_code": "EDSB",
+        "latitude": 48.7794,
+        "longitude": 8.0805,
+        "municipality": "Baden-Baden",
+        "name": "Karlsruhe Baden-Baden Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 22,
+        "iata_code": "SKG",
+        "icao_code": "LGTS",
+        "latitude": 40.5197,
+        "longitude": 22.9709,
+        "municipality": "Thessaloniki",
+        "name": "Thessaloniki Macedonia International Airport"
       }
     }
   }
