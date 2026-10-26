@@ -122115,44 +122115,6 @@
       }
     }
   },
-  "EXS7HX": {
-    "time": 1792451123.2271023,
-    "route": {
-      "callsign": "EXS7HX",
-      "callsign_icao": "EXS7HX",
-      "callsign_iata": "LS7HX",
-      "airline": {
-        "name": "Jet2.com",
-        "icao": "EXS",
-        "iata": "LS",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "CHANNEX"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 80,
-        "iata_code": "LPL",
-        "icao_code": "EGGP",
-        "latitude": 53.3336,
-        "longitude": -2.84972,
-        "municipality": "Liverpool",
-        "name": "Liverpool John Lennon Airport"
-      },
-      "destination": {
-        "country_iso_name": "GR",
-        "country_name": "Greece",
-        "elevation": 115,
-        "iata_code": "HER",
-        "icao_code": "LGIR",
-        "latitude": 35.3397,
-        "longitude": 25.1803,
-        "municipality": "Heraklion",
-        "name": "Heraklion International Nikos Kazantzakis Airport"
-      }
-    }
-  },
   "RYR28UT": {
     "time": 1792912836.5900297,
     "route": {
@@ -269828,7 +269790,7 @@
     }
   },
   "RYR6QY": {
-    "time": 1792929324.5655425,
+    "time": 1793055927.5814502,
     "route": {
       "callsign": "RYR6QY",
       "callsign_icao": "RYR6QY",
@@ -321449,6 +321411,120 @@
         "longitude": -2.71909,
         "municipality": "Bristol",
         "name": "Bristol Airport"
+      }
+    }
+  },
+  "RYR28UR": {
+    "time": 1793055927.5814502,
+    "route": {
+      "callsign": "RYR28UR",
+      "callsign_icao": "RYR28UR",
+      "callsign_iata": "FR28UR",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 228,
+        "iata_code": "OPO",
+        "icao_code": "LPPR",
+        "latitude": 41.2481,
+        "longitude": -8.68139,
+        "municipality": "Porto",
+        "name": "Francisco de S\u00e1 Carneiro Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      }
+    }
+  },
+  "MNB9389": {
+    "time": 1793055927.5814502,
+    "route": {
+      "callsign": "MNB9389",
+      "callsign_icao": "MNB9389",
+      "callsign_iata": "MB9389",
+      "airline": {
+        "name": "MNG Airlines",
+        "icao": "MNB",
+        "iata": "MB",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "BLACK SEA"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
+      }
+    }
+  },
+  "TOM451": {
+    "time": 1793055927.5814502,
+    "route": {
+      "callsign": "TOM451",
+      "callsign_icao": "TOM451",
+      "callsign_iata": "BY451",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 32,
+        "iata_code": "HRG",
+        "icao_code": "HEGN",
+        "latitude": 27.18033,
+        "longitude": 33.80729,
+        "municipality": "Hurghada",
+        "name": "Hurghada International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
