@@ -1582,7 +1582,7 @@
     }
   },
   "BAW171": {
-    "time": 1792860332.2838573,
+    "time": 1793032252.4575224,
     "route": {
       "callsign": "BAW171",
       "callsign_icao": "BAW171",
@@ -16252,7 +16252,7 @@
     }
   },
   "BAW7CP": {
-    "time": 1792945234.59471,
+    "time": 1793032252.4575224,
     "route": {
       "callsign": "BAW7CP",
       "callsign_icao": "BAW7CP",
@@ -16442,7 +16442,7 @@
     }
   },
   "BAW7D": {
-    "time": 1792943730.9454892,
+    "time": 1793032252.4575224,
     "route": {
       "callsign": "BAW7D",
       "callsign_icao": "BAW7D",
@@ -21841,7 +21841,7 @@
     }
   },
   "EIN172": {
-    "time": 1792864524.3400695,
+    "time": 1793032252.4575224,
     "route": {
       "callsign": "EIN172",
       "callsign_icao": "EIN172",
@@ -40754,7 +40754,7 @@
     }
   },
   "CFE7026": {
-    "time": 1792760467.6681902,
+    "time": 1793032252.4575224,
     "route": {
       "callsign": "CFE7026",
       "callsign_icao": "CFE7026",
@@ -110947,44 +110947,6 @@
         "longitude": -1.74803,
         "municipality": "Birmingham",
         "name": "Birmingham International Airport"
-      }
-    }
-  },
-  "TRA094": {
-    "time": 1792427451.3954988,
-    "route": {
-      "callsign": "TRA94",
-      "callsign_icao": "TRA94",
-      "callsign_iata": "HV94",
-      "airline": {
-        "name": "Transavia Holland",
-        "icao": "TRA",
-        "iata": "HV",
-        "country": "Netherlands",
-        "country_iso": "NL",
-        "callsign": "TRANSAVIA"
-      },
-      "origin": {
-        "country_iso_name": "IE",
-        "country_name": "Ireland",
-        "elevation": 502,
-        "iata_code": "ORK",
-        "icao_code": "EICK",
-        "latitude": 51.8413,
-        "longitude": -8.49111,
-        "municipality": "Cork",
-        "name": "Cork Airport"
-      },
-      "destination": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 13,
-        "iata_code": "FCO",
-        "icao_code": "LIRF",
-        "latitude": 41.80453,
-        "longitude": 12.252,
-        "municipality": "Rome",
-        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
       }
     }
   },
@@ -272840,7 +272802,7 @@
     }
   },
   "EZY39VL": {
-    "time": 1792927234.061758,
+    "time": 1793032252.4575224,
     "route": {
       "callsign": "EZY39VL",
       "callsign_icao": "EZY39VL",
@@ -274004,7 +273966,7 @@
     }
   },
   "RYR36YF": {
-    "time": 1792928733.9456089,
+    "time": 1793032252.4575224,
     "route": {
       "callsign": "RYR36YF",
       "callsign_icao": "RYR36YF",
@@ -320202,6 +320164,113 @@
         "longitude": -0.36833,
         "municipality": "London",
         "name": "London Luton Airport"
+      }
+    }
+  },
+  "CLX20T": {
+    "time": 1793032252.4575224,
+    "route": {
+      "callsign": "CLX20T",
+      "callsign_icao": "CLX20T",
+      "callsign_iata": "CV20T",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 125,
+        "iata_code": "LAX",
+        "icao_code": "KLAX",
+        "latitude": 33.9425,
+        "longitude": -118.408,
+        "municipality": "Los Angeles",
+        "name": "Los Angeles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
+      }
+    }
+  },
+  "EZY18TN": {
+    "time": 1793032252.4575224,
+    "route": {
+      "callsign": "EZY18TN",
+      "callsign_icao": "EZY18TN",
+      "callsign_iata": "U218TN",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "HR",
+        "country_name": "Croatia",
+        "elevation": 79,
+        "iata_code": "SPU",
+        "icao_code": "LDSP",
+        "latitude": 43.5389,
+        "longitude": 16.298,
+        "municipality": "Split",
+        "name": "Split Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "TWY13": {
+    "time": 1793032252.4575224,
+    "route": {
+      "callsign": "TWY13",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 212,
+        "iata_code": "SBP",
+        "icao_code": "KSBP",
+        "latitude": 35.2368,
+        "longitude": -120.642,
+        "municipality": "San Luis Obispo",
+        "name": "San Luis County Regional Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 9,
+        "iata_code": "OAK",
+        "icao_code": "KOAK",
+        "latitude": 37.7213,
+        "longitude": -122.221,
+        "municipality": "Oakland",
+        "name": "Metropolitan Oakland International Airport"
       }
     }
   }
