@@ -95807,7 +95807,7 @@
     }
   },
   "VIR9J": {
-    "time": 1792944935.454501,
+    "time": 1793031639.0512483,
     "route": {
       "callsign": "VIR9J",
       "callsign_icao": "VIR9J",
@@ -107628,7 +107628,7 @@
     }
   },
   "KLC85F": {
-    "time": 1792944637.705429,
+    "time": 1793031639.0512483,
     "route": {
       "callsign": "KLC85F",
       "callsign_icao": "KLC85F",
@@ -110539,44 +110539,6 @@
       }
     }
   },
-  "CFE9771": {
-    "time": 1792426835.0621762,
-    "route": {
-      "callsign": "CFE9771",
-      "callsign_icao": "CFE9771",
-      "callsign_iata": "CJ9771",
-      "airline": {
-        "name": "BA CityFlyer",
-        "icao": "CFE",
-        "iata": "CJ",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "FLYER"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 117,
-        "iata_code": "NWI",
-        "icao_code": "EGSH",
-        "latitude": 52.6758,
-        "longitude": 1.28278,
-        "municipality": "Norwich",
-        "name": "Norwich International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 19,
-        "iata_code": "LCY",
-        "icao_code": "EGLC",
-        "latitude": 51.5053,
-        "longitude": 0.05528,
-        "municipality": "London",
-        "name": "London City Airport"
-      }
-    }
-  },
   "RUK4028": {
     "time": 1792767034.4286351,
     "route": {
@@ -110830,7 +110792,7 @@
     }
   },
   "CFE692": {
-    "time": 1792936861.1488082,
+    "time": 1793031639.0512483,
     "route": {
       "callsign": "CFE692",
       "callsign_icao": "CFE692",
@@ -320043,6 +320005,82 @@
         "longitude": -15.3866,
         "municipality": "Gran Canaria Island",
         "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "EZY18XZ": {
+    "time": 1793031639.0512483,
+    "route": {
+      "callsign": "EZY18XZ",
+      "callsign_icao": "EZY18XZ",
+      "callsign_iata": "U218XZ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "RYR68BT": {
+    "time": 1793031639.0512483,
+    "route": {
+      "callsign": "RYR68BT",
+      "callsign_icao": "RYR68BT",
+      "callsign_iata": "FR68BT",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
       }
     }
   }
