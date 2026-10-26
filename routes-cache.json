@@ -121394,7 +121394,7 @@
     }
   },
   "BCS6TL": {
-    "time": 1792629634.7336237,
+    "time": 1793058633.8018243,
     "route": {
       "callsign": "BCS6TL",
       "callsign_icao": "BCS6TL",
@@ -122796,44 +122796,6 @@
         "longitude": 16.5697,
         "municipality": "Vienna",
         "name": "Vienna International Airport"
-      }
-    }
-  },
-  "TOM771": {
-    "time": 1792453832.261584,
-    "route": {
-      "callsign": "TOM771",
-      "callsign_icao": "TOM771",
-      "callsign_iata": "BY771",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "EG",
-        "country_name": "Egypt",
-        "elevation": 32,
-        "iata_code": "HRG",
-        "icao_code": "HEGN",
-        "latitude": 27.18033,
-        "longitude": 33.80729,
-        "municipality": "Hurghada",
-        "name": "Hurghada International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
       }
     }
   },
@@ -321715,6 +321677,44 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EXS045A": {
+    "time": 1793058633.8018243,
+    "route": {
+      "callsign": "EXS045A",
+      "callsign_icao": "EXS045A",
+      "callsign_iata": "LS045A",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 681,
+        "iata_code": "LBA",
+        "icao_code": "EGNM",
+        "latitude": 53.8659,
+        "longitude": -1.66057,
+        "municipality": "Leeds",
+        "name": "Leeds Bradford Airport"
       }
     }
   }
