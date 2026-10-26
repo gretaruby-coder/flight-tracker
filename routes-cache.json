@@ -67761,7 +67761,7 @@
     }
   },
   "SHT7B": {
-    "time": 1792833634.752046,
+    "time": 1793005835.963203,
     "route": {
       "callsign": "SHT7B",
       "callsign_icao": null,
@@ -84563,7 +84563,7 @@
     }
   },
   "KLC1070": {
-    "time": 1792836634.404484,
+    "time": 1793005835.963203,
     "route": {
       "callsign": "KLC1070",
       "callsign_icao": "KLC1070",
@@ -88725,44 +88725,6 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
-      }
-    }
-  },
-  "AAL49": {
-    "time": 1792400727.3413322,
-    "route": {
-      "callsign": "AAL49",
-      "callsign_icao": "AAL49",
-      "callsign_iata": "AA49",
-      "airline": {
-        "name": "American Airlines",
-        "icao": "AAL",
-        "iata": "AA",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "AMERICAN"
-      },
-      "origin": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 392,
-        "iata_code": "CDG",
-        "icao_code": "LFPG",
-        "latitude": 49.0128,
-        "longitude": 2.55,
-        "municipality": "Paris",
-        "name": "Charles de Gaulle International Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 607,
-        "iata_code": "DFW",
-        "icao_code": "KDFW",
-        "latitude": 32.8968,
-        "longitude": -97.038,
-        "municipality": "Dallas-Fort Worth",
-        "name": "Dallas Fort Worth International Airport"
       }
     }
   },
@@ -252744,7 +252706,7 @@
     }
   },
   "BAW388": {
-    "time": 1792861262.0734808,
+    "time": 1793005835.963203,
     "route": {
       "callsign": "BAW388",
       "callsign_icao": "BAW388",
@@ -271564,7 +271526,7 @@
     }
   },
   "LHX2471": {
-    "time": 1792919126.4040115,
+    "time": 1793005835.963203,
     "route": {
       "callsign": "LHX2471",
       "callsign_icao": "LHX2471",
@@ -272013,7 +271975,7 @@
     }
   },
   "EJU73LD": {
-    "time": 1792919435.1852572,
+    "time": 1793005835.963203,
     "route": {
       "callsign": "EJU73LD",
       "callsign_icao": "EJU73LD",
@@ -272051,7 +272013,7 @@
     }
   },
   "EZY93PR": {
-    "time": 1792919435.1852572,
+    "time": 1793005835.963203,
     "route": {
       "callsign": "EZY93PR",
       "callsign_icao": "EZY93PR",
@@ -272127,7 +272089,7 @@
     }
   },
   "SAS44J": {
-    "time": 1792919435.1852572,
+    "time": 1793005835.963203,
     "route": {
       "callsign": "SAS44J",
       "callsign_icao": "SAS44J",
@@ -315883,6 +315845,82 @@
         "longitude": 14.2908,
         "municipality": "N\u00e1poli",
         "name": "Naples International Airport"
+      }
+    }
+  },
+  "RYR104Q": {
+    "time": 1793005835.963203,
+    "route": {
+      "callsign": "RYR104Q",
+      "callsign_icao": "RYR104Q",
+      "callsign_iata": "FR104Q",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      },
+      "destination": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 502,
+        "iata_code": "ORK",
+        "icao_code": "EICK",
+        "latitude": 51.8413,
+        "longitude": -8.49111,
+        "municipality": "Cork",
+        "name": "Cork Airport"
+      }
+    }
+  },
+  "VIR12E": {
+    "time": 1793005835.963203,
+    "route": {
+      "callsign": "VIR12E",
+      "callsign_icao": "VIR12E",
+      "callsign_iata": "VS12E",
+      "airline": {
+        "name": "Virgin Atlantic Airways",
+        "icao": "VIR",
+        "iata": "VS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "VIRGIN"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 20,
+        "iata_code": "BOS",
+        "icao_code": "KBOS",
+        "latitude": 42.3643,
+        "longitude": -71.0052,
+        "municipality": "Boston",
+        "name": "Logan International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
       }
     }
   }
