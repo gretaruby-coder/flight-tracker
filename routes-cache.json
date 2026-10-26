@@ -11098,7 +11098,7 @@
     }
   },
   "RJA111": {
-    "time": 1792936861.1488082,
+    "time": 1793023269.0875733,
     "route": {
       "callsign": "RJA111",
       "callsign_icao": "RJA111",
@@ -73661,7 +73661,7 @@
     }
   },
   "BAW780H": {
-    "time": 1792754434.1256166,
+    "time": 1793023269.0875733,
     "route": {
       "callsign": "BAW780H",
       "callsign_icao": "BAW780H",
@@ -101849,7 +101849,7 @@
     }
   },
   "VIR129R": {
-    "time": 1792935049.1060507,
+    "time": 1793023269.0875733,
     "route": {
       "callsign": "VIR129R",
       "callsign_icao": "VIR129R",
@@ -106367,7 +106367,7 @@
     }
   },
   "SHT9G": {
-    "time": 1792852834.4497833,
+    "time": 1793023269.0875733,
     "route": {
       "callsign": "SHT9G",
       "callsign_icao": null,
@@ -111828,7 +111828,7 @@
     }
   },
   "AAL81": {
-    "time": 1792772726.2941675,
+    "time": 1793023269.0875733,
     "route": {
       "callsign": "AAL81",
       "callsign_icao": "AAL81",
@@ -158504,7 +158504,7 @@
     }
   },
   "UAE1CL": {
-    "time": 1792851927.02847,
+    "time": 1793023269.0875733,
     "route": {
       "callsign": "UAE1CL",
       "callsign_icao": "UAE1CL",
@@ -172501,7 +172501,7 @@
     }
   },
   "EZY96PA": {
-    "time": 1792888525.6821816,
+    "time": 1793023269.0875733,
     "route": {
       "callsign": "EZY96PA",
       "callsign_icao": "EZY96PA",
@@ -257847,7 +257847,7 @@
     }
   },
   "RYR97KL": {
-    "time": 1792910123.8703463,
+    "time": 1793023269.0875733,
     "route": {
       "callsign": "RYR97KL",
       "callsign_icao": "RYR97KL",
@@ -268442,7 +268442,7 @@
     }
   },
   "RYR5FU": {
-    "time": 1792919435.1852572,
+    "time": 1793023269.0875733,
     "route": {
       "callsign": "RYR5FU",
       "callsign_icao": "RYR5FU",
@@ -281686,7 +281686,7 @@
     }
   },
   "RYR14SY": {
-    "time": 1792933835.1413388,
+    "time": 1793023269.0875733,
     "route": {
       "callsign": "RYR14SY",
       "callsign_icao": "RYR14SY",
@@ -319407,6 +319407,120 @@
         "longitude": 0.05528,
         "municipality": "London",
         "name": "London City Airport"
+      }
+    }
+  },
+  "SWR40": {
+    "time": 1793023269.0875733,
+    "route": {
+      "callsign": "SWR40",
+      "callsign_icao": "SWR40",
+      "callsign_iata": "LX40",
+      "airline": {
+        "name": "Swiss International Air Lines",
+        "icao": "SWR",
+        "iata": "LX",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": "SWISS"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 125,
+        "iata_code": "LAX",
+        "icao_code": "KLAX",
+        "latitude": 33.9425,
+        "longitude": -118.408,
+        "municipality": "Los Angeles",
+        "name": "Los Angeles International Airport"
+      }
+    }
+  },
+  "DLH402": {
+    "time": 1793023269.0875733,
+    "route": {
+      "callsign": "DLH402",
+      "callsign_icao": "DLH402",
+      "callsign_iata": "LH402",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      }
+    }
+  },
+  "RYR32RB": {
+    "time": 1793023269.0875733,
+    "route": {
+      "callsign": "RYR32RB",
+      "callsign_icao": "RYR32RB",
+      "callsign_iata": "FR32RB",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
