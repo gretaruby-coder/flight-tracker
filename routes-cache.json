@@ -46820,7 +46820,7 @@
     }
   },
   "SIA319": {
-    "time": 1792961438.6772156,
+    "time": 1793048127.487605,
     "route": {
       "callsign": "SIA319",
       "callsign_icao": "SIA319",
@@ -46934,7 +46934,7 @@
     }
   },
   "AEE2FL": {
-    "time": 1792961438.6772156,
+    "time": 1793048127.487605,
     "route": {
       "callsign": "AEE2FL",
       "callsign_icao": "AEE2FL",
@@ -47048,7 +47048,7 @@
     }
   },
   "JBU1107": {
-    "time": 1792959636.2663064,
+    "time": 1793048127.487605,
     "route": {
       "callsign": "JBU1107",
       "callsign_icao": "JBU1107",
@@ -116309,7 +116309,7 @@
     }
   },
   "BAW99XC": {
-    "time": 1792959636.2663064,
+    "time": 1793048127.487605,
     "route": {
       "callsign": "BAW99XC",
       "callsign_icao": "BAW99XC",
@@ -320993,6 +320993,120 @@
         "longitude": 14.2908,
         "municipality": "N\u00e1poli",
         "name": "Naples International Airport"
+      }
+    }
+  },
+  "EXS32DB": {
+    "time": 1793048127.487605,
+    "route": {
+      "callsign": "EXS32DB",
+      "callsign_icao": "EXS32DB",
+      "callsign_iata": "LS32DB",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 24,
+        "iata_code": "IBZ",
+        "icao_code": "LEIB",
+        "latitude": 38.8729,
+        "longitude": 1.37312,
+        "municipality": "Ibiza",
+        "name": "Ibiza Airport"
+      }
+    }
+  },
+  "SWR448G": {
+    "time": 1793048127.487605,
+    "route": {
+      "callsign": "SWR448G",
+      "callsign_icao": "SWR448G",
+      "callsign_iata": "LX448G",
+      "airline": {
+        "name": "Swiss International Air Lines",
+        "icao": "SWR",
+        "iata": "LX",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": "SWISS"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
+      }
+    }
+  },
+  "EZY12UT": {
+    "time": 1793048127.487605,
+    "route": {
+      "callsign": "EZY12UT",
+      "callsign_icao": "EZY12UT",
+      "callsign_iata": "U212UT",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "CZ",
+        "country_name": "Czech Republic",
+        "elevation": 1247,
+        "iata_code": "PRG",
+        "icao_code": "LKPR",
+        "latitude": 50.1008,
+        "longitude": 14.26,
+        "municipality": "Prague",
+        "name": "V\u00e1clav Havel Airport Prague"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
