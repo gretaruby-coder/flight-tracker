@@ -53563,7 +53563,7 @@
     }
   },
   "EZY9005": {
-    "time": 1792860034.0740142,
+    "time": 1792994459.8055587,
     "route": {
       "callsign": "EZY9005",
       "callsign_icao": "EZY9005",
@@ -64500,7 +64500,7 @@
     }
   },
   "JAL41": {
-    "time": 1792907725.2007308,
+    "time": 1792994459.8055587,
     "route": {
       "callsign": "JAL41",
       "callsign_icao": "JAL41",
@@ -66621,7 +66621,7 @@
     }
   },
   "VIR104L": {
-    "time": 1792907132.2440035,
+    "time": 1792994459.8055587,
     "route": {
       "callsign": "VIR104L",
       "callsign_icao": "VIR104L",
@@ -186787,7 +186787,7 @@
     }
   },
   "TFL368": {
-    "time": 1792733451.1048248,
+    "time": 1792994459.8055587,
     "route": {
       "callsign": "TFL368",
       "callsign_icao": "TFL368",
@@ -241376,7 +241376,7 @@
     }
   },
   "CSN689": {
-    "time": 1792819847.0540202,
+    "time": 1792994459.8055587,
     "route": {
       "callsign": "CSN689",
       "callsign_icao": "CSN689",
@@ -314221,6 +314221,82 @@
         "longitude": 51.60806,
         "municipality": "Doha",
         "name": "Hamad International Airport"
+      }
+    }
+  },
+  "EXS8UJ": {
+    "time": 1792994459.8055587,
+    "route": {
+      "callsign": "EXS8UJ",
+      "callsign_icao": "EXS8UJ",
+      "callsign_iata": "LS8UJ",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "MT",
+        "country_name": "Malta",
+        "elevation": 300,
+        "iata_code": "MLA",
+        "icao_code": "LMML",
+        "latitude": 35.8575,
+        "longitude": 14.4775,
+        "municipality": "Valletta",
+        "name": "Malta International Airport"
+      }
+    }
+  },
+  "RYR5982": {
+    "time": 1792994459.8055587,
+    "route": {
+      "callsign": "RYR5982",
+      "callsign_icao": "RYR5982",
+      "callsign_iata": "FR5982",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 2077,
+        "iata_code": "FMM",
+        "icao_code": "EDJA",
+        "latitude": 47.9888,
+        "longitude": 10.2395,
+        "municipality": "Memmingen",
+        "name": "Memmingen Allgau Airport"
+      },
+      "destination": {
+        "country_iso_name": "IL",
+        "country_name": "Israel",
+        "elevation": 135,
+        "iata_code": "TLV",
+        "icao_code": "LLBG",
+        "latitude": 32.0114,
+        "longitude": 34.8867,
+        "municipality": "Tel Aviv",
+        "name": "Ben Gurion International Airport"
       }
     }
   }
