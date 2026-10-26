@@ -16138,7 +16138,7 @@
     }
   },
   "SAS806": {
-    "time": 1792944326.6830068,
+    "time": 1793030727.1849456,
     "route": {
       "callsign": "SAS806",
       "callsign_icao": "SAS806",
@@ -30173,7 +30173,7 @@
     }
   },
   "BAW135": {
-    "time": 1792943135.4331787,
+    "time": 1793030727.1849456,
     "route": {
       "callsign": "BAW135",
       "callsign_icao": "BAW135",
@@ -79126,7 +79126,7 @@
     }
   },
   "BAW968": {
-    "time": 1792943436.896377,
+    "time": 1793030727.1849456,
     "route": {
       "callsign": "BAW968",
       "callsign_icao": "BAW968",
@@ -108343,7 +108343,7 @@
     }
   },
   "KLC29Z": {
-    "time": 1792860635.7465177,
+    "time": 1793030727.1849456,
     "route": {
       "callsign": "KLC29Z",
       "callsign_icao": "KLC29Z",
@@ -177241,7 +177241,7 @@
     }
   },
   "NSZ5PF": {
-    "time": 1792856732.9122996,
+    "time": 1793030727.1849456,
     "route": {
       "callsign": "NSZ5PF",
       "callsign_icao": "NSZ5PF",
@@ -265527,7 +265527,7 @@
     }
   },
   "RYR5HB": {
-    "time": 1792918234.720264,
+    "time": 1793030727.1849456,
     "route": {
       "callsign": "RYR5HB",
       "callsign_icao": "RYR5HB",
@@ -320005,6 +320005,82 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "LGL4732": {
+    "time": 1793030727.1849456,
+    "route": {
+      "callsign": "LGL4732",
+      "callsign_icao": "LGL4732",
+      "callsign_iata": "LG4732",
+      "airline": {
+        "name": "Luxair",
+        "icao": "LGL",
+        "iata": "LG",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "LUXAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
+      }
+    }
+  },
+  "EXS50NY": {
+    "time": 1793030727.1849456,
+    "route": {
+      "callsign": "EXS50NY",
+      "callsign_icao": "EXS50NY",
+      "callsign_iata": "LS50NY",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 6,
+        "iata_code": "CFU",
+        "icao_code": "LGKR",
+        "latitude": 39.6019,
+        "longitude": 19.9117,
+        "municipality": "Kerkyra Island",
+        "name": "Ioannis Kapodistrias International Airport"
       }
     }
   }
