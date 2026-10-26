@@ -84038,7 +84038,7 @@
     }
   },
   "AAL51": {
-    "time": 1792917326.2117414,
+    "time": 1793004335.585309,
     "route": {
       "callsign": "AAL51",
       "callsign_icao": "AAL51",
@@ -121461,7 +121461,7 @@
     }
   },
   "BAW2816": {
-    "time": 1792917048.3918724,
+    "time": 1793004335.585309,
     "route": {
       "callsign": "BAW2816",
       "callsign_icao": "BAW2816",
@@ -161819,7 +161819,7 @@
     }
   },
   "EFW39FL": {
-    "time": 1792846863.2121162,
+    "time": 1793004335.585309,
     "route": {
       "callsign": "EFW39FL",
       "callsign_icao": "EFW39FL",
@@ -262112,7 +262112,7 @@
     }
   },
   "RYR18EG": {
-    "time": 1792910432.4669664,
+    "time": 1793004335.585309,
     "route": {
       "callsign": "RYR18EG",
       "callsign_icao": "RYR18EG",
@@ -268344,7 +268344,7 @@
     }
   },
   "AFR76FV": {
-    "time": 1792916432.7414358,
+    "time": 1793004335.585309,
     "route": {
       "callsign": "AFR76FV",
       "callsign_icao": "AFR76FV",
@@ -269066,7 +269066,7 @@
     }
   },
   "EZY26HP": {
-    "time": 1792916724.5548775,
+    "time": 1793004335.585309,
     "route": {
       "callsign": "EZY26HP",
       "callsign_icao": "EZY26HP",
@@ -270092,7 +270092,7 @@
     }
   },
   "WZZ80FW": {
-    "time": 1792917326.2117414,
+    "time": 1793004335.585309,
     "route": {
       "callsign": "WZZ80FW",
       "callsign_icao": "WZZ80FW",
@@ -315589,6 +315589,120 @@
         "longitude": 2.55,
         "municipality": "Paris",
         "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "UAL962": {
+    "time": 1793004335.585309,
+    "route": {
+      "callsign": "UAL962",
+      "callsign_icao": "UAL962",
+      "callsign_iata": "UA962",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 157,
+        "iata_code": "BER",
+        "icao_code": "EDDB",
+        "latitude": 52.35139,
+        "longitude": 13.49389,
+        "municipality": "Berlin",
+        "name": "Berlin Brandenburg Airport"
+      }
+    }
+  },
+  "BAW2152": {
+    "time": 1793004335.585309,
+    "route": {
+      "callsign": "BAW2152",
+      "callsign_icao": "BAW2152",
+      "callsign_iata": "BA2152",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "BB",
+        "country_name": "Barbados",
+        "elevation": 169,
+        "iata_code": "BGI",
+        "icao_code": "TBPB",
+        "latitude": 13.0746,
+        "longitude": -59.4925,
+        "municipality": "Bridgetown",
+        "name": "Grantley Adams International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EZY608P": {
+    "time": 1793004335.585309,
+    "route": {
+      "callsign": "EZY608P",
+      "callsign_icao": "EZY608P",
+      "callsign_iata": "U2608P",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
       }
     }
   }
