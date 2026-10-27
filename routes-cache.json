@@ -82273,7 +82273,7 @@
     }
   },
   "SAS53D": {
-    "time": 1792919732.5026422,
+    "time": 1793093452.816495,
     "route": {
       "callsign": "SAS53D",
       "callsign_icao": "SAS53D",
@@ -83095,7 +83095,7 @@
     }
   },
   "AAL51": {
-    "time": 1793004335.585309,
+    "time": 1793093452.816495,
     "route": {
       "callsign": "AAL51",
       "callsign_icao": "AAL51",
@@ -91890,7 +91890,7 @@
     }
   },
   "BAW851": {
-    "time": 1793005526.667909,
+    "time": 1793093452.816495,
     "route": {
       "callsign": "BAW851",
       "callsign_icao": "BAW851",
@@ -132977,44 +132977,6 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
-      }
-    }
-  },
-  "VKG728": {
-    "time": 1792488329.321906,
-    "route": {
-      "callsign": "VKG728",
-      "callsign_icao": "VKG728",
-      "callsign_iata": "728",
-      "airline": {
-        "name": "SunClass Airlines",
-        "icao": "VKG",
-        "iata": null,
-        "country": "Denmark",
-        "country_iso": "DK",
-        "callsign": "VIKING"
-      },
-      "origin": {
-        "country_iso_name": "SE",
-        "country_name": "Sweden",
-        "elevation": 137,
-        "iata_code": "ARN",
-        "icao_code": "ESSA",
-        "latitude": 59.6519,
-        "longitude": 17.9186,
-        "municipality": "Stockholm",
-        "name": "Stockholm-Arlanda Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 209,
-        "iata_code": "TFS",
-        "icao_code": "GCTS",
-        "latitude": 28.0445,
-        "longitude": -16.5725,
-        "municipality": "Tenerife",
-        "name": "Tenerife Sur Airport"
       }
     }
   },
@@ -259199,7 +259161,7 @@
     }
   },
   "RYR69YA": {
-    "time": 1792923633.592857,
+    "time": 1793093452.816495,
     "route": {
       "callsign": "RYR69YA",
       "callsign_icao": "RYR69YA",
@@ -321152,6 +321114,82 @@
         "longitude": -1.66057,
         "municipality": "Leeds",
         "name": "Leeds Bradford Airport"
+      }
+    }
+  },
+  "TOM9AH": {
+    "time": 1793093452.816495,
+    "route": {
+      "callsign": "TOM9AH",
+      "callsign_icao": "TOM9AH",
+      "callsign_iata": "BY9AH",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 15,
+        "iata_code": "ZTH",
+        "icao_code": "LGZA",
+        "latitude": 37.7509,
+        "longitude": 20.8843,
+        "municipality": "Zakynthos Island",
+        "name": "Zakynthos International Airport \"Dionysios Solomos\""
+      }
+    }
+  },
+  "RYR747": {
+    "time": 1793093452.816495,
+    "route": {
+      "callsign": "RYR747",
+      "callsign_icao": "RYR747",
+      "callsign_iata": "FR747",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 600,
+        "iata_code": "VIE",
+        "icao_code": "LOWW",
+        "latitude": 48.1103,
+        "longitude": 16.5697,
+        "municipality": "Vienna",
+        "name": "Vienna International Airport"
+      },
+      "destination": {
+        "country_iso_name": "LV",
+        "country_name": "Latvia",
+        "elevation": 36,
+        "iata_code": "RIX",
+        "icao_code": "EVRA",
+        "latitude": 56.9236,
+        "longitude": 23.9711,
+        "municipality": "Riga",
+        "name": "Riga International Airport"
       }
     }
   }
