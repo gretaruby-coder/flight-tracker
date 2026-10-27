@@ -147832,7 +147832,7 @@
     }
   },
   "CCA423": {
-    "time": 1792867238.2380285,
+    "time": 1793127328.862842,
     "route": {
       "callsign": "CCA423",
       "callsign_icao": "CCA423",
@@ -278185,7 +278185,7 @@
     }
   },
   "BAW394": {
-    "time": 1792955434.8218405,
+    "time": 1793127328.862842,
     "route": {
       "callsign": "BAW394",
       "callsign_icao": "BAW394",
@@ -319729,6 +319729,120 @@
         "longitude": 30.8005,
         "municipality": "Antalya",
         "name": "Antalya International Airport"
+      }
+    }
+  },
+  "CFE7035": {
+    "time": 1793127328.862842,
+    "route": {
+      "callsign": "CFE7035",
+      "callsign_icao": "CFE7035",
+      "callsign_iata": "CJ7035",
+      "airline": {
+        "name": "BA CityFlyer",
+        "icao": "CFE",
+        "iata": "CJ",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "FLYER"
+      },
+      "origin": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 659,
+        "iata_code": "LGG",
+        "icao_code": "EBLG",
+        "latitude": 50.6374,
+        "longitude": 5.44322,
+        "municipality": "Li\u00e8ge",
+        "name": "Li\u00e8ge Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "EZY15VM": {
+    "time": 1793127328.862842,
+    "route": {
+      "callsign": "EZY15VM",
+      "callsign_icao": "EZY15VM",
+      "callsign_iata": "U215VM",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 26,
+        "iata_code": "GLA",
+        "icao_code": "EGPF",
+        "latitude": 55.8719,
+        "longitude": -4.43306,
+        "municipality": "Paisley, Renfrewshire",
+        "name": "Glasgow International Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
+      }
+    }
+  },
+  "EXS5WH": {
+    "time": 1793127328.862842,
+    "route": {
+      "callsign": "EXS5WH",
+      "callsign_icao": "EXS5WH",
+      "callsign_iata": "LS5WH",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "CY",
+        "country_name": "Cyprus",
+        "elevation": 41,
+        "iata_code": "PFO",
+        "icao_code": "LCPH",
+        "latitude": 34.718,
+        "longitude": 32.4857,
+        "municipality": "Paphos",
+        "name": "Paphos International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 681,
+        "iata_code": "LBA",
+        "icao_code": "EGNM",
+        "latitude": 53.8659,
+        "longitude": -1.66057,
+        "municipality": "Leeds",
+        "name": "Leeds Bradford Airport"
       }
     }
   }
