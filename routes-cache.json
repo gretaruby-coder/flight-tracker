@@ -905,7 +905,7 @@
     }
   },
   "BAW906": {
-    "time": 1792944062.1040444,
+    "time": 1793117438.9304082,
     "route": {
       "callsign": "BAW906",
       "callsign_icao": "BAW906",
@@ -1095,7 +1095,7 @@
     }
   },
   "SWR59K": {
-    "time": 1792946127.0143917,
+    "time": 1793117438.9304082,
     "route": {
       "callsign": "SWR59K",
       "callsign_icao": "SWR59K",
@@ -29876,7 +29876,7 @@
     }
   },
   "BAW63VP": {
-    "time": 1792946440.8770475,
+    "time": 1793117438.9304082,
     "route": {
       "callsign": "BAW63VP",
       "callsign_icao": "BAW63VP",
@@ -106851,7 +106851,7 @@
     }
   },
   "KLC29Z": {
-    "time": 1793030727.1849456,
+    "time": 1793117438.9304082,
     "route": {
       "callsign": "KLC29Z",
       "callsign_icao": "KLC29Z",
@@ -229008,7 +229008,7 @@
     }
   },
   "EZY3071": {
-    "time": 1792858233.6522586,
+    "time": 1793117438.9304082,
     "route": {
       "callsign": "EZY3071",
       "callsign_icao": "EZY3071",
@@ -247144,7 +247144,7 @@
     }
   },
   "RYR84KG": {
-    "time": 1793016634.3663855,
+    "time": 1793117438.9304082,
     "route": {
       "callsign": "RYR84KG",
       "callsign_icao": "RYR84KG",
@@ -259476,7 +259476,7 @@
     }
   },
   "RYR878F": {
-    "time": 1793028658.671431,
+    "time": 1793117438.9304082,
     "route": {
       "callsign": "RYR878F",
       "callsign_icao": "RYR878F",
@@ -319128,6 +319128,82 @@
         "longitude": -1.32,
         "municipality": "Kidlington",
         "name": "Oxford (Kidlington) Airport"
+      }
+    }
+  },
+  "CFG1VU": {
+    "time": 1793117438.9304082,
+    "route": {
+      "callsign": "CFG1VU",
+      "callsign_icao": "CFG1VU",
+      "callsign_iata": "DE1VU",
+      "airline": {
+        "name": "Condor Flugdienst",
+        "icao": "CFG",
+        "iata": "DE",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "CONDOR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "EZY12WZ": {
+    "time": 1793117438.9304082,
+    "route": {
+      "callsign": "EZY12WZ",
+      "callsign_icao": "EZY12WZ",
+      "callsign_iata": "U212WZ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "TN",
+        "country_name": "Tunisia",
+        "elevation": 19,
+        "iata_code": "DJE",
+        "icao_code": "DTTJ",
+        "latitude": 33.875,
+        "longitude": 10.7755,
+        "municipality": "Djerba",
+        "name": "Djerba Zarzis International Airport"
       }
     }
   }
