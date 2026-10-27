@@ -84342,7 +84342,7 @@
     }
   },
   "BAW879": {
-    "time": 1793008236.6436446,
+    "time": 1793097326.4472933,
     "route": {
       "callsign": "BAW879",
       "callsign_icao": "BAW879",
@@ -99514,7 +99514,7 @@
     }
   },
   "BAW26V": {
-    "time": 1792926635.7831774,
+    "time": 1793097326.4472933,
     "route": {
       "callsign": "BAW26V",
       "callsign_icao": "BAW26V",
@@ -134770,44 +134770,6 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
-      }
-    }
-  },
-  "EIN404": {
-    "time": 1792492525.0992212,
-    "route": {
-      "callsign": "EIN404",
-      "callsign_icao": "EIN404",
-      "callsign_iata": "EI404",
-      "airline": {
-        "name": "Aer Lingus",
-        "icao": "EIN",
-        "iata": "EI",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "SHAMROCK"
-      },
-      "origin": {
-        "country_iso_name": "IE",
-        "country_name": "Ireland",
-        "elevation": 242,
-        "iata_code": "DUB",
-        "icao_code": "EIDW",
-        "latitude": 53.4213,
-        "longitude": -6.27007,
-        "municipality": "Dublin",
-        "name": "Dublin Airport"
-      },
-      "destination": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 13,
-        "iata_code": "FCO",
-        "icao_code": "LIRF",
-        "latitude": 41.80453,
-        "longitude": 12.252,
-        "municipality": "Rome",
-        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
       }
     }
   },
@@ -258270,7 +258232,7 @@
     }
   },
   "AFR27SZ": {
-    "time": 1792923633.592857,
+    "time": 1793097326.4472933,
     "route": {
       "callsign": "AFR27SZ",
       "callsign_icao": "AFR27SZ",
@@ -321007,6 +320969,82 @@
         "longitude": 22.019,
         "municipality": "Rzesz\u00f3w",
         "name": "Rzesz\u00f3w-Jasionka Airport"
+      }
+    }
+  },
+  "EZY659H": {
+    "time": 1793097326.4472933,
+    "route": {
+      "callsign": "EZY659H",
+      "callsign_icao": "EZY659H",
+      "callsign_iata": "U2659H",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 15,
+        "iata_code": "BHD",
+        "icao_code": "EGAC",
+        "latitude": 54.6181,
+        "longitude": -5.8725,
+        "municipality": "Belfast",
+        "name": "George Best Belfast City Airport"
+      }
+    }
+  },
+  "EZS69WD": {
+    "time": 1793097326.4472933,
+    "route": {
+      "callsign": "EZS69WD",
+      "callsign_icao": "EZS69WD",
+      "callsign_iata": "DS69WD",
+      "airline": {
+        "name": "Easyjet Switzerland",
+        "icao": "EZS",
+        "iata": "DS",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
       }
     }
   }
