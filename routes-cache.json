@@ -321679,5 +321679,81 @@
         "name": "London Stansted Airport"
       }
     }
+  },
+  "EXS43W": {
+    "time": 1793064325.0749712,
+    "route": {
+      "callsign": "EXS43W",
+      "callsign_icao": "EXS43W",
+      "callsign_iata": "LS43W",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      }
+    }
+  },
+  "WUK7RD": {
+    "time": 1793064325.0749712,
+    "route": {
+      "callsign": "WUK7RD",
+      "callsign_icao": "WUK7RD",
+      "callsign_iata": "W97RD",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 32,
+        "iata_code": "HRG",
+        "icao_code": "HEGN",
+        "latitude": 27.18033,
+        "longitude": 33.80729,
+        "municipality": "Hurghada",
+        "name": "Hurghada International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
   }
 }
