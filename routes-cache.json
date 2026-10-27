@@ -61840,7 +61840,7 @@
     }
   },
   "DLH423": {
-    "time": 1792900524.0236323,
+    "time": 1793069433.7448359,
     "route": {
       "callsign": "DLH423",
       "callsign_icao": "DLH423",
@@ -123826,7 +123826,7 @@
     }
   },
   "BCS2204": {
-    "time": 1792634124.765863,
+    "time": 1793069433.7448359,
     "route": {
       "callsign": "BCS2204",
       "callsign_icao": "BCS2204",
@@ -321784,6 +321784,44 @@
         "longitude": -0.36833,
         "municipality": "London",
         "name": "London Luton Airport"
+      }
+    }
+  },
+  "UAL84": {
+    "time": 1793069433.7448359,
+    "route": {
+      "callsign": "UAL84",
+      "callsign_icao": "UAL84",
+      "callsign_iata": "UA84",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IL",
+        "country_name": "Israel",
+        "elevation": 135,
+        "iata_code": "TLV",
+        "icao_code": "LLBG",
+        "latitude": 32.0114,
+        "longitude": 34.8867,
+        "municipality": "Tel Aviv",
+        "name": "Ben Gurion International Airport"
       }
     }
   }
