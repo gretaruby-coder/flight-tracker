@@ -70749,7 +70749,7 @@
     }
   },
   "SWR542D": {
-    "time": 1793001324.701671,
+    "time": 1793087726.5756655,
     "route": {
       "callsign": "SWR542D",
       "callsign_icao": "SWR542D",
@@ -71129,7 +71129,7 @@
     }
   },
   "EIN1CM": {
-    "time": 1793001324.701671,
+    "time": 1793087726.5756655,
     "route": {
       "callsign": "EIN1CM",
       "callsign_icao": "EIN1CM",
@@ -76176,7 +76176,7 @@
     }
   },
   "CFE73YU": {
-    "time": 1792936234.4484334,
+    "time": 1793087726.5756655,
     "route": {
       "callsign": "CFE73YU",
       "callsign_icao": "CFE73YU",
@@ -78221,7 +78221,7 @@
     }
   },
   "CFE19F": {
-    "time": 1793001324.701671,
+    "time": 1793087726.5756655,
     "route": {
       "callsign": "CFE19F",
       "callsign_icao": "CFE19F",
@@ -130652,44 +130652,6 @@
         "longitude": 0.05528,
         "municipality": "London",
         "name": "London City Airport"
-      }
-    }
-  },
-  "EXS14AM": {
-    "time": 1792482925.8271863,
-    "route": {
-      "callsign": "EXS14AM",
-      "callsign_icao": "EXS14AM",
-      "callsign_iata": "LS14AM",
-      "airline": {
-        "name": "Jet2.com",
-        "icao": "EXS",
-        "iata": "LS",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "CHANNEX"
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 302,
-        "iata_code": "MAH",
-        "icao_code": "LEMH",
-        "latitude": 39.8626,
-        "longitude": 4.21865,
-        "municipality": "Menorca Island",
-        "name": "Menorca Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 135,
-        "iata_code": "EDI",
-        "icao_code": "EGPH",
-        "latitude": 55.95015,
-        "longitude": -3.37229,
-        "municipality": "Edinburgh",
-        "name": "Edinburgh Airport"
       }
     }
   },
@@ -242030,7 +241992,7 @@
     }
   },
   "WUK79": {
-    "time": 1793001033.0789373,
+    "time": 1793087726.5756655,
     "route": {
       "callsign": "WUK79",
       "callsign_icao": "WUK79",
@@ -251378,7 +251340,7 @@
     }
   },
   "LHX2487": {
-    "time": 1793001324.701671,
+    "time": 1793087726.5756655,
     "route": {
       "callsign": "LHX2487",
       "callsign_icao": "LHX2487",
@@ -321304,6 +321266,82 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "TOM85T": {
+    "time": 1793087726.5756655,
+    "route": {
+      "callsign": "TOM85T",
+      "callsign_icao": "TOM85T",
+      "callsign_iata": "BY85T",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      },
+      "destination": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 1907,
+        "iata_code": "INN",
+        "icao_code": "LOWI",
+        "latitude": 47.2602,
+        "longitude": 11.344,
+        "municipality": "Innsbruck",
+        "name": "Innsbruck Airport"
+      }
+    }
+  },
+  "EXS4YU": {
+    "time": 1793087726.5756655,
+    "route": {
+      "callsign": "EXS4YU",
+      "callsign_icao": "EXS4YU",
+      "callsign_iata": "LS4YU",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 26,
+        "iata_code": "GLA",
+        "icao_code": "EGPF",
+        "latitude": 55.8719,
+        "longitude": -4.43306,
+        "municipality": "Paisley, Renfrewshire",
+        "name": "Glasgow International Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
       }
     }
   }
