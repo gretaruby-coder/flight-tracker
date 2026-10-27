@@ -123179,44 +123179,6 @@
       }
     }
   },
-  "EZY87AK": {
-    "time": 1792456523.5315802,
-    "route": {
-      "callsign": "EZY87AK",
-      "callsign_icao": "EZY87AK",
-      "callsign_iata": "U287AK",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "EG",
-        "country_name": "Egypt",
-        "elevation": 32,
-        "iata_code": "HRG",
-        "icao_code": "HEGN",
-        "latitude": 27.18033,
-        "longitude": 33.80729,
-        "municipality": "Hurghada",
-        "name": "Hurghada International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      }
-    }
-  },
   "HYS102": {
     "time": 1792802123.9328232,
     "route": {
@@ -321563,6 +321525,120 @@
         "longitude": 34.395,
         "municipality": "Sharm el-Sheikh",
         "name": "Sharm El Sheikh International Airport"
+      }
+    }
+  },
+  "EZY8547": {
+    "time": 1793061325.4115195,
+    "route": {
+      "callsign": "EZY8547",
+      "callsign_icao": "EZY8547",
+      "callsign_iata": "U28547",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 374,
+        "iata_code": "LIS",
+        "icao_code": "LPPT",
+        "latitude": 38.7813,
+        "longitude": -9.13592,
+        "municipality": "Lisbon",
+        "name": "Humberto Delgado Airport (Lisbon Portela Airport)"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EXS75WM": {
+    "time": 1793061325.4115195,
+    "route": {
+      "callsign": "EXS75WM",
+      "callsign_icao": "EXS75WM",
+      "callsign_iata": "LS75WM",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 412,
+        "iata_code": "KGS",
+        "icao_code": "LGKO",
+        "latitude": 36.7933,
+        "longitude": 27.0917,
+        "municipality": "Kos Island",
+        "name": "Kos Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "EXS96N": {
+    "time": 1793061325.4115195,
+    "route": {
+      "callsign": "EXS96N",
+      "callsign_icao": "EXS96N",
+      "callsign_iata": "LS96N",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
       }
     }
   }
