@@ -22045,7 +22045,7 @@
     }
   },
   "EIN7EG": {
-    "time": 1793038237.9960694,
+    "time": 1793125527.6678917,
     "route": {
       "callsign": "EIN7EG",
       "callsign_icao": "EIN7EG",
@@ -34543,7 +34543,7 @@
     }
   },
   "SIA318": {
-    "time": 1792953635.1978626,
+    "time": 1793125527.6678917,
     "route": {
       "callsign": "SIA318",
       "callsign_icao": "SIA318",
@@ -38868,7 +38868,7 @@
     }
   },
   "BAW6": {
-    "time": 1792960836.7623868,
+    "time": 1793125527.6678917,
     "route": {
       "callsign": "BAW6",
       "callsign_icao": "BAW6",
@@ -137275,7 +137275,7 @@
     }
   },
   "BAW929": {
-    "time": 1792966235.9002848,
+    "time": 1793125527.6678917,
     "route": {
       "callsign": "BAW929",
       "callsign_icao": "BAW929",
@@ -277691,7 +277691,7 @@
     }
   },
   "VLG9GX": {
-    "time": 1792954239.096999,
+    "time": 1793125527.6678917,
     "route": {
       "callsign": "VLG9GX",
       "callsign_icao": "VLG9GX",
@@ -319432,6 +319432,82 @@
         "longitude": -3.37229,
         "municipality": "Edinburgh",
         "name": "Edinburgh Airport"
+      }
+    }
+  },
+  "ITY8010": {
+    "time": 1793125527.6678917,
+    "route": {
+      "callsign": "ITY8010",
+      "callsign_icao": "ITY8010",
+      "callsign_iata": "AZ8010",
+      "airline": {
+        "name": "ITA Airways",
+        "icao": "ITY",
+        "iata": "AZ",
+        "country": "Italy",
+        "country_iso": "IT",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "CAG",
+        "icao_code": "LIEE",
+        "latitude": 39.2515,
+        "longitude": 9.05428,
+        "municipality": "Cagliari",
+        "name": "Cagliari Elmas Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 87,
+        "iata_code": "AHO",
+        "icao_code": "LIEA",
+        "latitude": 40.6321,
+        "longitude": 8.29077,
+        "municipality": "Alghero",
+        "name": "Alghero-Fertilia Airport"
+      }
+    }
+  },
+  "EZY58QZ": {
+    "time": 1793125527.6678917,
+    "route": {
+      "callsign": "EZY58QZ",
+      "callsign_icao": "EZY58QZ",
+      "callsign_iata": "U258QZ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "CY",
+        "country_name": "Cyprus",
+        "elevation": 41,
+        "iata_code": "PFO",
+        "icao_code": "LCPH",
+        "latitude": 34.718,
+        "longitude": 32.4857,
+        "municipality": "Paphos",
+        "name": "Paphos International Airport"
       }
     }
   }
