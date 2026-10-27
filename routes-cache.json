@@ -122344,7 +122344,7 @@
     }
   },
   "BCS5NR": {
-    "time": 1792626333.1911862,
+    "time": 1793061049.8344526,
     "route": {
       "callsign": "BCS5NR",
       "callsign_icao": "BCS5NR",
@@ -123062,44 +123062,6 @@
         "longitude": 28.7925,
         "municipality": "Dalaman",
         "name": "Dalaman International Airport"
-      }
-    }
-  },
-  "EXS1470": {
-    "time": 1792456246.0585523,
-    "route": {
-      "callsign": "EXS1470",
-      "callsign_icao": "EXS1470",
-      "callsign_iata": "LS1470",
-      "airline": {
-        "name": "Jet2.com",
-        "icao": "EXS",
-        "iata": "LS",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "CHANNEX"
-      },
-      "origin": {
-        "country_iso_name": "GR",
-        "country_name": "Greece",
-        "elevation": 115,
-        "iata_code": "HER",
-        "icao_code": "LGIR",
-        "latitude": 35.3397,
-        "longitude": 25.1803,
-        "municipality": "Heraklion",
-        "name": "Heraklion International Nikos Kazantzakis Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 348,
-        "iata_code": "STN",
-        "icao_code": "EGSS",
-        "latitude": 51.885,
-        "longitude": 0.235,
-        "municipality": "London",
-        "name": "London Stansted Airport"
       }
     }
   },
@@ -321525,6 +321487,82 @@
         "longitude": 28.0862,
         "municipality": "Rhodes Island",
         "name": "Diagoras Airport"
+      }
+    }
+  },
+  "EXS97J": {
+    "time": 1793061049.8344526,
+    "route": {
+      "callsign": "EXS97J",
+      "callsign_icao": "EXS97J",
+      "callsign_iata": "LS97J",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
+      }
+    }
+  },
+  "TOM59L": {
+    "time": 1793061049.8344526,
+    "route": {
+      "callsign": "TOM59L",
+      "callsign_icao": "TOM59L",
+      "callsign_iata": "BY59L",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 143,
+        "iata_code": "SSH",
+        "icao_code": "HESH",
+        "latitude": 27.9773,
+        "longitude": 34.395,
+        "municipality": "Sharm el-Sheikh",
+        "name": "Sharm El Sheikh International Airport"
       }
     }
   }
