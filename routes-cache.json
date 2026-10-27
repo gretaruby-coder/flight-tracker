@@ -5730,7 +5730,7 @@
     }
   },
   "BAW04A": {
-    "time": 1792936526.4713297,
+    "time": 1793107238.2003906,
     "route": {
       "callsign": "BAW04A",
       "callsign_icao": "BAW04A",
@@ -7723,7 +7723,7 @@
     }
   },
   "BAW219V": {
-    "time": 1793019325.4679682,
+    "time": 1793107238.2003906,
     "route": {
       "callsign": "BAW219V",
       "callsign_icao": "BAW219V",
@@ -12877,7 +12877,7 @@
     }
   },
   "BAW82P": {
-    "time": 1792934433.0644233,
+    "time": 1793107238.2003906,
     "route": {
       "callsign": "BAW82P",
       "callsign_icao": "BAW82P",
@@ -140241,44 +140241,6 @@
       }
     }
   },
-  "TRA98G": {
-    "time": 1792502436.6318493,
-    "route": {
-      "callsign": "TRA98G",
-      "callsign_icao": "TRA98G",
-      "callsign_iata": "HV98G",
-      "airline": {
-        "name": "Transavia Holland",
-        "icao": "TRA",
-        "iata": "HV",
-        "country": "Netherlands",
-        "country_iso": "NL",
-        "callsign": "TRANSAVIA"
-      },
-      "origin": {
-        "country_iso_name": "NL",
-        "country_name": "Netherlands",
-        "elevation": 74,
-        "iata_code": "EIN",
-        "icao_code": "EHEH",
-        "latitude": 51.4501,
-        "longitude": 5.37453,
-        "municipality": "Eindhoven",
-        "name": "Eindhoven Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 12,
-        "iata_code": "BCN",
-        "icao_code": "LEBL",
-        "latitude": 41.2971,
-        "longitude": 2.07846,
-        "municipality": "Barcelona",
-        "name": "Josep Tarradellas Barcelona-El Prat Airport"
-      }
-    }
-  },
   "EJU52WF": {
     "time": 1792828233.5976593,
     "route": {
@@ -167825,7 +167787,7 @@
     }
   },
   "TFL367": {
-    "time": 1792926935.4946024,
+    "time": 1793107238.2003906,
     "route": {
       "callsign": "TFL367",
       "callsign_icao": "TFL367",
@@ -269490,7 +269452,7 @@
     }
   },
   "QTR49V": {
-    "time": 1792937434.828769,
+    "time": 1793107238.2003906,
     "route": {
       "callsign": "QTR49V",
       "callsign_icao": "QTR49V",
@@ -300479,7 +300441,7 @@
     }
   },
   "RYR39KA": {
-    "time": 1793016328.6029897,
+    "time": 1793107238.2003906,
     "route": {
       "callsign": "RYR39KA",
       "callsign_icao": "RYR39KA",
@@ -320430,6 +320392,158 @@
         "longitude": 2.55,
         "municipality": "Paris",
         "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "JBU34": {
+    "time": 1793107238.2003906,
+    "route": {
+      "callsign": "JBU34",
+      "callsign_icao": "JBU34",
+      "callsign_iata": "B634",
+      "airline": {
+        "name": "JetBlue Airways",
+        "icao": "JBU",
+        "iata": "B6",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "JETBLUE"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "SFO",
+        "icao_code": "KSFO",
+        "latitude": 37.619,
+        "longitude": -122.375,
+        "municipality": "San Francisco",
+        "name": "San Francisco International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 20,
+        "iata_code": "BOS",
+        "icao_code": "KBOS",
+        "latitude": 42.3643,
+        "longitude": -71.0052,
+        "municipality": "Boston",
+        "name": "Logan International Airport"
+      }
+    }
+  },
+  "EXS80U": {
+    "time": 1793107238.2003906,
+    "route": {
+      "callsign": "EXS80U",
+      "callsign_icao": "EXS80U",
+      "callsign_iata": "LS80U",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 22,
+        "iata_code": "SKG",
+        "icao_code": "LGTS",
+        "latitude": 40.5197,
+        "longitude": 22.9709,
+        "municipality": "Thessaloniki",
+        "name": "Thessaloniki Macedonia International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "BAW9272": {
+    "time": 1793107238.2003906,
+    "route": {
+      "callsign": "BAW9272",
+      "callsign_icao": "BAW9272",
+      "callsign_iata": "BA9272",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 26,
+        "iata_code": "GLA",
+        "icao_code": "EGPF",
+        "latitude": 55.8719,
+        "longitude": -4.43306,
+        "municipality": "Paisley, Renfrewshire",
+        "name": "Glasgow International Airport"
+      },
+      "destination": {
+        "country_iso_name": "CZ",
+        "country_name": "Czech Republic",
+        "elevation": 844,
+        "iata_code": "OSR",
+        "icao_code": "LKMT",
+        "latitude": 49.6963,
+        "longitude": 18.1111,
+        "municipality": "Ostrava",
+        "name": "Ostrava Leos Jan\u00e1\u010dek Airport"
+      }
+    }
+  },
+  "RYR68CF": {
+    "time": 1793107238.2003906,
+    "route": {
+      "callsign": "RYR68CF",
+      "callsign_icao": "RYR68CF",
+      "callsign_iata": "FR68CF",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "MT",
+        "country_name": "Malta",
+        "elevation": 300,
+        "iata_code": "MLA",
+        "icao_code": "LMML",
+        "latitude": 35.8575,
+        "longitude": 14.4775,
+        "municipality": "Valletta",
+        "name": "Malta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
