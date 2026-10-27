@@ -6400,7 +6400,7 @@
     }
   },
   "BAW3LK": {
-    "time": 1792912533.3777502,
+    "time": 1793088329.5062807,
     "route": {
       "callsign": "BAW3LK",
       "callsign_icao": "BAW3LK",
@@ -72566,7 +72566,7 @@
     }
   },
   "SWR49M": {
-    "time": 1793001928.5935202,
+    "time": 1793088329.5062807,
     "route": {
       "callsign": "SWR49M",
       "callsign_icao": "SWR49M",
@@ -73744,7 +73744,7 @@
     }
   },
   "DLH413": {
-    "time": 1793001324.701671,
+    "time": 1793088329.5062807,
     "route": {
       "callsign": "DLH413",
       "callsign_icao": "DLH413",
@@ -77385,7 +77385,7 @@
     }
   },
   "BAW130": {
-    "time": 1793001665.7547727,
+    "time": 1793088329.5062807,
     "route": {
       "callsign": "BAW130",
       "callsign_icao": "BAW130",
@@ -207982,7 +207982,7 @@
     }
   },
   "QTR87Q": {
-    "time": 1792826132.934585,
+    "time": 1793088329.5062807,
     "route": {
       "callsign": "QTR87Q",
       "callsign_icao": "QTR87Q",
@@ -258812,7 +258812,7 @@
     }
   },
   "EZY53MF": {
-    "time": 1792921233.874585,
+    "time": 1793088329.5062807,
     "route": {
       "callsign": "EZY53MF",
       "callsign_icao": "EZY53MF",
@@ -321418,6 +321418,120 @@
         "longitude": 4.21865,
         "municipality": "Menorca Island",
         "name": "Menorca Airport"
+      }
+    }
+  },
+  "RYR25FJ": {
+    "time": 1793088329.5062807,
+    "route": {
+      "callsign": "RYR25FJ",
+      "callsign_icao": "RYR25FJ",
+      "callsign_iata": "FR25FJ",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 1998,
+        "iata_code": "MAD",
+        "icao_code": "LEMD",
+        "latitude": 40.47193,
+        "longitude": -3.56264,
+        "municipality": "Madrid",
+        "name": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
+      }
+    }
+  },
+  "EZS98WB": {
+    "time": 1793088329.5062807,
+    "route": {
+      "callsign": "EZS98WB",
+      "callsign_icao": "EZS98WB",
+      "callsign_iata": "DS98WB",
+      "airline": {
+        "name": "Easyjet Switzerland",
+        "icao": "EZS",
+        "iata": "DS",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      }
+    }
+  },
+  "EZY61PG": {
+    "time": 1793088329.5062807,
+    "route": {
+      "callsign": "EZY61PG",
+      "callsign_icao": "EZY61PG",
+      "callsign_iata": "U261PG",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
