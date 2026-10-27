@@ -24546,7 +24546,7 @@
     }
   },
   "SWR9AM": {
-    "time": 1792950925.3022022,
+    "time": 1793122531.693406,
     "route": {
       "callsign": "SWR9AM",
       "callsign_icao": "SWR9AM",
@@ -146505,44 +146505,6 @@
         "longitude": 33.4961,
         "municipality": "Nicosia",
         "name": "Ercan International Airport"
-      }
-    }
-  },
-  "QTR8250": {
-    "time": 1792517726.0539174,
-    "route": {
-      "callsign": "QTR8250",
-      "callsign_icao": "QTR8250",
-      "callsign_iata": "QR8250",
-      "airline": {
-        "name": "Qatar Airways",
-        "icao": "QTR",
-        "iata": "QR",
-        "country": "Qatar",
-        "country_iso": "QA",
-        "callsign": "QATARI"
-      },
-      "origin": {
-        "country_iso_name": "BE",
-        "country_name": "Belgium",
-        "elevation": 184,
-        "iata_code": "BRU",
-        "icao_code": "EBBR",
-        "latitude": 50.9014,
-        "longitude": 4.48444,
-        "municipality": "Brussels",
-        "name": "Brussels Airport"
-      },
-      "destination": {
-        "country_iso_name": "NO",
-        "country_name": "Norway",
-        "elevation": 681,
-        "iata_code": "OSL",
-        "icao_code": "ENGM",
-        "latitude": 60.1939,
-        "longitude": 11.1004,
-        "municipality": "Oslo",
-        "name": "Oslo Airport, Gardermoen"
       }
     }
   },
@@ -278223,7 +278185,7 @@
     }
   },
   "BAW680": {
-    "time": 1792954239.096999,
+    "time": 1793122531.693406,
     "route": {
       "callsign": "BAW680",
       "callsign_icao": "BAW680",
@@ -299526,7 +299488,7 @@
     }
   },
   "GFITC": {
-    "time": 1793024437.003485,
+    "time": 1793122531.693406,
     "route": {
       "callsign": "GFITC",
       "callsign_icao": null,
@@ -301837,7 +301799,7 @@
     }
   },
   "EZY56PE": {
-    "time": 1793031928.6400347,
+    "time": 1793122531.693406,
     "route": {
       "callsign": "EZY56PE",
       "callsign_icao": "EZY56PE",
@@ -319622,6 +319584,120 @@
         "longitude": 2.73881,
         "municipality": "Palma De Mallorca",
         "name": "Palma de Mallorca Airport"
+      }
+    }
+  },
+  "TOM6ED": {
+    "time": 1793122531.693406,
+    "route": {
+      "callsign": "TOM6ED",
+      "callsign_icao": "TOM6ED",
+      "callsign_iata": "BY6ED",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 20,
+        "iata_code": "DLM",
+        "icao_code": "LTBS",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "name": "Dalaman International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      }
+    }
+  },
+  "BAW9176": {
+    "time": 1793122531.693406,
+    "route": {
+      "callsign": "BAW9176",
+      "callsign_icao": "BAW9176",
+      "callsign_iata": "BA9176",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "JP",
+        "country_name": "Japan",
+        "elevation": 35,
+        "iata_code": "HND",
+        "icao_code": "RJTT",
+        "latitude": 35.5523,
+        "longitude": 139.78,
+        "municipality": "Tokyo",
+        "name": "Tokyo Haneda International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "EXS4L": {
+    "time": 1793122531.693406,
+    "route": {
+      "callsign": "EXS4L",
+      "callsign_icao": "EXS4L",
+      "callsign_iata": "LS4L",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "FI",
+        "country_name": "Finland",
+        "elevation": 481,
+        "iata_code": "IVL",
+        "icao_code": "EFIV",
+        "latitude": 68.6073,
+        "longitude": 27.4053,
+        "municipality": "Ivalo",
+        "name": "Ivalo Airport"
       }
     }
   }
