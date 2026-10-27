@@ -39020,7 +39020,7 @@
     }
   },
   "ITY219": {
-    "time": 1792958465.3097408,
+    "time": 1793129726.2522583,
     "route": {
       "callsign": "ITY219",
       "callsign_icao": "ITY219",
@@ -41224,7 +41224,7 @@
     }
   },
   "BAW31": {
-    "time": 1792958465.3097408,
+    "time": 1793129726.2522583,
     "route": {
       "callsign": "BAW31",
       "callsign_icao": "BAW31",
@@ -47891,7 +47891,7 @@
     }
   },
   "EFW6KJ": {
-    "time": 1792945234.59471,
+    "time": 1793129726.2522583,
     "route": {
       "callsign": "EFW6KJ",
       "callsign_icao": "EFW6KJ",
@@ -135016,7 +135016,7 @@
     }
   },
   "BAW992G": {
-    "time": 1793043052.657053,
+    "time": 1793129726.2522583,
     "route": {
       "callsign": "BAW992G",
       "callsign_icao": "BAW992G",
@@ -283460,7 +283460,7 @@
     }
   },
   "EZY763D": {
-    "time": 1792966834.890024,
+    "time": 1793129726.2522583,
     "route": {
       "callsign": "EZY763D",
       "callsign_icao": "EZY763D",
@@ -295084,7 +295084,7 @@
     }
   },
   "RYR244L": {
-    "time": 1793015724.669348,
+    "time": 1793129726.2522583,
     "route": {
       "callsign": "RYR244L",
       "callsign_icao": "RYR244L",
@@ -319767,6 +319767,82 @@
         "longitude": 20.9671,
         "municipality": "Warsaw",
         "name": "Warsaw Chopin Airport"
+      }
+    }
+  },
+  "CLX11Z": {
+    "time": 1793129726.2522583,
+    "route": {
+      "callsign": "CLX11Z",
+      "callsign_icao": "CLX11Z",
+      "callsign_iata": "CV11Z",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 797,
+        "iata_code": "IND",
+        "icao_code": "KIND",
+        "latitude": 39.7173,
+        "longitude": -86.2944,
+        "municipality": "Indianapolis",
+        "name": "Indianapolis International Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
+      }
+    }
+  },
+  "RYR77DU": {
+    "time": 1793129726.2522583,
+    "route": {
+      "callsign": "RYR77DU",
+      "callsign_icao": "RYR77DU",
+      "callsign_iata": "FR77DU",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 24,
+        "iata_code": "IBZ",
+        "icao_code": "LEIB",
+        "latitude": 38.8729,
+        "longitude": 1.37312,
+        "municipality": "Ibiza",
+        "name": "Ibiza Airport"
       }
     }
   }
