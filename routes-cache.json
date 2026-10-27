@@ -18273,7 +18273,7 @@
     }
   },
   "KLC23R": {
-    "time": 1793033434.5654032,
+    "time": 1793122849.3575163,
     "route": {
       "callsign": "KLC23R",
       "callsign_icao": "KLC23R",
@@ -19672,7 +19672,7 @@
     }
   },
   "SHT5U": {
-    "time": 1792950925.3022022,
+    "time": 1793122849.3575163,
     "route": {
       "callsign": "SHT5U",
       "callsign_icao": null,
@@ -35227,7 +35227,7 @@
     }
   },
   "UAE7TR": {
-    "time": 1793036435.6797729,
+    "time": 1793122849.3575163,
     "route": {
       "callsign": "UAE7TR",
       "callsign_icao": "UAE7TR",
@@ -81496,7 +81496,7 @@
     }
   },
   "BAW600": {
-    "time": 1792953933.6219358,
+    "time": 1793122849.3575163,
     "route": {
       "callsign": "BAW600",
       "callsign_icao": "BAW600",
@@ -81521,15 +81521,15 @@
         "name": "London Heathrow Airport"
       },
       "destination": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 7,
-        "iata_code": "VCE",
-        "icao_code": "LIPZ",
-        "latitude": 45.5053,
-        "longitude": 12.3519,
-        "municipality": "Venice",
-        "name": "Venice Marco Polo Airport"
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 6,
+        "iata_code": "CFU",
+        "icao_code": "LGKR",
+        "latitude": 39.6019,
+        "longitude": 19.9117,
+        "municipality": "Kerkyra Island",
+        "name": "Ioannis Kapodistrias International Airport"
       }
     }
   },
@@ -111936,7 +111936,7 @@
     }
   },
   "AAL141": {
-    "time": 1793035235.186928,
+    "time": 1793122849.3575163,
     "route": {
       "callsign": "AAL141",
       "callsign_icao": "AAL141",
@@ -226079,7 +226079,7 @@
     }
   },
   "EFW41CT": {
-    "time": 1792852834.4497833,
+    "time": 1793122849.3575163,
     "route": {
       "callsign": "EFW41CT",
       "callsign_icao": "EFW41CT",
@@ -263822,7 +263822,7 @@
     }
   },
   "RYR15SU": {
-    "time": 1793034328.2235513,
+    "time": 1793122849.3575163,
     "route": {
       "callsign": "RYR15SU",
       "callsign_icao": "RYR15SU",
@@ -276672,7 +276672,7 @@
     }
   },
   "EZY95GN": {
-    "time": 1792951834.379991,
+    "time": 1793122849.3575163,
     "route": {
       "callsign": "EZY95GN",
       "callsign_icao": "EZY95GN",
@@ -276748,7 +276748,7 @@
     }
   },
   "AIC27J": {
-    "time": 1792952134.3583052,
+    "time": 1793122849.3575163,
     "route": {
       "callsign": "AIC27J",
       "callsign_icao": "AIC27J",
@@ -319698,6 +319698,82 @@
         "longitude": 27.4053,
         "municipality": "Ivalo",
         "name": "Ivalo Airport"
+      }
+    }
+  },
+  "EXS1DL": {
+    "time": 1793122849.3575163,
+    "route": {
+      "callsign": "EXS1DL",
+      "callsign_icao": "EXS1DL",
+      "callsign_iata": "LS1DL",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 46,
+        "iata_code": "ACE",
+        "icao_code": "GCRR",
+        "latitude": 28.9455,
+        "longitude": -13.6052,
+        "municipality": "Lanzarote Island",
+        "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "VKG553": {
+    "time": 1793122849.3575163,
+    "route": {
+      "callsign": "VKG553",
+      "callsign_icao": "VKG553",
+      "callsign_iata": "553",
+      "airline": {
+        "name": "SunClass Airlines",
+        "icao": "VKG",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": "VIKING"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
       }
     }
   }
