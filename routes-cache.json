@@ -40146,7 +40146,7 @@
     }
   },
   "DAL21": {
-    "time": 1792932926.8009787,
+    "time": 1793105438.6101003,
     "route": {
       "callsign": "DAL21",
       "callsign_icao": "DAL21",
@@ -52924,7 +52924,7 @@
     }
   },
   "EZY9005": {
-    "time": 1792994459.8055587,
+    "time": 1793105438.6101003,
     "route": {
       "callsign": "EZY9005",
       "callsign_icao": "EZY9005",
@@ -101338,7 +101338,7 @@
     }
   },
   "MEA202": {
-    "time": 1792932926.8009787,
+    "time": 1793105438.6101003,
     "route": {
       "callsign": "MEA202",
       "callsign_icao": "MEA202",
@@ -161438,7 +161438,7 @@
     }
   },
   "KLM777": {
-    "time": 1792923037.1916401,
+    "time": 1793105438.6101003,
     "route": {
       "callsign": "KLM777",
       "callsign_icao": "KLM777",
@@ -260961,7 +260961,7 @@
     }
   },
   "EZY92XR": {
-    "time": 1792929324.5655425,
+    "time": 1793105438.6101003,
     "route": {
       "callsign": "EZY92XR",
       "callsign_icao": "EZY92XR",
@@ -263037,7 +263037,7 @@
     }
   },
   "EXS3YF": {
-    "time": 1793017526.0506072,
+    "time": 1793105438.6101003,
     "route": {
       "callsign": "EXS3YF",
       "callsign_icao": "EXS3YF",
@@ -263341,7 +263341,7 @@
     }
   },
   "EZY59GZ": {
-    "time": 1792931448.8712137,
+    "time": 1793105438.6101003,
     "route": {
       "callsign": "EZY59GZ",
       "callsign_icao": "EZY59GZ",
@@ -320848,6 +320848,82 @@
         "longitude": -2.84972,
         "municipality": "Liverpool",
         "name": "Liverpool John Lennon Airport"
+      }
+    }
+  },
+  "EZY2354": {
+    "time": 1793105438.6101003,
+    "route": {
+      "callsign": "EZY2354",
+      "callsign_icao": "EZY2354",
+      "callsign_iata": "U22354",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 233,
+        "iata_code": "REU",
+        "icao_code": "LERS",
+        "latitude": 41.1474,
+        "longitude": 1.16717,
+        "municipality": "Reus",
+        "name": "Reus Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "NSZ5700": {
+    "time": 1793105438.6101003,
+    "route": {
+      "callsign": "NSZ5700",
+      "callsign_icao": "NSZ5700",
+      "callsign_iata": "D85700",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      },
+      "destination": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
       }
     }
   }
