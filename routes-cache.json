@@ -63874,44 +63874,6 @@
       }
     }
   },
-  "NSZ2TC": {
-    "time": 1792560325.6739674,
-    "route": {
-      "callsign": "NSZ2TC",
-      "callsign_icao": "NSZ2TC",
-      "callsign_iata": "D82TC",
-      "airline": {
-        "name": "Norwegian Air Sweden AOC",
-        "icao": "NSZ",
-        "iata": "D8",
-        "country": "Sweden",
-        "country_iso": "SE",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "DK",
-        "country_name": "Denmark",
-        "elevation": 17,
-        "iata_code": "CPH",
-        "icao_code": "EKCH",
-        "latitude": 55.6179,
-        "longitude": 12.656,
-        "municipality": "Copenhagen",
-        "name": "Copenhagen Kastrup Airport"
-      },
-      "destination": {
-        "country_iso_name": "PT",
-        "country_name": "Portugal",
-        "elevation": 24,
-        "iata_code": "FAO",
-        "icao_code": "LPFR",
-        "latitude": 37.0144,
-        "longitude": -7.96591,
-        "municipality": "Faro",
-        "name": "Faro Airport"
-      }
-    }
-  },
   "RYR5NQ": {
     "time": 1792757436.5125406,
     "route": {
@@ -152025,82 +151987,6 @@
         "longitude": 23.41144,
         "municipality": "Sofia",
         "name": "Sofia Airport"
-      }
-    }
-  },
-  "RYR32NE": {
-    "time": 1792560325.6739674,
-    "route": {
-      "callsign": "RYR32NE",
-      "callsign_icao": "RYR32NE",
-      "callsign_iata": "FR32NE",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 348,
-        "iata_code": "STN",
-        "icao_code": "EGSS",
-        "latitude": 51.885,
-        "longitude": 0.235,
-        "municipality": "London",
-        "name": "London Stansted Airport"
-      },
-      "destination": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 13,
-        "iata_code": "CAG",
-        "icao_code": "LIEE",
-        "latitude": 39.2515,
-        "longitude": 9.05428,
-        "municipality": "Cagliari",
-        "name": "Cagliari Elmas Airport"
-      }
-    }
-  },
-  "TOM50E": {
-    "time": 1792560325.6739674,
-    "route": {
-      "callsign": "TOM50E",
-      "callsign_icao": "TOM50E",
-      "callsign_iata": "BY50E",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 327,
-        "iata_code": "BHX",
-        "icao_code": "EGBB",
-        "latitude": 52.4539,
-        "longitude": -1.74803,
-        "municipality": "Birmingham",
-        "name": "Birmingham International Airport"
-      },
-      "destination": {
-        "country_iso_name": "CV",
-        "country_name": "Cape Verde",
-        "elevation": 177,
-        "iata_code": "SID",
-        "icao_code": "GVAC",
-        "latitude": 16.7414,
-        "longitude": -22.9494,
-        "municipality": "Espargos",
-        "name": "Am\u00edlcar Cabral International Airport"
       }
     }
   },
@@ -319318,6 +319204,44 @@
         "longitude": -80.2906,
         "municipality": "Miami",
         "name": "Miami International Airport"
+      }
+    }
+  },
+  "UAL57": {
+    "time": 1793165128.3234084,
+    "route": {
+      "callsign": "UAL57",
+      "callsign_icao": "UAL57",
+      "callsign_iata": "UA57",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
       }
     }
   }
