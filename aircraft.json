@@ -1,9 +1,48 @@
 {
-  "updated": "2026-10-28T00:45:32.433809+00:00",
+  "updated": "2026-10-28T00:50:35.846024+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": []
+  "aircraft": [
+    {
+      "hex": "400f2a",
+      "type": "mlat",
+      "flight": "GMPSC   ",
+      "r": "G-MPSC",
+      "t": "EC45",
+      "desc": "AIRBUS HELICOPTERS EC-145",
+      "alt_baro": 950,
+      "gs": 94.0,
+      "tas": 96,
+      "oat": 49,
+      "track": 184.92,
+      "roll": -0.18,
+      "baro_rate": -67,
+      "squawk": "0043",
+      "lat": 51.647349,
+      "lon": -0.027996,
+      "nic": 0,
+      "rc": 0,
+      "seen_pos": 1.775,
+      "alert": 0,
+      "spi": 0,
+      "mlat": [
+        "baro_rate",
+        "lat",
+        "lon",
+        "nic",
+        "rc"
+      ],
+      "tisb": [],
+      "messages": 2401,
+      "seen": 0.7,
+      "rssi": -6.1,
+      "dst": 18.51,
+      "dir": 50.0,
+      "registered_owner": "National Police Air Service",
+      "registered_owner_operator_flag_code": "UKP"
+    }
+  ]
 }
