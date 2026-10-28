@@ -116669,7 +116669,7 @@
     }
   },
   "BCS2665": {
-    "time": 1793055664.084332,
+    "time": 1793228124.4964154,
     "route": {
       "callsign": "BCS2665",
       "callsign_icao": "BCS2665",
@@ -315151,6 +315151,82 @@
         "longitude": 14.4775,
         "municipality": "Valletta",
         "name": "Malta International Airport"
+      }
+    }
+  },
+  "AFR6730": {
+    "time": 1793228124.4964154,
+    "route": {
+      "callsign": "AFR6730",
+      "callsign_icao": "AFR6730",
+      "callsign_iata": "AF6730",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      }
+    }
+  },
+  "MNB9393": {
+    "time": 1793228124.4964154,
+    "route": {
+      "callsign": "MNB9393",
+      "callsign_icao": "MNB9393",
+      "callsign_iata": "MB9393",
+      "airline": {
+        "name": "MNG Airlines",
+        "icao": "MNB",
+        "iata": "MB",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "BLACK SEA"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
       }
     }
   }
