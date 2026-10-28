@@ -52140,7 +52140,7 @@
     }
   },
   "AVA121": {
-    "time": 1793052063.5147197,
+    "time": 1793224860.6328232,
     "route": {
       "callsign": "AVA121",
       "callsign_icao": "AVA121",
@@ -52482,7 +52482,7 @@
     }
   },
   "EIN725": {
-    "time": 1793053527.7679648,
+    "time": 1793224860.6328232,
     "route": {
       "callsign": "EIN725",
       "callsign_icao": "EIN725",
@@ -52748,7 +52748,7 @@
     }
   },
   "SIA321": {
-    "time": 1793052330.4271145,
+    "time": 1793224860.6328232,
     "route": {
       "callsign": "SIA321",
       "callsign_icao": "SIA321",
@@ -160191,44 +160191,6 @@
       }
     }
   },
-  "EJU48ZB": {
-    "time": 1792619727.170806,
-    "route": {
-      "callsign": "EJU48ZB",
-      "callsign_icao": "EJU48ZB",
-      "callsign_iata": "EC48ZB",
-      "airline": {
-        "name": "easyJet Europe",
-        "icao": "EJU",
-        "iata": "EC",
-        "country": "Austria",
-        "country_iso": "AT",
-        "callsign": "Alpine"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 257,
-        "iata_code": "MAN",
-        "icao_code": "EGCC",
-        "latitude": 53.34938,
-        "longitude": -2.27952,
-        "municipality": "Manchester",
-        "name": "Manchester Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 142,
-        "iata_code": "ALC",
-        "icao_code": "LEAL",
-        "latitude": 38.2822,
-        "longitude": -0.55816,
-        "municipality": "Alicante",
-        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
-      }
-    }
-  },
   "TOM8VM": {
     "time": 1792620065.6407251,
     "route": {
@@ -232344,7 +232306,7 @@
     }
   },
   "RYR486H": {
-    "time": 1793120730.0592947,
+    "time": 1793224860.6328232,
     "route": {
       "callsign": "RYR486H",
       "callsign_icao": "RYR486H",
@@ -265537,7 +265499,7 @@
     }
   },
   "LHX922": {
-    "time": 1793137535.7954757,
+    "time": 1793224860.6328232,
     "route": {
       "callsign": "LHX922",
       "callsign_icao": "LHX922",
@@ -265993,7 +265955,7 @@
     }
   },
   "EJU94PJ": {
-    "time": 1792966834.890024,
+    "time": 1793224860.6328232,
     "route": {
       "callsign": "EJU94PJ",
       "callsign_icao": "EJU94PJ",
@@ -290401,7 +290363,7 @@
     }
   },
   "EZY62EU": {
-    "time": 1793059834.1136937,
+    "time": 1793224860.6328232,
     "route": {
       "callsign": "EZY62EU",
       "callsign_icao": "EZY62EU",
@@ -315113,6 +315075,82 @@
         "longitude": 11.344,
         "municipality": "Innsbruck",
         "name": "Innsbruck Airport"
+      }
+    }
+  },
+  "EXS93G": {
+    "time": 1793224860.6328232,
+    "route": {
+      "callsign": "EXS93G",
+      "callsign_icao": "EXS93G",
+      "callsign_iata": "LS93G",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "RYR97CZ": {
+    "time": 1793224860.6328232,
+    "route": {
+      "callsign": "RYR97CZ",
+      "callsign_icao": "RYR97CZ",
+      "callsign_iata": "FR97CZ",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "HR",
+        "country_name": "Croatia",
+        "elevation": 527,
+        "iata_code": "DBV",
+        "icao_code": "LDDU",
+        "latitude": 42.5614,
+        "longitude": 18.2682,
+        "municipality": "Dubrovnik",
+        "name": "Dubrovnik Airport"
+      },
+      "destination": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
       }
     }
   }
