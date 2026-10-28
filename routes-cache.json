@@ -60303,7 +60303,7 @@
     }
   },
   "BAW74X": {
-    "time": 1793074832.9622004,
+    "time": 1793161233.7313044,
     "route": {
       "callsign": "BAW74X",
       "callsign_icao": "BAW74X",
@@ -123005,7 +123005,7 @@
     }
   },
   "BCS62B": {
-    "time": 1792725925.3678985,
+    "time": 1793161233.7313044,
     "route": {
       "callsign": "BCS62B",
       "callsign_icao": "BCS62B",
@@ -319736,6 +319736,44 @@
         "longitude": 2.55,
         "municipality": "Paris",
         "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "CLX12V": {
+    "time": 1793161233.7313044,
+    "route": {
+      "callsign": "CLX12V",
+      "callsign_icao": "CLX12V",
+      "callsign_iata": "CV12V",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 152,
+        "iata_code": "ANC",
+        "icao_code": "PANC",
+        "latitude": 61.1744,
+        "longitude": -149.996,
+        "municipality": "Anchorage",
+        "name": "Ted Stevens Anchorage International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
       }
     }
   }
