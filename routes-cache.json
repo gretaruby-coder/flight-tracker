@@ -79976,7 +79976,7 @@
     }
   },
   "EFW8DD": {
-    "time": 1792736435.432787,
+    "time": 1793181328.069396,
     "route": {
       "callsign": "EFW8DD",
       "callsign_icao": "EFW8DD",
@@ -95745,7 +95745,7 @@
     }
   },
   "BAW224U": {
-    "time": 1793094638.3550107,
+    "time": 1793181328.069396,
     "route": {
       "callsign": "BAW224U",
       "callsign_icao": "BAW224U",
@@ -155186,44 +155186,6 @@
         "longitude": 4.76389,
         "municipality": "Amsterdam",
         "name": "Amsterdam Airport Schiphol"
-      }
-    }
-  },
-  "EZY54QE": {
-    "time": 1792576526.00066,
-    "route": {
-      "callsign": "EZY54QE",
-      "callsign_icao": "EZY54QE",
-      "callsign_iata": "U254QE",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "CZ",
-        "country_name": "Czech Republic",
-        "elevation": 1247,
-        "iata_code": "PRG",
-        "icao_code": "LKPR",
-        "latitude": 50.1008,
-        "longitude": 14.26,
-        "municipality": "Prague",
-        "name": "V\u00e1clav Havel Airport Prague"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 327,
-        "iata_code": "BHX",
-        "icao_code": "EGBB",
-        "latitude": 52.4539,
-        "longitude": -1.74803,
-        "municipality": "Birmingham",
-        "name": "Birmingham International Airport"
       }
     }
   },
@@ -318150,6 +318112,75 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "AZG3233": {
+    "time": 1793181328.069396,
+    "route": {
+      "callsign": "AZG3233",
+      "callsign_icao": "AZG3233",
+      "callsign_iata": "3233",
+      "airline": {
+        "name": "Sakaviaservice",
+        "icao": "AZG",
+        "iata": null,
+        "country": "Georgia",
+        "country_iso": "GE",
+        "callsign": "SAKSERVICE"
+      },
+      "origin": {
+        "country_iso_name": "AZ",
+        "country_name": "Azerbaijan",
+        "elevation": 10,
+        "iata_code": "GYD",
+        "icao_code": "UBBB",
+        "latitude": 40.4675,
+        "longitude": 50.0467,
+        "municipality": "Baku",
+        "name": "Heydar Aliyev International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1649,
+        "iata_code": "HHN",
+        "icao_code": "EDFH",
+        "latitude": 49.9487,
+        "longitude": 7.26389,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt-Hahn Airport"
+      }
+    }
+  },
+  "GIBEA": {
+    "time": 1793181328.069396,
+    "route": {
+      "callsign": "GIBEA",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 131,
+        "iata_code": null,
+        "icao_code": "EGLM",
+        "latitude": 51.5008,
+        "longitude": -0.77444,
+        "municipality": "Maidenhead",
+        "name": "White Waltham Airfield"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 515,
+        "iata_code": "HYC",
+        "icao_code": "EGTB",
+        "latitude": 51.6117,
+        "longitude": -0.80833,
+        "municipality": "High Wycombe",
+        "name": "Wycombe Air Park"
       }
     }
   }
