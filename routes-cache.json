@@ -92215,7 +92215,7 @@
     }
   },
   "AAL734": {
-    "time": 1793013764.9516087,
+    "time": 1793186134.689202,
     "route": {
       "callsign": "AAL734",
       "callsign_icao": "AAL734",
@@ -92885,7 +92885,7 @@
     }
   },
   "AUR3LG": {
-    "time": 1793015435.2421498,
+    "time": 1793186134.689202,
     "route": {
       "callsign": "AUR3LG",
       "callsign_icao": "AUR3LG",
@@ -115850,7 +115850,7 @@
     }
   },
   "BAW19LX": {
-    "time": 1793012729.6426172,
+    "time": 1793186134.689202,
     "route": {
       "callsign": "BAW19LX",
       "callsign_icao": "BAW19LX",
@@ -193941,7 +193941,7 @@
     }
   },
   "KAC104": {
-    "time": 1792926935.4946024,
+    "time": 1793186134.689202,
     "route": {
       "callsign": "KAC104",
       "callsign_icao": "KAC104",
@@ -243946,7 +243946,7 @@
     }
   },
   "NOZ1323": {
-    "time": 1792926061.1377797,
+    "time": 1793186134.689202,
     "route": {
       "callsign": "NOZ1323",
       "callsign_icao": "NOZ1323",
@@ -285661,7 +285661,7 @@
     }
   },
   "DLH400": {
-    "time": 1793013764.9516087,
+    "time": 1793186134.689202,
     "route": {
       "callsign": "DLH400",
       "callsign_icao": "DLH400",
@@ -317780,6 +317780,113 @@
         "longitude": -2.77167,
         "municipality": "Shrewsbury",
         "name": "Sleap Airport"
+      }
+    }
+  },
+  "GWACY": {
+    "time": 1793186134.689202,
+    "route": {
+      "callsign": "GWACY",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 24,
+        "iata_code": null,
+        "icao_code": "EGLD",
+        "latitude": 51.5883,
+        "longitude": -0.51306,
+        "municipality": "Gerrards Cross",
+        "name": "Denham Aerodrome"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 24,
+        "iata_code": null,
+        "icao_code": "EGLD",
+        "latitude": 51.5883,
+        "longitude": -0.51306,
+        "municipality": "Gerrards Cross",
+        "name": "Denham Aerodrome"
+      }
+    }
+  },
+  "DLH3V": {
+    "time": 1793186134.689202,
+    "route": {
+      "callsign": "DLH3V",
+      "callsign_icao": "DLH3V",
+      "callsign_iata": "LH3V",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 645,
+        "iata_code": "DTW",
+        "icao_code": "KDTW",
+        "latitude": 42.2124,
+        "longitude": -83.3534,
+        "municipality": "Detroit",
+        "name": "Detroit Metropolitan Wayne County Airport"
+      }
+    }
+  },
+  "CFG1EP": {
+    "time": 1793186134.689202,
+    "route": {
+      "callsign": "CFG1EP",
+      "callsign_icao": "CFG1EP",
+      "callsign_iata": "DE1EP",
+      "airline": {
+        "name": "Condor Flugdienst",
+        "icao": "CFG",
+        "iata": "DE",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "CONDOR"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 17,
+        "iata_code": "RHO",
+        "icao_code": "LGRP",
+        "latitude": 36.4054,
+        "longitude": 28.0862,
+        "municipality": "Rhodes Island",
+        "name": "Diagoras Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 525,
+        "iata_code": "MUC",
+        "icao_code": "EDDM",
+        "latitude": 48.1378,
+        "longitude": 11.6903,
+        "municipality": "Munich",
+        "name": "Flughafen M\u00fcnchen-Riem"
       }
     }
   }
