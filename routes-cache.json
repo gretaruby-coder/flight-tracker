@@ -33714,7 +33714,7 @@
     }
   },
   "CPA250": {
-    "time": 1793038237.9960694,
+    "time": 1793210729.3917282,
     "route": {
       "callsign": "CPA250",
       "callsign_icao": "CPA250",
@@ -53508,7 +53508,7 @@
     }
   },
   "CCA856": {
-    "time": 1793038533.9756458,
+    "time": 1793210729.3917282,
     "route": {
       "callsign": "CCA856",
       "callsign_icao": "CCA856",
@@ -208605,7 +208605,7 @@
     }
   },
   "VJT423": {
-    "time": 1792951527.101235,
+    "time": 1793210729.3917282,
     "route": {
       "callsign": "VJT423",
       "callsign_icao": null,
@@ -261488,7 +261488,7 @@
     }
   },
   "DLH7HT": {
-    "time": 1793040340.0857077,
+    "time": 1793210729.3917282,
     "route": {
       "callsign": "DLH7HT",
       "callsign_icao": "DLH7HT",
@@ -266960,7 +266960,7 @@
     }
   },
   "EZY64ME": {
-    "time": 1792963847.703023,
+    "time": 1793210729.3917282,
     "route": {
       "callsign": "EZY64ME",
       "callsign_icao": "EZY64ME",
@@ -285558,7 +285558,7 @@
     }
   },
   "RYR68BT": {
-    "time": 1793031639.0512483,
+    "time": 1793210729.3917282,
     "route": {
       "callsign": "RYR68BT",
       "callsign_icao": "RYR68BT",
@@ -315165,6 +315165,82 @@
         "longitude": -1.74803,
         "municipality": "Birmingham",
         "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "DLH432": {
+    "time": 1793210729.3917282,
+    "route": {
+      "callsign": "DLH432",
+      "callsign_icao": "DLH432",
+      "callsign_iata": "LH432",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      }
+    }
+  },
+  "EFW9752": {
+    "time": 1793210729.3917282,
+    "route": {
+      "callsign": "EFW9752",
+      "callsign_icao": "EFW9752",
+      "callsign_iata": "A09752",
+      "airline": {
+        "name": "BA Euroflyer",
+        "icao": "EFW",
+        "iata": "A0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Griffin"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 80,
+        "iata_code": "LPL",
+        "icao_code": "EGGP",
+        "latitude": 53.3336,
+        "longitude": -2.84972,
+        "municipality": "Liverpool",
+        "name": "Liverpool John Lennon Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 80,
+        "iata_code": "LPL",
+        "icao_code": "EGGP",
+        "latitude": 53.3336,
+        "longitude": -2.84972,
+        "municipality": "Liverpool",
+        "name": "Liverpool John Lennon Airport"
       }
     }
   }
