@@ -1171,7 +1171,7 @@
     }
   },
   "BAW308": {
-    "time": 1793017859.4454765,
+    "time": 1793190036.0760133,
     "route": {
       "callsign": "BAW308",
       "callsign_icao": "BAW308",
@@ -12815,7 +12815,7 @@
     }
   },
   "BAW5": {
-    "time": 1793017233.5540183,
+    "time": 1793190036.0760133,
     "route": {
       "callsign": "BAW5",
       "callsign_icao": "BAW5",
@@ -89365,7 +89365,7 @@
     }
   },
   "BAW28F": {
-    "time": 1793101836.1917133,
+    "time": 1793190036.0760133,
     "route": {
       "callsign": "BAW28F",
       "callsign_icao": "BAW28F",
@@ -97438,7 +97438,7 @@
     }
   },
   "UAL919": {
-    "time": 1793018436.6525822,
+    "time": 1793190036.0760133,
     "route": {
       "callsign": "UAL919",
       "callsign_icao": "UAL919",
@@ -125540,44 +125540,6 @@
         "longitude": 6.20444,
         "municipality": "Luxembourg",
         "name": "Luxembourg-Findel International Airport"
-      }
-    }
-  },
-  "EZY74AJ": {
-    "time": 1792584935.6986823,
-    "route": {
-      "callsign": "EZY74AJ",
-      "callsign_icao": "EZY74AJ",
-      "callsign_iata": "U274AJ",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 135,
-        "iata_code": "EDI",
-        "icao_code": "EGPH",
-        "latitude": 55.95015,
-        "longitude": -3.37229,
-        "municipality": "Edinburgh",
-        "name": "Edinburgh Airport"
-      },
-      "destination": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 885,
-        "iata_code": "BSL",
-        "icao_code": "LFSB",
-        "latitude": 47.59,
-        "longitude": 7.52917,
-        "municipality": "B\u00e2le/Mulhouse",
-        "name": "EuroAirport Basel-Mulhouse-Freiburg Airport"
       }
     }
   },
@@ -201796,7 +201758,7 @@
     }
   },
   "BAW365": {
-    "time": 1793018734.6565223,
+    "time": 1793190036.0760133,
     "route": {
       "callsign": "BAW365",
       "callsign_icao": "BAW365",
@@ -232201,7 +232163,7 @@
     }
   },
   "EZY64TP": {
-    "time": 1793030465.3621702,
+    "time": 1793190036.0760133,
     "route": {
       "callsign": "EZY64TP",
       "callsign_icao": "EZY64TP",
@@ -235013,7 +234975,7 @@
     }
   },
   "RYR733V": {
-    "time": 1793061633.7084825,
+    "time": 1793190036.0760133,
     "route": {
       "callsign": "RYR733V",
       "callsign_icao": "RYR733V",
@@ -317507,6 +317469,82 @@
         "longitude": -80.2906,
         "municipality": "Miami",
         "name": "Miami International Airport"
+      }
+    }
+  },
+  "THY1933": {
+    "time": 1793190036.0760133,
+    "route": {
+      "callsign": "THY1933",
+      "callsign_icao": "THY1933",
+      "callsign_iata": "TK1933",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 312,
+        "iata_code": "SAW",
+        "icao_code": "LTFJ",
+        "latitude": 40.8986,
+        "longitude": 29.3092,
+        "municipality": "Pendik, Istanbul",
+        "name": "Istanbul Sabiha G\u00f6k\u00e7en International Airport"
+      },
+      "destination": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 184,
+        "iata_code": "BRU",
+        "icao_code": "EBBR",
+        "latitude": 50.9014,
+        "longitude": 4.48444,
+        "municipality": "Brussels",
+        "name": "Brussels Airport"
+      }
+    }
+  },
+  "BAW403": {
+    "time": 1793190036.0760133,
+    "route": {
+      "callsign": "BAW403",
+      "callsign_icao": "BAW403",
+      "callsign_iata": "BA403",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 184,
+        "iata_code": "BRU",
+        "icao_code": "EBBR",
+        "latitude": 50.9014,
+        "longitude": 4.48444,
+        "municipality": "Brussels",
+        "name": "Brussels Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
       }
     }
   }
