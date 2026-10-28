@@ -14669,44 +14669,6 @@
       }
     }
   },
-  "RUK9861": {
-    "time": 1792622127.601533,
-    "route": {
-      "callsign": "RUK9861",
-      "callsign_icao": "RUK9861",
-      "callsign_iata": "RK9861",
-      "airline": {
-        "name": "Ryanair UK",
-        "icao": "RUK",
-        "iata": "RK",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "MA",
-        "country_name": "Morocco",
-        "elevation": 384,
-        "iata_code": "ESU",
-        "icao_code": "GMMI",
-        "latitude": 31.3975,
-        "longitude": -9.68167,
-        "municipality": "Essaouira",
-        "name": "Essaouira-Mogador Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 348,
-        "iata_code": "STN",
-        "icao_code": "EGSS",
-        "latitude": 51.885,
-        "longitude": 0.235,
-        "municipality": "London",
-        "name": "London Stansted Airport"
-      }
-    }
-  },
   "BAW480N": {
     "time": 1793184638.1634097,
     "route": {
@@ -239750,7 +239712,7 @@
     }
   },
   "EZY71EW": {
-    "time": 1792931448.8712137,
+    "time": 1793227232.3786712,
     "route": {
       "callsign": "EZY71EW",
       "callsign_icao": "EZY71EW",
@@ -265423,7 +265385,7 @@
     }
   },
   "AFR57UD": {
-    "time": 1793140528.5402062,
+    "time": 1793227232.3786712,
     "route": {
       "callsign": "AFR57UD",
       "callsign_icao": "AFR57UD",
@@ -315151,6 +315113,44 @@
         "longitude": -6.27007,
         "municipality": "Dublin",
         "name": "Dublin Airport"
+      }
+    }
+  },
+  "TOM443": {
+    "time": 1793227232.3786712,
+    "route": {
+      "callsign": "TOM443",
+      "callsign_icao": "TOM443",
+      "callsign_iata": "BY443",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 20,
+        "iata_code": "DLM",
+        "icao_code": "LTBS",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "name": "Dalaman International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
