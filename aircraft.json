@@ -1,9 +1,83 @@
 {
-  "updated": "2026-10-29T03:05:28.147712+00:00",
+  "updated": "2026-10-29T03:10:36.027640+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": []
+  "aircraft": [
+    {
+      "hex": "a2061e",
+      "type": "adsb_icao",
+      "flight": "UAL84   ",
+      "r": "N22992",
+      "t": "B789",
+      "desc": "BOEING 787-9 Dreamliner",
+      "ownOp": "UNITED AIRLINES INC",
+      "year": "2025",
+      "alt_baro": 36975,
+      "alt_geom": 38150,
+      "gs": 530.4,
+      "ias": 277,
+      "tas": 488,
+      "mach": 0.848,
+      "wd": 318,
+      "ws": 53,
+      "oat": -55,
+      "tat": -24,
+      "track": 102.41,
+      "track_rate": 0.0,
+      "roll": -0.18,
+      "mag_heading": 97.56,
+      "true_heading": 98.78,
+      "baro_rate": 0,
+      "geom_rate": 0,
+      "squawk": "2237",
+      "emergency": "none",
+      "category": "A5",
+      "nav_qnh": 1012.8,
+      "nav_altitude_mcp": 36992,
+      "nav_heading": 97.03,
+      "nav_modes": [
+        "autopilot",
+        "vnav",
+        "lnav",
+        "tcas"
+      ],
+      "lat": 51.431704,
+      "lon": -0.048904,
+      "nic": 8,
+      "rc": 186,
+      "seen_pos": 0.302,
+      "version": 2,
+      "nic_baro": 1,
+      "nac_p": 9,
+      "nac_v": 2,
+      "sil": 3,
+      "sil_type": "perhour",
+      "gva": 2,
+      "sda": 2,
+      "alert": 0,
+      "spi": 0,
+      "mlat": [],
+      "tisb": [],
+      "messages": 117782,
+      "seen": 0.2,
+      "rssi": -7.3,
+      "dst": 13.486,
+      "dir": 94.4,
+      "origin": {
+        "iata": "EWR",
+        "icao": "KEWR",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "iata": "TLV",
+        "icao": "LLBG",
+        "name": "Ben Gurion International Airport"
+      },
+      "airline_name": "United Airlines",
+      "airline_iata": "UA"
+    }
+  ]
 }
