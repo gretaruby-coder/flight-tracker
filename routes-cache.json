@@ -14030,44 +14030,6 @@
       }
     }
   },
-  "TRA94Y": {
-    "time": 1792644034.7551289,
-    "route": {
-      "callsign": "TRA94Y",
-      "callsign_icao": "TRA94Y",
-      "callsign_iata": "HV94Y",
-      "airline": {
-        "name": "Transavia Holland",
-        "icao": "TRA",
-        "iata": "HV",
-        "country": "Netherlands",
-        "country_iso": "NL",
-        "callsign": "TRANSAVIA"
-      },
-      "origin": {
-        "country_iso_name": "NL",
-        "country_name": "Netherlands",
-        "elevation": -11,
-        "iata_code": "AMS",
-        "icao_code": "EHAM",
-        "latitude": 52.3086,
-        "longitude": 4.76389,
-        "municipality": "Amsterdam",
-        "name": "Amsterdam Airport Schiphol"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 46,
-        "iata_code": "ACE",
-        "icao_code": "GCRR",
-        "latitude": 28.9455,
-        "longitude": -13.6052,
-        "municipality": "Lanzarote Island",
-        "name": "C\u00e9sar Manrique-Lanzarote Airport"
-      }
-    }
-  },
   "MSR782": {
     "time": 1793196636.0811224,
     "route": {
@@ -314968,6 +314930,44 @@
         "longitude": -99.0721,
         "municipality": "Mexico City",
         "name": "Licenciado Benito Juarez International Airport"
+      }
+    }
+  },
+  "DAL152": {
+    "time": 1793248835.8759823,
+    "route": {
+      "callsign": "DAL152",
+      "callsign_icao": "DAL152",
+      "callsign_iata": "DL152",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
       }
     }
   }
