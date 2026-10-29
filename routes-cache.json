@@ -11309,7 +11309,7 @@
     }
   },
   "EFW22D": {
-    "time": 1792943730.9454892,
+    "time": 1793290838.7438178,
     "route": {
       "callsign": "EFW22D",
       "callsign_icao": "EFW22D",
@@ -15323,7 +15323,7 @@
     }
   },
   "SWR21M": {
-    "time": 1793203529.717962,
+    "time": 1793290838.7438178,
     "route": {
       "callsign": "SWR21M",
       "callsign_icao": "SWR21M",
@@ -21496,7 +21496,7 @@
     }
   },
   "KAC102": {
-    "time": 1793117128.692535,
+    "time": 1793290838.7438178,
     "route": {
       "callsign": "KAC102",
       "callsign_icao": "KAC102",
@@ -78052,7 +78052,7 @@
     }
   },
   "EFW461M": {
-    "time": 1792948536.0573423,
+    "time": 1793290838.7438178,
     "route": {
       "callsign": "EFW461M",
       "callsign_icao": "EFW461M",
@@ -88771,7 +88771,7 @@
     }
   },
   "BAW42DB": {
-    "time": 1793204435.4310691,
+    "time": 1793290838.7438178,
     "route": {
       "callsign": "BAW42DB",
       "callsign_icao": "BAW42DB",
@@ -135076,7 +135076,7 @@
     }
   },
   "SHT9C": {
-    "time": 1793035851.9819314,
+    "time": 1793290838.7438178,
     "route": {
       "callsign": "SHT9C",
       "callsign_icao": null,
@@ -209553,7 +209553,7 @@
     }
   },
   "RYR228R": {
-    "time": 1793016935.1418948,
+    "time": 1793290838.7438178,
     "route": {
       "callsign": "RYR228R",
       "callsign_icao": "RYR228R",
@@ -238646,7 +238646,7 @@
     }
   },
   "BAW848": {
-    "time": 1793202037.2471993,
+    "time": 1793290838.7438178,
     "route": {
       "callsign": "BAW848",
       "callsign_icao": "BAW848",
@@ -242204,7 +242204,7 @@
     }
   },
   "AFR35SM": {
-    "time": 1793118329.4182918,
+    "time": 1793290838.7438178,
     "route": {
       "callsign": "AFR35SM",
       "callsign_icao": "AFR35SM",
@@ -297650,7 +297650,7 @@
     }
   },
   "THY1934": {
-    "time": 1793204137.727859,
+    "time": 1793290838.7438178,
     "route": {
       "callsign": "THY1934",
       "callsign_icao": "THY1934",
@@ -308944,6 +308944,113 @@
         "longitude": 23.5037,
         "municipality": "Skiathos",
         "name": "Skiathos Island National Airport"
+      }
+    }
+  },
+  "THY7": {
+    "time": 1793290838.7438178,
+    "route": {
+      "callsign": "THY7",
+      "callsign_icao": "THY7",
+      "callsign_iata": "TK7",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 312,
+        "iata_code": "IAD",
+        "icao_code": "KIAD",
+        "latitude": 38.9445,
+        "longitude": -77.4558,
+        "municipality": "Washington",
+        "name": "Washington Dulles International Airport"
+      }
+    }
+  },
+  "GVSOZ": {
+    "time": 1793290838.7438178,
+    "route": {
+      "callsign": "GVSOZ",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 131,
+        "iata_code": null,
+        "icao_code": "EGLM",
+        "latitude": 51.5008,
+        "longitude": -0.77444,
+        "municipality": "Maidenhead",
+        "name": "White Waltham Airfield"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 184,
+        "iata_code": null,
+        "icao_code": "EGHS",
+        "latitude": 50.985,
+        "longitude": -2.35722,
+        "municipality": "Henstridge",
+        "name": "Henstridge Airfield"
+      }
+    }
+  },
+  "DLH2C": {
+    "time": 1793290838.7438178,
+    "route": {
+      "callsign": "DLH2C",
+      "callsign_icao": "DLH2C",
+      "callsign_iata": "LH2C",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1487,
+        "iata_code": "MUC",
+        "icao_code": "EDDM",
+        "latitude": 48.3538,
+        "longitude": 11.7861,
+        "municipality": "Munich",
+        "name": "Munich Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
       }
     }
   }
