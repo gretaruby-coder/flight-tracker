@@ -47873,44 +47873,6 @@
       }
     }
   },
-  "RYR8BU": {
-    "time": 1792710634.8453474,
-    "route": {
-      "callsign": "RYR8BU",
-      "callsign_icao": "RYR8BU",
-      "callsign_iata": "FR8BU",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 27,
-        "iata_code": "PMI",
-        "icao_code": "LEPA",
-        "latitude": 39.5517,
-        "longitude": 2.73881,
-        "municipality": "Palma De Mallorca",
-        "name": "Palma de Mallorca Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 622,
-        "iata_code": "BRS",
-        "icao_code": "EGGD",
-        "latitude": 51.3827,
-        "longitude": -2.71909,
-        "municipality": "Bristol",
-        "name": "Bristol Airport"
-      }
-    }
-  },
   "WUK75": {
     "time": 1792877726.537598,
     "route": {
@@ -155088,82 +155050,6 @@
       }
     }
   },
-  "TOM9EA": {
-    "time": 1792710634.8453474,
-    "route": {
-      "callsign": "TOM9EA",
-      "callsign_icao": "TOM9EA",
-      "callsign_iata": "BY9EA",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "GR",
-        "country_name": "Greece",
-        "elevation": 115,
-        "iata_code": "HER",
-        "icao_code": "LGIR",
-        "latitude": 35.3397,
-        "longitude": 25.1803,
-        "municipality": "Heraklion",
-        "name": "Heraklion International Nikos Kazantzakis Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 622,
-        "iata_code": "BRS",
-        "icao_code": "EGGD",
-        "latitude": 51.3827,
-        "longitude": -2.71909,
-        "municipality": "Bristol",
-        "name": "Bristol Airport"
-      }
-    }
-  },
-  "EZY8352": {
-    "time": 1792710634.8453474,
-    "route": {
-      "callsign": "EZY8352",
-      "callsign_icao": "EZY8352",
-      "callsign_iata": "U28352",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 294,
-        "iata_code": "NAP",
-        "icao_code": "LIRN",
-        "latitude": 40.886,
-        "longitude": 14.2908,
-        "municipality": "N\u00e1poli",
-        "name": "Naples International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      }
-    }
-  },
   "RYR17FZ": {
     "time": 1792711526.9432473,
     "route": {
@@ -230984,7 +230870,7 @@
     }
   },
   "RYR88RR": {
-    "time": 1793199325.299927,
+    "time": 1793315434.8911788,
     "route": {
       "callsign": "RYR88RR",
       "callsign_icao": "RYR88RR",
@@ -304338,6 +304224,44 @@
         "longitude": 25.2858,
         "municipality": "Vilnius",
         "name": "Vilnius International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "EZY24GT": {
+    "time": 1793315434.8911788,
+    "route": {
+      "callsign": "EZY24GT",
+      "callsign_icao": "EZY24GT",
+      "callsign_iata": "U224GT",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
       },
       "destination": {
         "country_iso_name": "GB",
