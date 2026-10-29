@@ -8497,7 +8497,7 @@
     }
   },
   "FIN4PE": {
-    "time": 1793113531.1012938,
+    "time": 1793284834.978309,
     "route": {
       "callsign": "FIN4PE",
       "callsign_icao": "FIN4PE",
@@ -12791,7 +12791,7 @@
     }
   },
   "CFE11A": {
-    "time": 1793027740.0551987,
+    "time": 1793284834.978309,
     "route": {
       "callsign": "CFE11A",
       "callsign_icao": "CFE11A",
@@ -17900,7 +17900,7 @@
     }
   },
   "EIN165": {
-    "time": 1793112338.3760698,
+    "time": 1793284834.978309,
     "route": {
       "callsign": "EIN165",
       "callsign_icao": "EIN165",
@@ -158971,37 +158971,6 @@
       }
     }
   },
-  "NJE602W": {
-    "time": 1792680034.8464587,
-    "route": {
-      "callsign": "NJE602W",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "NO",
-        "country_name": "Norway",
-        "elevation": 681,
-        "iata_code": "OSL",
-        "icao_code": "ENGM",
-        "latitude": 60.1939,
-        "longitude": 11.1004,
-        "municipality": "Oslo",
-        "name": "Oslo Airport, Gardermoen"
-      },
-      "destination": {
-        "country_iso_name": "NO",
-        "country_name": "Norway",
-        "elevation": 681,
-        "iata_code": "OSL",
-        "icao_code": "ENGM",
-        "latitude": 60.1939,
-        "longitude": 11.1004,
-        "municipality": "Oslo",
-        "name": "Oslo Airport, Gardermoen"
-      }
-    }
-  },
   "GZSDB": {
     "time": 1792680637.422501,
     "route": {
@@ -194595,7 +194564,7 @@
     }
   },
   "EIN4GV": {
-    "time": 1792849532.6731138,
+    "time": 1793284834.978309,
     "route": {
       "callsign": "EIN4GV",
       "callsign_icao": "EIN4GV",
@@ -235851,7 +235820,7 @@
     }
   },
   "IBE07DE": {
-    "time": 1793198130.768352,
+    "time": 1793284834.978309,
     "route": {
       "callsign": "IBE07DE",
       "callsign_icao": "IBE07DE",
@@ -236725,7 +236694,7 @@
     }
   },
   "EWG6YP": {
-    "time": 1793113843.5022876,
+    "time": 1793284834.978309,
     "route": {
       "callsign": "EWG6YP",
       "callsign_icao": "EWG6YP",
@@ -289382,7 +289351,7 @@
     }
   },
   "EXS4L": {
-    "time": 1793122531.693406,
+    "time": 1793284834.978309,
     "route": {
       "callsign": "EXS4L",
       "callsign_icao": "EXS4L",
@@ -310519,6 +310488,44 @@
         "longitude": 30.8005,
         "municipality": "Antalya",
         "name": "Antalya International Airport"
+      }
+    }
+  },
+  "TOM6AV": {
+    "time": 1793284834.978309,
+    "route": {
+      "callsign": "TOM6AV",
+      "callsign_icao": "TOM6AV",
+      "callsign_iata": "BY6AV",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 412,
+        "iata_code": "KGS",
+        "icao_code": "LGKO",
+        "latitude": 36.7933,
+        "longitude": 27.0917,
+        "municipality": "Kos Island",
+        "name": "Kos Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
