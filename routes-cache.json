@@ -45107,7 +45107,7 @@
     }
   },
   "EFW5BR": {
-    "time": 1792959036.1296864,
+    "time": 1793304934.2000077,
     "route": {
       "callsign": "EFW5BR",
       "callsign_icao": "EFW5BR",
@@ -72114,7 +72114,7 @@
     }
   },
   "BAW487E": {
-    "time": 1793215850.8441052,
+    "time": 1793304934.2000077,
     "route": {
       "callsign": "BAW487E",
       "callsign_icao": "BAW487E",
@@ -245938,7 +245938,7 @@
     }
   },
   "BAW322": {
-    "time": 1793218233.7509289,
+    "time": 1793304934.2000077,
     "route": {
       "callsign": "BAW322",
       "callsign_icao": "BAW322",
@@ -265289,7 +265289,7 @@
     }
   },
   "LJC5": {
-    "time": 1793033725.5545692,
+    "time": 1793304934.2000077,
     "route": {
       "callsign": "LJC5",
       "callsign_icao": null,
@@ -305945,6 +305945,82 @@
         "longitude": -3.34333,
         "municipality": "Cardiff",
         "name": "Cardiff International Airport"
+      }
+    }
+  },
+  "RYR92LX": {
+    "time": 1793304934.2000077,
+    "route": {
+      "callsign": "RYR92LX",
+      "callsign_icao": "RYR92LX",
+      "callsign_iata": "FR92LX",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "GEC8160": {
+    "time": 1793304934.2000077,
+    "route": {
+      "callsign": "GEC8160",
+      "callsign_icao": "GEC8160",
+      "callsign_iata": "LH8160",
+      "airline": {
+        "name": "Lufthansa Cargo",
+        "icao": "GEC",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA CARGO"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
       }
     }
   }
