@@ -102156,44 +102156,6 @@
       }
     }
   },
-  "RYR53ZL": {
-    "time": 1792711235.3131545,
-    "route": {
-      "callsign": "RYR53ZL",
-      "callsign_icao": "RYR53ZL",
-      "callsign_iata": "FR53ZL",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 53,
-        "iata_code": "HAM",
-        "icao_code": "EDDH",
-        "latitude": 53.6304,
-        "longitude": 9.98823,
-        "municipality": "Hamburg",
-        "name": "Hamburg Helmut Schmidt Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 348,
-        "iata_code": "STN",
-        "icao_code": "EGSS",
-        "latitude": 51.885,
-        "longitude": 0.235,
-        "municipality": "London",
-        "name": "London Stansted Airport"
-      }
-    }
-  },
   "EZY13ZA": {
     "time": 1792780837.2347193,
     "route": {
@@ -109484,7 +109446,7 @@
     }
   },
   "DHK28L": {
-    "time": 1793145664.9447038,
+    "time": 1793316330.3052652,
     "route": {
       "callsign": "DHK28L",
       "callsign_icao": "DHK28L",
@@ -155009,44 +154971,6 @@
         "longitude": 28.74195,
         "municipality": "Arnavutk\u00f6y, Istanbul",
         "name": "\u0130stanbul Airport"
-      }
-    }
-  },
-  "RYR17FZ": {
-    "time": 1792711526.9432473,
-    "route": {
-      "callsign": "RYR17FZ",
-      "callsign_icao": "RYR17FZ",
-      "callsign_iata": "FR17FZ",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 142,
-        "iata_code": "ALC",
-        "icao_code": "LEAL",
-        "latitude": 38.2822,
-        "longitude": -0.55816,
-        "municipality": "Alicante",
-        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 257,
-        "iata_code": "MAN",
-        "icao_code": "EGCC",
-        "latitude": 53.34938,
-        "longitude": -2.27952,
-        "municipality": "Manchester",
-        "name": "Manchester Airport"
       }
     }
   },
@@ -269016,7 +268940,7 @@
     }
   },
   "EZY73QL": {
-    "time": 1793229635.0097122,
+    "time": 1793316330.3052652,
     "route": {
       "callsign": "EZY73QL",
       "callsign_icao": "EZY73QL",
@@ -304273,6 +304197,82 @@
         "longitude": 11.2887,
         "municipality": "Bologna",
         "name": "Bologna Guglielmo Marconi Airport"
+      }
+    }
+  },
+  "EZY65RC": {
+    "time": 1793316330.3052652,
+    "route": {
+      "callsign": "EZY65RC",
+      "callsign_icao": "EZY65RC",
+      "callsign_iata": "U265RC",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 20,
+        "iata_code": "DLM",
+        "icao_code": "LTBS",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "name": "Dalaman International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "RYR443T": {
+    "time": 1793316330.3052652,
+    "route": {
+      "callsign": "RYR443T",
+      "callsign_icao": "RYR443T",
+      "callsign_iata": "FR443T",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "LV",
+        "country_name": "Latvia",
+        "elevation": 36,
+        "iata_code": "RIX",
+        "icao_code": "EVRA",
+        "latitude": 56.9236,
+        "longitude": 23.9711,
+        "municipality": "Riga",
+        "name": "Riga International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 359,
+        "iata_code": "BVA",
+        "icao_code": "LFOB",
+        "latitude": 49.4544,
+        "longitude": 2.11278,
+        "municipality": "Beauvais",
+        "name": "Paris Beauvais Till\u00e9 Airport"
       }
     }
   }
