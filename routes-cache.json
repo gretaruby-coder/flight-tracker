@@ -3150,7 +3150,7 @@
     }
   },
   "BAW23T": {
-    "time": 1793098528.8466132,
+    "time": 1793270435.996786,
     "route": {
       "callsign": "BAW23T",
       "callsign_icao": "BAW23T",
@@ -9827,7 +9827,7 @@
     }
   },
   "BAW8NG": {
-    "time": 1793100651.882618,
+    "time": 1793270435.996786,
     "route": {
       "callsign": "BAW8NG",
       "callsign_icao": "BAW8NG",
@@ -86087,7 +86087,7 @@
     }
   },
   "FIN7LP": {
-    "time": 1793098870.1909559,
+    "time": 1793270435.996786,
     "route": {
       "callsign": "FIN7LP",
       "callsign_icao": "FIN7LP",
@@ -87721,7 +87721,7 @@
     }
   },
   "ACA858": {
-    "time": 1793183727.5821457,
+    "time": 1793270435.996786,
     "route": {
       "callsign": "ACA858",
       "callsign_icao": "ACA858",
@@ -94661,7 +94661,7 @@
     }
   },
   "BAW26V": {
-    "time": 1793097326.4472933,
+    "time": 1793270435.996786,
     "route": {
       "callsign": "BAW26V",
       "callsign_icao": "BAW26V",
@@ -98447,7 +98447,7 @@
     }
   },
   "BAW462V": {
-    "time": 1793098236.7272327,
+    "time": 1793270435.996786,
     "route": {
       "callsign": "BAW462V",
       "callsign_icao": "BAW462V",
@@ -224596,7 +224596,7 @@
     }
   },
   "THY1BE": {
-    "time": 1793097935.499954,
+    "time": 1793270435.996786,
     "route": {
       "callsign": "THY1BE",
       "callsign_icao": "THY1BE",
@@ -225318,7 +225318,7 @@
     }
   },
   "AAL103": {
-    "time": 1793098870.1909559,
+    "time": 1793270435.996786,
     "route": {
       "callsign": "AAL103",
       "callsign_icao": "AAL103",
@@ -225850,7 +225850,7 @@
     }
   },
   "BAW978": {
-    "time": 1793100329.6226726,
+    "time": 1793270435.996786,
     "route": {
       "callsign": "BAW978",
       "callsign_icao": "BAW978",
@@ -232959,7 +232959,7 @@
     }
   },
   "EZY56DQ": {
-    "time": 1792932635.037039,
+    "time": 1793270435.996786,
     "route": {
       "callsign": "EZY56DQ",
       "callsign_icao": "EZY56DQ",
@@ -287641,7 +287641,7 @@
     }
   },
   "AEE6LW": {
-    "time": 1793097935.499954,
+    "time": 1793270435.996786,
     "route": {
       "callsign": "AEE6LW",
       "callsign_icao": "AEE6LW",
@@ -311942,6 +311942,82 @@
         "longitude": -8.68139,
         "municipality": "Porto",
         "name": "Francisco de S\u00e1 Carneiro Airport"
+      }
+    }
+  },
+  "CFG5CU": {
+    "time": 1793270435.996786,
+    "route": {
+      "callsign": "CFG5CU",
+      "callsign_icao": "CFG5CU",
+      "callsign_iata": "DE5CU",
+      "airline": {
+        "name": "Condor Flugdienst",
+        "icao": "CFG",
+        "iata": "DE",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "CONDOR"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 147,
+        "iata_code": "DUS",
+        "icao_code": "EDDL",
+        "latitude": 51.2895,
+        "longitude": 6.76678,
+        "municipality": "D\u00fcsseldorf",
+        "name": "D\u00fcsseldorf Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
+      }
+    }
+  },
+  "AAL763": {
+    "time": 1793270435.996786,
+    "route": {
+      "callsign": "AAL763",
+      "callsign_icao": "AAL763",
+      "callsign_iata": "AA763",
+      "airline": {
+        "name": "American Airlines",
+        "icao": "AAL",
+        "iata": "AA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "AMERICAN"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 748,
+        "iata_code": "CLT",
+        "icao_code": "KCLT",
+        "latitude": 35.214,
+        "longitude": -80.9431,
+        "municipality": "Charlotte",
+        "name": "Charlotte Douglas International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1026,
+        "iata_code": "ATL",
+        "icao_code": "KATL",
+        "latitude": 33.6367,
+        "longitude": -84.4281,
+        "municipality": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
       }
     }
   }
