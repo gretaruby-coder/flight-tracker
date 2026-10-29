@@ -147411,7 +147411,7 @@
     }
   },
   "DHK7017": {
-    "time": 1793147449.9009054,
+    "time": 1793234731.8750021,
     "route": {
       "callsign": "DHK7017",
       "callsign_icao": "DHK7017",
@@ -160043,44 +160043,6 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
-      }
-    }
-  },
-  "EXS4HW": {
-    "time": 1792629634.7336237,
-    "route": {
-      "callsign": "EXS4HW",
-      "callsign_icao": "EXS4HW",
-      "callsign_iata": "LS4HW",
-      "airline": {
-        "name": "Jet2.com",
-        "icao": "EXS",
-        "iata": "LS",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "CHANNEX"
-      },
-      "origin": {
-        "country_iso_name": "HU",
-        "country_name": "Hungary",
-        "elevation": 495,
-        "iata_code": "BUD",
-        "icao_code": "LHBP",
-        "latitude": 47.42976,
-        "longitude": 19.26109,
-        "municipality": "Budapest",
-        "name": "Budapest Liszt Ferenc International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 266,
-        "iata_code": "NCL",
-        "icao_code": "EGNT",
-        "latitude": 55.0375,
-        "longitude": -1.69167,
-        "municipality": "Newcastle",
-        "name": "Newcastle Airport"
       }
     }
   },
@@ -314892,6 +314854,44 @@
         "longitude": -15.3866,
         "municipality": "Gran Canaria Island",
         "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "ISR972": {
+    "time": 1793234731.8750021,
+    "route": {
+      "callsign": "ISR972",
+      "callsign_icao": "ISR972",
+      "callsign_iata": "6H972",
+      "airline": {
+        "name": "Israir Airlines",
+        "icao": "ISR",
+        "iata": "6H",
+        "country": "Israel",
+        "country_iso": "IL",
+        "callsign": "ISRAIR"
+      },
+      "origin": {
+        "country_iso_name": "CY",
+        "country_name": "Cyprus",
+        "elevation": 8,
+        "iata_code": "LCA",
+        "icao_code": "LCLK",
+        "latitude": 34.8751,
+        "longitude": 33.6249,
+        "municipality": "Larnaca",
+        "name": "Larnaca International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IL",
+        "country_name": "Israel",
+        "elevation": 135,
+        "iata_code": "TLV",
+        "icao_code": "LLBG",
+        "latitude": 32.0114,
+        "longitude": 34.8867,
+        "municipality": "Tel Aviv",
+        "name": "Ben Gurion International Airport"
       }
     }
   }
