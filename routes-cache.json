@@ -100940,44 +100940,6 @@
       }
     }
   },
-  "EZY67KR": {
-    "time": 1792710934.8400786,
-    "route": {
-      "callsign": "EZY67KR",
-      "callsign_icao": "EZY67KR",
-      "callsign_iata": "U267KR",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "GR",
-        "country_name": "Greece",
-        "elevation": 412,
-        "iata_code": "KGS",
-        "icao_code": "LGKO",
-        "latitude": 36.7933,
-        "longitude": 27.0917,
-        "municipality": "Kos Island",
-        "name": "Kos Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      }
-    }
-  },
   "BAW467": {
     "time": 1793305234.779588,
     "route": {
@@ -244304,7 +244266,7 @@
     }
   },
   "EZY17MJ": {
-    "time": 1793138732.3410063,
+    "time": 1793316033.2193136,
     "route": {
       "callsign": "EZY17MJ",
       "callsign_icao": "EZY17MJ",
@@ -267534,7 +267496,7 @@
     }
   },
   "EXS42WP": {
-    "time": 1793055325.3164256,
+    "time": 1793316033.2193136,
     "route": {
       "callsign": "EXS42WP",
       "callsign_icao": "EXS42WP",
@@ -304273,6 +304235,44 @@
         "longitude": -0.36833,
         "municipality": "London",
         "name": "London Luton Airport"
+      }
+    }
+  },
+  "RYR4419": {
+    "time": 1793316033.2193136,
+    "route": {
+      "callsign": "RYR4419",
+      "callsign_icao": "RYR4419",
+      "callsign_iata": "FR4419",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 47,
+        "iata_code": "BDS",
+        "icao_code": "LIBR",
+        "latitude": 40.6576,
+        "longitude": 17.947,
+        "municipality": "Brindisi",
+        "name": "Brindisi Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 123,
+        "iata_code": "BLQ",
+        "icao_code": "LIPE",
+        "latitude": 44.5354,
+        "longitude": 11.2887,
+        "municipality": "Bologna",
+        "name": "Bologna Guglielmo Marconi Airport"
       }
     }
   }
