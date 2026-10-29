@@ -47539,7 +47539,7 @@
     }
   },
   "BAW351": {
-    "time": 1793137535.7954757,
+    "time": 1793310924.832919,
     "route": {
       "callsign": "BAW351",
       "callsign_icao": "BAW351",
@@ -215726,7 +215726,7 @@
     }
   },
   "RYR6BF": {
-    "time": 1793104528.622472,
+    "time": 1793310924.832919,
     "route": {
       "callsign": "RYR6BF",
       "callsign_icao": "RYR6BF",
@@ -221063,7 +221063,7 @@
     }
   },
   "EZY86LR": {
-    "time": 1793131263.6261485,
+    "time": 1793310924.832919,
     "route": {
       "callsign": "EZY86LR",
       "callsign_icao": "EZY86LR",
@@ -243969,7 +243969,7 @@
     }
   },
   "EZY64ME": {
-    "time": 1793210729.3917282,
+    "time": 1793310924.832919,
     "route": {
       "callsign": "EZY64ME",
       "callsign_icao": "EZY64ME",
@@ -248401,7 +248401,7 @@
     }
   },
   "EZY38QY": {
-    "time": 1793138125.730284,
+    "time": 1793310924.832919,
     "route": {
       "callsign": "EZY38QY",
       "callsign_icao": "EZY38QY",
@@ -305185,6 +305185,82 @@
         "longitude": 103.994,
         "municipality": "Singapore",
         "name": "Singapore Changi Airport"
+      }
+    }
+  },
+  "CLX5164": {
+    "time": 1793310924.832919,
+    "route": {
+      "callsign": "CLX5164",
+      "callsign_icao": "CLX5164",
+      "callsign_iata": "CV5164",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 125,
+        "iata_code": "LAX",
+        "icao_code": "KLAX",
+        "latitude": 33.9425,
+        "longitude": -118.408,
+        "municipality": "Los Angeles",
+        "name": "Los Angeles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
+      }
+    }
+  },
+  "EXS57L": {
+    "time": 1793310924.832919,
+    "route": {
+      "callsign": "EXS57L",
+      "callsign_icao": "EXS57L",
+      "callsign_iata": "LS57L",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "CY",
+        "country_name": "Cyprus",
+        "elevation": 8,
+        "iata_code": "LCA",
+        "icao_code": "LCLK",
+        "latitude": 34.8751,
+        "longitude": 33.6249,
+        "municipality": "Larnaca",
+        "name": "Larnaca International Airport"
       }
     }
   }
