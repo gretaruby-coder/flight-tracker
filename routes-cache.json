@@ -2808,7 +2808,7 @@
     }
   },
   "BAW118": {
-    "time": 1793189434.0925186,
+    "time": 1793275836.308172,
     "route": {
       "callsign": "BAW118",
       "callsign_icao": "BAW118",
@@ -96143,7 +96143,7 @@
     }
   },
   "SRR902": {
-    "time": 1793017526.0506072,
+    "time": 1793275836.308172,
     "route": {
       "callsign": "SRR902",
       "callsign_icao": "SRR902",
@@ -129285,37 +129285,6 @@
       }
     }
   },
-  "FSE1B": {
-    "time": 1792671036.0704274,
-    "route": {
-      "callsign": "FSE1B",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 659,
-        "iata_code": "LYN",
-        "icao_code": "LFLY",
-        "latitude": 45.7272,
-        "longitude": 4.94427,
-        "municipality": "Lyon/Bron",
-        "name": "Lyon-Bron Airport"
-      },
-      "destination": {
-        "country_iso_name": "CH",
-        "country_name": "Switzerland",
-        "elevation": 1674,
-        "iata_code": "BRN",
-        "icao_code": "LSZB",
-        "latitude": 46.9141,
-        "longitude": 7.49715,
-        "municipality": "Bern",
-        "name": "Bern Belp Airport"
-      }
-    }
-  },
   "KLM792": {
     "time": 1793010651.249792,
     "route": {
@@ -159666,44 +159635,6 @@
         "longitude": -22.9494,
         "municipality": "Espargos",
         "name": "Am\u00edlcar Cabral International Airport"
-      }
-    }
-  },
-  "EZY152M": {
-    "time": 1792671036.0704274,
-    "route": {
-      "callsign": "EZY152M",
-      "callsign_icao": "EZY152M",
-      "callsign_iata": "U2152M",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 135,
-        "iata_code": "EDI",
-        "icao_code": "EGPH",
-        "latitude": 55.95015,
-        "longitude": -3.37229,
-        "municipality": "Edinburgh",
-        "name": "Edinburgh Airport"
       }
     }
   },
@@ -229612,7 +229543,7 @@
     }
   },
   "EZY25PL": {
-    "time": 1793053236.8126805,
+    "time": 1793275836.308172,
     "route": {
       "callsign": "EZY25PL",
       "callsign_icao": "EZY25PL",
@@ -286940,7 +286871,7 @@
     }
   },
   "NOZ1702": {
-    "time": 1793100329.6226726,
+    "time": 1793275836.308172,
     "route": {
       "callsign": "NOZ1702",
       "callsign_icao": "NOZ1702",
@@ -311393,6 +311324,44 @@
         "longitude": -84.4281,
         "municipality": "Atlanta",
         "name": "Hartsfield Jackson Atlanta International Airport"
+      }
+    }
+  },
+  "CLX86N": {
+    "time": 1793275836.308172,
+    "route": {
+      "callsign": "CLX86N",
+      "callsign_icao": "CLX86N",
+      "callsign_iata": "CV86N",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 8,
+        "iata_code": "MIA",
+        "icao_code": "KMIA",
+        "latitude": 25.7932,
+        "longitude": -80.2906,
+        "municipality": "Miami",
+        "name": "Miami International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
       }
     }
   }
