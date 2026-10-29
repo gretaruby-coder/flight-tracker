@@ -39162,7 +39162,7 @@
     }
   },
   "SIA21": {
-    "time": 1793046925.8775392,
+    "time": 1793307926.7508976,
     "route": {
       "callsign": "SIA21",
       "callsign_icao": "SIA21",
@@ -48071,7 +48071,7 @@
     }
   },
   "CFE93G": {
-    "time": 1793050528.0453184,
+    "time": 1793307926.7508976,
     "route": {
       "callsign": "CFE93G",
       "callsign_icao": "CFE93G",
@@ -48520,7 +48520,7 @@
     }
   },
   "EIN388": {
-    "time": 1793220931.9571507,
+    "time": 1793307926.7508976,
     "route": {
       "callsign": "EIN388",
       "callsign_icao": "EIN388",
@@ -109708,44 +109708,6 @@
         "longitude": 12.23639,
         "municipality": "Leipzig",
         "name": "Leipzig/Halle Airport"
-      }
-    }
-  },
-  "RYR42WC": {
-    "time": 1792702864.8509157,
-    "route": {
-      "callsign": "RYR42WC",
-      "callsign_icao": "RYR42WC",
-      "callsign_iata": "FR42WC",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 53,
-        "iata_code": "AGP",
-        "icao_code": "LEMG",
-        "latitude": 36.6749,
-        "longitude": -4.49911,
-        "municipality": "M\u00e1laga",
-        "name": "M\u00e1laga-Costa del Sol Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 526,
-        "iata_code": "LTN",
-        "icao_code": "EGGW",
-        "latitude": 51.8747,
-        "longitude": -0.36833,
-        "municipality": "London",
-        "name": "London Luton Airport"
       }
     }
   },
@@ -272125,7 +272087,7 @@
     }
   },
   "EZY9010": {
-    "time": 1793081433.1714895,
+    "time": 1793307926.7508976,
     "route": {
       "callsign": "EZY9010",
       "callsign_icao": "EZY9010",
@@ -294506,7 +294468,7 @@
     }
   },
   "BCS229": {
-    "time": 1793220046.4654355,
+    "time": 1793307926.7508976,
     "route": {
       "callsign": "BCS229",
       "callsign_icao": "BCS229",
@@ -305527,6 +305489,82 @@
         "longitude": -3.37229,
         "municipality": "Edinburgh",
         "name": "Edinburgh Airport"
+      }
+    }
+  },
+  "RYR422P": {
+    "time": 1793307926.7508976,
+    "route": {
+      "callsign": "RYR422P",
+      "callsign_icao": "RYR422P",
+      "callsign_iata": "FR422P",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      }
+    }
+  },
+  "RYR7GC": {
+    "time": 1793307926.7508976,
+    "route": {
+      "callsign": "RYR7GC",
+      "callsign_icao": "RYR7GC",
+      "callsign_iata": "FR7GC",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 112,
+        "iata_code": "SVQ",
+        "icao_code": "LEZL",
+        "latitude": 37.418,
+        "longitude": -5.89311,
+        "municipality": "Sevilla",
+        "name": "Sevilla Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 85,
+        "iata_code": "FUE",
+        "icao_code": "GCFV",
+        "latitude": 28.4527,
+        "longitude": -13.8638,
+        "municipality": "Fuerteventura Island",
+        "name": "Fuerteventura Airport"
       }
     }
   }
