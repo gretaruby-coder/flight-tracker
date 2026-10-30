@@ -111080,7 +111080,7 @@
     }
   },
   "BCS92L": {
-    "time": 1793152525.4587235,
+    "time": 1793325323.7030432,
     "route": {
       "callsign": "BCS92L",
       "callsign_icao": "BCS92L",
@@ -111118,7 +111118,7 @@
     }
   },
   "ETD6HZ": {
-    "time": 1793065831.29913,
+    "time": 1793325323.7030432,
     "route": {
       "callsign": "ETD6HZ",
       "callsign_icao": "ETD6HZ",
@@ -303893,6 +303893,44 @@
         "longitude": -1.74803,
         "municipality": "Birmingham",
         "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "MSR947": {
+    "time": 1793325323.7030432,
+    "route": {
+      "callsign": "MSR947",
+      "callsign_icao": "MSR947",
+      "callsign_iata": "MS947",
+      "airline": {
+        "name": "Egyptair",
+        "icao": "MSR",
+        "iata": "MS",
+        "country": "Egypt",
+        "country_iso": "EG",
+        "callsign": "EGYPTAIR"
+      },
+      "origin": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 382,
+        "iata_code": "CAI",
+        "icao_code": "HECA",
+        "latitude": 30.1219,
+        "longitude": 31.4056,
+        "municipality": "Cairo",
+        "name": "Cairo International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
       }
     }
   }
