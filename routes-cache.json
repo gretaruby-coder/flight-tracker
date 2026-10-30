@@ -57215,7 +57215,7 @@
     }
   },
   "DAL16": {
-    "time": 1793257837.89254,
+    "time": 1793344532.1245074,
     "route": {
       "callsign": "DAL16",
       "callsign_icao": "DAL16",
@@ -60210,7 +60210,7 @@
     }
   },
   "SAS51N": {
-    "time": 1793257263.964257,
+    "time": 1793344532.1245074,
     "route": {
       "callsign": "SAS51N",
       "callsign_icao": "SAS51N",
@@ -75309,7 +75309,7 @@
     }
   },
   "BAW5KW": {
-    "time": 1793256636.4473283,
+    "time": 1793344532.1245074,
     "route": {
       "callsign": "BAW5KW",
       "callsign_icao": "BAW5KW",
@@ -193652,7 +193652,7 @@
     }
   },
   "EZY46PV": {
-    "time": 1793173236.7432084,
+    "time": 1793344532.1245074,
     "route": {
       "callsign": "EZY46PV",
       "callsign_icao": "EZY46PV",
@@ -235008,7 +235008,7 @@
     }
   },
   "EZY48AJ": {
-    "time": 1793088936.1255355,
+    "time": 1793344532.1245074,
     "route": {
       "callsign": "EZY48AJ",
       "callsign_icao": "EZY48AJ",
@@ -241143,7 +241143,7 @@
     }
   },
   "TSC110": {
-    "time": 1792998061.1845305,
+    "time": 1793344532.1245074,
     "route": {
       "callsign": "TSC110",
       "callsign_icao": "TSC110",
@@ -242922,7 +242922,7 @@
     }
   },
   "EZY98JC": {
-    "time": 1793178329.8262482,
+    "time": 1793344532.1245074,
     "route": {
       "callsign": "EZY98JC",
       "callsign_icao": "EZY98JC",
@@ -263734,7 +263734,7 @@
     }
   },
   "EXS3UD": {
-    "time": 1793255455.0114157,
+    "time": 1793344532.1245074,
     "route": {
       "callsign": "EXS3UD",
       "callsign_icao": "EXS3UD",
@@ -298953,6 +298953,44 @@
         "longitude": -3.34333,
         "municipality": "Cardiff",
         "name": "Cardiff International Airport"
+      }
+    }
+  },
+  "ELY026": {
+    "time": 1793344532.1245074,
+    "route": {
+      "callsign": "ELY26",
+      "callsign_icao": "ELY26",
+      "callsign_iata": "LY26",
+      "airline": {
+        "name": "El Al Israel Airlines",
+        "icao": "ELY",
+        "iata": "LY",
+        "country": "Israel",
+        "country_iso": "IL",
+        "callsign": "ELAL"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IL",
+        "country_name": "Israel",
+        "elevation": 135,
+        "iata_code": "TLV",
+        "icao_code": "LLBG",
+        "latitude": 32.0114,
+        "longitude": 34.8867,
+        "municipality": "Tel Aviv",
+        "name": "Ben Gurion International Airport"
       }
     }
   }
