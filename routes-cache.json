@@ -55505,7 +55505,7 @@
     }
   },
   "AAL50": {
-    "time": 1793169326.441767,
+    "time": 1793342126.3647234,
     "route": {
       "callsign": "AAL50",
       "callsign_icao": "AAL50",
@@ -55581,7 +55581,7 @@
     }
   },
   "VIR450": {
-    "time": 1793254532.0898087,
+    "time": 1793342126.3647234,
     "route": {
       "callsign": "VIR450",
       "callsign_icao": "VIR450",
@@ -59526,7 +59526,7 @@
     }
   },
   "BAW138": {
-    "time": 1793254840.1635044,
+    "time": 1793342126.3647234,
     "route": {
       "callsign": "BAW138",
       "callsign_icao": "BAW138",
@@ -75233,7 +75233,7 @@
     }
   },
   "VIR479F": {
-    "time": 1793254840.1635044,
+    "time": 1793342126.3647234,
     "route": {
       "callsign": "VIR479F",
       "callsign_icao": "VIR479F",
@@ -192087,7 +192087,7 @@
     }
   },
   "RYR48FD": {
-    "time": 1793254840.1635044,
+    "time": 1793342126.3647234,
     "route": {
       "callsign": "RYR48FD",
       "callsign_icao": "RYR48FD",
@@ -193493,7 +193493,7 @@
     }
   },
   "EZY32CF": {
-    "time": 1792911925.784637,
+    "time": 1793342126.3647234,
     "route": {
       "callsign": "EZY32CF",
       "callsign_icao": "EZY32CF",
@@ -244283,7 +244283,7 @@
     }
   },
   "EFW9GD": {
-    "time": 1793000433.1665323,
+    "time": 1793342126.3647234,
     "route": {
       "callsign": "EFW9GD",
       "callsign_icao": "EFW9GD",
@@ -264867,7 +264867,7 @@
     }
   },
   "WMT1XT": {
-    "time": 1793169636.4264324,
+    "time": 1793342126.3647234,
     "route": {
       "callsign": "WMT1XT",
       "callsign_icao": "WMT1XT",
@@ -300321,6 +300321,75 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "TWY44": {
+    "time": 1793342126.3647234,
+    "route": {
+      "callsign": "TWY44",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 421,
+        "iata_code": "SYR",
+        "icao_code": "KSYR",
+        "latitude": 43.1112,
+        "longitude": -76.1063,
+        "municipality": "Syracuse",
+        "name": "Syracuse Hancock International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 12,
+        "iata_code": "NCE",
+        "icao_code": "LFMN",
+        "latitude": 43.6584,
+        "longitude": 7.21587,
+        "municipality": "Nice",
+        "name": "Nice-C\u00f4te d'Azur Airport"
+      }
+    }
+  },
+  "EXS049A": {
+    "time": 1793342126.3647234,
+    "route": {
+      "callsign": "EXS049A",
+      "callsign_icao": "EXS049A",
+      "callsign_iata": "LS049A",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
       }
     }
   }
