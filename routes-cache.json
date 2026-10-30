@@ -154936,44 +154936,6 @@
       }
     }
   },
-  "EXS30KR": {
-    "time": 1792715126.314982,
-    "route": {
-      "callsign": "EXS30KR",
-      "callsign_icao": "EXS30KR",
-      "callsign_iata": "LS30KR",
-      "airline": {
-        "name": "Jet2.com",
-        "icao": "EXS",
-        "iata": "LS",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "CHANNEX"
-      },
-      "origin": {
-        "country_iso_name": "TR",
-        "country_name": "Turkey",
-        "elevation": 20,
-        "iata_code": "DLM",
-        "icao_code": "LTBS",
-        "latitude": 36.7131,
-        "longitude": 28.7925,
-        "municipality": "Dalaman",
-        "name": "Dalaman International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 526,
-        "iata_code": "LTN",
-        "icao_code": "EGGW",
-        "latitude": 51.8747,
-        "longitude": -0.36833,
-        "municipality": "London",
-        "name": "London Luton Airport"
-      }
-    }
-  },
   "EXS1268": {
     "time": 1792715724.8848696,
     "route": {
@@ -239143,7 +239105,7 @@
     }
   },
   "RYR8LD": {
-    "time": 1793204730.065065,
+    "time": 1793320247.4896374,
     "route": {
       "callsign": "RYR8LD",
       "callsign_icao": "RYR8LD",
@@ -304159,6 +304121,44 @@
         "longitude": -2.71909,
         "municipality": "Bristol",
         "name": "Bristol Airport"
+      }
+    }
+  },
+  "EXS050B": {
+    "time": 1793320247.4896374,
+    "route": {
+      "callsign": "EXS050B",
+      "callsign_icao": "EXS050B",
+      "callsign_iata": "LS050B",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
