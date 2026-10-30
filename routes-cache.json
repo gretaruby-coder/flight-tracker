@@ -137510,44 +137510,6 @@
       }
     }
   },
-  "WUK7PY": {
-    "time": 1792723532.4678578,
-    "route": {
-      "callsign": "WUK7PY",
-      "callsign_icao": "WUK7PY",
-      "callsign_iata": "W97PY",
-      "airline": {
-        "name": "Wizz Air UK",
-        "icao": "WUK",
-        "iata": "W9",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "TR",
-        "country_name": "Turkey",
-        "elevation": 20,
-        "iata_code": "DLM",
-        "icao_code": "LTBS",
-        "latitude": 36.7131,
-        "longitude": 28.7925,
-        "municipality": "Dalaman",
-        "name": "Dalaman International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      }
-    }
-  },
   "BOX393": {
     "time": 1793151327.0672824,
     "route": {
@@ -303817,6 +303779,44 @@
         "longitude": -80.2906,
         "municipality": "Miami",
         "name": "Miami International Airport"
+      }
+    }
+  },
+  "AAL293": {
+    "time": 1793328333.45008,
+    "route": {
+      "callsign": "AAL293",
+      "callsign_icao": "AAL293",
+      "callsign_iata": "AA293",
+      "airline": {
+        "name": "American Airlines",
+        "icao": "AAL",
+        "iata": "AA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "AMERICAN"
+      },
+      "origin": {
+        "country_iso_name": "IN",
+        "country_name": "India",
+        "elevation": 777,
+        "iata_code": "DEL",
+        "icao_code": "VIDP",
+        "latitude": 28.5665,
+        "longitude": 77.1031,
+        "municipality": "New Delhi",
+        "name": "Indira Gandhi International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
       }
     }
   }
