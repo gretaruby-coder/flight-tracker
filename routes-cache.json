@@ -110381,44 +110381,6 @@
       }
     }
   },
-  "RYR5PH": {
-    "time": 1792797926.855415,
-    "route": {
-      "callsign": "RYR5PH",
-      "callsign_icao": "RYR5PH",
-      "callsign_iata": "FR5PH",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 2077,
-        "iata_code": "FMM",
-        "icao_code": "EDJA",
-        "latitude": 47.9888,
-        "longitude": 10.2395,
-        "municipality": "Memmingen",
-        "name": "Memmingen Allgau Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 348,
-        "iata_code": "STN",
-        "icao_code": "EGSS",
-        "latitude": 51.885,
-        "longitude": 0.235,
-        "municipality": "London",
-        "name": "London Stansted Airport"
-      }
-    }
-  },
   "EXS94DL": {
     "time": 1792885834.7750032,
     "route": {
@@ -118826,44 +118788,6 @@
         "longitude": 55.3644,
         "municipality": "Dubai",
         "name": "Dubai International Airport"
-      }
-    }
-  },
-  "EJU9055": {
-    "time": 1792797926.855415,
-    "route": {
-      "callsign": "EJU9055",
-      "callsign_icao": "EJU9055",
-      "callsign_iata": "EC9055",
-      "airline": {
-        "name": "easyJet Europe",
-        "icao": "EJU",
-        "iata": "EC",
-        "country": "Austria",
-        "country_iso": "AT",
-        "callsign": "Alpine"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 622,
-        "iata_code": "BRS",
-        "icao_code": "EGGD",
-        "latitude": 51.3827,
-        "longitude": -2.71909,
-        "municipality": "Bristol",
-        "name": "Bristol Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 53,
-        "iata_code": "AGP",
-        "icao_code": "LEMG",
-        "latitude": 36.6749,
-        "longitude": -4.49911,
-        "municipality": "M\u00e1laga",
-        "name": "M\u00e1laga-Costa del Sol Airport"
       }
     }
   },
@@ -261612,6 +261536,120 @@
         "longitude": -6.75152,
         "municipality": "Rabat",
         "name": "Rabat-Sal\u00e9 Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "EZY24PA": {
+    "time": 1793403046.4832551,
+    "route": {
+      "callsign": "EZY24PA",
+      "callsign_icao": "EZY24PA",
+      "callsign_iata": "U224PA",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 112,
+        "iata_code": "SVQ",
+        "icao_code": "LEZL",
+        "latitude": 37.418,
+        "longitude": -5.89311,
+        "municipality": "Sevilla",
+        "name": "Sevilla Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "RYR45YJ": {
+    "time": 1793403046.4832551,
+    "route": {
+      "callsign": "RYR45YJ",
+      "callsign_icao": "RYR45YJ",
+      "callsign_iata": "FR45YJ",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "PGT1533": {
+    "time": 1793403046.4832551,
+    "route": {
+      "callsign": "PGT1533",
+      "callsign_icao": "PGT1533",
+      "callsign_iata": "H91533",
+      "airline": {
+        "name": "Pegasus Airlines",
+        "icao": "PGT",
+        "iata": "H9",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "SUNTURK"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 412,
+        "iata_code": "ADB",
+        "icao_code": "LTBJ",
+        "latitude": 38.2924,
+        "longitude": 27.157,
+        "municipality": "\u0130zmir",
+        "name": "Adnan Menderes International Airport"
       },
       "destination": {
         "country_iso_name": "GB",
