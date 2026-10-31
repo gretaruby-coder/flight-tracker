@@ -1050,7 +1050,7 @@
     }
   },
   "SSP22": {
-    "time": 1793349049.619267,
+    "time": 1793466059.0551736,
     "route": {
       "callsign": "SSP22",
       "callsign_icao": null,
@@ -10794,7 +10794,7 @@
     }
   },
   "VIR355": {
-    "time": 1793373334.8983035,
+    "time": 1793466059.0551736,
     "route": {
       "callsign": "VIR355",
       "callsign_icao": "VIR355",
@@ -16649,7 +16649,7 @@
     }
   },
   "GKARE": {
-    "time": 1793284526.7824981,
+    "time": 1793466059.0551736,
     "route": {
       "callsign": "GKARE",
       "callsign_icao": null,
@@ -54879,7 +54879,7 @@
     }
   },
   "VIR129R": {
-    "time": 1793368527.321974,
+    "time": 1793466059.0551736,
     "route": {
       "callsign": "VIR129R",
       "callsign_icao": "VIR129R",
@@ -56285,7 +56285,7 @@
     }
   },
   "BAW381": {
-    "time": 1793198736.0762568,
+    "time": 1793466059.0551736,
     "route": {
       "callsign": "BAW381",
       "callsign_icao": "BAW381",
@@ -89743,7 +89743,7 @@
     }
   },
   "EZY3071": {
-    "time": 1793117438.9304082,
+    "time": 1793466059.0551736,
     "route": {
       "callsign": "EZY3071",
       "callsign_icao": "EZY3071",
@@ -136937,7 +136937,7 @@
     }
   },
   "BAW983": {
-    "time": 1793208036.9014087,
+    "time": 1793466059.0551736,
     "route": {
       "callsign": "BAW983",
       "callsign_icao": "BAW983",
@@ -183245,7 +183245,7 @@
     }
   },
   "EZY34XV": {
-    "time": 1793319633.5014834,
+    "time": 1793466059.0551736,
     "route": {
       "callsign": "EZY34XV",
       "callsign_icao": "EZY34XV",
@@ -228726,6 +228726,113 @@
         "longitude": -3.41389,
         "municipality": "Exeter",
         "name": "Exeter International Airport"
+      }
+    }
+  },
+  "AFR358": {
+    "time": 1793466059.0551736,
+    "route": {
+      "callsign": "AFR358",
+      "callsign_icao": "AFR358",
+      "callsign_iata": "AF358",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 291,
+        "iata_code": "ORY",
+        "icao_code": "LFPO",
+        "latitude": 48.72333,
+        "longitude": 2.37944,
+        "municipality": "Paris",
+        "name": "Paris-Orly Airport"
+      },
+      "destination": {
+        "country_iso_name": "RE",
+        "country_name": "R\u00e9union",
+        "elevation": 66,
+        "iata_code": "RUN",
+        "icao_code": "FMEE",
+        "latitude": -20.8871,
+        "longitude": 55.5103,
+        "municipality": "St Denis",
+        "name": "Roland Garros Airport"
+      }
+    }
+  },
+  "NSZ4528": {
+    "time": 1793466059.0551736,
+    "route": {
+      "callsign": "NSZ4528",
+      "callsign_icao": "NSZ4528",
+      "callsign_iata": "D84528",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 1545,
+        "iata_code": "RAK",
+        "icao_code": "GMMX",
+        "latitude": 31.6069,
+        "longitude": -8.0363,
+        "municipality": "Marrakech",
+        "name": "Menara Airport"
+      },
+      "destination": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      }
+    }
+  },
+  "JME419M": {
+    "time": 1793466059.0551736,
+    "route": {
+      "callsign": "JME419M",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 9,
+        "iata_code": "TEB",
+        "icao_code": "KTEB",
+        "latitude": 40.8501,
+        "longitude": -74.0608,
+        "municipality": "Teterboro",
+        "name": "Teterboro Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1099,
+        "iata_code": "YKM",
+        "icao_code": "KYKM",
+        "latitude": 46.5682,
+        "longitude": -120.544,
+        "municipality": "Yakima",
+        "name": "Yakima Air Terminal McAllister Field"
       }
     }
   }
