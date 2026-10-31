@@ -260941,5 +260941,43 @@
         "name": "Chicago O'Hare International Airport"
       }
     }
+  },
+  "BCS19U": {
+    "time": 1793416232.3313854,
+    "route": {
+      "callsign": "BCS19U",
+      "callsign_icao": "BCS19U",
+      "callsign_iata": "QY19U",
+      "airline": {
+        "name": "European Air Transport",
+        "icao": "BCS",
+        "iata": "QY",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "EUROTRANS"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 465,
+        "iata_code": "LEJ",
+        "icao_code": "EDDP",
+        "latitude": 51.42389,
+        "longitude": 12.23639,
+        "municipality": "Leipzig",
+        "name": "Leipzig/Halle Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
   }
 }
