@@ -191770,7 +191770,7 @@
     }
   },
   "FDX97": {
-    "time": 1793325927.3394322,
+    "time": 1793485524.6015182,
     "route": {
       "callsign": "FDX97",
       "callsign_icao": "FDX97",
@@ -218221,6 +218221,44 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "ETH501": {
+    "time": 1793485524.6015182,
+    "route": {
+      "callsign": "ETH501",
+      "callsign_icao": "ETH501",
+      "callsign_iata": "ET501",
+      "airline": {
+        "name": "Ethiopian Airlines",
+        "icao": "ETH",
+        "iata": "ET",
+        "country": "Ethiopia",
+        "country_iso": "ET",
+        "callsign": "ETHIOPIAN"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 312,
+        "iata_code": "IAD",
+        "icao_code": "KIAD",
+        "latitude": 38.9445,
+        "longitude": -77.4558,
+        "municipality": "Washington",
+        "name": "Washington Dulles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "ET",
+        "country_name": "Ethiopia",
+        "elevation": 7630,
+        "iata_code": "ADD",
+        "icao_code": "HAAB",
+        "latitude": 8.97789,
+        "longitude": 38.7993,
+        "municipality": "Addis Ababa",
+        "name": "Addis Ababa Bole International Airport"
       }
     }
   }
