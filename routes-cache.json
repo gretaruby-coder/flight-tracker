@@ -238005,7 +238005,7 @@
     }
   },
   "UAL91": {
-    "time": 1793238034.8237143,
+    "time": 1793409922.9905171,
     "route": {
       "callsign": "UAL91",
       "callsign_icao": "UAL91",
@@ -261281,6 +261281,120 @@
         "longitude": -3.34333,
         "municipality": "Cardiff",
         "name": "Cardiff International Airport"
+      }
+    }
+  },
+  "THY6088": {
+    "time": 1793409922.9905171,
+    "route": {
+      "callsign": "THY6088",
+      "callsign_icao": "THY6088",
+      "callsign_iata": "TK6088",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "BR",
+        "country_name": "Brazil",
+        "elevation": 2461,
+        "iata_code": "GRU",
+        "icao_code": "SBGR",
+        "latitude": -23.43194,
+        "longitude": -46.46778,
+        "municipality": "S\u00e3o Paulo",
+        "name": "Guarulhos - Governador Andr\u00e9 Franco Montoro International Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
+      }
+    }
+  },
+  "MNB9398": {
+    "time": 1793409922.9905171,
+    "route": {
+      "callsign": "MNB9398",
+      "callsign_icao": "MNB9398",
+      "callsign_iata": "MB9398",
+      "airline": {
+        "name": "MNG Airlines",
+        "icao": "MNB",
+        "iata": "MB",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "BLACK SEA"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 302,
+        "iata_code": "CGN",
+        "icao_code": "EDDK",
+        "latitude": 50.8659,
+        "longitude": 7.14274,
+        "municipality": "Cologne",
+        "name": "Cologne Bonn Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
+      }
+    }
+  },
+  "RYR4DA": {
+    "time": 1793409922.9905171,
+    "route": {
+      "callsign": "RYR4DA",
+      "callsign_icao": "RYR4DA",
+      "callsign_iata": "FR4DA",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 157,
+        "iata_code": "BER",
+        "icao_code": "EDDB",
+        "latitude": 52.35139,
+        "longitude": 13.49389,
+        "municipality": "Berlin",
+        "name": "Berlin Brandenburg Airport"
       }
     }
   }
