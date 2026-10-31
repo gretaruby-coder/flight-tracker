@@ -87446,7 +87446,7 @@
     }
   },
   "RYR30WZ": {
-    "time": 1793366436.674739,
+    "time": 1793484632.0158393,
     "route": {
       "callsign": "RYR30WZ",
       "callsign_icao": "RYR30WZ",
@@ -131569,7 +131569,7 @@
     }
   },
   "AIC67V": {
-    "time": 1793313049.7378776,
+    "time": 1793484632.0158393,
     "route": {
       "callsign": "AIC67V",
       "callsign_icao": "AIC67V",
@@ -147514,7 +147514,7 @@
     }
   },
   "EXS8DE": {
-    "time": 1793027129.075326,
+    "time": 1793484632.0158393,
     "route": {
       "callsign": "EXS8DE",
       "callsign_icao": "EXS8DE",
@@ -218639,6 +218639,120 @@
         "longitude": 19.7848,
         "municipality": "Krak\u00f3w",
         "name": "Krak\u00f3w John Paul II International Airport"
+      }
+    }
+  },
+  "EZY95ZP": {
+    "time": 1793484632.0158393,
+    "route": {
+      "callsign": "EZY95ZP",
+      "callsign_icao": "EZY95ZP",
+      "callsign_iata": "U295ZP",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "LTG8516": {
+    "time": 1793484632.0158393,
+    "route": {
+      "callsign": "LTG8516",
+      "callsign_icao": "LTG8516",
+      "callsign_iata": "8516",
+      "airline": {
+        "name": "LATAM Cargo Brasil",
+        "icao": "LTG",
+        "iata": null,
+        "country": "Brazil",
+        "country_iso": "BR",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "BR",
+        "country_name": "Brazil",
+        "elevation": 2988,
+        "iata_code": "CWB",
+        "icao_code": "SBCT",
+        "latitude": -25.5285,
+        "longitude": -49.1758,
+        "municipality": "Curitiba",
+        "name": "Afonso Pena Airport"
+      },
+      "destination": {
+        "country_iso_name": "BR",
+        "country_name": "Brazil",
+        "elevation": 2170,
+        "iata_code": "VCP",
+        "icao_code": "SBKP",
+        "latitude": -23.0074,
+        "longitude": -47.1345,
+        "municipality": "Campinas",
+        "name": "Viracopos International Airport"
+      }
+    }
+  },
+  "RUK2815": {
+    "time": 1793484632.0158393,
+    "route": {
+      "callsign": "RUK2815",
+      "callsign_icao": "RUK2815",
+      "callsign_iata": "RK2815",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 302,
+        "iata_code": "CGN",
+        "icao_code": "EDDK",
+        "latitude": 50.8659,
+        "longitude": 7.14274,
+        "municipality": "Cologne",
+        "name": "Cologne Bonn Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
