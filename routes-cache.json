@@ -40774,44 +40774,6 @@
       }
     }
   },
-  "WUK6DL": {
-    "time": 1792818063.535434,
-    "route": {
-      "callsign": "WUK6DL",
-      "callsign_icao": "WUK6DL",
-      "callsign_iata": "W96DL",
-      "airline": {
-        "name": "Wizz Air UK",
-        "icao": "WUK",
-        "iata": "W9",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 526,
-        "iata_code": "LTN",
-        "icao_code": "EGGW",
-        "latitude": 51.8747,
-        "longitude": -0.36833,
-        "municipality": "London",
-        "name": "London Luton Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 12,
-        "iata_code": "BCN",
-        "icao_code": "LEBL",
-        "latitude": 41.2971,
-        "longitude": 2.07846,
-        "municipality": "Barcelona",
-        "name": "Josep Tarradellas Barcelona-El Prat Airport"
-      }
-    }
-  },
   "QFA1": {
     "time": 1793265637.2855191,
     "route": {
@@ -109276,44 +109238,6 @@
         "longitude": 11.7861,
         "municipality": "Munich",
         "name": "Munich Airport"
-      }
-    }
-  },
-  "EZY74HQ": {
-    "time": 1792818063.535434,
-    "route": {
-      "callsign": "EZY74HQ",
-      "callsign_icao": "EZY74HQ",
-      "callsign_iata": "U274HQ",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "HR",
-        "country_name": "Croatia",
-        "elevation": 527,
-        "iata_code": "DBV",
-        "icao_code": "LDDU",
-        "latitude": 42.5614,
-        "longitude": 18.2682,
-        "municipality": "Dubrovnik",
-        "name": "Dubrovnik Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 135,
-        "iata_code": "EDI",
-        "icao_code": "EGPH",
-        "latitude": 55.95015,
-        "longitude": -3.37229,
-        "municipality": "Edinburgh",
-        "name": "Edinburgh Airport"
       }
     }
   },
@@ -260521,6 +260445,44 @@
         "longitude": 23.9445,
         "municipality": "Athens",
         "name": "Athens Eleftherios Venizelos International Airport"
+      }
+    }
+  },
+  "BCS2213": {
+    "time": 1793423125.0449426,
+    "route": {
+      "callsign": "BCS2213",
+      "callsign_icao": "BCS2213",
+      "callsign_iata": "QY2213",
+      "airline": {
+        "name": "European Air Transport",
+        "icao": "BCS",
+        "iata": "QY",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "EUROTRANS"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
       }
     }
   }
