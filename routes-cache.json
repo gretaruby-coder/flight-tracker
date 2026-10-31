@@ -261017,5 +261017,119 @@
         "name": "London Stansted Airport"
       }
     }
+  },
+  "EXS45DF": {
+    "time": 1793408724.2847595,
+    "route": {
+      "callsign": "EXS45DF",
+      "callsign_icao": "EXS45DF",
+      "callsign_iata": "LS45DF",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 17,
+        "iata_code": "RHO",
+        "icao_code": "LGRP",
+        "latitude": 36.4054,
+        "longitude": 28.0862,
+        "municipality": "Rhodes Island",
+        "name": "Diagoras Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 268,
+        "iata_code": "BFS",
+        "icao_code": "EGAA",
+        "latitude": 54.6575,
+        "longitude": -6.21583,
+        "municipality": "Belfast",
+        "name": "Belfast International Airport"
+      }
+    }
+  },
+  "RYR922": {
+    "time": 1793408724.2847595,
+    "route": {
+      "callsign": "RYR922",
+      "callsign_icao": "RYR922",
+      "callsign_iata": "FR922",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 53,
+        "iata_code": "HAM",
+        "icao_code": "EDDH",
+        "latitude": 53.6304,
+        "longitude": 9.98823,
+        "municipality": "Hamburg",
+        "name": "Hamburg Helmut Schmidt Airport"
+      }
+    }
+  },
+  "TOM93Y": {
+    "time": 1793408724.2847595,
+    "route": {
+      "callsign": "TOM93Y",
+      "callsign_icao": "TOM93Y",
+      "callsign_iata": "BY93Y",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 26,
+        "iata_code": "GLA",
+        "icao_code": "EGPF",
+        "latitude": 55.8719,
+        "longitude": -4.43306,
+        "municipality": "Paisley, Renfrewshire",
+        "name": "Glasgow International Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      }
+    }
   }
 }
