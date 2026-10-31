@@ -19378,7 +19378,7 @@
     }
   },
   "CSZ887": {
-    "time": 1793304058.3679347,
+    "time": 1793472924.2528837,
     "route": {
       "callsign": "CSZ887",
       "callsign_icao": "CSZ887",
@@ -27375,7 +27375,7 @@
     }
   },
   "BAW465M": {
-    "time": 1793301035.4886625,
+    "time": 1793472924.2528837,
     "route": {
       "callsign": "BAW465M",
       "callsign_icao": "BAW465M",
@@ -57373,7 +57373,7 @@
     }
   },
   "SAS4698": {
-    "time": 1793386231.4296162,
+    "time": 1793472924.2528837,
     "route": {
       "callsign": "SAS4698",
       "callsign_icao": "SAS4698",
@@ -69689,7 +69689,7 @@
     }
   },
   "ETH727": {
-    "time": 1793300465.5401437,
+    "time": 1793472924.2528837,
     "route": {
       "callsign": "ETH727",
       "callsign_icao": "ETH727",
@@ -98421,7 +98421,7 @@
     }
   },
   "RYR5RR": {
-    "time": 1793293835.9354758,
+    "time": 1793472924.2528837,
     "route": {
       "callsign": "RYR5RR",
       "callsign_icao": "RYR5RR",
@@ -224118,6 +224118,82 @@
         "longitude": 2.73881,
         "municipality": "Palma De Mallorca",
         "name": "Palma de Mallorca Airport"
+      }
+    }
+  },
+  "BCS89N": {
+    "time": 1793472924.2528837,
+    "route": {
+      "callsign": "BCS89N",
+      "callsign_icao": "BCS89N",
+      "callsign_iata": "QY89N",
+      "airline": {
+        "name": "European Air Transport",
+        "icao": "BCS",
+        "iata": "QY",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "EUROTRANS"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "RYR52MT": {
+    "time": 1793472924.2528837,
+    "route": {
+      "callsign": "RYR52MT",
+      "callsign_icao": "RYR52MT",
+      "callsign_iata": "FR52MT",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
+      },
+      "destination": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 1472,
+        "iata_code": "KLU",
+        "icao_code": "LOWK",
+        "latitude": 46.6425,
+        "longitude": 14.3377,
+        "municipality": "Klagenfurt am W\u00f6rthersee",
+        "name": "Klagenfurt Airport"
       }
     }
   }
