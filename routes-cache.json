@@ -50675,7 +50675,7 @@
     }
   },
   "BAW26E": {
-    "time": 1793269234.5455685,
+    "time": 1793443532.472237,
     "route": {
       "callsign": "BAW26E",
       "callsign_icao": "BAW26E",
@@ -54924,7 +54924,7 @@
     }
   },
   "UAL900": {
-    "time": 1793277329.049971,
+    "time": 1793443532.472237,
     "route": {
       "callsign": "UAL900",
       "callsign_icao": "UAL900",
@@ -103461,7 +103461,7 @@
     }
   },
   "EXS6YR": {
-    "time": 1793282128.5599284,
+    "time": 1793443532.472237,
     "route": {
       "callsign": "EXS6YR",
       "callsign_icao": "EXS6YR",
@@ -106570,7 +106570,7 @@
     }
   },
   "BCS223": {
-    "time": 1792843526.1512713,
+    "time": 1793443532.472237,
     "route": {
       "callsign": "BCS223",
       "callsign_icao": "BCS223",
@@ -135314,7 +135314,7 @@
     }
   },
   "BAW931": {
-    "time": 1793355927.5151558,
+    "time": 1793443532.472237,
     "route": {
       "callsign": "BAW931",
       "callsign_icao": "BAW931",
@@ -136834,7 +136834,7 @@
     }
   },
   "BAW414F": {
-    "time": 1793184638.1634097,
+    "time": 1793443532.472237,
     "route": {
       "callsign": "BAW414F",
       "callsign_icao": "BAW414F",
@@ -139290,7 +139290,7 @@
     }
   },
   "EXS2WH": {
-    "time": 1793107854.3429356,
+    "time": 1793443532.472237,
     "route": {
       "callsign": "EXS2WH",
       "callsign_icao": "EXS2WH",
@@ -247460,6 +247460,82 @@
         "longitude": -74.1687,
         "municipality": "New York",
         "name": "Newark Liberty International Airport"
+      }
+    }
+  },
+  "CFG1HX": {
+    "time": 1793443532.472237,
+    "route": {
+      "callsign": "CFG1HX",
+      "callsign_icao": "CFG1HX",
+      "callsign_iata": "DE1HX",
+      "airline": {
+        "name": "Condor Flugdienst",
+        "icao": "CFG",
+        "iata": "DE",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "CONDOR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "EZY24WL": {
+    "time": 1793443532.472237,
+    "route": {
+      "callsign": "EZY24WL",
+      "callsign_icao": "EZY24WL",
+      "callsign_iata": "U224WL",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
