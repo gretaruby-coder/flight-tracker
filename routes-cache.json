@@ -261169,5 +261169,81 @@
         "name": "London Stansted Airport"
       }
     }
+  },
+  "MSR981": {
+    "time": 1793409330.473939,
+    "route": {
+      "callsign": "MSR981",
+      "callsign_icao": "MSR981",
+      "callsign_iata": "MS981",
+      "airline": {
+        "name": "Egyptair",
+        "icao": "MSR",
+        "iata": "MS",
+        "country": "Egypt",
+        "country_iso": "EG",
+        "callsign": "EGYPTAIR"
+      },
+      "origin": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 382,
+        "iata_code": "CAI",
+        "icao_code": "HECA",
+        "latitude": 30.1219,
+        "longitude": 31.4056,
+        "municipality": "Cairo",
+        "name": "Cairo International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 312,
+        "iata_code": "IAD",
+        "icao_code": "KIAD",
+        "latitude": 38.9445,
+        "longitude": -77.4558,
+        "municipality": "Washington",
+        "name": "Washington Dulles International Airport"
+      }
+    }
+  },
+  "RYR17KQ": {
+    "time": 1793409330.473939,
+    "route": {
+      "callsign": "RYR17KQ",
+      "callsign_icao": "RYR17KQ",
+      "callsign_iata": "FR17KQ",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 46,
+        "iata_code": "SNN",
+        "icao_code": "EINN",
+        "latitude": 52.702,
+        "longitude": -8.92482,
+        "municipality": "Shannon",
+        "name": "Shannon Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
+      }
+    }
   }
 }
