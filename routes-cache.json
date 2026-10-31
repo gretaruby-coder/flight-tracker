@@ -117993,44 +117993,6 @@
       }
     }
   },
-  "TOM2BM": {
-    "time": 1792802431.9487367,
-    "route": {
-      "callsign": "TOM2BM",
-      "callsign_icao": "TOM2BM",
-      "callsign_iata": "BY2BM",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 257,
-        "iata_code": "MAN",
-        "icao_code": "EGCC",
-        "latitude": 53.34938,
-        "longitude": -2.27952,
-        "municipality": "Manchester",
-        "name": "Manchester Airport"
-      },
-      "destination": {
-        "country_iso_name": "GR",
-        "country_name": "Greece",
-        "elevation": 412,
-        "iata_code": "KGS",
-        "icao_code": "LGKO",
-        "latitude": 36.7933,
-        "longitude": 27.0917,
-        "municipality": "Kos Island",
-        "name": "Kos Airport"
-      }
-    }
-  },
   "TOM661": {
     "time": 1793403632.0689473,
     "route": {
@@ -189717,7 +189679,7 @@
     }
   },
   "EXS59D": {
-    "time": 1793140835.4236975,
+    "time": 1793407532.1584082,
     "route": {
       "callsign": "EXS59D",
       "callsign_icao": "EXS59D",
@@ -261205,6 +261167,82 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "ENT6002": {
+    "time": 1793407532.1584082,
+    "route": {
+      "callsign": "ENT6002",
+      "callsign_icao": "ENT6002",
+      "callsign_iata": "6002",
+      "airline": {
+        "name": "DAT Enterprise Limited",
+        "icao": "ENT",
+        "iata": null,
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "DATENT"
+      },
+      "origin": {
+        "country_iso_name": "GM",
+        "country_name": "The Gambia",
+        "elevation": 95,
+        "iata_code": "BJL",
+        "icao_code": "GBYD",
+        "latitude": 13.338,
+        "longitude": -16.6522,
+        "municipality": "Banjul",
+        "name": "Banjul International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EXS11Y": {
+    "time": 1793407532.1584082,
+    "route": {
+      "callsign": "EXS11Y",
+      "callsign_icao": "EXS11Y",
+      "callsign_iata": "LS11Y",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 38,
+        "iata_code": "BOH",
+        "icao_code": "EGHH",
+        "latitude": 50.78,
+        "longitude": -1.8425,
+        "municipality": "Bournemouth",
+        "name": "Bournemouth Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
       }
     }
   }
