@@ -15205,7 +15205,7 @@
     }
   },
   "EIN723": {
-    "time": 1793390124.6661499,
+    "time": 1793564432.1729422,
     "route": {
       "callsign": "EIN723",
       "callsign_icao": "EIN723",
@@ -18770,7 +18770,7 @@
     }
   },
   "BAW56EC": {
-    "time": 1793390458.0333822,
+    "time": 1793564432.1729422,
     "route": {
       "callsign": "BAW56EC",
       "callsign_icao": "BAW56EC",
@@ -20017,7 +20017,7 @@
     }
   },
   "ETD88C": {
-    "time": 1793389834.8584294,
+    "time": 1793564432.1729422,
     "route": {
       "callsign": "ETD88C",
       "callsign_icao": "ETD88C",
@@ -20929,7 +20929,7 @@
     }
   },
   "BAW870": {
-    "time": 1793392525.547859,
+    "time": 1793564432.1729422,
     "route": {
       "callsign": "BAW870",
       "callsign_icao": "BAW870",
@@ -22366,7 +22366,7 @@
     }
   },
   "BAW835W": {
-    "time": 1793390727.1453178,
+    "time": 1793564432.1729422,
     "route": {
       "callsign": "BAW835W",
       "callsign_icao": "BAW835W",
@@ -67066,7 +67066,7 @@
     }
   },
   "BAW837": {
-    "time": 1792961725.4071636,
+    "time": 1793564432.1729422,
     "route": {
       "callsign": "BAW837",
       "callsign_icao": "BAW837",
@@ -109893,44 +109893,6 @@
       }
     }
   },
-  "LWG27J": {
-    "time": 1792959335.775205,
-    "route": {
-      "callsign": "LWG27J",
-      "callsign_icao": "LWG27J",
-      "callsign_iata": "BN27J",
-      "airline": {
-        "name": "Luxwing",
-        "icao": "LWG",
-        "iata": "BN",
-        "country": "Malta",
-        "country_iso": "MT",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 1367,
-        "iata_code": "FDH",
-        "icao_code": "EDNY",
-        "latitude": 47.6713,
-        "longitude": 9.51149,
-        "municipality": "Friedrichshafen",
-        "name": "Friedrichshafen Airport"
-      },
-      "destination": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 789,
-        "iata_code": "BZO",
-        "icao_code": "LIPB",
-        "latitude": 46.4602,
-        "longitude": 11.3264,
-        "municipality": "Bolzano",
-        "name": "Bolzano Airport"
-      }
-    }
-  },
   "WZZ1NH": {
     "time": 1793555723.6799867,
     "route": {
@@ -110540,7 +110502,7 @@
     }
   },
   "RYR2JK": {
-    "time": 1793402133.0502312,
+    "time": 1793564432.1729422,
     "route": {
       "callsign": "RYR2JK",
       "callsign_icao": "RYR2JK",
@@ -217261,6 +217223,44 @@
         "longitude": 13.49389,
         "municipality": "Berlin",
         "name": "Berlin Brandenburg Airport"
+      }
+    }
+  },
+  "BCS2219": {
+    "time": 1793564432.1729422,
+    "route": {
+      "callsign": "BCS2219",
+      "callsign_icao": "BCS2219",
+      "callsign_iata": "QY2219",
+      "airline": {
+        "name": "European Air Transport",
+        "icao": "BCS",
+        "iata": "QY",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "EUROTRANS"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 465,
+        "iata_code": "LEJ",
+        "icao_code": "EDDP",
+        "latitude": 51.42389,
+        "longitude": 12.23639,
+        "municipality": "Leipzig",
+        "name": "Leipzig/Halle Airport"
       }
     }
   }
