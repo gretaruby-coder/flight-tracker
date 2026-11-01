@@ -7105,7 +7105,7 @@
     }
   },
   "LOG3NA": {
-    "time": 1793387125.031971,
+    "time": 1793562926.137964,
     "route": {
       "callsign": "LOG3NA",
       "callsign_icao": "LOG3NA",
@@ -16497,7 +16497,7 @@
     }
   },
   "BAW257": {
-    "time": 1793473526.7937186,
+    "time": 1793562926.137964,
     "route": {
       "callsign": "BAW257",
       "callsign_icao": "BAW257",
@@ -17592,7 +17592,7 @@
     }
   },
   "BAW78U": {
-    "time": 1793396733.334578,
+    "time": 1793562926.137964,
     "route": {
       "callsign": "BAW78U",
       "callsign_icao": "BAW78U",
@@ -17630,7 +17630,7 @@
     }
   },
   "CPA253": {
-    "time": 1793475633.2550907,
+    "time": 1793562926.137964,
     "route": {
       "callsign": "CPA253",
       "callsign_icao": "CPA253",
@@ -18314,7 +18314,7 @@
     }
   },
   "NOZ1309": {
-    "time": 1793468735.2319818,
+    "time": 1793562926.137964,
     "route": {
       "callsign": "NOZ1309",
       "callsign_icao": "NOZ1309",
@@ -18390,7 +18390,7 @@
     }
   },
   "NOZ6PW": {
-    "time": 1793302835.002652,
+    "time": 1793562926.137964,
     "route": {
       "callsign": "NOZ6PW",
       "callsign_icao": "NOZ6PW",
@@ -18466,7 +18466,7 @@
     }
   },
   "ELY317": {
-    "time": 1793305234.779588,
+    "time": 1793562926.137964,
     "route": {
       "callsign": "ELY317",
       "callsign_icao": "ELY317",
@@ -18884,7 +18884,7 @@
     }
   },
   "SVA117": {
-    "time": 1793476231.978723,
+    "time": 1793562926.137964,
     "route": {
       "callsign": "SVA117",
       "callsign_icao": "SVA117",
@@ -24297,7 +24297,7 @@
     }
   },
   "BAW465M": {
-    "time": 1793472924.2528837,
+    "time": 1793562926.137964,
     "route": {
       "callsign": "BAW465M",
       "callsign_icao": "BAW465M",
@@ -44726,7 +44726,7 @@
     }
   },
   "HBVGJ": {
-    "time": 1793353833.115815,
+    "time": 1793562926.137964,
     "route": {
       "callsign": "HBVGJ",
       "callsign_icao": null,
@@ -109399,46 +109399,8 @@
       }
     }
   },
-  "SWR5065": {
-    "time": 1792958125.6199481,
-    "route": {
-      "callsign": "SWR5065",
-      "callsign_icao": "SWR5065",
-      "callsign_iata": "LX5065",
-      "airline": {
-        "name": "Swiss International Air Lines",
-        "icao": "SWR",
-        "iata": "LX",
-        "country": "Switzerland",
-        "country_iso": "CH",
-        "callsign": "SWISS"
-      },
-      "origin": {
-        "country_iso_name": "CH",
-        "country_name": "Switzerland",
-        "elevation": 1411,
-        "iata_code": "GVA",
-        "icao_code": "LSGG",
-        "latitude": 46.2381,
-        "longitude": 6.10895,
-        "municipality": "Geneva",
-        "name": "Geneva Cointrin International Airport"
-      },
-      "destination": {
-        "country_iso_name": "CH",
-        "country_name": "Switzerland",
-        "elevation": 1417,
-        "iata_code": "ZRH",
-        "icao_code": "LSZH",
-        "latitude": 47.45806,
-        "longitude": 8.54806,
-        "municipality": "Zurich",
-        "name": "Z\u00fcrich Airport"
-      }
-    }
-  },
   "TOM5HA": {
-    "time": 1792958125.6199481,
+    "time": 1793562926.137964,
     "route": {
       "callsign": "TOM5HA",
       "callsign_icao": "TOM5HA",
@@ -160946,7 +160908,7 @@
     }
   },
   "VIR385": {
-    "time": 1793388926.18396,
+    "time": 1793562926.137964,
     "route": {
       "callsign": "VIR385",
       "callsign_icao": "VIR385",
@@ -216995,6 +216957,44 @@
         "longitude": -74.1687,
         "municipality": "New York",
         "name": "Newark Liberty International Airport"
+      }
+    }
+  },
+  "ITY9921": {
+    "time": 1793562926.137964,
+    "route": {
+      "callsign": "ITY9921",
+      "callsign_icao": "ITY9921",
+      "callsign_iata": "AZ9921",
+      "airline": {
+        "name": "ITA Airways",
+        "icao": "ITY",
+        "iata": "AZ",
+        "country": "Italy",
+        "country_iso": "IT",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
       }
     }
   }
