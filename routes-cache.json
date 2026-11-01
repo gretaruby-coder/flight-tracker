@@ -114903,7 +114903,7 @@
     }
   },
   "RYR935Q": {
-    "time": 1793490032.016611,
+    "time": 1793576731.552779,
     "route": {
       "callsign": "RYR935Q",
       "callsign_icao": "RYR935Q",
@@ -150744,7 +150744,7 @@
     }
   },
   "EZY85ZF": {
-    "time": 1793399725.3920105,
+    "time": 1793576731.552779,
     "route": {
       "callsign": "EZY85ZF",
       "callsign_icao": "EZY85ZF",
@@ -199393,7 +199393,7 @@
     }
   },
   "RYR7VC": {
-    "time": 1793484054.494177,
+    "time": 1793576731.552779,
     "route": {
       "callsign": "RYR7VC",
       "callsign_icao": "RYR7VC",
@@ -220153,6 +220153,82 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "EZY62TH": {
+    "time": 1793576731.552779,
+    "route": {
+      "callsign": "EZY62TH",
+      "callsign_icao": "EZY62TH",
+      "callsign_iata": "U262TH",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 22,
+        "iata_code": "SKG",
+        "icao_code": "LGTS",
+        "latitude": 40.5197,
+        "longitude": 22.9709,
+        "municipality": "Thessaloniki",
+        "name": "Thessaloniki Macedonia International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EXS5A": {
+    "time": 1793576731.552779,
+    "route": {
+      "callsign": "EXS5A",
+      "callsign_icao": "EXS5A",
+      "callsign_iata": "LS5A",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "MT",
+        "country_name": "Malta",
+        "elevation": 300,
+        "iata_code": "MLA",
+        "icao_code": "LMML",
+        "latitude": 35.8575,
+        "longitude": 14.4775,
+        "municipality": "Valletta",
+        "name": "Malta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
