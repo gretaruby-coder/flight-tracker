@@ -175442,7 +175442,7 @@
     }
   },
   "AAL714": {
-    "time": 1793340633.3686674,
+    "time": 1793511324.8201702,
     "route": {
       "callsign": "AAL714",
       "callsign_icao": "AAL714",
@@ -214535,6 +214535,44 @@
         "longitude": 23.9445,
         "municipality": "Athens",
         "name": "Athens Eleftherios Venizelos International Airport"
+      }
+    }
+  },
+  "UAE221": {
+    "time": 1793511324.8201702,
+    "route": {
+      "callsign": "UAE221",
+      "callsign_icao": "UAE221",
+      "callsign_iata": "EK221",
+      "airline": {
+        "name": "Emirates",
+        "icao": "UAE",
+        "iata": "EK",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "EMIRATES"
+      },
+      "origin": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 62,
+        "iata_code": "DXB",
+        "icao_code": "OMDB",
+        "latitude": 25.2528,
+        "longitude": 55.3644,
+        "municipality": "Dubai",
+        "name": "Dubai International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 607,
+        "iata_code": "DFW",
+        "icao_code": "KDFW",
+        "latitude": 32.8968,
+        "longitude": -97.038,
+        "municipality": "Dallas-Fort Worth",
+        "name": "Dallas Fort Worth International Airport"
       }
     }
   }
