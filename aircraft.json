@@ -1,82 +1,9 @@
 {
-  "updated": "2026-11-01T02:40:31.986561+00:00",
+  "updated": "2026-11-01T02:45:30.624414+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": [
-    {
-      "hex": "8965f4",
-      "type": "adsb_icao",
-      "flight": "ETD16   ",
-      "r": "A6-BNF",
-      "t": "B789",
-      "desc": "BOEING 787-9 Dreamliner",
-      "alt_baro": 36975,
-      "alt_geom": 38450,
-      "gs": 514.5,
-      "ias": 277,
-      "tas": 486,
-      "mach": 0.848,
-      "wd": 269,
-      "ws": 29,
-      "oat": -57,
-      "tat": -26,
-      "track": 102.12,
-      "track_rate": 0.03,
-      "roll": -0.18,
-      "mag_heading": 101.6,
-      "true_heading": 102.88,
-      "baro_rate": 0,
-      "geom_rate": 0,
-      "squawk": "1176",
-      "emergency": "none",
-      "category": "A5",
-      "nav_qnh": 1012.8,
-      "nav_altitude_mcp": 36992,
-      "nav_modes": [
-        "autopilot",
-        "vnav",
-        "lnav",
-        "tcas"
-      ],
-      "lat": 51.465317,
-      "lon": 0.117138,
-      "nic": 8,
-      "rc": 186,
-      "seen_pos": 0.053,
-      "version": 2,
-      "nic_baro": 1,
-      "nac_p": 9,
-      "nac_v": 2,
-      "sil": 3,
-      "sil_type": "perhour",
-      "gva": 2,
-      "sda": 2,
-      "alert": 0,
-      "spi": 0,
-      "mlat": [],
-      "tisb": [],
-      "messages": 131434,
-      "seen": 0.0,
-      "rssi": -11.8,
-      "dst": 19.658,
-      "dir": 87.0,
-      "registered_owner": "Etihad Airways",
-      "registered_owner_operator_flag_code": "ETD",
-      "origin": {
-        "iata": "MAN",
-        "icao": "EGCC",
-        "name": "Manchester Airport"
-      },
-      "destination": {
-        "iata": "AUH",
-        "icao": "OMAA",
-        "name": "Abu Dhabi International Airport"
-      },
-      "airline_name": "Etihad Airways",
-      "airline_iata": "EY"
-    }
-  ]
+  "aircraft": []
 }
