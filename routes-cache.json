@@ -2984,7 +2984,7 @@
     }
   },
   "DAL31": {
-    "time": 1793451654.4725308,
+    "time": 1793538632.1666722,
     "route": {
       "callsign": "DAL31",
       "callsign_icao": "DAL31",
@@ -3806,7 +3806,7 @@
     }
   },
   "ETD69W": {
-    "time": 1793367638.657345,
+    "time": 1793538632.1666722,
     "route": {
       "callsign": "ETD69W",
       "callsign_icao": "ETD69W",
@@ -46419,7 +46419,7 @@
     }
   },
   "AEE1SC": {
-    "time": 1793450733.7549274,
+    "time": 1793538632.1666722,
     "route": {
       "callsign": "AEE1SC",
       "callsign_icao": "AEE1SC",
@@ -49673,7 +49673,7 @@
     }
   },
   "BAW922": {
-    "time": 1793439633.8904536,
+    "time": 1793538632.1666722,
     "route": {
       "callsign": "BAW922",
       "callsign_icao": "BAW922",
@@ -72492,7 +72492,7 @@
     }
   },
   "BAW947L": {
-    "time": 1793281836.7862759,
+    "time": 1793538632.1666722,
     "route": {
       "callsign": "BAW947L",
       "callsign_icao": "BAW947L",
@@ -90583,7 +90583,7 @@
     }
   },
   "RYR36YF": {
-    "time": 1793398232.5073118,
+    "time": 1793538632.1666722,
     "route": {
       "callsign": "RYR36YF",
       "callsign_icao": "RYR36YF",
@@ -94603,44 +94603,6 @@
       }
     }
   },
-  "TRA6423": {
-    "time": 1792933526.4796727,
-    "route": {
-      "callsign": "TRA6423",
-      "callsign_icao": "TRA6423",
-      "callsign_iata": "HV6423",
-      "airline": {
-        "name": "Transavia Holland",
-        "icao": "TRA",
-        "iata": "HV",
-        "country": "Netherlands",
-        "country_iso": "NL",
-        "callsign": "TRANSAVIA"
-      },
-      "origin": {
-        "country_iso_name": "NL",
-        "country_name": "Netherlands",
-        "elevation": -11,
-        "iata_code": "AMS",
-        "icao_code": "EHAM",
-        "latitude": 52.3086,
-        "longitude": 4.76389,
-        "municipality": "Amsterdam",
-        "name": "Amsterdam Airport Schiphol"
-      },
-      "destination": {
-        "country_iso_name": "PT",
-        "country_name": "Portugal",
-        "elevation": 259,
-        "iata_code": "PDL",
-        "icao_code": "LPPD",
-        "latitude": 37.7412,
-        "longitude": -25.6979,
-        "municipality": "Ponta Delgada",
-        "name": "Jo\u00e3o Paulo II Airport"
-      }
-    }
-  },
   "SWR8AV": {
     "time": 1793451325.6915672,
     "route": {
@@ -97530,7 +97492,7 @@
     }
   },
   "QTR56H": {
-    "time": 1793366728.1831257,
+    "time": 1793538632.1666722,
     "route": {
       "callsign": "QTR56H",
       "callsign_icao": "QTR56H",
@@ -119676,7 +119638,7 @@
     }
   },
   "CLX84L": {
-    "time": 1792969834.3299308,
+    "time": 1793538632.1666722,
     "route": {
       "callsign": "CLX84L",
       "callsign_icao": "CLX84L",
@@ -130412,7 +130374,7 @@
     }
   },
   "EZY38YX": {
-    "time": 1793016935.1418948,
+    "time": 1793538632.1666722,
     "route": {
       "callsign": "EZY38YX",
       "callsign_icao": "EZY38YX",
@@ -132070,7 +132032,7 @@
     }
   },
   "SWR1LE": {
-    "time": 1793020834.949238,
+    "time": 1793538632.1666722,
     "route": {
       "callsign": "SWR1LE",
       "callsign_icao": "SWR1LE",
@@ -175459,7 +175421,7 @@
     }
   },
   "EXS6ZL": {
-    "time": 1793292037.42125,
+    "time": 1793538632.1666722,
     "route": {
       "callsign": "EXS6ZL",
       "callsign_icao": "EXS6ZL",
@@ -214041,6 +214003,44 @@
         "longitude": 14.4775,
         "municipality": "Valletta",
         "name": "Malta International Airport"
+      }
+    }
+  },
+  "TAP9747": {
+    "time": 1793538632.1666722,
+    "route": {
+      "callsign": "TAP9747",
+      "callsign_icao": "TAP9747",
+      "callsign_iata": "TP9747",
+      "airline": {
+        "name": "TAP Portugal",
+        "icao": "TAP",
+        "iata": "TP",
+        "country": "Portugal",
+        "country_iso": "PT",
+        "callsign": "AIR PORTUGAL"
+      },
+      "origin": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 600,
+        "iata_code": "VIE",
+        "icao_code": "LOWW",
+        "latitude": 48.1103,
+        "longitude": 16.5697,
+        "municipality": "Vienna",
+        "name": "Vienna International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
