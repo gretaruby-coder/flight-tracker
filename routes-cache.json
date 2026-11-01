@@ -19112,7 +19112,7 @@
     }
   },
   "BAW73B": {
-    "time": 1793351432.8342571,
+    "time": 1793527834.1890795,
     "route": {
       "callsign": "BAW73B",
       "callsign_icao": "BAW73B",
@@ -41441,7 +41441,7 @@
     }
   },
   "BAW301": {
-    "time": 1793096135.8743443,
+    "time": 1793527834.1890795,
     "route": {
       "callsign": "BAW301",
       "callsign_icao": "BAW301",
@@ -64051,7 +64051,7 @@
     }
   },
   "UAE74W": {
-    "time": 1793268634.5945055,
+    "time": 1793527834.1890795,
     "route": {
       "callsign": "UAE74W",
       "callsign_icao": "UAE74W",
@@ -64583,7 +64583,7 @@
     }
   },
   "VIR197G": {
-    "time": 1793349049.619267,
+    "time": 1793527834.1890795,
     "route": {
       "callsign": "VIR197G",
       "callsign_icao": "VIR197G",
@@ -87498,7 +87498,7 @@
     }
   },
   "EZY28DX": {
-    "time": 1793432731.8342106,
+    "time": 1793527834.1890795,
     "route": {
       "callsign": "EZY28DX",
       "callsign_icao": "EZY28DX",
@@ -87764,7 +87764,7 @@
     }
   },
   "RYR69YA": {
-    "time": 1793389834.8584294,
+    "time": 1793527834.1890795,
     "route": {
       "callsign": "RYR69YA",
       "callsign_icao": "RYR69YA",
@@ -130360,7 +130360,7 @@
     }
   },
   "DLH978": {
-    "time": 1793356249.4124022,
+    "time": 1793527834.1890795,
     "route": {
       "callsign": "DLH978",
       "callsign_icao": "DLH978",
@@ -214017,6 +214017,120 @@
         "longitude": 17.9186,
         "municipality": "Stockholm",
         "name": "Stockholm-Arlanda Airport"
+      }
+    }
+  },
+  "EXS11XZ": {
+    "time": 1793527834.1890795,
+    "route": {
+      "callsign": "EXS11XZ",
+      "callsign_icao": "EXS11XZ",
+      "callsign_iata": "LS11XZ",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      },
+      "destination": {
+        "country_iso_name": "CY",
+        "country_name": "Cyprus",
+        "elevation": 41,
+        "iata_code": "PFO",
+        "icao_code": "LCPH",
+        "latitude": 34.718,
+        "longitude": 32.4857,
+        "municipality": "Paphos",
+        "name": "Paphos International Airport"
+      }
+    }
+  },
+  "EZY27DN": {
+    "time": 1793527834.1890795,
+    "route": {
+      "callsign": "EZY27DN",
+      "callsign_icao": "EZY27DN",
+      "callsign_iata": "U227DN",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 374,
+        "iata_code": "LIS",
+        "icao_code": "LPPT",
+        "latitude": 38.7813,
+        "longitude": -9.13592,
+        "municipality": "Lisbon",
+        "name": "Humberto Delgado Airport (Lisbon Portela Airport)"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EJU89MD": {
+    "time": 1793527834.1890795,
+    "route": {
+      "callsign": "EJU89MD",
+      "callsign_icao": "EJU89MD",
+      "callsign_iata": "EC89MD",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 821,
+        "iata_code": "LYS",
+        "icao_code": "LFLL",
+        "latitude": 45.72556,
+        "longitude": 5.08111,
+        "municipality": "Lyon",
+        "name": "Lyon Saint-Exup\u00e9ry Airport"
       }
     }
   }
