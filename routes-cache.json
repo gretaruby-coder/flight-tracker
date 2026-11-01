@@ -63853,44 +63853,6 @@
       }
     }
   },
-  "EZY78NM": {
-    "time": 1792893926.5993989,
-    "route": {
-      "callsign": "EZY78NM",
-      "callsign_icao": "EZY78NM",
-      "callsign_iata": "U278NM",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "TR",
-        "country_name": "Turkey",
-        "elevation": 21,
-        "iata_code": "BJV",
-        "icao_code": "LTFE",
-        "latitude": 37.2506,
-        "longitude": 27.6643,
-        "municipality": "Bodrum",
-        "name": "Milas Bodrum International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      }
-    }
-  },
   "EFW8CQ": {
     "time": 1793491524.8426208,
     "route": {
@@ -76574,82 +76536,6 @@
         "longitude": 14.4775,
         "municipality": "Valletta",
         "name": "Malta International Airport"
-      }
-    }
-  },
-  "UAE9988": {
-    "time": 1792893660.1613336,
-    "route": {
-      "callsign": "UAE9988",
-      "callsign_icao": "UAE9988",
-      "callsign_iata": "EK9988",
-      "airline": {
-        "name": "Emirates",
-        "icao": "UAE",
-        "iata": "EK",
-        "country": "United Arab Emirates",
-        "country_iso": "AE",
-        "callsign": "EMIRATES"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 672,
-        "iata_code": "ORD",
-        "icao_code": "KORD",
-        "latitude": 41.9786,
-        "longitude": -87.9048,
-        "municipality": "Chicago",
-        "name": "Chicago O'Hare International Airport"
-      },
-      "destination": {
-        "country_iso_name": "AE",
-        "country_name": "United Arab Emirates",
-        "elevation": 114,
-        "iata_code": "DWC",
-        "icao_code": "OMDW",
-        "latitude": 24.89636,
-        "longitude": 55.16139,
-        "municipality": "Jebel Ali",
-        "name": "Al Maktoum International Airport"
-      }
-    }
-  },
-  "TOM9CV": {
-    "time": 1792893660.1613336,
-    "route": {
-      "callsign": "TOM9CV",
-      "callsign_icao": "TOM9CV",
-      "callsign_iata": "BY9CV",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 266,
-        "iata_code": "NCL",
-        "icao_code": "EGNT",
-        "latitude": 55.0375,
-        "longitude": -1.69167,
-        "municipality": "Newcastle",
-        "name": "Newcastle Airport"
-      },
-      "destination": {
-        "country_iso_name": "BB",
-        "country_name": "Barbados",
-        "elevation": 169,
-        "iata_code": "BGI",
-        "icao_code": "TBPB",
-        "latitude": 13.0746,
-        "longitude": -59.4925,
-        "municipality": "Bridgetown",
-        "name": "Grantley Adams International Airport"
       }
     }
   },
@@ -148795,7 +148681,7 @@
     }
   },
   "EXS1ZU": {
-    "time": 1793053852.4387488,
+    "time": 1793498727.3011138,
     "route": {
       "callsign": "EXS1ZU",
       "callsign_icao": "EXS1ZU",
@@ -148985,7 +148871,7 @@
     }
   },
   "EZY46XV": {
-    "time": 1793410245.9110985,
+    "time": 1793498727.3011138,
     "route": {
       "callsign": "EZY46XV",
       "callsign_icao": "EZY46XV",
@@ -215208,6 +215094,44 @@
         "longitude": -16.5725,
         "municipality": "Tenerife",
         "name": "Tenerife Sur Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "TOM701": {
+    "time": 1793498727.3011138,
+    "route": {
+      "callsign": "TOM701",
+      "callsign_icao": "TOM701",
+      "callsign_iata": "BY701",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 32,
+        "iata_code": "HRG",
+        "icao_code": "HEGN",
+        "latitude": 27.18033,
+        "longitude": 33.80729,
+        "municipality": "Hurghada",
+        "name": "Hurghada International Airport"
       },
       "destination": {
         "country_iso_name": "GB",
