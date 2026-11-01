@@ -27603,7 +27603,7 @@
     }
   },
   "BAW2066": {
-    "time": 1793331932.4092677,
+    "time": 1793510726.4190147,
     "route": {
       "callsign": "BAW2066",
       "callsign_icao": "BAW2066",
@@ -28093,44 +28093,6 @@
         "longitude": -87.9048,
         "municipality": "Chicago",
         "name": "Chicago O'Hare International Airport"
-      }
-    }
-  },
-  "BAW64": {
-    "time": 1792905926.1407487,
-    "route": {
-      "callsign": "BAW64",
-      "callsign_icao": "BAW64",
-      "callsign_iata": "BA64",
-      "airline": {
-        "name": "British Airways",
-        "icao": "BAW",
-        "iata": "BA",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "SPEEDBIRD"
-      },
-      "origin": {
-        "country_iso_name": "KE",
-        "country_name": "Kenya",
-        "elevation": 5330,
-        "iata_code": "NBO",
-        "icao_code": "HKJK",
-        "latitude": -1.31924,
-        "longitude": 36.9278,
-        "municipality": "Nairobi",
-        "name": "Jomo Kenyatta International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 83,
-        "iata_code": "LHR",
-        "icao_code": "EGLL",
-        "latitude": 51.4706,
-        "longitude": -0.46194,
-        "municipality": "London",
-        "name": "London Heathrow Airport"
       }
     }
   },
@@ -29043,44 +29005,6 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
-      }
-    }
-  },
-  "AFR337P": {
-    "time": 1792905634.7627332,
-    "route": {
-      "callsign": "AFR337P",
-      "callsign_icao": "AFR337P",
-      "callsign_iata": "AF337P",
-      "airline": {
-        "name": "Air France",
-        "icao": "AFR",
-        "iata": "AF",
-        "country": "France",
-        "country_iso": "FR",
-        "callsign": "AIRFRANS"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 433,
-        "iata_code": "SEA",
-        "icao_code": "KSEA",
-        "latitude": 47.449,
-        "longitude": -122.309,
-        "municipality": "Seattle",
-        "name": "Seattle Tacoma International Airport"
-      },
-      "destination": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 392,
-        "iata_code": "CDG",
-        "icao_code": "LFPG",
-        "latitude": 49.0128,
-        "longitude": 2.55,
-        "municipality": "Paris",
-        "name": "Charles de Gaulle International Airport"
       }
     }
   },
@@ -76384,44 +76308,6 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
-      }
-    }
-  },
-  "DAL72": {
-    "time": 1792905926.1407487,
-    "route": {
-      "callsign": "DAL72",
-      "callsign_icao": "DAL72",
-      "callsign_iata": "DL72",
-      "airline": {
-        "name": "Delta Air Lines",
-        "icao": "DAL",
-        "iata": "DL",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "DELTA"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 1026,
-        "iata_code": "ATL",
-        "icao_code": "KATL",
-        "latitude": 33.6367,
-        "longitude": -84.4281,
-        "municipality": "Atlanta",
-        "name": "Hartsfield Jackson Atlanta International Airport"
-      },
-      "destination": {
-        "country_iso_name": "NL",
-        "country_name": "Netherlands",
-        "elevation": -11,
-        "iata_code": "AMS",
-        "icao_code": "EHAM",
-        "latitude": 52.3086,
-        "longitude": 4.76389,
-        "municipality": "Amsterdam",
-        "name": "Amsterdam Airport Schiphol"
       }
     }
   },
@@ -214535,6 +214421,44 @@
         "longitude": 2.73881,
         "municipality": "Palma De Mallorca",
         "name": "Palma de Mallorca Airport"
+      }
+    }
+  },
+  "UAL40": {
+    "time": 1793510726.4190147,
+    "route": {
+      "callsign": "UAL40",
+      "callsign_icao": "UAL40",
+      "callsign_iata": "UA40",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
       }
     }
   }
