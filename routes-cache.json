@@ -25057,7 +25057,7 @@
     }
   },
   "EIN725": {
-    "time": 1793399446.7482147,
+    "time": 1793572245.3509119,
     "route": {
       "callsign": "EIN725",
       "callsign_icao": "EIN725",
@@ -25551,7 +25551,7 @@
     }
   },
   "AEE609": {
-    "time": 1793399127.7761872,
+    "time": 1793572245.3509119,
     "route": {
       "callsign": "AEE609",
       "callsign_icao": "AEE609",
@@ -112319,7 +112319,7 @@
     }
   },
   "RUK36BD": {
-    "time": 1793413525.021946,
+    "time": 1793572245.3509119,
     "route": {
       "callsign": "RUK36BD",
       "callsign_icao": "RUK36BD",
@@ -113421,7 +113421,7 @@
     }
   },
   "EZY63BN": {
-    "time": 1793389232.3910651,
+    "time": 1793572245.3509119,
     "route": {
       "callsign": "EZY63BN",
       "callsign_icao": "EZY63BN",
@@ -219013,6 +219013,82 @@
         "longitude": -1.74803,
         "municipality": "Birmingham",
         "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "EZY45JV": {
+    "time": 1793572245.3509119,
+    "route": {
+      "callsign": "EZY45JV",
+      "callsign_icao": "EZY45JV",
+      "callsign_iata": "U245JV",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "EXS18N": {
+    "time": 1793572245.3509119,
+    "route": {
+      "callsign": "EXS18N",
+      "callsign_icao": "EXS18N",
+      "callsign_iata": "LS18N",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 46,
+        "iata_code": "ACE",
+        "icao_code": "GCRR",
+        "latitude": 28.9455,
+        "longitude": -13.6052,
+        "municipality": "Lanzarote Island",
+        "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
