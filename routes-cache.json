@@ -9851,7 +9851,7 @@
     }
   },
   "LOG4MU": {
-    "time": 1793380235.6175983,
+    "time": 1793551831.611815,
     "route": {
       "callsign": "LOG4MU",
       "callsign_icao": "LOG4MU",
@@ -23088,7 +23088,7 @@
     }
   },
   "BAW314S": {
-    "time": 1793379662.7571588,
+    "time": 1793551831.611815,
     "route": {
       "callsign": "BAW314S",
       "callsign_icao": "BAW314S",
@@ -50920,7 +50920,7 @@
     }
   },
   "BAW935": {
-    "time": 1793381127.9271529,
+    "time": 1793551831.611815,
     "route": {
       "callsign": "BAW935",
       "callsign_icao": "BAW935",
@@ -104415,7 +104415,7 @@
     }
   },
   "EXS6JH": {
-    "time": 1793399127.7761872,
+    "time": 1793551831.611815,
     "route": {
       "callsign": "EXS6JH",
       "callsign_icao": "EXS6JH",
@@ -105282,7 +105282,7 @@
     }
   },
   "BAW345": {
-    "time": 1793382942.8022094,
+    "time": 1793551831.611815,
     "route": {
       "callsign": "BAW345",
       "callsign_icao": "BAW345",
@@ -106439,7 +106439,7 @@
     }
   },
   "EZY95AE": {
-    "time": 1793270125.3139234,
+    "time": 1793551831.611815,
     "route": {
       "callsign": "EZY95AE",
       "callsign_icao": "EZY95AE",
@@ -133797,7 +133797,7 @@
     }
   },
   "VIR117F": {
-    "time": 1793383526.3486886,
+    "time": 1793551831.611815,
     "route": {
       "callsign": "VIR117F",
       "callsign_icao": "VIR117F",
@@ -215119,6 +215119,113 @@
         "longitude": -3.56264,
         "municipality": "Madrid",
         "name": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport"
+      }
+    }
+  },
+  "WUK1CG": {
+    "time": 1793551831.611815,
+    "route": {
+      "callsign": "WUK1CG",
+      "callsign_icao": "WUK1CG",
+      "callsign_iata": "W91CG",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
+      }
+    }
+  },
+  "NSZ8HW": {
+    "time": 1793551831.611815,
+    "route": {
+      "callsign": "NSZ8HW",
+      "callsign_icao": "NSZ8HW",
+      "callsign_iata": "D88HW",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "LNX12MO": {
+    "time": 1793551831.611815,
+    "route": {
+      "callsign": "LNX12MO",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 125,
+        "iata_code": "LAX",
+        "icao_code": "KLAX",
+        "latitude": 33.9425,
+        "longitude": -118.408,
+        "municipality": "Los Angeles",
+        "name": "Los Angeles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "SFO",
+        "icao_code": "KSFO",
+        "latitude": 37.619,
+        "longitude": -122.375,
+        "municipality": "San Francisco",
+        "name": "San Francisco International Airport"
       }
     }
   }
