@@ -5623,7 +5623,7 @@
     }
   },
   "BAW28K": {
-    "time": 1793377525.7543075,
+    "time": 1793552725.206455,
     "route": {
       "callsign": "BAW28K",
       "callsign_icao": "BAW28K",
@@ -8048,7 +8048,7 @@
     }
   },
   "BAW7CP": {
-    "time": 1793381127.9271529,
+    "time": 1793552725.206455,
     "route": {
       "callsign": "BAW7CP",
       "callsign_icao": "BAW7CP",
@@ -11851,7 +11851,7 @@
     }
   },
   "RJA112": {
-    "time": 1793379326.3840399,
+    "time": 1793552725.206455,
     "route": {
       "callsign": "RJA112",
       "callsign_icao": "RJA112",
@@ -50129,7 +50129,7 @@
     }
   },
   "CFE844": {
-    "time": 1793034328.2235513,
+    "time": 1793552725.206455,
     "route": {
       "callsign": "CFE844",
       "callsign_icao": "CFE844",
@@ -103882,44 +103882,6 @@
       }
     }
   },
-  "BOX473": {
-    "time": 1792947661.8047757,
-    "route": {
-      "callsign": "BOX473",
-      "callsign_icao": "BOX473",
-      "callsign_iata": "3S473",
-      "airline": {
-        "name": "AeroLogic",
-        "icao": "BOX",
-        "iata": "3S",
-        "country": "Germany",
-        "country_iso": "DE",
-        "callsign": "GERMAN CARGO"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 125,
-        "iata_code": "LAX",
-        "icao_code": "KLAX",
-        "latitude": 33.9425,
-        "longitude": -118.408,
-        "municipality": "Los Angeles",
-        "name": "Los Angeles International Airport"
-      },
-      "destination": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 364,
-        "iata_code": "FRA",
-        "icao_code": "EDDF",
-        "latitude": 50.03333,
-        "longitude": 8.57056,
-        "municipality": "Frankfurt am Main",
-        "name": "Frankfurt am Main Airport"
-      }
-    }
-  },
   "EZY85GA": {
     "time": 1793549124.69364,
     "route": {
@@ -104529,7 +104491,7 @@
     }
   },
   "THY6VQ": {
-    "time": 1793383526.3486886,
+    "time": 1793552725.206455,
     "route": {
       "callsign": "THY6VQ",
       "callsign_icao": "THY6VQ",
@@ -104940,7 +104902,7 @@
     }
   },
   "EZY85UP": {
-    "time": 1793256636.4473283,
+    "time": 1793552725.206455,
     "route": {
       "callsign": "EZY85UP",
       "callsign_icao": "EZY85UP",
@@ -184826,7 +184788,7 @@
     }
   },
   "EZY16ZV": {
-    "time": 1793391925.57625,
+    "time": 1793552725.206455,
     "route": {
       "callsign": "EZY16ZV",
       "callsign_icao": "EZY16ZV",
@@ -192229,7 +192191,7 @@
     }
   },
   "EXS1DK": {
-    "time": 1793436033.2242284,
+    "time": 1793552725.206455,
     "route": {
       "callsign": "EXS1DK",
       "callsign_icao": "EXS1DK",
@@ -215302,6 +215264,158 @@
         "longitude": -1.32806,
         "municipality": "Nottingham",
         "name": "East Midlands Airport"
+      }
+    }
+  },
+  "TOM93T": {
+    "time": 1793552725.206455,
+    "route": {
+      "callsign": "TOM93T",
+      "callsign_icao": "TOM93T",
+      "callsign_iata": "BY93T",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      }
+    }
+  },
+  "CLX6696": {
+    "time": 1793552725.206455,
+    "route": {
+      "callsign": "CLX6696",
+      "callsign_icao": "CLX6696",
+      "callsign_iata": "CV6696",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 607,
+        "iata_code": "DFW",
+        "icao_code": "KDFW",
+        "latitude": 32.8968,
+        "longitude": -97.038,
+        "municipality": "Dallas-Fort Worth",
+        "name": "Dallas Fort Worth International Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
+      }
+    }
+  },
+  "RYR69BZ": {
+    "time": 1793552725.206455,
+    "route": {
+      "callsign": "RYR69BZ",
+      "callsign_icao": "RYR69BZ",
+      "callsign_iata": "FR69BZ",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      }
+    }
+  },
+  "EZY26MH": {
+    "time": 1793552725.206455,
+    "route": {
+      "callsign": "EZY26MH",
+      "callsign_icao": "EZY26MH",
+      "callsign_iata": "U226MH",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
