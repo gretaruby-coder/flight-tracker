@@ -26957,7 +26957,7 @@
     }
   },
   "UAL944": {
-    "time": 1793072433.0137508,
+    "time": 1793506232.001818,
     "route": {
       "callsign": "UAL944",
       "callsign_icao": "UAL944",
@@ -214649,6 +214649,44 @@
         "longitude": 2.55,
         "municipality": "Paris",
         "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "DAL202": {
+    "time": 1793506232.001818,
+    "route": {
+      "callsign": "DAL202",
+      "callsign_icao": "DAL202",
+      "callsign_iata": "DL202",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 308,
+        "iata_code": "ATH",
+        "icao_code": "LGAV",
+        "latitude": 37.9364,
+        "longitude": 23.9445,
+        "municipality": "Athens",
+        "name": "Athens Eleftherios Venizelos International Airport"
       }
     }
   }
