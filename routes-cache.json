@@ -8573,7 +8573,7 @@
     }
   },
   "BAW655": {
-    "time": 1793460644.832197,
+    "time": 1793561447.1594238,
     "route": {
       "callsign": "BAW655",
       "callsign_icao": "BAW655",
@@ -15281,7 +15281,7 @@
     }
   },
   "BAW178": {
-    "time": 1793474432.9207008,
+    "time": 1793561447.1594238,
     "route": {
       "callsign": "BAW178",
       "callsign_icao": "BAW178",
@@ -16649,7 +16649,7 @@
     }
   },
   "SWR9MY": {
-    "time": 1793387732.9834201,
+    "time": 1793561447.1594238,
     "route": {
       "callsign": "SWR9MY",
       "callsign_icao": "SWR9MY",
@@ -16984,7 +16984,7 @@
     }
   },
   "SAS533": {
-    "time": 1793389232.3910651,
+    "time": 1793561447.1594238,
     "route": {
       "callsign": "SAS533",
       "callsign_icao": "SAS533",
@@ -18086,7 +18086,7 @@
     }
   },
   "JAL44": {
-    "time": 1793387732.9834201,
+    "time": 1793561447.1594238,
     "route": {
       "callsign": "JAL44",
       "callsign_icao": "JAL44",
@@ -107158,7 +107158,7 @@
     }
   },
   "EIN17R": {
-    "time": 1793387433.388451,
+    "time": 1793561447.1594238,
     "route": {
       "callsign": "EIN17R",
       "callsign_icao": "EIN17R",
@@ -107690,7 +107690,7 @@
     }
   },
   "EFW6JN": {
-    "time": 1793213727.4516351,
+    "time": 1793561447.1594238,
     "route": {
       "callsign": "EFW6JN",
       "callsign_icao": "EFW6JN",
@@ -107880,7 +107880,7 @@
     }
   },
   "BAW43": {
-    "time": 1793475044.9245288,
+    "time": 1793561447.1594238,
     "route": {
       "callsign": "BAW43",
       "callsign_icao": "BAW43",
@@ -108525,44 +108525,6 @@
       }
     }
   },
-  "EZY37MX": {
-    "time": 1792956327.4799728,
-    "route": {
-      "callsign": "EZY37MX",
-      "callsign_icao": "EZY37MX",
-      "callsign_iata": "U237MX",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 12,
-        "iata_code": "BCN",
-        "icao_code": "LEBL",
-        "latitude": 41.2971,
-        "longitude": 2.07846,
-        "municipality": "Barcelona",
-        "name": "Josep Tarradellas Barcelona-El Prat Airport"
-      }
-    }
-  },
   "RYR4RE": {
     "time": 1793476523.6322706,
     "route": {
@@ -108716,7 +108678,7 @@
     }
   },
   "EZY52PJ": {
-    "time": 1793121340.4587452,
+    "time": 1793561447.1594238,
     "route": {
       "callsign": "EZY52PJ",
       "callsign_icao": "EZY52PJ",
@@ -109248,7 +109210,7 @@
     }
   },
   "RYR22WQ": {
-    "time": 1793196063.5795763,
+    "time": 1793561447.1594238,
     "route": {
       "callsign": "RYR22WQ",
       "callsign_icao": "RYR22WQ",
@@ -109970,7 +109932,7 @@
     }
   },
   "EZY26ZX": {
-    "time": 1793391035.251439,
+    "time": 1793561447.1594238,
     "route": {
       "callsign": "EZY26ZX",
       "callsign_icao": "EZY26ZX",
@@ -216805,6 +216767,44 @@
         "longitude": -2.19778,
         "municipality": "Aberdeen",
         "name": "Aberdeen Dyce Airport"
+      }
+    }
+  },
+  "EJU68FX": {
+    "time": 1793561447.1594238,
+    "route": {
+      "callsign": "EJU68FX",
+      "callsign_icao": "EJU68FX",
+      "callsign_iata": "EC68FX",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
