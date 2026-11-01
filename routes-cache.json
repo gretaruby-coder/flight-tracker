@@ -37731,7 +37731,7 @@
     }
   },
   "EIN7HL": {
-    "time": 1793365526.730828,
+    "time": 1793530855.3460023,
     "route": {
       "callsign": "EIN7HL",
       "callsign_icao": "EIN7HL",
@@ -47704,7 +47704,7 @@
     }
   },
   "KLM791": {
-    "time": 1793443835.8415248,
+    "time": 1793530855.3460023,
     "route": {
       "callsign": "KLM791",
       "callsign_icao": "KLM791",
@@ -86852,7 +86852,7 @@
     }
   },
   "RYR2LH": {
-    "time": 1793364635.4006343,
+    "time": 1793530855.3460023,
     "route": {
       "callsign": "RYR2LH",
       "callsign_icao": "RYR2LH",
@@ -87042,7 +87042,7 @@
     }
   },
   "VLG95JM": {
-    "time": 1793359851.757333,
+    "time": 1793530855.3460023,
     "route": {
       "callsign": "VLG95JM",
       "callsign_icao": "VLG95JM",
@@ -88979,44 +88979,6 @@
       }
     }
   },
-  "EJU9046": {
-    "time": 1792925727.2283676,
-    "route": {
-      "callsign": "EJU9046",
-      "callsign_icao": "EJU9046",
-      "callsign_iata": "EC9046",
-      "airline": {
-        "name": "easyJet Europe",
-        "icao": "EJU",
-        "iata": "EC",
-        "country": "Austria",
-        "country_iso": "AT",
-        "callsign": "Alpine"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 622,
-        "iata_code": "BRS",
-        "icao_code": "EGGD",
-        "latitude": 51.3827,
-        "longitude": -2.71909,
-        "municipality": "Bristol",
-        "name": "Bristol Airport"
-      },
-      "destination": {
-        "country_iso_name": "PT",
-        "country_name": "Portugal",
-        "elevation": 374,
-        "iata_code": "LIS",
-        "icao_code": "LPPT",
-        "latitude": 38.7813,
-        "longitude": -9.13592,
-        "municipality": "Lisbon",
-        "name": "Humberto Delgado Airport (Lisbon Portela Airport)"
-      }
-    }
-  },
   "EZY61CL": {
     "time": 1793446525.2956984,
     "route": {
@@ -89474,7 +89436,7 @@
     }
   },
   "EZY59EZ": {
-    "time": 1792926061.1377797,
+    "time": 1793530855.3460023,
     "route": {
       "callsign": "EZY59EZ",
       "callsign_icao": "EZY59EZ",
@@ -199161,7 +199123,7 @@
     }
   },
   "DAL301": {
-    "time": 1793442646.7463279,
+    "time": 1793530855.3460023,
     "route": {
       "callsign": "DAL301",
       "callsign_icao": "DAL301",
@@ -214048,6 +214010,120 @@
         "longitude": 2.55,
         "municipality": "Paris",
         "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "AFR068": {
+    "time": 1793530855.3460023,
+    "route": {
+      "callsign": "AFR68",
+      "callsign_icao": "AFR68",
+      "callsign_iata": "AF68",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1135,
+        "iata_code": "PHX",
+        "icao_code": "KPHX",
+        "latitude": 33.4353,
+        "longitude": -112.00591,
+        "municipality": "Phoenix",
+        "name": "Phoenix Sky Harbor International Airport"
+      }
+    }
+  },
+  "THY7MG": {
+    "time": 1793530855.3460023,
+    "route": {
+      "callsign": "THY7MG",
+      "callsign_icao": "THY7MG",
+      "callsign_iata": "TK7MG",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 65,
+        "iata_code": "ADA",
+        "icao_code": "LTAF",
+        "latitude": 36.9822,
+        "longitude": 35.2804,
+        "municipality": "Seyhan",
+        "name": "Adana \u015eakirpa\u015fa Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 3125,
+        "iata_code": "ESB",
+        "icao_code": "LTAC",
+        "latitude": 40.1281,
+        "longitude": 32.9951,
+        "municipality": "Ankara",
+        "name": "Esenbo\u011fa International Airport"
+      }
+    }
+  },
+  "RYR50DD": {
+    "time": 1793530855.3460023,
+    "route": {
+      "callsign": "RYR50DD",
+      "callsign_icao": "RYR50DD",
+      "callsign_iata": "FR50DD",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
