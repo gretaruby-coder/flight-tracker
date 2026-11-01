@@ -25209,7 +25209,7 @@
     }
   },
   "SVA118": {
-    "time": 1793398532.5358725,
+    "time": 1793575233.2703774,
     "route": {
       "callsign": "SVA118",
       "callsign_icao": "SVA118",
@@ -48015,7 +48015,7 @@
     }
   },
   "EZY49ZD": {
-    "time": 1793379929.5758374,
+    "time": 1793575233.2703774,
     "route": {
       "callsign": "EZY49ZD",
       "callsign_icao": "EZY49ZD",
@@ -115352,7 +115352,7 @@
     }
   },
   "TOM5TD": {
-    "time": 1792977031.4618404,
+    "time": 1793575233.2703774,
     "route": {
       "callsign": "TOM5TD",
       "callsign_icao": "TOM5TD",
@@ -167305,7 +167305,7 @@
     }
   },
   "EXS9MD": {
-    "time": 1793397033.033101,
+    "time": 1793575233.2703774,
     "route": {
       "callsign": "EXS9MD",
       "callsign_icao": "EXS9MD",
@@ -174451,7 +174451,7 @@
     }
   },
   "RYR4JE": {
-    "time": 1793342433.784891,
+    "time": 1793575233.2703774,
     "route": {
       "callsign": "RYR4JE",
       "callsign_icao": "RYR4JE",
@@ -219507,6 +219507,158 @@
         "longitude": -1.69167,
         "municipality": "Newcastle",
         "name": "Newcastle Airport"
+      }
+    }
+  },
+  "SVA128": {
+    "time": 1793575233.2703774,
+    "route": {
+      "callsign": "SVA128",
+      "callsign_icao": "SVA128",
+      "callsign_iata": "SV128",
+      "airline": {
+        "name": "Saudi Arabian Airlines",
+        "icao": "SVA",
+        "iata": "SV",
+        "country": "Saudi Arabia",
+        "country_iso": "SA",
+        "callsign": "SAUDIA"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 12,
+        "iata_code": "NCE",
+        "icao_code": "LFMN",
+        "latitude": 43.6584,
+        "longitude": 7.21587,
+        "municipality": "Nice",
+        "name": "Nice-C\u00f4te d'Azur Airport"
+      },
+      "destination": {
+        "country_iso_name": "SA",
+        "country_name": "Saudi Arabia",
+        "elevation": 2049,
+        "iata_code": "RUH",
+        "icao_code": "OERK",
+        "latitude": 24.9576,
+        "longitude": 46.6988,
+        "municipality": "Riyadh",
+        "name": "King Khaled International Airport"
+      }
+    }
+  },
+  "RYR25WB": {
+    "time": 1793575233.2703774,
+    "route": {
+      "callsign": "RYR25WB",
+      "callsign_icao": "RYR25WB",
+      "callsign_iata": "FR25WB",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "MT",
+        "country_name": "Malta",
+        "elevation": 300,
+        "iata_code": "MLA",
+        "icao_code": "LMML",
+        "latitude": 35.8575,
+        "longitude": 14.4775,
+        "municipality": "Valletta",
+        "name": "Malta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "EXS2PC": {
+    "time": 1793575233.2703774,
+    "route": {
+      "callsign": "EXS2PC",
+      "callsign_icao": "EXS2PC",
+      "callsign_iata": "LS2PC",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 115,
+        "iata_code": "HER",
+        "icao_code": "LGIR",
+        "latitude": 35.3397,
+        "longitude": 25.1803,
+        "municipality": "Heraklion",
+        "name": "Heraklion International Nikos Kazantzakis Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "EXS8NR": {
+    "time": 1793575233.2703774,
+    "route": {
+      "callsign": "EXS8NR",
+      "callsign_icao": "EXS8NR",
+      "callsign_iata": "LS8NR",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 681,
+        "iata_code": "LBA",
+        "icao_code": "EGNM",
+        "latitude": 53.8659,
+        "longitude": -1.66057,
+        "municipality": "Leeds",
+        "name": "Leeds Bradford Airport"
       }
     }
   }
