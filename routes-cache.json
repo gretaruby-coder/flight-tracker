@@ -7972,7 +7972,7 @@
     }
   },
   "BAW422": {
-    "time": 1793434833.6311178,
+    "time": 1793527256.0653102,
     "route": {
       "callsign": "BAW422",
       "callsign_icao": "BAW422",
@@ -31465,7 +31465,7 @@
     }
   },
   "SHT9E": {
-    "time": 1793357132.7747424,
+    "time": 1793527256.0653102,
     "route": {
       "callsign": "SHT9E",
       "callsign_icao": null,
@@ -38028,7 +38028,7 @@
     }
   },
   "BAW879": {
-    "time": 1793355927.5151558,
+    "time": 1793527256.0653102,
     "route": {
       "callsign": "BAW879",
       "callsign_icao": "BAW879",
@@ -39244,7 +39244,7 @@
     }
   },
   "DAL59": {
-    "time": 1793440854.867185,
+    "time": 1793527256.0653102,
     "route": {
       "callsign": "DAL59",
       "callsign_icao": "DAL59",
@@ -55933,7 +55933,7 @@
     }
   },
   "BAW568J": {
-    "time": 1793349324.3278375,
+    "time": 1793527256.0653102,
     "route": {
       "callsign": "BAW568J",
       "callsign_icao": "BAW568J",
@@ -63367,7 +63367,7 @@
     }
   },
   "BAW654": {
-    "time": 1793430336.786817,
+    "time": 1793527256.0653102,
     "route": {
       "callsign": "BAW654",
       "callsign_icao": "BAW654",
@@ -85978,7 +85978,7 @@
     }
   },
   "BAW41U": {
-    "time": 1793350567.0008473,
+    "time": 1793527256.0653102,
     "route": {
       "callsign": "BAW41U",
       "callsign_icao": "BAW41U",
@@ -86434,7 +86434,7 @@
     }
   },
   "EJU56HX": {
-    "time": 1793355927.5151558,
+    "time": 1793527256.0653102,
     "route": {
       "callsign": "EJU56HX",
       "callsign_icao": "EJU56HX",
@@ -86852,7 +86852,7 @@
     }
   },
   "EZY141X": {
-    "time": 1793346633.0504277,
+    "time": 1793527256.0653102,
     "route": {
       "callsign": "EZY141X",
       "callsign_icao": "EZY141X",
@@ -130277,7 +130277,7 @@
     }
   },
   "UAL12": {
-    "time": 1793354458.9381301,
+    "time": 1793527256.0653102,
     "route": {
       "callsign": "UAL12",
       "callsign_icao": "UAL12",
@@ -214086,6 +214086,82 @@
         "longitude": 2.73881,
         "municipality": "Palma De Mallorca",
         "name": "Palma de Mallorca Airport"
+      }
+    }
+  },
+  "CFE7309": {
+    "time": 1793527256.0653102,
+    "route": {
+      "callsign": "CFE7309",
+      "callsign_icao": "CFE7309",
+      "callsign_iata": "CJ7309",
+      "airline": {
+        "name": "BA CityFlyer",
+        "icao": "CFE",
+        "iata": "CJ",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "FLYER"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 24,
+        "iata_code": "IBZ",
+        "icao_code": "LEIB",
+        "latitude": 38.8729,
+        "longitude": 1.37312,
+        "municipality": "Ibiza",
+        "name": "Ibiza Airport"
+      }
+    }
+  },
+  "NSZ5052": {
+    "time": 1793527256.0653102,
+    "route": {
+      "callsign": "NSZ5052",
+      "callsign_icao": "NSZ5052",
+      "callsign_iata": "D85052",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      },
+      "destination": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
       }
     }
   }
