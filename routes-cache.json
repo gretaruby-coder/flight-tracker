@@ -76349,44 +76349,6 @@
       }
     }
   },
-  "ITY619": {
-    "time": 1792899324.6943536,
-    "route": {
-      "callsign": "ITY619",
-      "callsign_icao": "ITY619",
-      "callsign_iata": "AZ619",
-      "airline": {
-        "name": "ITA Airways",
-        "icao": "ITY",
-        "iata": "AZ",
-        "country": "Italy",
-        "country_iso": "IT",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 312,
-        "iata_code": "IAD",
-        "icao_code": "KIAD",
-        "latitude": 38.9445,
-        "longitude": -77.4558,
-        "municipality": "Washington",
-        "name": "Washington Dulles International Airport"
-      },
-      "destination": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 13,
-        "iata_code": "FCO",
-        "icao_code": "LIRF",
-        "latitude": 41.80453,
-        "longitude": 12.252,
-        "municipality": "Rome",
-        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
-      }
-    }
-  },
   "ITY603": {
     "time": 1792900232.4280581,
     "route": {
@@ -214725,6 +214687,44 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "CFG3729": {
+    "time": 1793504431.5521324,
+    "route": {
+      "callsign": "CFG3729",
+      "callsign_icao": "CFG3729",
+      "callsign_iata": "DE3729",
+      "airline": {
+        "name": "Condor Flugdienst",
+        "icao": "CFG",
+        "iata": "DE",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "CONDOR"
+      },
+      "origin": {
+        "country_iso_name": "ZA",
+        "country_name": "South Africa",
+        "elevation": 151,
+        "iata_code": "CPT",
+        "icao_code": "FACT",
+        "latitude": -33.9648,
+        "longitude": 18.6017,
+        "municipality": "Cape Town",
+        "name": "Cape Town International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
       }
     }
   }
