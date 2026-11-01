@@ -19226,7 +19226,7 @@
     }
   },
   "BAW495": {
-    "time": 1793483130.2390356,
+    "time": 1793573433.8290691,
     "route": {
       "callsign": "BAW495",
       "callsign_icao": "BAW495",
@@ -21081,7 +21081,7 @@
     }
   },
   "SIA319": {
-    "time": 1793394326.6971166,
+    "time": 1793573433.8290691,
     "route": {
       "callsign": "SIA319",
       "callsign_icao": "SIA319",
@@ -219241,6 +219241,120 @@
         "longitude": -2.71909,
         "municipality": "Bristol",
         "name": "Bristol Airport"
+      }
+    }
+  },
+  "EZY53TD": {
+    "time": 1793573433.8290691,
+    "route": {
+      "callsign": "EZY53TD",
+      "callsign_icao": "EZY53TD",
+      "callsign_iata": "U253TD",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "RYR8BA": {
+    "time": 1793573433.8290691,
+    "route": {
+      "callsign": "RYR8BA",
+      "callsign_icao": "RYR8BA",
+      "callsign_iata": "FR8BA",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "PL",
+        "country_name": "Poland",
+        "elevation": 791,
+        "iata_code": "KRK",
+        "icao_code": "EPKK",
+        "latitude": 50.0777,
+        "longitude": 19.7848,
+        "municipality": "Krak\u00f3w",
+        "name": "Krak\u00f3w John Paul II International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 681,
+        "iata_code": "LBA",
+        "icao_code": "EGNM",
+        "latitude": 53.8659,
+        "longitude": -1.66057,
+        "municipality": "Leeds",
+        "name": "Leeds Bradford Airport"
+      }
+    }
+  },
+  "EXS4HG": {
+    "time": 1793573433.8290691,
+    "route": {
+      "callsign": "EXS4HG",
+      "callsign_icao": "EXS4HG",
+      "callsign_iata": "LS4HG",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
       }
     }
   }
