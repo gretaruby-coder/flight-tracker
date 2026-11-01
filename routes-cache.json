@@ -39700,7 +39700,7 @@
     }
   },
   "EIN1LK": {
-    "time": 1793361927.5967264,
+    "time": 1793532033.4653826,
     "route": {
       "callsign": "EIN1LK",
       "callsign_icao": "EIN1LK",
@@ -41099,7 +41099,7 @@
     }
   },
   "BAW98T": {
-    "time": 1793442326.3836162,
+    "time": 1793532033.4653826,
     "route": {
       "callsign": "BAW98T",
       "callsign_icao": "BAW98T",
@@ -47742,7 +47742,7 @@
     }
   },
   "DAL36": {
-    "time": 1793359525.816094,
+    "time": 1793532033.4653826,
     "route": {
       "callsign": "DAL36",
       "callsign_icao": "DAL36",
@@ -49635,7 +49635,7 @@
     }
   },
   "BAW513": {
-    "time": 1793358633.6359363,
+    "time": 1793532033.4653826,
     "route": {
       "callsign": "BAW513",
       "callsign_icao": "BAW513",
@@ -87764,7 +87764,7 @@
     }
   },
   "RYR83YV": {
-    "time": 1793383260.8498237,
+    "time": 1793532033.4653826,
     "route": {
       "callsign": "RYR83YV",
       "callsign_icao": "RYR83YV",
@@ -88258,7 +88258,7 @@
     }
   },
   "BAW2161": {
-    "time": 1793098236.7272327,
+    "time": 1793532033.4653826,
     "route": {
       "callsign": "BAW2161",
       "callsign_icao": "BAW2161",
@@ -89657,7 +89657,7 @@
     }
   },
   "EZY57GC": {
-    "time": 1793310636.22619,
+    "time": 1793532033.4653826,
     "route": {
       "callsign": "EZY57GC",
       "callsign_icao": "EZY57GC",
@@ -90296,7 +90296,7 @@
     }
   },
   "EZY808": {
-    "time": 1792927525.7490852,
+    "time": 1793532033.4653826,
     "route": {
       "callsign": "EZY808",
       "callsign_icao": "EZY808",
@@ -90828,7 +90828,7 @@
     }
   },
   "EZS21AL": {
-    "time": 1792928126.1775694,
+    "time": 1793532033.4653826,
     "route": {
       "callsign": "EZS21AL",
       "callsign_icao": "EZS21AL",
@@ -90980,7 +90980,7 @@
     }
   },
   "MSR769": {
-    "time": 1793359525.816094,
+    "time": 1793532033.4653826,
     "route": {
       "callsign": "MSR769",
       "callsign_icao": "MSR769",
@@ -91163,7 +91163,7 @@
     }
   },
   "RYR7CH": {
-    "time": 1793397033.033101,
+    "time": 1793532033.4653826,
     "route": {
       "callsign": "RYR7CH",
       "callsign_icao": "RYR7CH",
@@ -93284,7 +93284,7 @@
     }
   },
   "RYR70SQ": {
-    "time": 1793036734.4925508,
+    "time": 1793532033.4653826,
     "route": {
       "callsign": "RYR70SQ",
       "callsign_icao": "RYR70SQ",
@@ -214010,6 +214010,75 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "EFD2F": {
+    "time": 1793532033.4653826,
+    "route": {
+      "callsign": "EFD2F",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1276,
+        "iata_code": "STR",
+        "icao_code": "EDDS",
+        "latitude": 48.6899,
+        "longitude": 9.22196,
+        "municipality": "Stuttgart",
+        "name": "Stuttgart Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 915,
+        "iata_code": "LUG",
+        "icao_code": "LSZA",
+        "latitude": 46.0043,
+        "longitude": 8.91058,
+        "municipality": "Lugano",
+        "name": "Lugano Airport"
+      }
+    }
+  },
+  "NOZ4YK": {
+    "time": 1793532033.4653826,
+    "route": {
+      "callsign": "NOZ4YK",
+      "callsign_icao": "NOZ4YK",
+      "callsign_iata": "4YK",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
