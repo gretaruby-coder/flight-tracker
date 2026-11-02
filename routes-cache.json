@@ -13882,7 +13882,7 @@
     }
   },
   "DAL4": {
-    "time": 1793553631.7581475,
+    "time": 1793640038.2342913,
     "route": {
       "callsign": "DAL4",
       "callsign_icao": "DAL4",
@@ -59008,7 +59008,7 @@
     }
   },
   "TAP1337": {
-    "time": 1793380235.6175983,
+    "time": 1793640038.2342913,
     "route": {
       "callsign": "TAP1337",
       "callsign_icao": "TAP1337",
@@ -63547,7 +63547,7 @@
     }
   },
   "CFE67W": {
-    "time": 1793295936.915634,
+    "time": 1793640038.2342913,
     "route": {
       "callsign": "CFE67W",
       "callsign_icao": "CFE67W",
@@ -78455,7 +78455,7 @@
     }
   },
   "EXS6N": {
-    "time": 1793521232.3312166,
+    "time": 1793640038.2342913,
     "route": {
       "callsign": "EXS6N",
       "callsign_icao": "EXS6N",
@@ -101303,7 +101303,7 @@
     }
   },
   "EIN718": {
-    "time": 1793466632.9411557,
+    "time": 1793640038.2342913,
     "route": {
       "callsign": "EIN718",
       "callsign_icao": "EIN718",
@@ -102512,7 +102512,7 @@
     }
   },
   "AFR35SM": {
-    "time": 1793549730.2923205,
+    "time": 1793640038.2342913,
     "route": {
       "callsign": "AFR35SM",
       "callsign_icao": "AFR35SM",
@@ -123804,37 +123804,6 @@
       }
     }
   },
-  "N104QS": {
-    "time": 1793035235.186928,
-    "route": {
-      "callsign": "N104QS",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 364,
-        "iata_code": "FRA",
-        "icao_code": "EDDF",
-        "latitude": 50.03333,
-        "longitude": 8.57056,
-        "municipality": "Frankfurt am Main",
-        "name": "Frankfurt am Main Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 1428,
-        "iata_code": "DLH",
-        "icao_code": "KDLH",
-        "latitude": 46.8421,
-        "longitude": -92.1936,
-        "municipality": "Duluth",
-        "name": "Duluth International Airport"
-      }
-    }
-  },
   "EXS8R": {
     "time": 1793492130.2764733,
     "route": {
@@ -141166,7 +141135,7 @@
     }
   },
   "SXN45G": {
-    "time": 1793125853.8836389,
+    "time": 1793640038.2342913,
     "route": {
       "callsign": "SXN45G",
       "callsign_icao": null,
@@ -224177,6 +224146,82 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "EZY63RQ": {
+    "time": 1793640038.2342913,
+    "route": {
+      "callsign": "EZY63RQ",
+      "callsign_icao": "EZY63RQ",
+      "callsign_iata": "U263RQ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 12,
+        "iata_code": "NCE",
+        "icao_code": "LFMN",
+        "latitude": 43.6584,
+        "longitude": 7.21587,
+        "municipality": "Nice",
+        "name": "Nice-C\u00f4te d'Azur Airport"
+      }
+    }
+  },
+  "EXS38NA": {
+    "time": 1793640038.2342913,
+    "route": {
+      "callsign": "EXS38NA",
+      "callsign_icao": "EXS38NA",
+      "callsign_iata": "LS38NA",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 192,
+        "iata_code": "FNC",
+        "icao_code": "LPMA",
+        "latitude": 32.6979,
+        "longitude": -16.7745,
+        "municipality": "Funchal",
+        "name": "Madeira International Airport Cristiano Ronaldo"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
