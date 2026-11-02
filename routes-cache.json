@@ -111708,7 +111708,7 @@
     }
   },
   "RYR35VV": {
-    "time": 1793573725.2844486,
+    "time": 1793663130.8790255,
     "route": {
       "callsign": "RYR35VV",
       "callsign_icao": "RYR35VV",
@@ -226903,6 +226903,82 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "RYR6NV": {
+    "time": 1793663130.8790255,
+    "route": {
+      "callsign": "RYR6NV",
+      "callsign_icao": "RYR6NV",
+      "callsign_iata": "FR6NV",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 17,
+        "iata_code": "CPH",
+        "icao_code": "EKCH",
+        "latitude": 55.6179,
+        "longitude": 12.656,
+        "municipality": "Copenhagen",
+        "name": "Copenhagen Kastrup Airport"
+      },
+      "destination": {
+        "country_iso_name": "PL",
+        "country_name": "Poland",
+        "elevation": 791,
+        "iata_code": "KRK",
+        "icao_code": "EPKK",
+        "latitude": 50.0777,
+        "longitude": 19.7848,
+        "municipality": "Krak\u00f3w",
+        "name": "Krak\u00f3w John Paul II International Airport"
+      }
+    }
+  },
+  "RYR39MF": {
+    "time": 1793663130.8790255,
+    "route": {
+      "callsign": "RYR39MF",
+      "callsign_icao": "RYR39MF",
+      "callsign_iata": "FR39MF",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "MT",
+        "country_name": "Malta",
+        "elevation": 300,
+        "iata_code": "MLA",
+        "icao_code": "LMML",
+        "latitude": 35.8575,
+        "longitude": 14.4775,
+        "municipality": "Valletta",
+        "name": "Malta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 600,
+        "iata_code": "VIE",
+        "icao_code": "LOWW",
+        "latitude": 48.1103,
+        "longitude": 16.5697,
+        "municipality": "Vienna",
+        "name": "Vienna International Airport"
       }
     }
   }
