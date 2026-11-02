@@ -14901,7 +14901,7 @@
     }
   },
   "BAW6NC": {
-    "time": 1793554831.2631013,
+    "time": 1793641535.3165061,
     "route": {
       "callsign": "BAW6NC",
       "callsign_icao": "BAW6NC",
@@ -15775,7 +15775,7 @@
     }
   },
   "OMA101": {
-    "time": 1793469653.9241104,
+    "time": 1793641535.3165061,
     "route": {
       "callsign": "OMA101",
       "callsign_icao": "OMA101",
@@ -100049,7 +100049,7 @@
     }
   },
   "EZY92BQ": {
-    "time": 1793483432.361026,
+    "time": 1793641535.3165061,
     "route": {
       "callsign": "EZY92BQ",
       "callsign_icao": "EZY92BQ",
@@ -103158,7 +103158,7 @@
     }
   },
   "EZY52EQ": {
-    "time": 1793553631.7581475,
+    "time": 1793641535.3165061,
     "route": {
       "callsign": "EZY52EQ",
       "callsign_icao": "EZY52EQ",
@@ -104146,7 +104146,7 @@
     }
   },
   "AIC63H": {
-    "time": 1793555132.0273705,
+    "time": 1793641535.3165061,
     "route": {
       "callsign": "AIC63H",
       "callsign_icao": "AIC63H",
@@ -123994,75 +123994,6 @@
       }
     }
   },
-  "N776AG": {
-    "time": 1793036734.4925508,
-    "route": {
-      "callsign": "N776AG",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 335,
-        "iata_code": "BTV",
-        "icao_code": "KBTV",
-        "latitude": 44.4719,
-        "longitude": -73.1533,
-        "municipality": "Burlington",
-        "name": "Burlington International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 238,
-        "iata_code": "FAB",
-        "icao_code": "EGLF",
-        "latitude": 51.2758,
-        "longitude": -0.77633,
-        "municipality": "Farnborough",
-        "name": "Farnborough Airport"
-      }
-    }
-  },
-  "TOM946P": {
-    "time": 1793036734.4925508,
-    "route": {
-      "callsign": "TOM946P",
-      "callsign_icao": "TOM946P",
-      "callsign_iata": "BY946P",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 257,
-        "iata_code": "MAN",
-        "icao_code": "EGCC",
-        "latitude": 53.34938,
-        "longitude": -2.27952,
-        "municipality": "Manchester",
-        "name": "Manchester Airport"
-      }
-    }
-  },
   "EZY85DV": {
     "time": 1793638527.1691673,
     "route": {
@@ -124102,7 +124033,7 @@
     }
   },
   "AFR163": {
-    "time": 1793207736.568138,
+    "time": 1793641535.3165061,
     "route": {
       "callsign": "AFR163",
       "callsign_icao": "AFR163",
@@ -140420,7 +140351,7 @@
     }
   },
   "TAP67U": {
-    "time": 1793122253.9088163,
+    "time": 1793641535.3165061,
     "route": {
       "callsign": "TAP67U",
       "callsign_icao": "TAP67U",
@@ -192309,7 +192240,7 @@
     }
   },
   "EZY95ZP": {
-    "time": 1793484632.0158393,
+    "time": 1793641535.3165061,
     "route": {
       "callsign": "EZY95ZP",
       "callsign_icao": "EZY95ZP",
@@ -224450,6 +224381,44 @@
         "longitude": 11.344,
         "municipality": "Innsbruck",
         "name": "Innsbruck Airport"
+      }
+    }
+  },
+  "TAP9016": {
+    "time": 1793641535.3165061,
+    "route": {
+      "callsign": "TAP9016",
+      "callsign_icao": "TAP9016",
+      "callsign_iata": "TP9016",
+      "airline": {
+        "name": "TAP Portugal",
+        "icao": "TAP",
+        "iata": "TP",
+        "country": "Portugal",
+        "country_iso": "PT",
+        "callsign": "AIR PORTUGAL"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 374,
+        "iata_code": "LIS",
+        "icao_code": "LPPT",
+        "latitude": 38.7813,
+        "longitude": -9.13592,
+        "municipality": "Lisbon",
+        "name": "Humberto Delgado Airport (Lisbon Portela Airport)"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
       }
     }
   }
