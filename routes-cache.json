@@ -30591,7 +30591,7 @@
     }
   },
   "AAL86": {
-    "time": 1793433035.3163643,
+    "time": 1793606127.508373,
     "route": {
       "callsign": "AAL86",
       "callsign_icao": "AAL86",
@@ -31831,7 +31831,7 @@
     }
   },
   "EFW3ZA": {
-    "time": 1793433326.812876,
+    "time": 1793606127.508373,
     "route": {
       "callsign": "EFW3ZA",
       "callsign_icao": "EFW3ZA",
@@ -78206,7 +78206,7 @@
     }
   },
   "LHX2487": {
-    "time": 1793433655.6416023,
+    "time": 1793606127.508373,
     "route": {
       "callsign": "LHX2487",
       "callsign_icao": "LHX2487",
@@ -80524,7 +80524,7 @@
     }
   },
   "WMT5UX": {
-    "time": 1793435722.992153,
+    "time": 1793606127.508373,
     "route": {
       "callsign": "WMT5UX",
       "callsign_icao": "WMT5UX",
@@ -117024,7 +117024,7 @@
     }
   },
   "TOM1FG": {
-    "time": 1793001324.701671,
+    "time": 1793606127.508373,
     "route": {
       "callsign": "TOM1FG",
       "callsign_icao": "TOM1FG",
@@ -117058,44 +117058,6 @@
         "longitude": 25.1803,
         "municipality": "Heraklion",
         "name": "Heraklion International Nikos Kazantzakis Airport"
-      }
-    }
-  },
-  "EZY64RB": {
-    "time": 1793001324.701671,
-    "route": {
-      "callsign": "EZY64RB",
-      "callsign_icao": "EZY64RB",
-      "callsign_iata": "U264RB",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 257,
-        "iata_code": "MAN",
-        "icao_code": "EGCC",
-        "latitude": 53.34938,
-        "longitude": -2.27952,
-        "municipality": "Manchester",
-        "name": "Manchester Airport"
-      },
-      "destination": {
-        "country_iso_name": "AT",
-        "country_name": "Austria",
-        "elevation": 1907,
-        "iata_code": "INN",
-        "icao_code": "LOWI",
-        "latitude": 47.2602,
-        "longitude": 11.344,
-        "municipality": "Innsbruck",
-        "name": "Innsbruck Airport"
       }
     }
   },
@@ -221210,6 +221172,120 @@
         "longitude": 28.74195,
         "municipality": "Arnavutk\u00f6y, Istanbul",
         "name": "\u0130stanbul Airport"
+      }
+    }
+  },
+  "LHX2507": {
+    "time": 1793606127.508373,
+    "route": {
+      "callsign": "LHX2507",
+      "callsign_icao": "LHX2507",
+      "callsign_iata": "VL2507",
+      "airline": {
+        "name": "City Airlines",
+        "icao": "LHX",
+        "iata": "VL",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1487,
+        "iata_code": "MUC",
+        "icao_code": "EDDM",
+        "latitude": 48.3538,
+        "longitude": 11.7861,
+        "municipality": "Munich",
+        "name": "Munich Airport"
+      }
+    }
+  },
+  "EZY12JQ": {
+    "time": 1793606127.508373,
+    "route": {
+      "callsign": "EZY12JQ",
+      "callsign_icao": "EZY12JQ",
+      "callsign_iata": "U212JQ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 26,
+        "iata_code": "GLA",
+        "icao_code": "EGPF",
+        "latitude": 55.8719,
+        "longitude": -4.43306,
+        "municipality": "Paisley, Renfrewshire",
+        "name": "Glasgow International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      }
+    }
+  },
+  "EZY81HB": {
+    "time": 1793606127.508373,
+    "route": {
+      "callsign": "EZY81HB",
+      "callsign_icao": "EZY81HB",
+      "callsign_iata": "U281HB",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
