@@ -220466,5 +220466,74 @@
         "name": "EuroAirport Basel-Mulhouse-Freiburg Airport"
       }
     }
+  },
+  "UAE213": {
+    "time": 1793596534.1164014,
+    "route": {
+      "callsign": "UAE213",
+      "callsign_icao": "UAE213",
+      "callsign_iata": "EK213",
+      "airline": {
+        "name": "Emirates",
+        "icao": "UAE",
+        "iata": "EK",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "EMIRATES"
+      },
+      "origin": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 62,
+        "iata_code": "DXB",
+        "icao_code": "OMDB",
+        "latitude": 25.2528,
+        "longitude": 55.3644,
+        "municipality": "Dubai",
+        "name": "Dubai International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 8,
+        "iata_code": "MIA",
+        "icao_code": "KMIA",
+        "latitude": 25.7932,
+        "longitude": -80.2906,
+        "municipality": "Miami",
+        "name": "Miami International Airport"
+      }
+    }
+  },
+  "LXJ453": {
+    "time": 1793596534.1164014,
+    "route": {
+      "callsign": "LXJ453",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 67,
+        "iata_code": "FOK",
+        "icao_code": "KFOK",
+        "latitude": 40.8437,
+        "longitude": -72.6318,
+        "municipality": "Westhampton Beach",
+        "name": "Francis S Gabreski Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 802,
+        "iata_code": "VNY",
+        "icao_code": "KVNY",
+        "latitude": 34.2098,
+        "longitude": -118.49,
+        "municipality": "Van Nuys",
+        "name": "Van Nuys Airport"
+      }
+    }
   }
 }
