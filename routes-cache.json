@@ -40422,7 +40422,7 @@
     }
   },
   "BAW2X": {
-    "time": 1793531433.578996,
+    "time": 1793618133.8602393,
     "route": {
       "callsign": "BAW2X",
       "callsign_icao": "BAW2X",
@@ -41296,7 +41296,7 @@
     }
   },
   "BAW3G": {
-    "time": 1793442646.7463279,
+    "time": 1793618133.8602393,
     "route": {
       "callsign": "BAW3G",
       "callsign_icao": "BAW3G",
@@ -42360,7 +42360,7 @@
     }
   },
   "EIN91W": {
-    "time": 1793446246.2289069,
+    "time": 1793618133.8602393,
     "route": {
       "callsign": "EIN91W",
       "callsign_icao": "EIN91W",
@@ -76510,7 +76510,7 @@
     }
   },
   "RYR8TX": {
-    "time": 1793518524.7624164,
+    "time": 1793618133.8602393,
     "route": {
       "callsign": "RYR8TX",
       "callsign_icao": "RYR8TX",
@@ -120938,7 +120938,7 @@
     }
   },
   "RYR69PU": {
-    "time": 1793367638.657345,
+    "time": 1793618133.8602393,
     "route": {
       "callsign": "RYR69PU",
       "callsign_icao": "RYR69PU",
@@ -122855,7 +122855,7 @@
     }
   },
   "EFW97U": {
-    "time": 1793451654.4725308,
+    "time": 1793618133.8602393,
     "route": {
       "callsign": "EFW97U",
       "callsign_icao": "EFW97U",
@@ -161554,7 +161554,7 @@
     }
   },
   "EZY15EM": {
-    "time": 1793357132.7747424,
+    "time": 1793618133.8602393,
     "route": {
       "callsign": "EZY15EM",
       "callsign_icao": "EZY15EM",
@@ -222844,6 +222844,113 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "GBOKA": {
+    "time": 1793618133.8602393,
+    "route": {
+      "callsign": "GBOKA",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 80,
+        "iata_code": null,
+        "icao_code": "EGTF",
+        "latitude": 51.3481,
+        "longitude": -0.55889,
+        "municipality": "Woking",
+        "name": "Fairoaks Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 29,
+        "iata_code": null,
+        "icao_code": "EGCM",
+        "latitude": 53.8343,
+        "longitude": -1.1955,
+        "municipality": "Church Fenton",
+        "name": "Leeds East Airport"
+      }
+    }
+  },
+  "EZY49JE": {
+    "time": 1793618133.8602393,
+    "route": {
+      "callsign": "EZY49JE",
+      "callsign_icao": "EZY49JE",
+      "callsign_iata": "U249JE",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      },
+      "destination": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 143,
+        "iata_code": "SSH",
+        "icao_code": "HESH",
+        "latitude": 27.9773,
+        "longitude": 34.395,
+        "municipality": "Sharm el-Sheikh",
+        "name": "Sharm El Sheikh International Airport"
+      }
+    }
+  },
+  "EXS1N": {
+    "time": 1793618133.8602393,
+    "route": {
+      "callsign": "EXS1N",
+      "callsign_icao": "EXS1N",
+      "callsign_iata": "LS1N",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 412,
+        "iata_code": "ADB",
+        "icao_code": "LTBJ",
+        "latitude": 38.2924,
+        "longitude": 27.157,
+        "municipality": "\u0130zmir",
+        "name": "Adnan Menderes International Airport"
       }
     }
   }
