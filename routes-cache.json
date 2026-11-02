@@ -21157,7 +21157,7 @@
     }
   },
   "JBU1107": {
-    "time": 1793480725.850507,
+    "time": 1793655058.0031242,
     "route": {
       "callsign": "JBU1107",
       "callsign_icao": "JBU1107",
@@ -23164,7 +23164,7 @@
     }
   },
   "CES552": {
-    "time": 1793568035.278304,
+    "time": 1793655058.0031242,
     "route": {
       "callsign": "CES552",
       "callsign_icao": "CES552",
@@ -23468,7 +23468,7 @@
     }
   },
   "TAP58Y": {
-    "time": 1793567734.675984,
+    "time": 1793655058.0031242,
     "route": {
       "callsign": "TAP58Y",
       "callsign_icao": "TAP58Y",
@@ -23658,7 +23658,7 @@
     }
   },
   "ETD42B": {
-    "time": 1793568326.4920547,
+    "time": 1793655058.0031242,
     "route": {
       "callsign": "ETD42B",
       "callsign_icao": "ETD42B",
@@ -58900,37 +58900,6 @@
       }
     }
   },
-  "VJT453": {
-    "time": 1793050250.09798,
-    "route": {
-      "callsign": "VJT453",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "JO",
-        "country_name": "Jordan",
-        "elevation": 2395,
-        "iata_code": "AMM",
-        "icao_code": "OJAI",
-        "latitude": 31.7226,
-        "longitude": 35.9932,
-        "municipality": "Amman",
-        "name": "Queen Alia International Airport"
-      },
-      "destination": {
-        "country_iso_name": "JO",
-        "country_name": "Jordan",
-        "elevation": 2395,
-        "iata_code": "AMM",
-        "icao_code": "OJAI",
-        "latitude": 31.7226,
-        "longitude": 35.9932,
-        "municipality": "Amman",
-        "name": "Queen Alia International Airport"
-      }
-    }
-  },
   "BAW41YA": {
     "time": 1793635540.8141365,
     "route": {
@@ -77854,7 +77823,7 @@
     }
   },
   "RYR67BU": {
-    "time": 1793521232.3312166,
+    "time": 1793655058.0031242,
     "route": {
       "callsign": "RYR67BU",
       "callsign_icao": "RYR67BU",
@@ -163329,7 +163298,7 @@
     }
   },
   "EZY94BW": {
-    "time": 1793567124.4906023,
+    "time": 1793655058.0031242,
     "route": {
       "callsign": "EZY94BW",
       "callsign_icao": "EZY94BW",
@@ -173449,7 +173418,7 @@
     }
   },
   "EZY939F": {
-    "time": 1793389532.1646335,
+    "time": 1793655058.0031242,
     "route": {
       "callsign": "EZY939F",
       "callsign_icao": "EZY939F",
@@ -225984,6 +225953,44 @@
         "longitude": 10.3927,
         "municipality": "Pisa",
         "name": "Pisa International Airport"
+      }
+    }
+  },
+  "WMT3WS": {
+    "time": 1793655058.0031242,
+    "route": {
+      "callsign": "WMT3WS",
+      "callsign_icao": "WMT3WS",
+      "callsign_iata": "W43WS",
+      "airline": {
+        "name": "Wizz Air Malta",
+        "icao": "WMT",
+        "iata": "W4",
+        "country": "Malta",
+        "country_iso": "MT",
+        "callsign": "Wizzairmalta"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 7,
+        "iata_code": "VCE",
+        "icao_code": "LIPZ",
+        "latitude": 45.5053,
+        "longitude": 12.3519,
+        "municipality": "Venice",
+        "name": "Venice Marco Polo Airport"
       }
     }
   }
