@@ -13844,7 +13844,7 @@
     }
   },
   "BAW135": {
-    "time": 1793547323.871039,
+    "time": 1793634345.1759093,
     "route": {
       "callsign": "BAW135",
       "callsign_icao": "BAW135",
@@ -38187,7 +38187,7 @@
     }
   },
   "EFW88UA": {
-    "time": 1793546134.69548,
+    "time": 1793634345.1759093,
     "route": {
       "callsign": "EFW88UA",
       "callsign_icao": "EFW88UA",
@@ -40194,7 +40194,7 @@
     }
   },
   "ETH3518": {
-    "time": 1793370927.346551,
+    "time": 1793634345.1759093,
     "route": {
       "callsign": "ETH3518",
       "callsign_icao": "ETH3518",
@@ -63015,7 +63015,7 @@
     }
   },
   "CFE95E": {
-    "time": 1793542832.6259546,
+    "time": 1793634345.1759093,
     "route": {
       "callsign": "CFE95E",
       "callsign_icao": "CFE95E",
@@ -81070,7 +81070,7 @@
     }
   },
   "RYR5HB": {
-    "time": 1793456431.7687416,
+    "time": 1793634345.1759093,
     "route": {
       "callsign": "RYR5HB",
       "callsign_icao": "RYR5HB",
@@ -120040,7 +120040,7 @@
     }
   },
   "EXS71W": {
-    "time": 1793459431.7306402,
+    "time": 1793634345.1759093,
     "route": {
       "callsign": "EXS71W",
       "callsign_icao": "EXS71W",
@@ -122903,44 +122903,6 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
-      }
-    }
-  },
-  "TOM23M": {
-    "time": 1793029533.9005432,
-    "route": {
-      "callsign": "TOM23M",
-      "callsign_icao": "TOM23M",
-      "callsign_iata": "BY23M",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 257,
-        "iata_code": "MAN",
-        "icao_code": "EGCC",
-        "latitude": 53.34938,
-        "longitude": -2.27952,
-        "municipality": "Manchester",
-        "name": "Manchester Airport"
-      },
-      "destination": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 37,
-        "iata_code": "OLB",
-        "icao_code": "LIEO",
-        "latitude": 40.8987,
-        "longitude": 9.51763,
-        "municipality": "Olbia (SS)",
-        "name": "Olbia Costa Smeralda Airport"
       }
     }
   },
@@ -223569,6 +223531,82 @@
         "longitude": 28.7925,
         "municipality": "Dalaman",
         "name": "Dalaman International Airport"
+      }
+    }
+  },
+  "JTD802": {
+    "time": 1793634345.1759093,
+    "route": {
+      "callsign": "JTD802",
+      "callsign_icao": "JTD802",
+      "callsign_iata": "802",
+      "airline": {
+        "name": "Jet Time",
+        "icao": "JTD",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      },
+      "destination": {
+        "country_iso_name": "FI",
+        "country_name": "Finland",
+        "elevation": 179,
+        "iata_code": "HEL",
+        "icao_code": "EFHK",
+        "latitude": 60.3172,
+        "longitude": 24.9633,
+        "municipality": "Helsinki",
+        "name": "Helsinki Vantaa Airport"
+      }
+    }
+  },
+  "THY81D": {
+    "time": 1793634345.1759093,
+    "route": {
+      "callsign": "THY81D",
+      "callsign_icao": "THY81D",
+      "callsign_iata": "TK81D",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 20,
+        "iata_code": "BOS",
+        "icao_code": "KBOS",
+        "latitude": 42.3643,
+        "longitude": -71.0052,
+        "municipality": "Boston",
+        "name": "Logan International Airport"
       }
     }
   }
