@@ -4939,7 +4939,7 @@
     }
   },
   "BAW771C": {
-    "time": 1793549124.69364,
+    "time": 1793635540.8141365,
     "route": {
       "callsign": "BAW771C",
       "callsign_icao": "BAW771C",
@@ -6573,7 +6573,7 @@
     }
   },
   "AAL735": {
-    "time": 1793546134.69548,
+    "time": 1793635540.8141365,
     "route": {
       "callsign": "AAL735",
       "callsign_icao": "AAL735",
@@ -8953,7 +8953,7 @@
     }
   },
   "BAW277": {
-    "time": 1793547045.884209,
+    "time": 1793635540.8141365,
     "route": {
       "callsign": "BAW277",
       "callsign_icao": "BAW277",
@@ -11022,7 +11022,7 @@
     }
   },
   "KAL907": {
-    "time": 1793549124.69364,
+    "time": 1793635540.8141365,
     "route": {
       "callsign": "KAL907",
       "callsign_icao": "KAL907",
@@ -11661,7 +11661,7 @@
     }
   },
   "BAW49": {
-    "time": 1793549124.69364,
+    "time": 1793635540.8141365,
     "route": {
       "callsign": "BAW49",
       "callsign_icao": "BAW49",
@@ -59039,7 +59039,7 @@
     }
   },
   "BAW41YA": {
-    "time": 1793463032.5963774,
+    "time": 1793635540.8141365,
     "route": {
       "callsign": "BAW41YA",
       "callsign_icao": "BAW41YA",
@@ -61570,44 +61570,6 @@
       }
     }
   },
-  "NSZ5PF": {
-    "time": 1793030727.1849456,
-    "route": {
-      "callsign": "NSZ5PF",
-      "callsign_icao": "NSZ5PF",
-      "callsign_iata": "D85PF",
-      "airline": {
-        "name": "Norwegian Air Sweden AOC",
-        "icao": "NSZ",
-        "iata": "D8",
-        "country": "Sweden",
-        "country_iso": "SE",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 142,
-        "iata_code": "ALC",
-        "icao_code": "LEAL",
-        "latitude": 38.2822,
-        "longitude": -0.55816,
-        "municipality": "Alicante",
-        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
-      },
-      "destination": {
-        "country_iso_name": "NO",
-        "country_name": "Norway",
-        "elevation": 170,
-        "iata_code": "BGO",
-        "icao_code": "ENBR",
-        "latitude": 60.2934,
-        "longitude": 5.21814,
-        "municipality": "Bergen",
-        "name": "Bergen Airport, Flesland"
-      }
-    }
-  },
   "ETD9SM": {
     "time": 1793437832.9059644,
     "route": {
@@ -63540,7 +63502,7 @@
     }
   },
   "RUK8554": {
-    "time": 1793388649.8932743,
+    "time": 1793635540.8141365,
     "route": {
       "callsign": "RUK8554",
       "callsign_icao": "RUK8554",
@@ -123055,44 +123017,6 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
-      }
-    }
-  },
-  "LGL4732": {
-    "time": 1793030727.1849456,
-    "route": {
-      "callsign": "LGL4732",
-      "callsign_icao": "LGL4732",
-      "callsign_iata": "LG4732",
-      "airline": {
-        "name": "Luxair",
-        "icao": "LGL",
-        "iata": "LG",
-        "country": "Luxembourg",
-        "country_iso": "LU",
-        "callsign": "LUXAIR"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 135,
-        "iata_code": "EDI",
-        "icao_code": "EGPH",
-        "latitude": 55.95015,
-        "longitude": -3.37229,
-        "municipality": "Edinburgh",
-        "name": "Edinburgh Airport"
-      },
-      "destination": {
-        "country_iso_name": "LU",
-        "country_name": "Luxembourg",
-        "elevation": 1234,
-        "iata_code": "LUX",
-        "icao_code": "ELLX",
-        "latitude": 49.62333,
-        "longitude": 6.20444,
-        "municipality": "Luxembourg",
-        "name": "Luxembourg-Findel International Airport"
       }
     }
   },
@@ -223824,6 +223748,75 @@
         "longitude": 100.747,
         "municipality": "Bangkok",
         "name": "Suvarnabhumi Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "NJE6PM": {
+    "time": 1793635540.8141365,
+    "route": {
+      "callsign": "NJE6PM",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 439,
+        "iata_code": "HPN",
+        "icao_code": "KHPN",
+        "latitude": 41.067,
+        "longitude": -73.7076,
+        "municipality": "White Plains",
+        "name": "Westchester County Airport"
+      },
+      "destination": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 1411,
+        "iata_code": "SZG",
+        "icao_code": "LOWS",
+        "latitude": 47.7933,
+        "longitude": 13.0043,
+        "municipality": "Salzburg",
+        "name": "Salzburg Airport"
+      }
+    }
+  },
+  "TOM80X": {
+    "time": 1793635540.8141365,
+    "route": {
+      "callsign": "TOM80X",
+      "callsign_icao": "TOM80X",
+      "callsign_iata": "BY80X",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
       },
       "destination": {
         "country_iso_name": "GB",
