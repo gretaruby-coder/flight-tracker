@@ -34035,7 +34035,7 @@
     }
   },
   "SWR3EZ": {
-    "time": 1793355637.4437551,
+    "time": 1793614836.7501533,
     "route": {
       "callsign": "SWR3EZ",
       "callsign_icao": "SWR3EZ",
@@ -39517,7 +39517,7 @@
     }
   },
   "TAR792": {
-    "time": 1793268065.9706519,
+    "time": 1793614836.7501533,
     "route": {
       "callsign": "TAR792",
       "callsign_icao": "TAR792",
@@ -84338,7 +84338,7 @@
     }
   },
   "QTR30C": {
-    "time": 1793526032.6876612,
+    "time": 1793614836.7501533,
     "route": {
       "callsign": "QTR30C",
       "callsign_icao": "QTR30C",
@@ -85364,7 +85364,7 @@
     }
   },
   "AFR38SJ": {
-    "time": 1793528435.491405,
+    "time": 1793614836.7501533,
     "route": {
       "callsign": "AFR38SJ",
       "callsign_icao": "AFR38SJ",
@@ -85478,7 +85478,7 @@
     }
   },
   "AEA79LG": {
-    "time": 1793445032.1259723,
+    "time": 1793614836.7501533,
     "route": {
       "callsign": "AEA79LG",
       "callsign_icao": "AEA79LG",
@@ -118520,7 +118520,7 @@
     }
   },
   "EZY94CU": {
-    "time": 1793442034.742253,
+    "time": 1793614836.7501533,
     "route": {
       "callsign": "EZY94CU",
       "callsign_icao": "EZY94CU",
@@ -118900,7 +118900,7 @@
     }
   },
   "VIR132K": {
-    "time": 1793528435.491405,
+    "time": 1793614836.7501533,
     "route": {
       "callsign": "VIR132K",
       "callsign_icao": "VIR132K",
@@ -119242,7 +119242,7 @@
     }
   },
   "NSZ3512": {
-    "time": 1793359525.816094,
+    "time": 1793614836.7501533,
     "route": {
       "callsign": "NSZ3512",
       "callsign_icao": "NSZ3512",
@@ -119508,7 +119508,7 @@
     }
   },
   "EZY46CE": {
-    "time": 1793371234.0629747,
+    "time": 1793614836.7501533,
     "route": {
       "callsign": "EZY46CE",
       "callsign_icao": "EZY46CE",
@@ -222502,6 +222502,82 @@
         "longitude": -59.4925,
         "municipality": "Bridgetown",
         "name": "Grantley Adams International Airport"
+      }
+    }
+  },
+  "EXS5Z": {
+    "time": 1793614836.7501533,
+    "route": {
+      "callsign": "EXS5Z",
+      "callsign_icao": "EXS5Z",
+      "callsign_iata": "LS5Z",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 17,
+        "iata_code": "RHO",
+        "icao_code": "LGRP",
+        "latitude": 36.4054,
+        "longitude": 28.0862,
+        "municipality": "Rhodes Island",
+        "name": "Diagoras Airport"
+      }
+    }
+  },
+  "NSZ3676": {
+    "time": 1793614836.7501533,
+    "route": {
+      "callsign": "NSZ3676",
+      "callsign_icao": "NSZ3676",
+      "callsign_iata": "D83676",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 17,
+        "iata_code": "CPH",
+        "icao_code": "EKCH",
+        "latitude": 55.6179,
+        "longitude": 12.656,
+        "municipality": "Copenhagen",
+        "name": "Copenhagen Kastrup Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
       }
     }
   }
