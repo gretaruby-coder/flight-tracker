@@ -19257,7 +19257,7 @@
     }
   },
   "VIR354": {
-    "time": 1793560233.6511283,
+    "time": 1793647526.8360956,
     "route": {
       "callsign": "VIR354",
       "callsign_icao": "VIR354",
@@ -20169,7 +20169,7 @@
     }
   },
   "BAW55G": {
-    "time": 1793560835.6263719,
+    "time": 1793647526.8360956,
     "route": {
       "callsign": "BAW55G",
       "callsign_icao": "BAW55G",
@@ -59875,7 +59875,7 @@
     }
   },
   "TAP7EN": {
-    "time": 1793308834.9028487,
+    "time": 1793647526.8360956,
     "route": {
       "callsign": "TAP7EN",
       "callsign_icao": "TAP7EN",
@@ -79982,7 +79982,7 @@
     }
   },
   "RYR484T": {
-    "time": 1793521842.925196,
+    "time": 1793647526.8360956,
     "route": {
       "callsign": "RYR484T",
       "callsign_icao": "RYR484T",
@@ -103165,7 +103165,7 @@
     }
   },
   "BAW597": {
-    "time": 1793557526.096217,
+    "time": 1793647526.8360956,
     "route": {
       "callsign": "BAW597",
       "callsign_icao": "BAW597",
@@ -106844,7 +106844,7 @@
     }
   },
   "EZY151G": {
-    "time": 1793561125.4864583,
+    "time": 1793647526.8360956,
     "route": {
       "callsign": "EZY151G",
       "callsign_icao": "EZY151G",
@@ -122085,7 +122085,7 @@
     }
   },
   "EXS3ME": {
-    "time": 1793494851.6682231,
+    "time": 1793647526.8360956,
     "route": {
       "callsign": "EXS3ME",
       "callsign_icao": "EXS3ME",
@@ -124876,7 +124876,7 @@
     }
   },
   "RYR9UY": {
-    "time": 1793399725.3920105,
+    "time": 1793647526.8360956,
     "route": {
       "callsign": "RYR9UY",
       "callsign_icao": "RYR9UY",
@@ -125138,44 +125138,6 @@
         "longitude": -6.27007,
         "municipality": "Dublin",
         "name": "Dublin Airport"
-      }
-    }
-  },
-  "TOM56D": {
-    "time": 1793042725.8214712,
-    "route": {
-      "callsign": "TOM56D",
-      "callsign_icao": "TOM56D",
-      "callsign_iata": "BY56D",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 257,
-        "iata_code": "MAN",
-        "icao_code": "EGCC",
-        "latitude": 53.34938,
-        "longitude": -2.27952,
-        "municipality": "Manchester",
-        "name": "Manchester Airport"
-      },
-      "destination": {
-        "country_iso_name": "HR",
-        "country_name": "Croatia",
-        "elevation": 79,
-        "iata_code": "SPU",
-        "icao_code": "LDSP",
-        "latitude": 43.5389,
-        "longitude": 16.298,
-        "municipality": "Split",
-        "name": "Split Airport"
       }
     }
   },
@@ -225445,6 +225407,82 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "RYR12WF": {
+    "time": 1793647526.8360956,
+    "route": {
+      "callsign": "RYR12WF",
+      "callsign_icao": "RYR12WF",
+      "callsign_iata": "FR12WF",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 782,
+        "iata_code": "BGY",
+        "icao_code": "LIME",
+        "latitude": 45.6739,
+        "longitude": 9.70417,
+        "municipality": "Milan",
+        "name": "Milan Bergamo Airport"
+      },
+      "destination": {
+        "country_iso_name": "CZ",
+        "country_name": "Czech Republic",
+        "elevation": 1247,
+        "iata_code": "PRG",
+        "icao_code": "LKPR",
+        "latitude": 50.1008,
+        "longitude": 14.26,
+        "municipality": "Prague",
+        "name": "V\u00e1clav Havel Airport Prague"
+      }
+    }
+  },
+  "SWR8EA": {
+    "time": 1793647526.8360956,
+    "route": {
+      "callsign": "SWR8EA",
+      "callsign_icao": "SWR8EA",
+      "callsign_iata": "LX8EA",
+      "airline": {
+        "name": "Swiss International Air Lines",
+        "icao": "SWR",
+        "iata": "LX",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": "SWISS"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
       }
     }
   }
