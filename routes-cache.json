@@ -11851,7 +11851,7 @@
     }
   },
   "KLC22X": {
-    "time": 1793555432.7891192,
+    "time": 1793643927.0378032,
     "route": {
       "callsign": "KLC22X",
       "callsign_icao": "KLC22X",
@@ -20321,7 +20321,7 @@
     }
   },
   "IBE07HA": {
-    "time": 1793557234.5170395,
+    "time": 1793643927.0378032,
     "route": {
       "callsign": "IBE07HA",
       "callsign_icao": "IBE07HA",
@@ -22822,7 +22822,7 @@
     }
   },
   "BAW43HA": {
-    "time": 1793297434.3834434,
+    "time": 1793643927.0378032,
     "route": {
       "callsign": "BAW43HA",
       "callsign_icao": "BAW43HA",
@@ -104671,7 +104671,7 @@
     }
   },
   "EWG8A": {
-    "time": 1793557526.096217,
+    "time": 1793643927.0378032,
     "route": {
       "callsign": "EWG8A",
       "callsign_icao": "EWG8A",
@@ -126990,7 +126990,7 @@
     }
   },
   "RYR1662": {
-    "time": 1793474129.2063293,
+    "time": 1793643927.0378032,
     "route": {
       "callsign": "RYR1662",
       "callsign_icao": "RYR1662",
@@ -206599,7 +206599,7 @@
     }
   },
   "EZY48TM": {
-    "time": 1793555723.6799867,
+    "time": 1793643927.0378032,
     "route": {
       "callsign": "EZY48TM",
       "callsign_icao": "EZY48TM",
@@ -224754,6 +224754,120 @@
         "longitude": 30.8005,
         "municipality": "Antalya",
         "name": "Antalya International Airport"
+      }
+    }
+  },
+  "EXS95CX": {
+    "time": 1793643927.0378032,
+    "route": {
+      "callsign": "EXS95CX",
+      "callsign_icao": "EXS95CX",
+      "callsign_iata": "LS95CX",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "WMT3AZ": {
+    "time": 1793643927.0378032,
+    "route": {
+      "callsign": "WMT3AZ",
+      "callsign_icao": "WMT3AZ",
+      "callsign_iata": "W43AZ",
+      "airline": {
+        "name": "Wizz Air Malta",
+        "icao": "WMT",
+        "iata": "W4",
+        "country": "Malta",
+        "country_iso": "MT",
+        "callsign": "Wizzairmalta"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "RO",
+        "country_name": "Romania",
+        "elevation": 1496,
+        "iata_code": "SBZ",
+        "icao_code": "LRSB",
+        "latitude": 45.7856,
+        "longitude": 24.0913,
+        "municipality": "Sibiu",
+        "name": "Sibiu International Airport"
+      }
+    }
+  },
+  "EJU56CX": {
+    "time": 1793643927.0378032,
+    "route": {
+      "callsign": "EJU56CX",
+      "callsign_icao": "EJU56CX",
+      "callsign_iata": "EC56CX",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
