@@ -114826,44 +114826,6 @@
       }
     }
   },
-  "TOM35J": {
-    "time": 1792974326.710485,
-    "route": {
-      "callsign": "TOM35J",
-      "callsign_icao": "TOM35J",
-      "callsign_iata": "BY35J",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 257,
-        "iata_code": "MAN",
-        "icao_code": "EGCC",
-        "latitude": 53.34938,
-        "longitude": -2.27952,
-        "municipality": "Manchester",
-        "name": "Manchester Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 233,
-        "iata_code": "REU",
-        "icao_code": "LERS",
-        "latitude": 41.1474,
-        "longitude": 1.16717,
-        "municipality": "Reus",
-        "name": "Reus Airport"
-      }
-    }
-  },
   "WUK848": {
     "time": 1793496645.23857,
     "route": {
@@ -115086,7 +115048,7 @@
     }
   },
   "RYR9R": {
-    "time": 1792976459.3837094,
+    "time": 1793579446.469999,
     "route": {
       "callsign": "RYR9R",
       "callsign_icao": "RYR9R",
@@ -115200,7 +115162,7 @@
     }
   },
   "RYR28QL": {
-    "time": 1793406033.8124475,
+    "time": 1793579446.469999,
     "route": {
       "callsign": "RYR28QL",
       "callsign_icao": "RYR28QL",
@@ -220229,6 +220191,44 @@
         "longitude": 2.73881,
         "municipality": "Palma De Mallorca",
         "name": "Palma de Mallorca Airport"
+      }
+    }
+  },
+  "RUK6142": {
+    "time": 1793579446.469999,
+    "route": {
+      "callsign": "RUK6142",
+      "callsign_icao": "RUK6142",
+      "callsign_iata": "RK6142",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 160,
+        "iata_code": "FMO",
+        "icao_code": "EDDG",
+        "latitude": 52.1346,
+        "longitude": 7.68483,
+        "municipality": "M\u00fcnster",
+        "name": "M\u00fcnster Osnabr\u00fcck Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
