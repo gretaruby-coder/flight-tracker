@@ -220231,5 +220231,81 @@
         "name": "London Gatwick Airport"
       }
     }
+  },
+  "UPS236": {
+    "time": 1793581527.549751,
+    "route": {
+      "callsign": "UPS236",
+      "callsign_icao": "UPS236",
+      "callsign_iata": "5X236",
+      "airline": {
+        "name": "United Parcel Service",
+        "icao": "UPS",
+        "iata": "5X",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UPS"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 302,
+        "iata_code": "CGN",
+        "icao_code": "EDDK",
+        "latitude": 50.8659,
+        "longitude": 7.14274,
+        "municipality": "Cologne",
+        "name": "Cologne Bonn Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "EZY16AG": {
+    "time": 1793581527.549751,
+    "route": {
+      "callsign": "EZY16AG",
+      "callsign_icao": "EZY16AG",
+      "callsign_iata": "U216AG",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 46,
+        "iata_code": "ACE",
+        "icao_code": "GCRR",
+        "latitude": 28.9455,
+        "longitude": -13.6052,
+        "municipality": "Lanzarote Island",
+        "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
   }
 }
