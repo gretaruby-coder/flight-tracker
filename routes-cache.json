@@ -24221,7 +24221,7 @@
     }
   },
   "BAW590": {
-    "time": 1793346926.2166412,
+    "time": 1793600237.2809975,
     "route": {
       "callsign": "BAW590",
       "callsign_icao": "BAW590",
@@ -27185,7 +27185,7 @@
     }
   },
   "CPA255": {
-    "time": 1793511930.7833912,
+    "time": 1793600237.2809975,
     "route": {
       "callsign": "CPA255",
       "callsign_icao": "CPA255",
@@ -28249,7 +28249,7 @@
     }
   },
   "CES201": {
-    "time": 1793428833.500139,
+    "time": 1793600237.2809975,
     "route": {
       "callsign": "CES201",
       "callsign_icao": "CES201",
@@ -28325,7 +28325,7 @@
     }
   },
   "TAP63GL": {
-    "time": 1793513732.543589,
+    "time": 1793600237.2809975,
     "route": {
       "callsign": "TAP63GL",
       "callsign_icao": "TAP63GL",
@@ -28629,7 +28629,7 @@
     }
   },
   "KLM70M": {
-    "time": 1793513732.543589,
+    "time": 1793600237.2809975,
     "route": {
       "callsign": "KLM70M",
       "callsign_icao": "KLM70M",
@@ -29838,7 +29838,7 @@
     }
   },
   "THA910": {
-    "time": 1793513732.543589,
+    "time": 1793600237.2809975,
     "route": {
       "callsign": "THA910",
       "callsign_icao": "THA910",
@@ -30705,7 +30705,7 @@
     }
   },
   "BAW11J": {
-    "time": 1793513732.543589,
+    "time": 1793600237.2809975,
     "route": {
       "callsign": "BAW11J",
       "callsign_icao": "BAW11J",
@@ -74026,7 +74026,7 @@
     }
   },
   "EZY46FQ": {
-    "time": 1793256927.1577575,
+    "time": 1793600237.2809975,
     "route": {
       "callsign": "EZY46FQ",
       "callsign_icao": "EZY46FQ",
@@ -115545,44 +115545,6 @@
         "longitude": 27.0917,
         "municipality": "Kos Island",
         "name": "Kos Airport"
-      }
-    }
-  },
-  "TOM486": {
-    "time": 1792995334.410644,
-    "route": {
-      "callsign": "TOM486",
-      "callsign_icao": "TOM486",
-      "callsign_iata": "BY486",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 220,
-        "iata_code": "CWL",
-        "icao_code": "EGFF",
-        "latitude": 51.3967,
-        "longitude": -3.34333,
-        "municipality": "Cardiff",
-        "name": "Cardiff International Airport"
-      },
-      "destination": {
-        "country_iso_name": "TR",
-        "country_name": "Turkey",
-        "elevation": 20,
-        "iata_code": "DLM",
-        "icao_code": "LTBS",
-        "latitude": 36.7131,
-        "longitude": 28.7925,
-        "municipality": "Dalaman",
-        "name": "Dalaman International Airport"
       }
     }
   },
@@ -220522,6 +220484,82 @@
         "longitude": -68.3634,
         "municipality": "Punta Cana",
         "name": "Punta Cana International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "CLX16V": {
+    "time": 1793600237.2809975,
+    "route": {
+      "callsign": "CLX16V",
+      "callsign_icao": "CLX16V",
+      "callsign_iata": "CV16V",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 125,
+        "iata_code": "LAX",
+        "icao_code": "KLAX",
+        "latitude": 33.9425,
+        "longitude": -118.408,
+        "municipality": "Los Angeles",
+        "name": "Los Angeles International Airport"
+      }
+    }
+  },
+  "EFW9750": {
+    "time": 1793600237.2809975,
+    "route": {
+      "callsign": "EFW9750",
+      "callsign_icao": "EFW9750",
+      "callsign_iata": "A09750",
+      "airline": {
+        "name": "BA Euroflyer",
+        "icao": "EFW",
+        "iata": "A0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Griffin"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
       },
       "destination": {
         "country_iso_name": "GB",
