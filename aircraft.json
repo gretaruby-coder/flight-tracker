@@ -1,9 +1,59 @@
 {
-  "updated": "2026-11-02T02:40:33.882529+00:00",
+  "updated": "2026-11-02T02:45:32.756476+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": []
+  "aircraft": [
+    {
+      "hex": "500521",
+      "type": "mlat",
+      "flight": "T7VIC   ",
+      "r": "T7-VIC",
+      "t": "GA8C",
+      "dbFlags": 8,
+      "desc": "GULFSTREAM G-8 G800",
+      "alt_baro": 6025,
+      "gs": 236.0,
+      "ias": 214,
+      "tas": 232,
+      "mach": 0.36,
+      "wd": 16,
+      "ws": 18,
+      "oat": -6,
+      "tat": 2,
+      "track": 270.7,
+      "track_rate": -0.03,
+      "roll": -0.18,
+      "mag_heading": 274.04,
+      "true_heading": 275.24,
+      "baro_rate": -1024,
+      "geom_rate": -992,
+      "squawk": "3114",
+      "nav_qnh": 1035.3,
+      "nav_altitude_mcp": 6000,
+      "nav_altitude_fms": 6000,
+      "nav_modes": [],
+      "lat": 51.734664,
+      "lon": -0.1501,
+      "nic": 0,
+      "rc": 0,
+      "seen_pos": 3.972,
+      "alert": 0,
+      "spi": 0,
+      "mlat": [
+        "lat",
+        "lon",
+        "nic",
+        "rc"
+      ],
+      "tisb": [],
+      "messages": 774498,
+      "seen": 0.3,
+      "rssi": -4.7,
+      "dst": 19.656,
+      "dir": 29.3
+    }
+  ]
 }
