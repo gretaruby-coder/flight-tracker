@@ -3837,7 +3837,7 @@
     }
   },
   "UAL147": {
-    "time": 1793539233.090948,
+    "time": 1793625636.2501786,
     "route": {
       "callsign": "UAL147",
       "callsign_icao": "UAL147",
@@ -5547,7 +5547,7 @@
     }
   },
   "EIN164": {
-    "time": 1793539233.090948,
+    "time": 1793625636.2501786,
     "route": {
       "callsign": "EIN164",
       "callsign_icao": "EIN164",
@@ -6573,7 +6573,7 @@
     }
   },
   "BAW213": {
-    "time": 1793536524.5569408,
+    "time": 1793625636.2501786,
     "route": {
       "callsign": "BAW213",
       "callsign_icao": "BAW213",
@@ -43037,7 +43037,7 @@
     }
   },
   "BAW36": {
-    "time": 1793539233.090948,
+    "time": 1793625636.2501786,
     "route": {
       "callsign": "BAW36",
       "callsign_icao": "BAW36",
@@ -46388,7 +46388,7 @@
     }
   },
   "EIN525": {
-    "time": 1793539233.090948,
+    "time": 1793625636.2501786,
     "route": {
       "callsign": "EIN525",
       "callsign_icao": "EIN525",
@@ -90138,7 +90138,7 @@
     }
   },
   "EZY31HR": {
-    "time": 1793535332.5894198,
+    "time": 1793625636.2501786,
     "route": {
       "callsign": "EZY31HR",
       "callsign_icao": "EZY31HR",
@@ -96446,7 +96446,7 @@
     }
   },
   "EZY38GR": {
-    "time": 1793456732.094569,
+    "time": 1793625636.2501786,
     "route": {
       "callsign": "EZY38GR",
       "callsign_icao": "EZY38GR",
@@ -164110,7 +164110,7 @@
     }
   },
   "WJA9": {
-    "time": 1793283930.3143096,
+    "time": 1793625636.2501786,
     "route": {
       "callsign": "WJA9",
       "callsign_icao": "WJA9",
@@ -223172,6 +223172,82 @@
         "longitude": -73.7789,
         "municipality": "New York",
         "name": "John F Kennedy International Airport"
+      }
+    }
+  },
+  "EXS53U": {
+    "time": 1793625636.2501786,
+    "route": {
+      "callsign": "EXS53U",
+      "callsign_icao": "EXS53U",
+      "callsign_iata": "LS53U",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 681,
+        "iata_code": "LBA",
+        "icao_code": "EGNM",
+        "latitude": 53.8659,
+        "longitude": -1.66057,
+        "municipality": "Leeds",
+        "name": "Leeds Bradford Airport"
+      }
+    }
+  },
+  "DAL81": {
+    "time": 1793625636.2501786,
+    "route": {
+      "callsign": "DAL81",
+      "callsign_icao": "DAL81",
+      "callsign_iata": "DL81",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 433,
+        "iata_code": "SEA",
+        "icao_code": "KSEA",
+        "latitude": 47.449,
+        "longitude": -122.309,
+        "municipality": "Seattle",
+        "name": "Seattle Tacoma International Airport"
       }
     }
   }
