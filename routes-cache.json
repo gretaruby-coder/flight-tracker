@@ -220421,5 +220421,43 @@
         "name": "Bristol Airport"
       }
     }
+  },
+  "SVA902": {
+    "time": 1793586034.4456596,
+    "route": {
+      "callsign": "SVA902",
+      "callsign_icao": "SVA902",
+      "callsign_iata": "SV902",
+      "airline": {
+        "name": "Saudi Arabian Airlines",
+        "icao": "SVA",
+        "iata": "SV",
+        "country": "Saudi Arabia",
+        "country_iso": "SA",
+        "callsign": "SAUDIA"
+      },
+      "origin": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 659,
+        "iata_code": "LGG",
+        "icao_code": "EBLG",
+        "latitude": 50.6374,
+        "longitude": 5.44322,
+        "municipality": "Li\u00e8ge",
+        "name": "Li\u00e8ge Airport"
+      },
+      "destination": {
+        "country_iso_name": "SA",
+        "country_name": "Saudi Arabia",
+        "elevation": 2049,
+        "iata_code": "RUH",
+        "icao_code": "OERK",
+        "latitude": 24.9576,
+        "longitude": 46.6988,
+        "municipality": "Riyadh",
+        "name": "King Khaled International Airport"
+      }
+    }
   }
 }
