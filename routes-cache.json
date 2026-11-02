@@ -8086,7 +8086,7 @@
     }
   },
   "BAW7D": {
-    "time": 1793549730.2923205,
+    "time": 1793636438.765929,
     "route": {
       "callsign": "BAW7D",
       "callsign_icao": "BAW7D",
@@ -10528,7 +10528,7 @@
     }
   },
   "BAW225Y": {
-    "time": 1793464830.8947134,
+    "time": 1793636438.765929,
     "route": {
       "callsign": "BAW225Y",
       "callsign_icao": "BAW225Y",
@@ -13920,7 +13920,7 @@
     }
   },
   "BAW63VP": {
-    "time": 1793550031.1143405,
+    "time": 1793636438.765929,
     "route": {
       "callsign": "BAW63VP",
       "callsign_icao": "BAW63VP",
@@ -34377,7 +34377,7 @@
     }
   },
   "BAW968": {
-    "time": 1793548523.4928184,
+    "time": 1793636438.765929,
     "route": {
       "callsign": "BAW968",
       "callsign_icao": "BAW968",
@@ -49224,7 +49224,7 @@
     }
   },
   "KLC29Z": {
-    "time": 1793549431.395726,
+    "time": 1793636438.765929,
     "route": {
       "callsign": "KLC29Z",
       "callsign_icao": "KLC29Z",
@@ -51915,7 +51915,7 @@
     }
   },
   "RYR719": {
-    "time": 1793526924.9117723,
+    "time": 1793636438.765929,
     "route": {
       "callsign": "RYR719",
       "callsign_icao": "RYR719",
@@ -87143,7 +87143,7 @@
     }
   },
   "EZY39VL": {
-    "time": 1793465132.648107,
+    "time": 1793636438.765929,
     "route": {
       "callsign": "EZY39VL",
       "callsign_icao": "EZY39VL",
@@ -101524,7 +101524,7 @@
     }
   },
   "EZY27RP": {
-    "time": 1793485844.3507817,
+    "time": 1793636438.765929,
     "route": {
       "callsign": "EZY27RP",
       "callsign_icao": "EZY27RP",
@@ -121888,7 +121888,7 @@
     }
   },
   "BAW359": {
-    "time": 1793458232.3422232,
+    "time": 1793636438.765929,
     "route": {
       "callsign": "BAW359",
       "callsign_icao": "BAW359",
@@ -173853,7 +173853,7 @@
     }
   },
   "EZS18FC": {
-    "time": 1793378126.8244522,
+    "time": 1793636438.765929,
     "route": {
       "callsign": "EZS18FC",
       "callsign_icao": "EZS18FC",
@@ -223942,6 +223942,120 @@
         "longitude": 24.0848,
         "municipality": "Kaunas",
         "name": "Kaunas International Airport"
+      }
+    }
+  },
+  "BLX539": {
+    "time": 1793636438.765929,
+    "route": {
+      "callsign": "BLX539",
+      "callsign_icao": "BLX539",
+      "callsign_iata": "6B539",
+      "airline": {
+        "name": "TUIfly Nordic",
+        "icao": "BLX",
+        "iata": "6B",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": "BLUESCAN"
+      },
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 46,
+        "iata_code": "ACE",
+        "icao_code": "GCRR",
+        "latitude": 28.9455,
+        "longitude": -13.6052,
+        "municipality": "Lanzarote Island",
+        "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      }
+    }
+  },
+  "EJU35DT": {
+    "time": 1793636438.765929,
+    "route": {
+      "callsign": "EJU35DT",
+      "callsign_icao": "EJU35DT",
+      "callsign_iata": "EC35DT",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "BTI6BL": {
+    "time": 1793636438.765929,
+    "route": {
+      "callsign": "BTI6BL",
+      "callsign_icao": "BTI6BL",
+      "callsign_iata": "BT6BL",
+      "airline": {
+        "name": "Air Baltic",
+        "icao": "BTI",
+        "iata": "BT",
+        "country": "Latvia",
+        "country_iso": "LV",
+        "callsign": "AIRBALTIC"
+      },
+      "origin": {
+        "country_iso_name": "LV",
+        "country_name": "Latvia",
+        "elevation": 36,
+        "iata_code": "RIX",
+        "icao_code": "EVRA",
+        "latitude": 56.9236,
+        "longitude": 23.9711,
+        "municipality": "Riga",
+        "name": "Riga International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
