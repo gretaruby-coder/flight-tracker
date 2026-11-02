@@ -9326,7 +9326,7 @@
     }
   },
   "SAS527": {
-    "time": 1793550322.7931335,
+    "time": 1793636726.888805,
     "route": {
       "callsign": "SAS527",
       "callsign_icao": "SAS527",
@@ -19979,7 +19979,7 @@
     }
   },
   "BAW579V": {
-    "time": 1793378733.4412441,
+    "time": 1793636726.888805,
     "route": {
       "callsign": "BAW579V",
       "callsign_icao": "BAW579V",
@@ -43037,7 +43037,7 @@
     }
   },
   "BAW990G": {
-    "time": 1793380837.4729383,
+    "time": 1793636726.888805,
     "route": {
       "callsign": "BAW990G",
       "callsign_icao": "BAW990G",
@@ -123508,7 +123508,7 @@
     }
   },
   "RYR4FT": {
-    "time": 1793432432.722659,
+    "time": 1793636726.888805,
     "route": {
       "callsign": "RYR4FT",
       "callsign_icao": "RYR4FT",
@@ -169840,7 +169840,7 @@
     }
   },
   "ETH3504": {
-    "time": 1793350233.0340505,
+    "time": 1793636726.888805,
     "route": {
       "callsign": "ETH3504",
       "callsign_icao": "ETH3504",
@@ -224045,6 +224045,82 @@
         "longitude": 23.9711,
         "municipality": "Riga",
         "name": "Riga International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "LHX7H": {
+    "time": 1793636726.888805,
+    "route": {
+      "callsign": "LHX7H",
+      "callsign_icao": "LHX7H",
+      "callsign_iata": "VL7H",
+      "airline": {
+        "name": "City Airlines",
+        "icao": "LHX",
+        "iata": "VL",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "EZY28KG": {
+    "time": 1793636726.888805,
+    "route": {
+      "callsign": "EZY28KG",
+      "callsign_icao": "EZY28KG",
+      "callsign_iata": "U228KG",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 20,
+        "iata_code": "DLM",
+        "icao_code": "LTBS",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "name": "Dalaman International Airport"
       },
       "destination": {
         "country_iso_name": "GB",
