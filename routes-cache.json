@@ -30629,7 +30629,7 @@
     }
   },
   "BAW812": {
-    "time": 1793532923.7974174,
+    "time": 1793623836.4209538,
     "route": {
       "callsign": "BAW812",
       "callsign_icao": "BAW812",
@@ -46198,7 +46198,7 @@
     }
   },
   "BAW26V": {
-    "time": 1793443835.8415248,
+    "time": 1793623836.4209538,
     "route": {
       "callsign": "BAW26V",
       "callsign_icao": "BAW26V",
@@ -57353,7 +57353,7 @@
     }
   },
   "GCK40": {
-    "time": 1793299533.1194186,
+    "time": 1793623836.4209538,
     "route": {
       "callsign": "GCK40",
       "callsign_icao": null,
@@ -88549,7 +88549,7 @@
     }
   },
   "QTR85M": {
-    "time": 1793533531.425694,
+    "time": 1793623836.4209538,
     "route": {
       "callsign": "QTR85M",
       "callsign_icao": "QTR85M",
@@ -90784,7 +90784,7 @@
     }
   },
   "EZY35PX": {
-    "time": 1793105138.7848089,
+    "time": 1793623836.4209538,
     "route": {
       "callsign": "EZY35PX",
       "callsign_icao": "EZY35PX",
@@ -91164,7 +91164,7 @@
     }
   },
   "BAW593": {
-    "time": 1793536524.5569408,
+    "time": 1793623836.4209538,
     "route": {
       "callsign": "BAW593",
       "callsign_icao": "BAW593",
@@ -121286,44 +121286,6 @@
       }
     }
   },
-  "RJA115": {
-    "time": 1793019035.9795532,
-    "route": {
-      "callsign": "RJA115",
-      "callsign_icao": "RJA115",
-      "callsign_iata": "RJ115",
-      "airline": {
-        "name": "Royal Jordanian",
-        "icao": "RJA",
-        "iata": "RJ",
-        "country": "Jordan",
-        "country_iso": "JO",
-        "callsign": "JORDANIAN"
-      },
-      "origin": {
-        "country_iso_name": "JO",
-        "country_name": "Jordan",
-        "elevation": 2395,
-        "iata_code": "AMM",
-        "icao_code": "OJAI",
-        "latitude": 31.7226,
-        "longitude": 35.9932,
-        "municipality": "Amman",
-        "name": "Queen Alia International Airport"
-      },
-      "destination": {
-        "country_iso_name": "DK",
-        "country_name": "Denmark",
-        "elevation": 17,
-        "iata_code": "CPH",
-        "icao_code": "EKCH",
-        "latitude": 55.6179,
-        "longitude": 12.656,
-        "municipality": "Copenhagen",
-        "name": "Copenhagen Kastrup Airport"
-      }
-    }
-  },
   "TRA14X": {
     "time": 1793019325.4679682,
     "route": {
@@ -126558,7 +126520,7 @@
     }
   },
   "AJT8620": {
-    "time": 1793035235.186928,
+    "time": 1793623836.4209538,
     "route": {
       "callsign": "AJT8620",
       "callsign_icao": "AJT8620",
@@ -203725,7 +203687,7 @@
     }
   },
   "EXS4ZU": {
-    "time": 1793536834.4194314,
+    "time": 1793623836.4209538,
     "route": {
       "callsign": "EXS4ZU",
       "callsign_icao": "EXS4ZU",
@@ -222989,6 +222951,82 @@
         "longitude": -83.3534,
         "municipality": "Detroit",
         "name": "Detroit Metropolitan Wayne County Airport"
+      }
+    }
+  },
+  "NSZ2988": {
+    "time": 1793623836.4209538,
+    "route": {
+      "callsign": "NSZ2988",
+      "callsign_icao": "NSZ2988",
+      "callsign_iata": "D82988",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "FI",
+        "country_name": "Finland",
+        "elevation": 179,
+        "iata_code": "HEL",
+        "icao_code": "EFHK",
+        "latitude": 60.3172,
+        "longitude": 24.9633,
+        "municipality": "Helsinki",
+        "name": "Helsinki Vantaa Airport"
+      },
+      "destination": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 250,
+        "iata_code": "AGA",
+        "icao_code": "GMAD",
+        "latitude": 30.32248,
+        "longitude": -9.412,
+        "municipality": "Agadir (Temsia)",
+        "name": "Al Massira Airport"
+      }
+    }
+  },
+  "CHG1541": {
+    "time": 1793623836.4209538,
+    "route": {
+      "callsign": "CHG1541",
+      "callsign_icao": "CHG1541",
+      "callsign_iata": "1541",
+      "airline": {
+        "name": "AC Challenge Aero",
+        "icao": "CHG",
+        "iata": null,
+        "country": "Ukraine",
+        "country_iso": "UA",
+        "callsign": "SKY CHALLENGER"
+      },
+      "origin": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 659,
+        "iata_code": "LGG",
+        "icao_code": "EBLG",
+        "latitude": 50.6374,
+        "longitude": 5.44322,
+        "municipality": "Li\u00e8ge",
+        "name": "Li\u00e8ge Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
       }
     }
   }
