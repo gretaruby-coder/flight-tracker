@@ -26615,7 +26615,7 @@
     }
   },
   "UPS217": {
-    "time": 1793159134.3199925,
+    "time": 1793589033.984922,
     "route": {
       "callsign": "UPS217",
       "callsign_icao": "UPS217",
@@ -65647,7 +65647,7 @@
     }
   },
   "AFR279": {
-    "time": 1793419255.9791803,
+    "time": 1793589033.984922,
     "route": {
       "callsign": "AFR279",
       "callsign_icao": "AFR279",
@@ -220457,6 +220457,44 @@
         "longitude": -74.1687,
         "municipality": "New York",
         "name": "Newark Liberty International Airport"
+      }
+    }
+  },
+  "GTI6075": {
+    "time": 1793589033.984922,
+    "route": {
+      "callsign": "GTI6075",
+      "callsign_icao": "GTI6075",
+      "callsign_iata": "5Y6075",
+      "airline": {
+        "name": "Atlas Air",
+        "icao": "GTI",
+        "iata": "5Y",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "GIANT"
+      },
+      "origin": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 659,
+        "iata_code": "LGG",
+        "icao_code": "EBLG",
+        "latitude": 50.6374,
+        "longitude": 5.44322,
+        "municipality": "Li\u00e8ge",
+        "name": "Li\u00e8ge Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 8,
+        "iata_code": "MIA",
+        "icao_code": "KMIA",
+        "latitude": 25.7932,
+        "longitude": -80.2906,
+        "municipality": "Miami",
+        "name": "Miami International Airport"
       }
     }
   }
