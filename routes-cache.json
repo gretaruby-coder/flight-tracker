@@ -1492,7 +1492,7 @@
     }
   },
   "GBSYY": {
-    "time": 1793456431.7687416,
+    "time": 1793705724.352365,
     "route": {
       "callsign": "GBSYY",
       "callsign_icao": null,
@@ -86456,7 +86456,7 @@
     }
   },
   "DLH8CJ": {
-    "time": 1793535923.3914256,
+    "time": 1793705724.352365,
     "route": {
       "callsign": "DLH8CJ",
       "callsign_icao": "DLH8CJ",
@@ -86760,7 +86760,7 @@
     }
   },
   "ASL32Y": {
-    "time": 1793535033.874039,
+    "time": 1793705724.352365,
     "route": {
       "callsign": "ASL32Y",
       "callsign_icao": "ASL32Y",
@@ -108043,7 +108043,7 @@
     }
   },
   "RYR903C": {
-    "time": 1793563256.125507,
+    "time": 1793705724.352365,
     "route": {
       "callsign": "RYR903C",
       "callsign_icao": "RYR903C",
@@ -130116,44 +130116,6 @@
         "longitude": -0.36833,
         "municipality": "London",
         "name": "London Luton Airport"
-      }
-    }
-  },
-  "EZY85NU": {
-    "time": 1793100651.882618,
-    "route": {
-      "callsign": "EZY85NU",
-      "callsign_icao": "EZY85NU",
-      "callsign_iata": "U285NU",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 622,
-        "iata_code": "BRS",
-        "icao_code": "EGGD",
-        "latitude": 51.3827,
-        "longitude": -2.71909,
-        "municipality": "Bristol",
-        "name": "Bristol Airport"
-      },
-      "destination": {
-        "country_iso_name": "GI",
-        "country_name": "Gibraltar",
-        "elevation": 15,
-        "iata_code": "GIB",
-        "icao_code": "LXGB",
-        "latitude": 36.1512,
-        "longitude": -5.34966,
-        "municipality": "Gibraltar",
-        "name": "Gibraltar Airport"
       }
     }
   },
@@ -162224,7 +162186,7 @@
     }
   },
   "EXS74GX": {
-    "time": 1793345725.88128,
+    "time": 1793705724.352365,
     "route": {
       "callsign": "EXS74GX",
       "callsign_icao": "EXS74GX",
@@ -227680,6 +227642,82 @@
         "longitude": -1.32806,
         "municipality": "Nottingham",
         "name": "East Midlands Airport"
+      }
+    }
+  },
+  "NSZ4529": {
+    "time": 1793705724.352365,
+    "route": {
+      "callsign": "NSZ4529",
+      "callsign_icao": "NSZ4529",
+      "callsign_iata": "D84529",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      },
+      "destination": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 250,
+        "iata_code": "AGA",
+        "icao_code": "GMAD",
+        "latitude": 30.32248,
+        "longitude": -9.412,
+        "municipality": "Agadir (Temsia)",
+        "name": "Al Massira Airport"
+      }
+    }
+  },
+  "RCH162": {
+    "time": 1793705724.352365,
+    "route": {
+      "callsign": "RCH162",
+      "callsign_icao": "RCH162",
+      "callsign_iata": "MC162",
+      "airline": {
+        "name": "Air Mobility Command",
+        "icao": "RCH",
+        "iata": "MC",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "REACH"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 776,
+        "iata_code": "RMS",
+        "icao_code": "ETAR",
+        "latitude": 49.4369,
+        "longitude": 7.60028,
+        "municipality": "Ramstein",
+        "name": "Ramstein Air Base"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 776,
+        "iata_code": "RMS",
+        "icao_code": "ETAR",
+        "latitude": 49.4369,
+        "longitude": 7.60028,
+        "municipality": "Ramstein",
+        "name": "Ramstein Air Base"
       }
     }
   }
