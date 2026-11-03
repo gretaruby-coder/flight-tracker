@@ -4065,7 +4065,7 @@
     }
   },
   "BAW873": {
-    "time": 1793448325.6715555,
+    "time": 1793726730.8788226,
     "route": {
       "callsign": "BAW873",
       "callsign_icao": "BAW873",
@@ -15205,7 +15205,7 @@
     }
   },
   "KLM40J": {
-    "time": 1793554526.3777585,
+    "time": 1793726730.8788226,
     "route": {
       "callsign": "KLM40J",
       "callsign_icao": "KLM40J",
@@ -15889,7 +15889,7 @@
     }
   },
   "CFE37E": {
-    "time": 1793640326.8185136,
+    "time": 1793726730.8788226,
     "route": {
       "callsign": "CFE37E",
       "callsign_icao": "CFE37E",
@@ -100820,7 +100820,7 @@
     }
   },
   "BAW393R": {
-    "time": 1793640326.8185136,
+    "time": 1793726730.8788226,
     "route": {
       "callsign": "BAW393R",
       "callsign_icao": "BAW393R",
@@ -131494,44 +131494,6 @@
       }
     }
   },
-  "EZY8463": {
-    "time": 1793121638.7543726,
-    "route": {
-      "callsign": "EZY8463",
-      "callsign_icao": "EZY8463",
-      "callsign_iata": "U28463",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      },
-      "destination": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 392,
-        "iata_code": "CDG",
-        "icao_code": "LFPG",
-        "latitude": 49.0128,
-        "longitude": 2.55,
-        "municipality": "Paris",
-        "name": "Charles de Gaulle International Airport"
-      }
-    }
-  },
   "EJU46UM": {
     "time": 1793726438.4929216,
     "route": {
@@ -154290,7 +154252,7 @@
     }
   },
   "EZY68VT": {
-    "time": 1793471124.953532,
+    "time": 1793726730.8788226,
     "route": {
       "callsign": "EZY68VT",
       "callsign_icao": "EZY68VT",
@@ -197902,7 +197864,7 @@
     }
   },
   "EWG8EV": {
-    "time": 1793555432.7891192,
+    "time": 1793726730.8788226,
     "route": {
       "callsign": "EWG8EV",
       "callsign_icao": "EWG8EV",
@@ -204262,7 +204224,7 @@
     }
   },
   "EXS5A": {
-    "time": 1793576731.552779,
+    "time": 1793726730.8788226,
     "route": {
       "callsign": "EXS5A",
       "callsign_icao": "EXS5A",
@@ -228433,6 +228395,82 @@
         "longitude": -8.49111,
         "municipality": "Cork",
         "name": "Cork Airport"
+      }
+    }
+  },
+  "CLX31Z": {
+    "time": 1793726730.8788226,
+    "route": {
+      "callsign": "CLX31Z",
+      "callsign_icao": "CLX31Z",
+      "callsign_iata": "CV31Z",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 125,
+        "iata_code": "LAX",
+        "icao_code": "KLAX",
+        "latitude": 33.9425,
+        "longitude": -118.408,
+        "municipality": "Los Angeles",
+        "name": "Los Angeles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
+      }
+    }
+  },
+  "EXS65C": {
+    "time": 1793726730.8788226,
+    "route": {
+      "callsign": "EXS65C",
+      "callsign_icao": "EXS65C",
+      "callsign_iata": "LS65C",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 115,
+        "iata_code": "HER",
+        "icao_code": "LGIR",
+        "latitude": 35.3397,
+        "longitude": 25.1803,
+        "municipality": "Heraklion",
+        "name": "Heraklion International Nikos Kazantzakis Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
       }
     }
   }
