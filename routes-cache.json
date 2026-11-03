@@ -12497,7 +12497,7 @@
     }
   },
   "EFW53CV": {
-    "time": 1793638527.1691673,
+    "time": 1793728869.7764442,
     "route": {
       "callsign": "EFW53CV",
       "callsign_icao": "EFW53CV",
@@ -13205,7 +13205,7 @@
     }
   },
   "AUA33B": {
-    "time": 1793560233.6511283,
+    "time": 1793728869.7764442,
     "route": {
       "callsign": "AUA33B",
       "callsign_icao": "AUA33B",
@@ -13730,7 +13730,7 @@
     }
   },
   "KLC66C": {
-    "time": 1793556931.2691402,
+    "time": 1793728869.7764442,
     "route": {
       "callsign": "KLC66C",
       "callsign_icao": "KLC66C",
@@ -14262,7 +14262,7 @@
     }
   },
   "UAE70M": {
-    "time": 1793642127.471946,
+    "time": 1793728869.7764442,
     "route": {
       "callsign": "UAE70M",
       "callsign_icao": "UAE70M",
@@ -108793,7 +108793,7 @@
     }
   },
   "RYR613B": {
-    "time": 1793566233.1676853,
+    "time": 1793728869.7764442,
     "route": {
       "callsign": "RYR613B",
       "callsign_icao": "RYR613B",
@@ -110959,7 +110959,7 @@
     }
   },
   "RYR6PN": {
-    "time": 1793570124.9806554,
+    "time": 1793728869.7764442,
     "route": {
       "callsign": "RYR6PN",
       "callsign_icao": "RYR6PN",
@@ -120887,7 +120887,7 @@
     }
   },
   "EZY18TN": {
-    "time": 1793631326.9088755,
+    "time": 1793728869.7764442,
     "route": {
       "callsign": "EZY18TN",
       "callsign_icao": "EZY18TN",
@@ -131754,7 +131754,7 @@
     }
   },
   "AFR64QZ": {
-    "time": 1793296526.6605132,
+    "time": 1793728869.7764442,
     "route": {
       "callsign": "AFR64QZ",
       "callsign_icao": "AFR64QZ",
@@ -131829,46 +131829,8 @@
       }
     }
   },
-  "FDX30": {
-    "time": 1793124067.033275,
-    "route": {
-      "callsign": "FDX30",
-      "callsign_icao": "FDX30",
-      "callsign_iata": "FX30",
-      "airline": {
-        "name": "FedEx Express",
-        "icao": "FDX",
-        "iata": "FX",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "FEDEX"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 797,
-        "iata_code": "IND",
-        "icao_code": "KIND",
-        "latitude": 39.7173,
-        "longitude": -86.2944,
-        "municipality": "Indianapolis",
-        "name": "Indianapolis International Airport"
-      },
-      "destination": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 392,
-        "iata_code": "CDG",
-        "icao_code": "LFPG",
-        "latitude": 49.0128,
-        "longitude": 2.55,
-        "municipality": "Paris",
-        "name": "Charles de Gaulle International Airport"
-      }
-    }
-  },
   "EXS89D": {
-    "time": 1793124332.1298068,
+    "time": 1793728869.7764442,
     "route": {
       "callsign": "EXS89D",
       "callsign_icao": "EXS89D",
@@ -143683,7 +143645,7 @@
     }
   },
   "CJT378": {
-    "time": 1793212840.9667432,
+    "time": 1793728869.7764442,
     "route": {
       "callsign": "CJT378",
       "callsign_icao": "CJT378",
@@ -228806,6 +228768,75 @@
         "longitude": -16.5725,
         "municipality": "Tenerife",
         "name": "Tenerife Sur Airport"
+      }
+    }
+  },
+  "XEN20": {
+    "time": 1793728869.7764442,
+    "route": {
+      "callsign": "XEN20",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 5550,
+        "iata_code": "BTM",
+        "icao_code": "KBTM",
+        "latitude": 45.9548,
+        "longitude": -112.497,
+        "municipality": "Butte",
+        "name": "Bert Mooney Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 9,
+        "iata_code": "OAK",
+        "icao_code": "KOAK",
+        "latitude": 37.7213,
+        "longitude": -122.221,
+        "municipality": "Oakland",
+        "name": "Metropolitan Oakland International Airport"
+      }
+    }
+  },
+  "EXS49Z": {
+    "time": 1793728869.7764442,
+    "route": {
+      "callsign": "EXS49Z",
+      "callsign_icao": "EXS49Z",
+      "callsign_iata": "LS49Z",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 85,
+        "iata_code": "FUE",
+        "icao_code": "GCFV",
+        "latitude": 28.4527,
+        "longitude": -13.8638,
+        "municipality": "Fuerteventura Island",
+        "name": "Fuerteventura Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 681,
+        "iata_code": "LBA",
+        "icao_code": "EGNM",
+        "latitude": 53.8659,
+        "longitude": -1.66057,
+        "municipality": "Leeds",
+        "name": "Leeds Bradford Airport"
       }
     }
   }
