@@ -1309,7 +1309,7 @@
     }
   },
   "BAW41R": {
-    "time": 1793529932.3689315,
+    "time": 1793700059.8005676,
     "route": {
       "callsign": "BAW41R",
       "callsign_icao": "BAW41R",
@@ -4749,7 +4749,7 @@
     }
   },
   "DAL20": {
-    "time": 1793613656.8759036,
+    "time": 1793700059.8005676,
     "route": {
       "callsign": "DAL20",
       "callsign_icao": "DAL20",
@@ -36826,7 +36826,7 @@
     }
   },
   "EIN7HL": {
-    "time": 1793530855.3460023,
+    "time": 1793700059.8005676,
     "route": {
       "callsign": "EIN7HL",
       "callsign_icao": "EIN7HL",
@@ -39966,7 +39966,7 @@
     }
   },
   "EIN52X": {
-    "time": 1793528132.0474982,
+    "time": 1793700059.8005676,
     "route": {
       "callsign": "EIN52X",
       "callsign_icao": "EIN52X",
@@ -40346,7 +40346,7 @@
     }
   },
   "BAW301": {
-    "time": 1793527834.1890795,
+    "time": 1793700059.8005676,
     "route": {
       "callsign": "BAW301",
       "callsign_icao": "BAW301",
@@ -40574,7 +40574,7 @@
     }
   },
   "BAW7NY": {
-    "time": 1793613326.5541298,
+    "time": 1793700059.8005676,
     "route": {
       "callsign": "BAW7NY",
       "callsign_icao": "BAW7NY",
@@ -41182,7 +41182,7 @@
     }
   },
   "MEA201": {
-    "time": 1793532327.0401611,
+    "time": 1793700059.8005676,
     "route": {
       "callsign": "MEA201",
       "callsign_icao": "MEA201",
@@ -41752,7 +41752,7 @@
     }
   },
   "ICE8K": {
-    "time": 1793613326.5541298,
+    "time": 1793700059.8005676,
     "route": {
       "callsign": "ICE8K",
       "callsign_icao": "ICE8K",
@@ -44643,7 +44643,7 @@
     }
   },
   "AAL80": {
-    "time": 1793613656.8759036,
+    "time": 1793700059.8005676,
     "route": {
       "callsign": "AAL80",
       "callsign_icao": "AAL80",
@@ -93548,7 +93548,7 @@
     }
   },
   "EXS2DP": {
-    "time": 1793541324.4714627,
+    "time": 1793700059.8005676,
     "route": {
       "callsign": "EXS2DP",
       "callsign_icao": "EXS2DP",
@@ -227642,6 +227642,75 @@
         "longitude": 13.091,
         "municipality": "Palermo",
         "name": "Falcone\u2013Borsellino Airport"
+      }
+    }
+  },
+  "QQE923": {
+    "time": 1793700059.8005676,
+    "route": {
+      "callsign": "QQE923",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 20,
+        "iata_code": "BOS",
+        "icao_code": "KBOS",
+        "latitude": 42.3643,
+        "longitude": -71.0052,
+        "municipality": "Boston",
+        "name": "Logan International Airport"
+      },
+      "destination": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 276,
+        "iata_code": "RBA",
+        "icao_code": "GMME",
+        "latitude": 34.0515,
+        "longitude": -6.75152,
+        "municipality": "Rabat",
+        "name": "Rabat-Sal\u00e9 Airport"
+      }
+    }
+  },
+  "NSZ4269": {
+    "time": 1793700059.8005676,
+    "route": {
+      "callsign": "NSZ4269",
+      "callsign_icao": "NSZ4269",
+      "callsign_iata": "D84269",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
       }
     }
   }
