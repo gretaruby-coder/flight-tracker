@@ -936,7 +936,7 @@
     }
   },
   "VIR24M": {
-    "time": 1793635837.6440878,
+    "time": 1793722534.6938674,
     "route": {
       "callsign": "VIR24M",
       "callsign_icao": "VIR24M",
@@ -8238,7 +8238,7 @@
     }
   },
   "BAW762": {
-    "time": 1793557234.5170395,
+    "time": 1793722534.6938674,
     "route": {
       "callsign": "BAW762",
       "callsign_icao": "BAW762",
@@ -46927,7 +46927,7 @@
     }
   },
   "BAW988G": {
-    "time": 1793550644.8562744,
+    "time": 1793722534.6938674,
     "route": {
       "callsign": "BAW988G",
       "callsign_icao": "BAW988G",
@@ -57156,7 +57156,7 @@
     }
   },
   "UZB201": {
-    "time": 1793376935.2039268,
+    "time": 1793722534.6938674,
     "route": {
       "callsign": "UZB201",
       "callsign_icao": "UZB201",
@@ -96723,7 +96723,7 @@
     }
   },
   "BAW949P": {
-    "time": 1793548523.4928184,
+    "time": 1793722534.6938674,
     "route": {
       "callsign": "BAW949P",
       "callsign_icao": "BAW949P",
@@ -100630,7 +100630,7 @@
     }
   },
   "BAW345": {
-    "time": 1793551831.611815,
+    "time": 1793722534.6938674,
     "route": {
       "callsign": "BAW345",
       "callsign_icao": "BAW345",
@@ -130817,44 +130817,6 @@
       }
     }
   },
-  "CFG1VU": {
-    "time": 1793117438.9304082,
-    "route": {
-      "callsign": "CFG1VU",
-      "callsign_icao": "CFG1VU",
-      "callsign_iata": "DE1VU",
-      "airline": {
-        "name": "Condor Flugdienst",
-        "icao": "CFG",
-        "iata": "DE",
-        "country": "Germany",
-        "country_iso": "DE",
-        "callsign": "CONDOR"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      },
-      "destination": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 364,
-        "iata_code": "FRA",
-        "icao_code": "EDDF",
-        "latitude": 50.03333,
-        "longitude": 8.57056,
-        "municipality": "Frankfurt am Main",
-        "name": "Frankfurt am Main Airport"
-      }
-    }
-  },
   "EZY12WZ": {
     "time": 1793719241.1844273,
     "route": {
@@ -142785,7 +142747,7 @@
     }
   },
   "EXS3J": {
-    "time": 1793539233.090948,
+    "time": 1793722534.6938674,
     "route": {
       "callsign": "EXS3J",
       "callsign_icao": "EXS3J",
@@ -197104,7 +197066,7 @@
     }
   },
   "CFG5DP": {
-    "time": 1793550925.5966978,
+    "time": 1793722534.6938674,
     "route": {
       "callsign": "CFG5DP",
       "callsign_icao": "CFG5DP",
@@ -228212,6 +228174,82 @@
         "longitude": -80.2906,
         "municipality": "Miami",
         "name": "Miami International Airport"
+      }
+    }
+  },
+  "RYR522H": {
+    "time": 1793722534.6938674,
+    "route": {
+      "callsign": "RYR522H",
+      "callsign_icao": "RYR522H",
+      "callsign_iata": "FR522H",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      },
+      "destination": {
+        "country_iso_name": "HU",
+        "country_name": "Hungary",
+        "elevation": 495,
+        "iata_code": "BUD",
+        "icao_code": "LHBP",
+        "latitude": 47.42976,
+        "longitude": 19.26109,
+        "municipality": "Budapest",
+        "name": "Budapest Liszt Ferenc International Airport"
+      }
+    }
+  },
+  "WUK575": {
+    "time": 1793722534.6938674,
+    "route": {
+      "callsign": "WUK575",
+      "callsign_icao": "WUK575",
+      "callsign_iata": "W9575",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
       }
     }
   }
