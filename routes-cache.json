@@ -17668,7 +17668,7 @@
     }
   },
   "ITY219": {
-    "time": 1793564131.1676354,
+    "time": 1793734538.0145721,
     "route": {
       "callsign": "ITY219",
       "callsign_icao": "ITY219",
@@ -18048,7 +18048,7 @@
     }
   },
   "SAS49K": {
-    "time": 1793563832.089837,
+    "time": 1793734538.0145721,
     "route": {
       "callsign": "SAS49K",
       "callsign_icao": "SAS49K",
@@ -18732,7 +18732,7 @@
     }
   },
   "BAW11": {
-    "time": 1793562636.4763112,
+    "time": 1793734538.0145721,
     "route": {
       "callsign": "BAW11",
       "callsign_icao": "BAW11",
@@ -96799,7 +96799,7 @@
     }
   },
   "EXS2DC": {
-    "time": 1793545256.6251543,
+    "time": 1793734538.0145721,
     "route": {
       "callsign": "EXS2DC",
       "callsign_icao": "EXS2DC",
@@ -104506,7 +104506,7 @@
     }
   },
   "LHX2481": {
-    "time": 1793565325.4445546,
+    "time": 1793734538.0145721,
     "route": {
       "callsign": "LHX2481",
       "callsign_icao": "LHX2481",
@@ -130514,7 +130514,7 @@
     }
   },
   "CFE9762": {
-    "time": 1793361665.2196336,
+    "time": 1793734538.0145721,
     "route": {
       "callsign": "CFE9762",
       "callsign_icao": "CFE9762",
@@ -132047,44 +132047,6 @@
         "longitude": 20.9671,
         "municipality": "Warsaw",
         "name": "Warsaw Chopin Airport"
-      }
-    }
-  },
-  "CLX11Z": {
-    "time": 1793129726.2522583,
-    "route": {
-      "callsign": "CLX11Z",
-      "callsign_icao": "CLX11Z",
-      "callsign_iata": "CV11Z",
-      "airline": {
-        "name": "Cargolux",
-        "icao": "CLX",
-        "iata": "CV",
-        "country": "Luxembourg",
-        "country_iso": "LU",
-        "callsign": "CARGOLUX"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 797,
-        "iata_code": "IND",
-        "icao_code": "KIND",
-        "latitude": 39.7173,
-        "longitude": -86.2944,
-        "municipality": "Indianapolis",
-        "name": "Indianapolis International Airport"
-      },
-      "destination": {
-        "country_iso_name": "LU",
-        "country_name": "Luxembourg",
-        "elevation": 1234,
-        "iata_code": "LUX",
-        "icao_code": "ELLX",
-        "latitude": 49.62333,
-        "longitude": 6.20444,
-        "municipality": "Luxembourg",
-        "name": "Luxembourg-Findel International Airport"
       }
     }
   },
@@ -165187,7 +165149,7 @@
     }
   },
   "RYR726A": {
-    "time": 1793388324.5364132,
+    "time": 1793734538.0145721,
     "route": {
       "callsign": "RYR726A",
       "callsign_icao": "RYR726A",
@@ -229203,6 +229165,75 @@
         "longitude": -1.8425,
         "municipality": "Bournemouth",
         "name": "Bournemouth Airport"
+      }
+    }
+  },
+  "TYW433": {
+    "time": 1793734538.0145721,
+    "route": {
+      "callsign": "TYW433",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      },
+      "destination": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 184,
+        "iata_code": "BRU",
+        "icao_code": "EBBR",
+        "latitude": 50.9014,
+        "longitude": 4.48444,
+        "municipality": "Brussels",
+        "name": "Brussels Airport"
+      }
+    }
+  },
+  "WUK7603": {
+    "time": 1793734538.0145721,
+    "route": {
+      "callsign": "WUK7603",
+      "callsign_icao": "WUK7603",
+      "callsign_iata": "W97603",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 821,
+        "iata_code": "LYS",
+        "icao_code": "LFLL",
+        "latitude": 45.72556,
+        "longitude": 5.08111,
+        "municipality": "Lyon",
+        "name": "Lyon Saint-Exup\u00e9ry Airport"
       }
     }
   }
