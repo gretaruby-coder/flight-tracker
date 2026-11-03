@@ -6117,7 +6117,7 @@
     }
   },
   "LOG18D": {
-    "time": 1793631929.7606359,
+    "time": 1793718333.1261165,
     "route": {
       "callsign": "LOG18D",
       "callsign_icao": "LOG18D",
@@ -11775,7 +11775,7 @@
     }
   },
   "ASA101": {
-    "time": 1793550644.8562744,
+    "time": 1793718333.1261165,
     "route": {
       "callsign": "ASA101",
       "callsign_icao": "ASA101",
@@ -51462,44 +51462,6 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
-      }
-    }
-  },
-  "ISR116": {
-    "time": 1793113270.215948,
-    "route": {
-      "callsign": "ISR116",
-      "callsign_icao": "ISR116",
-      "callsign_iata": "6H116",
-      "airline": {
-        "name": "Israir Airlines",
-        "icao": "ISR",
-        "iata": "6H",
-        "country": "Israel",
-        "country_iso": "IL",
-        "callsign": "ISRAIR"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 526,
-        "iata_code": "LTN",
-        "icao_code": "EGGW",
-        "latitude": 51.8747,
-        "longitude": -0.36833,
-        "municipality": "London",
-        "name": "London Luton Airport"
-      },
-      "destination": {
-        "country_iso_name": "IL",
-        "country_name": "Israel",
-        "elevation": 135,
-        "iata_code": "TLV",
-        "icao_code": "LLBG",
-        "latitude": 32.0114,
-        "longitude": 34.8867,
-        "municipality": "Tel Aviv",
-        "name": "Ben Gurion International Airport"
       }
     }
   },
@@ -95759,7 +95721,7 @@
     }
   },
   "BAW979": {
-    "time": 1793546724.2308364,
+    "time": 1793718333.1261165,
     "route": {
       "callsign": "BAW979",
       "callsign_icao": "BAW979",
@@ -131021,44 +130983,6 @@
         "longitude": -73.7076,
         "municipality": "White Plains",
         "name": "Westchester County Airport"
-      }
-    }
-  },
-  "TRA74K": {
-    "time": 1793113531.1012938,
-    "route": {
-      "callsign": "TRA74K",
-      "callsign_icao": "TRA74K",
-      "callsign_iata": "HV74K",
-      "airline": {
-        "name": "Transavia Holland",
-        "icao": "TRA",
-        "iata": "HV",
-        "country": "Netherlands",
-        "country_iso": "NL",
-        "callsign": "TRANSAVIA"
-      },
-      "origin": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 12,
-        "iata_code": "NCE",
-        "icao_code": "LFMN",
-        "latitude": 43.6584,
-        "longitude": 7.21587,
-        "municipality": "Nice",
-        "name": "Nice-C\u00f4te d'Azur Airport"
-      },
-      "destination": {
-        "country_iso_name": "NL",
-        "country_name": "Netherlands",
-        "elevation": 74,
-        "iata_code": "EIN",
-        "icao_code": "EHEH",
-        "latitude": 51.4501,
-        "longitude": 5.37453,
-        "municipality": "Eindhoven",
-        "name": "Eindhoven Airport"
       }
     }
   },
@@ -228205,6 +228129,120 @@
         "longitude": 4.76389,
         "municipality": "Amsterdam",
         "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "RUK55DC": {
+    "time": 1793718333.1261165,
+    "route": {
+      "callsign": "RUK55DC",
+      "callsign_icao": "RUK55DC",
+      "callsign_iata": "RK55DC",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 1545,
+        "iata_code": "RAK",
+        "icao_code": "GMMX",
+        "latitude": 31.6069,
+        "longitude": -8.0363,
+        "municipality": "Marrakech",
+        "name": "Menara Airport"
+      }
+    }
+  },
+  "RYR23EF": {
+    "time": 1793718333.1261165,
+    "route": {
+      "callsign": "RYR23EF",
+      "callsign_icao": "RYR23EF",
+      "callsign_iata": "FR23EF",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 46,
+        "iata_code": "ACE",
+        "icao_code": "GCRR",
+        "latitude": 28.9455,
+        "longitude": -13.6052,
+        "municipality": "Lanzarote Island",
+        "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "WUK191H": {
+    "time": 1793718333.1261165,
+    "route": {
+      "callsign": "WUK191H",
+      "callsign_icao": "WUK191H",
+      "callsign_iata": "W9191H",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 1860,
+        "iata_code": "GRX",
+        "icao_code": "LEGR",
+        "latitude": 37.1887,
+        "longitude": -3.77736,
+        "municipality": "Granada",
+        "name": "F.G.L. Airport Granada-Ja\u00e9n Airport"
       }
     }
   }
