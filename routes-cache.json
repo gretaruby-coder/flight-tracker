@@ -107242,7 +107242,7 @@
     }
   },
   "QTR78R": {
-    "time": 1793568326.4920547,
+    "time": 1793739928.9087324,
     "route": {
       "callsign": "QTR78R",
       "callsign_icao": "QTR78R",
@@ -229873,6 +229873,44 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "EZY98ZW": {
+    "time": 1793739928.9087324,
+    "route": {
+      "callsign": "EZY98ZW",
+      "callsign_icao": "EZY98ZW",
+      "callsign_iata": "U298ZW",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GE",
+        "country_name": "Georgia",
+        "elevation": 1624,
+        "iata_code": "TBS",
+        "icao_code": "UGTB",
+        "latitude": 41.6692,
+        "longitude": 44.9547,
+        "municipality": "Tbilisi",
+        "name": "Tbilisi International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
