@@ -32249,7 +32249,7 @@
     }
   },
   "BAW116": {
-    "time": 1793606460.3028836,
+    "time": 1793692860.6524174,
     "route": {
       "callsign": "BAW116",
       "callsign_icao": "BAW116",
@@ -46008,7 +46008,7 @@
     }
   },
   "BAW630": {
-    "time": 1793522730.6190171,
+    "time": 1793692860.6524174,
     "route": {
       "callsign": "BAW630",
       "callsign_icao": "BAW630",
@@ -76607,7 +76607,7 @@
     }
   },
   "EZY51NM": {
-    "time": 1793515832.1765683,
+    "time": 1793692860.6524174,
     "route": {
       "callsign": "EZY51NM",
       "callsign_icao": "EZY51NM",
@@ -81889,7 +81889,7 @@
     }
   },
   "RYR33EQ": {
-    "time": 1793526924.9117723,
+    "time": 1793692860.6524174,
     "route": {
       "callsign": "RYR33EQ",
       "callsign_icao": "RYR33EQ",
@@ -89399,7 +89399,7 @@
     }
   },
   "BAW668": {
-    "time": 1793539525.0285904,
+    "time": 1793692860.6524174,
     "route": {
       "callsign": "BAW668",
       "callsign_icao": "BAW668",
@@ -104115,7 +104115,7 @@
     }
   },
   "EZY53RA": {
-    "time": 1793558733.7307036,
+    "time": 1793692860.6524174,
     "route": {
       "callsign": "EZY53RA",
       "callsign_icao": "EZY53RA",
@@ -129177,7 +129177,7 @@
     }
   },
   "EZY61PG": {
-    "time": 1793605837.6317332,
+    "time": 1793692860.6524174,
     "route": {
       "callsign": "EZY61PG",
       "callsign_icao": "EZY61PG",
@@ -177370,7 +177370,7 @@
     }
   },
   "SWR2K": {
-    "time": 1793433035.3163643,
+    "time": 1793692860.6524174,
     "route": {
       "callsign": "SWR2K",
       "callsign_icao": "SWR2K",
@@ -226972,6 +226972,113 @@
         "longitude": -60.4258,
         "municipality": "Goose Bay",
         "name": "Goose Bay Airport"
+      }
+    }
+  },
+  "EZY51BG": {
+    "time": 1793692860.6524174,
+    "route": {
+      "callsign": "EZY51BG",
+      "callsign_icao": "EZY51BG",
+      "callsign_iata": "U251BG",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "HR",
+        "country_name": "Croatia",
+        "elevation": 527,
+        "iata_code": "DBV",
+        "icao_code": "LDDU",
+        "latitude": 42.5614,
+        "longitude": 18.2682,
+        "municipality": "Dubrovnik",
+        "name": "Dubrovnik Airport"
+      }
+    }
+  },
+  "WMT1439": {
+    "time": 1793692860.6524174,
+    "route": {
+      "callsign": "WMT1439",
+      "callsign_icao": "WMT1439",
+      "callsign_iata": "W41439",
+      "airline": {
+        "name": "Wizz Air Malta",
+        "icao": "WMT",
+        "iata": "W4",
+        "country": "Malta",
+        "country_iso": "MT",
+        "callsign": "Wizzairmalta"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "TWY1026": {
+    "time": 1793692860.6524174,
+    "route": {
+      "callsign": "TWY1026",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 35,
+        "iata_code": "APC",
+        "icao_code": "KAPC",
+        "latitude": 38.2132,
+        "longitude": -122.281,
+        "municipality": "Napa",
+        "name": "Napa County Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1061,
+        "iata_code": "LZU",
+        "icao_code": "KLZU",
+        "latitude": 33.9781,
+        "longitude": -83.9624,
+        "municipality": "Lawrenceville",
+        "name": "Gwinnett County Briscoe Field"
       }
     }
   }
