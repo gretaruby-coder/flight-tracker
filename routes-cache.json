@@ -38,7 +38,7 @@
     }
   },
   "BAW521": {
-    "time": 1793546724.2308364,
+    "time": 1793711128.7222972,
     "route": {
       "callsign": "BAW521",
       "callsign_icao": "BAW521",
@@ -3395,7 +3395,7 @@
     }
   },
   "KAC101": {
-    "time": 1793624463.744049,
+    "time": 1793711128.7222972,
     "route": {
       "callsign": "KAC101",
       "callsign_icao": "KAC101",
@@ -11060,7 +11060,7 @@
     }
   },
   "SAH59P": {
-    "time": 1793522432.9923627,
+    "time": 1793711128.7222972,
     "route": {
       "callsign": "SAH59P",
       "callsign_icao": null,
@@ -33769,7 +33769,7 @@
     }
   },
   "BAW424": {
-    "time": 1793545832.4848943,
+    "time": 1793711128.7222972,
     "route": {
       "callsign": "BAW424",
       "callsign_icao": "BAW424",
@@ -60673,7 +60673,7 @@
     }
   },
   "KLM777": {
-    "time": 1793528132.0474982,
+    "time": 1793711128.7222972,
     "route": {
       "callsign": "KLM777",
       "callsign_icao": "KLM777",
@@ -68486,7 +68486,7 @@
     }
   },
   "AFR025": {
-    "time": 1793277052.9273412,
+    "time": 1793711128.7222972,
     "route": {
       "callsign": "AFR25",
       "callsign_icao": "AFR25",
@@ -90439,7 +90439,7 @@
     }
   },
   "NSZ4EV": {
-    "time": 1793624728.3100324,
+    "time": 1793711128.7222972,
     "route": {
       "callsign": "NSZ4EV",
       "callsign_icao": "NSZ4EV",
@@ -103144,37 +103144,6 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
-      }
-    }
-  },
-  "LXJ652": {
-    "time": 1793106328.459654,
-    "route": {
-      "callsign": "LXJ652",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 67,
-        "iata_code": "FOK",
-        "icao_code": "KFOK",
-        "latitude": 40.8437,
-        "longitude": -72.6318,
-        "municipality": "Westhampton Beach",
-        "name": "Francis S Gabreski Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 17,
-        "iata_code": null,
-        "icao_code": "KJZI",
-        "latitude": 32.7009,
-        "longitude": -80.0029,
-        "municipality": "Charleston",
-        "name": "Charleston Executive Airport"
       }
     }
   },
@@ -179453,7 +179422,7 @@
     }
   },
   "DLH520": {
-    "time": 1793624728.3100324,
+    "time": 1793711128.7222972,
     "route": {
       "callsign": "DLH520",
       "callsign_icao": "DLH520",
@@ -195069,7 +195038,7 @@
     }
   },
   "EZY47JM": {
-    "time": 1793540123.4444466,
+    "time": 1793711128.7222972,
     "route": {
       "callsign": "EZY47JM",
       "callsign_icao": "EZY47JM",
@@ -228198,6 +228167,82 @@
         "longitude": 20.6518,
         "municipality": "Warsaw",
         "name": "Modlin Airport"
+      }
+    }
+  },
+  "TOM5EX": {
+    "time": 1793711128.7222972,
+    "route": {
+      "callsign": "TOM5EX",
+      "callsign_icao": "TOM5EX",
+      "callsign_iata": "BY5EX",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 294,
+        "iata_code": "NAP",
+        "icao_code": "LIRN",
+        "latitude": 40.886,
+        "longitude": 14.2908,
+        "municipality": "N\u00e1poli",
+        "name": "Naples International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
+      }
+    }
+  },
+  "SWU2321": {
+    "time": 1793711128.7222972,
+    "route": {
+      "callsign": "SWU2321",
+      "callsign_icao": "SWU2321",
+      "callsign_iata": "LX2321",
+      "airline": {
+        "name": "Swiss European Air Lines",
+        "icao": "SWU",
+        "iata": "LX",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": "EUROSWISS"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 53,
+        "iata_code": "HAM",
+        "icao_code": "EDDH",
+        "latitude": 53.6304,
+        "longitude": 9.98823,
+        "municipality": "Hamburg",
+        "name": "Hamburg Helmut Schmidt Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1276,
+        "iata_code": "STR",
+        "icao_code": "EDDS",
+        "latitude": 48.6899,
+        "longitude": 9.22196,
+        "municipality": "Stuttgart",
+        "name": "Stuttgart Airport"
       }
     }
   }
