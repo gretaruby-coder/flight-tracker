@@ -35548,7 +35548,7 @@
     }
   },
   "KLM66A": {
-    "time": 1793526032.6876612,
+    "time": 1793697334.3198512,
     "route": {
       "callsign": "KLM66A",
       "callsign_icao": "KLM66A",
@@ -40308,7 +40308,7 @@
     }
   },
   "BAW396U": {
-    "time": 1793528726.862247,
+    "time": 1793697334.3198512,
     "route": {
       "callsign": "BAW396U",
       "callsign_icao": "BAW396U",
@@ -66776,7 +66776,7 @@
     }
   },
   "KLM749": {
-    "time": 1793438131.4691024,
+    "time": 1793697334.3198512,
     "route": {
       "callsign": "KLM749",
       "callsign_icao": "KLM749",
@@ -74676,7 +74676,7 @@
     }
   },
   "EZY89XC": {
-    "time": 1793599525.4278505,
+    "time": 1793697334.3198512,
     "route": {
       "callsign": "EZY89XC",
       "callsign_icao": "EZY89XC",
@@ -83568,7 +83568,7 @@
     }
   },
   "EZY41NK": {
-    "time": 1793526632.598189,
+    "time": 1793697334.3198512,
     "route": {
       "callsign": "EZY41NK",
       "callsign_icao": "EZY41NK",
@@ -85765,7 +85765,7 @@
     }
   },
   "RYR63HY": {
-    "time": 1793532643.7358139,
+    "time": 1793697334.3198512,
     "route": {
       "callsign": "RYR63HY",
       "callsign_icao": "RYR63HY",
@@ -227528,6 +227528,82 @@
         "longitude": 30.8005,
         "municipality": "Antalya",
         "name": "Antalya International Airport"
+      }
+    }
+  },
+  "DAL66": {
+    "time": 1793697334.3198512,
+    "route": {
+      "callsign": "DAL66",
+      "callsign_icao": "DAL66",
+      "callsign_iata": "DL66",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1026,
+        "iata_code": "ATL",
+        "icao_code": "KATL",
+        "latitude": 33.6367,
+        "longitude": -84.4281,
+        "municipality": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      }
+    }
+  },
+  "RYR6EZ": {
+    "time": 1793697334.3198512,
+    "route": {
+      "callsign": "RYR6EZ",
+      "callsign_icao": "RYR6EZ",
+      "callsign_iata": "FR6EZ",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 240,
+        "iata_code": "VLC",
+        "icao_code": "LEVC",
+        "latitude": 39.4893,
+        "longitude": -0.48163,
+        "municipality": "Valencia",
+        "name": "Valencia Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
       }
     }
   }
