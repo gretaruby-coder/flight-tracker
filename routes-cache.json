@@ -16117,7 +16117,7 @@
     }
   },
   "SAS78C": {
-    "time": 1793646328.691954,
+    "time": 1793818524.914826,
     "route": {
       "callsign": "SAS78C",
       "callsign_icao": "SAS78C",
@@ -16383,7 +16383,7 @@
     }
   },
   "AUR610A": {
-    "time": 1793731549.102645,
+    "time": 1793818524.914826,
     "route": {
       "callsign": "AUR610A",
       "callsign_icao": "AUR610A",
@@ -16725,7 +16725,7 @@
     }
   },
   "SWR5PC": {
-    "time": 1793646638.1273527,
+    "time": 1793818524.914826,
     "route": {
       "callsign": "SWR5PC",
       "callsign_icao": "SWR5PC",
@@ -18276,7 +18276,7 @@
     }
   },
   "EIN52N": {
-    "time": 1793731844.696006,
+    "time": 1793818524.914826,
     "route": {
       "callsign": "EIN52N",
       "callsign_icao": "EIN52N",
@@ -53232,7 +53232,7 @@
     }
   },
   "EZY9006": {
-    "time": 1793727333.2510898,
+    "time": 1793818524.914826,
     "route": {
       "callsign": "EZY9006",
       "callsign_icao": "EZY9006",
@@ -80242,7 +80242,7 @@
     }
   },
   "RYR54NT": {
-    "time": 1793604042.5506082,
+    "time": 1793818524.914826,
     "route": {
       "callsign": "RYR54NT",
       "callsign_icao": "RYR54NT",
@@ -102672,7 +102672,7 @@
     }
   },
   "EZY315E": {
-    "time": 1793731844.696006,
+    "time": 1793818524.914826,
     "route": {
       "callsign": "EZY315E",
       "callsign_icao": "EZY315E",
@@ -121122,7 +121122,7 @@
     }
   },
   "EZY76BZ": {
-    "time": 1793645136.793374,
+    "time": 1793818524.914826,
     "route": {
       "callsign": "EZY76BZ",
       "callsign_icao": "EZY76BZ",
@@ -191388,7 +191388,7 @@
     }
   },
   "EZY387T": {
-    "time": 1793560835.6263719,
+    "time": 1793818524.914826,
     "route": {
       "callsign": "EZY387T",
       "callsign_icao": "EZY387T",
@@ -221132,7 +221132,7 @@
     }
   },
   "VLG83AM": {
-    "time": 1793731549.102645,
+    "time": 1793818524.914826,
     "route": {
       "callsign": "VLG83AM",
       "callsign_icao": "VLG83AM",
@@ -231396,6 +231396,82 @@
         "longitude": -1.61073,
         "municipality": "Nantes",
         "name": "Nantes Atlantique Airport"
+      }
+    }
+  },
+  "NOZ37R": {
+    "time": 1793818524.914826,
+    "route": {
+      "callsign": "NOZ37R",
+      "callsign_icao": "NOZ37R",
+      "callsign_iata": "37R",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 29,
+        "iata_code": "SVG",
+        "icao_code": "ENZV",
+        "latitude": 58.8767,
+        "longitude": 5.63778,
+        "municipality": "Stavanger",
+        "name": "Stavanger Airport, Sola"
+      }
+    }
+  },
+  "EXS51ZJ": {
+    "time": 1793818524.914826,
+    "route": {
+      "callsign": "EXS51ZJ",
+      "callsign_icao": "EXS51ZJ",
+      "callsign_iata": "LS51ZJ",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 46,
+        "iata_code": "ACE",
+        "icao_code": "GCRR",
+        "latitude": 28.9455,
+        "longitude": -13.6052,
+        "municipality": "Lanzarote Island",
+        "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
       }
     }
   }
