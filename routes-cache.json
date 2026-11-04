@@ -60072,7 +60072,7 @@
     }
   },
   "ETH700": {
-    "time": 1793684733.7076626,
+    "time": 1793771433.0646799,
     "route": {
       "callsign": "ETH700",
       "callsign_icao": "ETH700",
@@ -229918,6 +229918,44 @@
         "longitude": 16.5697,
         "municipality": "Vienna",
         "name": "Vienna International Airport"
+      }
+    }
+  },
+  "UAL962": {
+    "time": 1793771433.0646799,
+    "route": {
+      "callsign": "UAL962",
+      "callsign_icao": "UAL962",
+      "callsign_iata": "UA962",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 157,
+        "iata_code": "BER",
+        "icao_code": "EDDB",
+        "latitude": 52.35139,
+        "longitude": 13.49389,
+        "municipality": "Berlin",
+        "name": "Berlin Brandenburg Airport"
       }
     }
   }
