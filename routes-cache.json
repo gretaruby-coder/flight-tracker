@@ -229882,5 +229882,43 @@
         "name": "London Luton Airport"
       }
     }
+  },
+  "BOX191": {
+    "time": 1793758834.7682498,
+    "route": {
+      "callsign": "BOX191",
+      "callsign_icao": "BOX191",
+      "callsign_iata": "3S191",
+      "airline": {
+        "name": "AeroLogic",
+        "icao": "BOX",
+        "iata": "3S",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "GERMAN CARGO"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 465,
+        "iata_code": "LEJ",
+        "icao_code": "EDDP",
+        "latitude": 51.42389,
+        "longitude": 12.23639,
+        "municipality": "Leipzig",
+        "name": "Leipzig/Halle Airport"
+      }
+    }
   }
 }
