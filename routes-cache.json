@@ -5851,7 +5851,7 @@
     }
   },
   "AAL91": {
-    "time": 1793639438.0930412,
+    "time": 1793811323.5141704,
     "route": {
       "callsign": "AAL91",
       "callsign_icao": "AAL91",
@@ -13882,7 +13882,7 @@
     }
   },
   "DAL4": {
-    "time": 1793640038.2342913,
+    "time": 1793811323.5141704,
     "route": {
       "callsign": "DAL4",
       "callsign_icao": "DAL4",
@@ -85175,7 +85175,7 @@
     }
   },
   "RYR38TG": {
-    "time": 1793621136.8940325,
+    "time": 1793811323.5141704,
     "route": {
       "callsign": "RYR38TG",
       "callsign_icao": "RYR38TG",
@@ -92616,7 +92616,7 @@
     }
   },
   "EZY37XH": {
-    "time": 1793657436.3895369,
+    "time": 1793811323.5141704,
     "route": {
       "callsign": "EZY37XH",
       "callsign_icao": "EZY37XH",
@@ -97777,7 +97777,7 @@
     }
   },
   "EZY27RP": {
-    "time": 1793724638.3110285,
+    "time": 1793811323.5141704,
     "route": {
       "callsign": "EZY27RP",
       "callsign_icao": "EZY27RP",
@@ -230643,6 +230643,120 @@
         "longitude": 28.7925,
         "municipality": "Dalaman",
         "name": "Dalaman International Airport"
+      }
+    }
+  },
+  "EZY52BV": {
+    "time": 1793811323.5141704,
+    "route": {
+      "callsign": "EZY52BV",
+      "callsign_icao": "EZY52BV",
+      "callsign_iata": "U252BV",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 115,
+        "iata_code": "HER",
+        "icao_code": "LGIR",
+        "latitude": 35.3397,
+        "longitude": 25.1803,
+        "municipality": "Heraklion",
+        "name": "Heraklion International Nikos Kazantzakis Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "AFR41YM": {
+    "time": 1793811323.5141704,
+    "route": {
+      "callsign": "AFR41YM",
+      "callsign_icao": "AFR41YM",
+      "callsign_iata": "AF41YM",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "WUK4148": {
+    "time": 1793811323.5141704,
+    "route": {
+      "callsign": "WUK4148",
+      "callsign_icao": "WUK4148",
+      "callsign_iata": "W94148",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 31,
+        "iata_code": "TOS",
+        "icao_code": "ENTC",
+        "latitude": 69.6833,
+        "longitude": 18.9189,
+        "municipality": "Troms\u00f8",
+        "name": "Troms\u00f8 Airport, Langnes"
       }
     }
   }
