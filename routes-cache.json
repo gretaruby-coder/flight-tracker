@@ -5433,7 +5433,7 @@
     }
   },
   "LGL4595": {
-    "time": 1793633728.7389383,
+    "time": 1793804806.1883209,
     "route": {
       "callsign": "LGL4595",
       "callsign_icao": "LGL4595",
@@ -8953,7 +8953,7 @@
     }
   },
   "BAW277": {
-    "time": 1793635540.8141365,
+    "time": 1793804806.1883209,
     "route": {
       "callsign": "BAW277",
       "callsign_icao": "BAW277",
@@ -9212,7 +9212,7 @@
     }
   },
   "BAW5E": {
-    "time": 1793638862.5198808,
+    "time": 1793804806.1883209,
     "route": {
       "callsign": "BAW5E",
       "callsign_icao": "BAW5E",
@@ -18162,7 +18162,7 @@
     }
   },
   "CFE7026": {
-    "time": 1793635837.6440878,
+    "time": 1793804806.1883209,
     "route": {
       "callsign": "CFE7026",
       "callsign_icao": "CFE7026",
@@ -39821,7 +39821,7 @@
     }
   },
   "BAW8K": {
-    "time": 1793716250.7164862,
+    "time": 1793804806.1883209,
     "route": {
       "callsign": "BAW8K",
       "callsign_icao": "BAW8K",
@@ -94060,7 +94060,7 @@
     }
   },
   "BAW979": {
-    "time": 1793718333.1261165,
+    "time": 1793804806.1883209,
     "route": {
       "callsign": "BAW979",
       "callsign_icao": "BAW979",
@@ -134443,44 +134443,6 @@
       }
     }
   },
-  "EZY57TJ": {
-    "time": 1793199664.0246677,
-    "route": {
-      "callsign": "EZY57TJ",
-      "callsign_icao": "EZY57TJ",
-      "callsign_iata": "U257TJ",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 13,
-        "iata_code": "FCO",
-        "icao_code": "LIRF",
-        "latitude": 41.80453,
-        "longitude": 12.252,
-        "municipality": "Rome",
-        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      }
-    }
-  },
   "EZY81PY": {
     "time": 1793556632.4474533,
     "route": {
@@ -134558,7 +134520,7 @@
     }
   },
   "RYR3TW": {
-    "time": 1793200234.4853075,
+    "time": 1793804806.1883209,
     "route": {
       "callsign": "RYR3TW",
       "callsign_icao": "RYR3TW",
@@ -230405,6 +230367,44 @@
         "longitude": -2.71909,
         "municipality": "Bristol",
         "name": "Bristol Airport"
+      }
+    }
+  },
+  "THY5KM": {
+    "time": 1793804806.1883209,
+    "route": {
+      "callsign": "THY5KM",
+      "callsign_icao": "THY5KM",
+      "callsign_iata": "TK5KM",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 97,
+        "iata_code": "IAH",
+        "icao_code": "KIAH",
+        "latitude": 29.9844,
+        "longitude": -95.3414,
+        "municipality": "Houston",
+        "name": "George Bush Intercontinental Houston Airport"
       }
     }
   }
