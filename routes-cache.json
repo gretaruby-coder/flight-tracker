@@ -266,7 +266,7 @@
     }
   },
   "CPA257": {
-    "time": 1793630134.1350908,
+    "time": 1793803232.398439,
     "route": {
       "callsign": "CPA257",
       "callsign_icao": "CPA257",
@@ -2839,7 +2839,7 @@
     }
   },
   "BAW6B": {
-    "time": 1793633130.5234368,
+    "time": 1793803232.398439,
     "route": {
       "callsign": "BAW6B",
       "callsign_icao": "BAW6B",
@@ -4255,7 +4255,7 @@
     }
   },
   "SAS52C": {
-    "time": 1793714127.6922836,
+    "time": 1793803232.398439,
     "route": {
       "callsign": "SAS52C",
       "callsign_icao": "SAS52C",
@@ -6991,7 +6991,7 @@
     }
   },
   "MSR778": {
-    "time": 1793716526.4999814,
+    "time": 1793803232.398439,
     "route": {
       "callsign": "MSR778",
       "callsign_icao": "MSR778",
@@ -72794,7 +72794,7 @@
     }
   },
   "RYR8TX": {
-    "time": 1793618133.8602393,
+    "time": 1793803232.398439,
     "route": {
       "callsign": "RYR8TX",
       "callsign_icao": "RYR8TX",
@@ -95117,7 +95117,7 @@
     }
   },
   "QTR1T": {
-    "time": 1793544926.229402,
+    "time": 1793803232.398439,
     "route": {
       "callsign": "QTR1T",
       "callsign_icao": "QTR1T",
@@ -230405,6 +230405,82 @@
         "longitude": -68.3634,
         "municipality": "Punta Cana",
         "name": "Punta Cana International Airport"
+      }
+    }
+  },
+  "BAW486L": {
+    "time": 1793803232.398439,
+    "route": {
+      "callsign": "BAW486L",
+      "callsign_icao": "BAW486L",
+      "callsign_iata": "BA486L",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      }
+    }
+  },
+  "SWR1HQ": {
+    "time": 1793803232.398439,
+    "route": {
+      "callsign": "SWR1HQ",
+      "callsign_icao": "SWR1HQ",
+      "callsign_iata": "LX1HQ",
+      "airline": {
+        "name": "Swiss International Air Lines",
+        "icao": "SWR",
+        "iata": "LX",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": "SWISS"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
       }
     }
   }
