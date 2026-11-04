@@ -229844,5 +229844,43 @@
         "name": "East Midlands Airport"
       }
     }
+  },
+  "BCS2210": {
+    "time": 1793754057.9045215,
+    "route": {
+      "callsign": "BCS2210",
+      "callsign_icao": "BCS2210",
+      "callsign_iata": "QY2210",
+      "airline": {
+        "name": "European Air Transport",
+        "icao": "BCS",
+        "iata": "QY",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "EUROTRANS"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 465,
+        "iata_code": "LEJ",
+        "icao_code": "EDDP",
+        "latitude": 51.42389,
+        "longitude": 12.23639,
+        "municipality": "Leipzig",
+        "name": "Leipzig/Halle Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
   }
 }
