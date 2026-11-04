@@ -123561,7 +123561,7 @@
     }
   },
   "WUK72": {
-    "time": 1793576124.879609,
+    "time": 1793834431.882615,
     "route": {
       "callsign": "WUK72",
       "callsign_icao": "WUK72",
@@ -136091,44 +136091,6 @@
         "longitude": 33.6249,
         "municipality": "Larnaca",
         "name": "Larnaca International Airport"
-      }
-    }
-  },
-  "TOM1LE": {
-    "time": 1793229332.6986005,
-    "route": {
-      "callsign": "TOM1LE",
-      "callsign_icao": "TOM1LE",
-      "callsign_iata": "BY1LE",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 257,
-        "iata_code": "MAN",
-        "icao_code": "EGCC",
-        "latitude": 53.34938,
-        "longitude": -2.27952,
-        "municipality": "Manchester",
-        "name": "Manchester Airport"
-      },
-      "destination": {
-        "country_iso_name": "GR",
-        "country_name": "Greece",
-        "elevation": 127,
-        "iata_code": "JTR",
-        "icao_code": "LGSR",
-        "latitude": 36.3992,
-        "longitude": 25.4793,
-        "municipality": "Santorini Island",
-        "name": "Santorini Airport"
       }
     }
   },
@@ -231410,6 +231372,82 @@
         "longitude": 7.26389,
         "municipality": "Frankfurt am Main",
         "name": "Frankfurt-Hahn Airport"
+      }
+    }
+  },
+  "THY8VB": {
+    "time": 1793834431.882615,
+    "route": {
+      "callsign": "THY8VB",
+      "callsign_icao": "THY8VB",
+      "callsign_iata": "TK8VB",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
+      }
+    }
+  },
+  "EZY18VF": {
+    "time": 1793834431.882615,
+    "route": {
+      "callsign": "EZY18VF",
+      "callsign_icao": "EZY18VF",
+      "callsign_iata": "U218VF",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
