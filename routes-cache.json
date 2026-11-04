@@ -12003,7 +12003,7 @@
     }
   },
   "SAS86Y": {
-    "time": 1793642127.471946,
+    "time": 1793814332.7235134,
     "route": {
       "callsign": "SAS86Y",
       "callsign_icao": "SAS86Y",
@@ -21430,7 +21430,7 @@
     }
   },
   "BAW822": {
-    "time": 1793642460.4814034,
+    "time": 1793814332.7235134,
     "route": {
       "callsign": "BAW822",
       "callsign_icao": "BAW822",
@@ -25178,7 +25178,7 @@
     }
   },
   "ABY259": {
-    "time": 1793641236.6554801,
+    "time": 1793814332.7235134,
     "route": {
       "callsign": "ABY259",
       "callsign_icao": "ABY259",
@@ -31237,7 +31237,7 @@
     }
   },
   "BAW741": {
-    "time": 1793642127.471946,
+    "time": 1793814332.7235134,
     "route": {
       "callsign": "BAW741",
       "callsign_icao": "BAW741",
@@ -48702,44 +48702,6 @@
         "longitude": -3.41389,
         "municipality": "Exeter",
         "name": "Exeter International Airport"
-      }
-    }
-  },
-  "NSZ3GC": {
-    "time": 1793209236.533386,
-    "route": {
-      "callsign": "NSZ3GC",
-      "callsign_icao": "NSZ3GC",
-      "callsign_iata": "D83GC",
-      "airline": {
-        "name": "Norwegian Air Sweden AOC",
-        "icao": "NSZ",
-        "iata": "D8",
-        "country": "Sweden",
-        "country_iso": "SE",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      },
-      "destination": {
-        "country_iso_name": "DK",
-        "country_name": "Denmark",
-        "elevation": 17,
-        "iata_code": "CPH",
-        "icao_code": "EKCH",
-        "latitude": 55.6179,
-        "longitude": 12.656,
-        "municipality": "Copenhagen",
-        "name": "Copenhagen Kastrup Airport"
       }
     }
   },
@@ -66483,7 +66445,7 @@
     }
   },
   "BAW664": {
-    "time": 1793642460.4814034,
+    "time": 1793814332.7235134,
     "route": {
       "callsign": "BAW664",
       "callsign_icao": "BAW664",
@@ -99366,7 +99328,7 @@
     }
   },
   "BAW393R": {
-    "time": 1793726730.8788226,
+    "time": 1793814332.7235134,
     "route": {
       "callsign": "BAW393R",
       "callsign_icao": "BAW393R",
@@ -101190,7 +101152,7 @@
     }
   },
   "BAW318": {
-    "time": 1793727053.1930833,
+    "time": 1793814332.7235134,
     "route": {
       "callsign": "BAW318",
       "callsign_icao": "BAW318",
@@ -220576,7 +220538,7 @@
     }
   },
   "AEA78RT": {
-    "time": 1793727638.893618,
+    "time": 1793814332.7235134,
     "route": {
       "callsign": "AEA78RT",
       "callsign_icao": "AEA78RT",
@@ -230833,6 +230795,82 @@
         "longitude": 10.8885,
         "municipality": "Verona",
         "name": "Verona Villafranca Airport"
+      }
+    }
+  },
+  "HOP45JQ": {
+    "time": 1793814332.7235134,
+    "route": {
+      "callsign": "HOP45JQ",
+      "callsign_icao": "HOP45JQ",
+      "callsign_iata": "A545JQ",
+      "airline": {
+        "name": "Air France Hop",
+        "icao": "HOP",
+        "iata": "A5",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "Airfrans"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 266,
+        "iata_code": "NCL",
+        "icao_code": "EGNT",
+        "latitude": 55.0375,
+        "longitude": -1.69167,
+        "municipality": "Newcastle",
+        "name": "Newcastle Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "SWR52": {
+    "time": 1793814332.7235134,
+    "route": {
+      "callsign": "SWR52",
+      "callsign_icao": "SWR52",
+      "callsign_iata": "LX52",
+      "airline": {
+        "name": "Swiss International Air Lines",
+        "icao": "SWR",
+        "iata": "LX",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": "SWISS"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 20,
+        "iata_code": "BOS",
+        "icao_code": "KBOS",
+        "latitude": 42.3643,
+        "longitude": -71.0052,
+        "municipality": "Boston",
+        "name": "Logan International Airport"
       }
     }
   }
