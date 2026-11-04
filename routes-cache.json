@@ -63219,7 +63219,7 @@
     }
   },
   "ACA840": {
-    "time": 1793419524.2790475,
+    "time": 1793766647.1428397,
     "route": {
       "callsign": "ACA840",
       "callsign_icao": "ACA840",
@@ -229880,6 +229880,82 @@
         "longitude": 24.9633,
         "municipality": "Helsinki",
         "name": "Helsinki Vantaa Airport"
+      }
+    }
+  },
+  "DLH443": {
+    "time": 1793766647.1428397,
+    "route": {
+      "callsign": "DLH443",
+      "callsign_icao": "DLH443",
+      "callsign_iata": "LH443",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 645,
+        "iata_code": "DTW",
+        "icao_code": "KDTW",
+        "latitude": 42.2124,
+        "longitude": -83.3534,
+        "municipality": "Detroit",
+        "name": "Detroit Metropolitan Wayne County Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "CLX12V": {
+    "time": 1793766647.1428397,
+    "route": {
+      "callsign": "CLX12V",
+      "callsign_icao": "CLX12V",
+      "callsign_iata": "CV12V",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 152,
+        "iata_code": "ANC",
+        "icao_code": "PANC",
+        "latitude": 61.1744,
+        "longitude": -149.996,
+        "municipality": "Anchorage",
+        "name": "Ted Stevens Anchorage International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
       }
     }
   }
