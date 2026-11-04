@@ -2276,7 +2276,7 @@
     }
   },
   "ACA855": {
-    "time": 1793705124.992965,
+    "time": 1793791847.9517417,
     "route": {
       "callsign": "ACA855",
       "callsign_icao": "ACA855",
@@ -2725,7 +2725,7 @@
     }
   },
   "BAW433": {
-    "time": 1793702432.606576,
+    "time": 1793791847.9517417,
     "route": {
       "callsign": "BAW433",
       "callsign_icao": "BAW433",
@@ -40011,7 +40011,7 @@
     }
   },
   "VIR7B": {
-    "time": 1793704535.9791405,
+    "time": 1793791847.9517417,
     "route": {
       "callsign": "VIR7B",
       "callsign_icao": "VIR7B",
@@ -67405,7 +67405,7 @@
     }
   },
   "EIN3GM": {
-    "time": 1793704234.3906548,
+    "time": 1793791847.9517417,
     "route": {
       "callsign": "EIN3GM",
       "callsign_icao": "EIN3GM",
@@ -83520,7 +83520,7 @@
     }
   },
   "BAW901": {
-    "time": 1793620526.4432502,
+    "time": 1793791847.9517417,
     "route": {
       "callsign": "BAW901",
       "callsign_icao": "BAW901",
@@ -83558,7 +83558,7 @@
     }
   },
   "IBE07FG": {
-    "time": 1793702432.606576,
+    "time": 1793791847.9517417,
     "route": {
       "callsign": "IBE07FG",
       "callsign_icao": "IBE07FG",
@@ -90878,7 +90878,7 @@
     }
   },
   "WZZ919": {
-    "time": 1793704234.3906548,
+    "time": 1793791847.9517417,
     "route": {
       "callsign": "WZZ919",
       "callsign_icao": "WZZ919",
@@ -116804,7 +116804,7 @@
     }
   },
   "UAL951": {
-    "time": 1793619645.9865801,
+    "time": 1793791847.9517417,
     "route": {
       "callsign": "UAL951",
       "callsign_icao": "UAL951",
@@ -134036,44 +134036,6 @@
         "longitude": -83.3534,
         "municipality": "Detroit",
         "name": "Detroit Metropolitan Wayne County Airport"
-      }
-    }
-  },
-  "GTI8082": {
-    "time": 1793186728.0004659,
-    "route": {
-      "callsign": "GTI8082",
-      "callsign_icao": "GTI8082",
-      "callsign_iata": "5Y8082",
-      "airline": {
-        "name": "Atlas Air",
-        "icao": "GTI",
-        "iata": "5Y",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "GIANT"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 46,
-        "iata_code": "CHS",
-        "icao_code": "KCHS",
-        "latitude": 32.8986,
-        "longitude": -80.0405,
-        "municipality": "Charleston",
-        "name": "Charleston International Airport"
-      },
-      "destination": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 1649,
-        "iata_code": "HHN",
-        "icao_code": "EDFH",
-        "latitude": 49.9487,
-        "longitude": 7.26389,
-        "municipality": "Frankfurt am Main",
-        "name": "Frankfurt-Hahn Airport"
       }
     }
   },
@@ -203295,7 +203257,7 @@
     }
   },
   "EFW904M": {
-    "time": 1793700330.1687412,
+    "time": 1793791847.9517417,
     "route": {
       "callsign": "EFW904M",
       "callsign_icao": "EFW904M",
@@ -229614,6 +229576,75 @@
         "longitude": -77.9134,
         "municipality": "Montego Bay",
         "name": "Sangster International Airport"
+      }
+    }
+  },
+  "NSZ28T": {
+    "time": 1793791847.9517417,
+    "route": {
+      "callsign": "NSZ28T",
+      "callsign_icao": "NSZ28T",
+      "callsign_iata": "D828T",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 10,
+        "iata_code": "AAL",
+        "icao_code": "EKYT",
+        "latitude": 57.09276,
+        "longitude": 9.84924,
+        "municipality": "Aalborg",
+        "name": "Aalborg Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      }
+    }
+  },
+  "GIDID": {
+    "time": 1793791847.9517417,
+    "route": {
+      "callsign": "GIDID",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 325,
+        "iata_code": "BBS",
+        "icao_code": "EGLK",
+        "latitude": 51.3239,
+        "longitude": -0.8475,
+        "municipality": "Yateley",
+        "name": "Blackbushe Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 448,
+        "iata_code": null,
+        "icao_code": "EGBT",
+        "latitude": 52.0408,
+        "longitude": -1.09556,
+        "municipality": "Turweston",
+        "name": "Turweston Airport"
       }
     }
   }
