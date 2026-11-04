@@ -1119,7 +1119,7 @@
     }
   },
   "RWD710": {
-    "time": 1793599834.938346,
+    "time": 1793772056.9011972,
     "route": {
       "callsign": "RWD710",
       "callsign_icao": "RWD710",
@@ -1233,7 +1233,7 @@
     }
   },
   "BAW5CA": {
-    "time": 1793685325.2393622,
+    "time": 1793772056.9011972,
     "route": {
       "callsign": "BAW5CA",
       "callsign_icao": "BAW5CA",
@@ -29655,7 +29655,7 @@
     }
   },
   "BAW212": {
-    "time": 1793685325.2393622,
+    "time": 1793772056.9011972,
     "route": {
       "callsign": "BAW212",
       "callsign_icao": "BAW212",
@@ -59958,7 +59958,7 @@
     }
   },
   "AUA32X": {
-    "time": 1793598926.4724903,
+    "time": 1793772056.9011972,
     "route": {
       "callsign": "AUA32X",
       "callsign_icao": "AUA32X",
@@ -63333,7 +63333,7 @@
     }
   },
   "DAL14": {
-    "time": 1793598638.5489342,
+    "time": 1793772056.9011972,
     "route": {
       "callsign": "DAL14",
       "callsign_icao": "DAL14",
@@ -229956,6 +229956,82 @@
         "longitude": 13.49389,
         "municipality": "Berlin",
         "name": "Berlin Brandenburg Airport"
+      }
+    }
+  },
+  "DLH471": {
+    "time": 1793772056.9011972,
+    "route": {
+      "callsign": "DLH471",
+      "callsign_icao": "DLH471",
+      "callsign_iata": "LH471",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "DAL72": {
+    "time": 1793772056.9011972,
+    "route": {
+      "callsign": "DAL72",
+      "callsign_icao": "DAL72",
+      "callsign_iata": "DL72",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1026,
+        "iata_code": "ATL",
+        "icao_code": "KATL",
+        "latitude": 33.6367,
+        "longitude": -84.4281,
+        "municipality": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
       }
     }
   }
