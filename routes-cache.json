@@ -44276,44 +44276,6 @@
       }
     }
   },
-  "KLM97N": {
-    "time": 1793195136.6446095,
-    "route": {
-      "callsign": "KLM97N",
-      "callsign_icao": "KLM97N",
-      "callsign_iata": "KL97N",
-      "airline": {
-        "name": "KLM Royal Dutch Airlines",
-        "icao": "KLM",
-        "iata": "KL",
-        "country": "Netherlands",
-        "country_iso": "NL",
-        "callsign": "KLM"
-      },
-      "origin": {
-        "country_iso_name": "NL",
-        "country_name": "Netherlands",
-        "elevation": -11,
-        "iata_code": "AMS",
-        "icao_code": "EHAM",
-        "latitude": 52.3086,
-        "longitude": 4.76389,
-        "municipality": "Amsterdam",
-        "name": "Amsterdam Airport Schiphol"
-      },
-      "destination": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 525,
-        "iata_code": "MUC",
-        "icao_code": "EDDM",
-        "latitude": 48.1378,
-        "longitude": 11.6903,
-        "municipality": "Munich",
-        "name": "Flughafen M\u00fcnchen-Riem"
-      }
-    }
-  },
   "AAL80": {
     "time": 1793700059.8005676,
     "route": {
@@ -157116,7 +157078,7 @@
     }
   },
   "TAP669": {
-    "time": 1793631929.7606359,
+    "time": 1793800233.092573,
     "route": {
       "callsign": "TAP669",
       "callsign_icao": "TAP669",
@@ -162176,7 +162138,7 @@
     }
   },
   "RYR17HW": {
-    "time": 1793653528.1808782,
+    "time": 1793800233.092573,
     "route": {
       "callsign": "RYR17HW",
       "callsign_icao": "RYR17HW",
@@ -171575,7 +171537,7 @@
     }
   },
   "CND5987": {
-    "time": 1793541653.43641,
+    "time": 1793800233.092573,
     "route": {
       "callsign": "CND5987",
       "callsign_icao": "CND5987",
@@ -219882,7 +219844,7 @@
     }
   },
   "EJU87YJ": {
-    "time": 1793712926.8087811,
+    "time": 1793800233.092573,
     "route": {
       "callsign": "EJU87YJ",
       "callsign_icao": "EJU87YJ",
@@ -230336,6 +230298,196 @@
         "longitude": -13.6052,
         "municipality": "Lanzarote Island",
         "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      }
+    }
+  },
+  "TOM7CX": {
+    "time": 1793800233.092573,
+    "route": {
+      "callsign": "TOM7CX",
+      "callsign_icao": "TOM7CX",
+      "callsign_iata": "BY7CX",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 490,
+        "iata_code": "CHQ",
+        "icao_code": "LGSA",
+        "latitude": 35.5317,
+        "longitude": 24.1497,
+        "municipality": "Souda",
+        "name": "Chania International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "NOZ19A": {
+    "time": 1793800233.092573,
+    "route": {
+      "callsign": "NOZ19A",
+      "callsign_icao": "NOZ19A",
+      "callsign_iata": "19A",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "DAL53": {
+    "time": 1793800233.092573,
+    "route": {
+      "callsign": "DAL53",
+      "callsign_icao": "DAL53",
+      "callsign_iata": "DL53",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      }
+    }
+  },
+  "QTR8147": {
+    "time": 1793800233.092573,
+    "route": {
+      "callsign": "QTR8147",
+      "callsign_icao": "QTR8147",
+      "callsign_iata": "QR8147",
+      "airline": {
+        "name": "Qatar Airways",
+        "icao": "QTR",
+        "iata": "QR",
+        "country": "Qatar",
+        "country_iso": "QA",
+        "callsign": "QATARI"
+      },
+      "origin": {
+        "country_iso_name": "BR",
+        "country_name": "Brazil",
+        "elevation": 2170,
+        "iata_code": "VCP",
+        "icao_code": "SBKP",
+        "latitude": -23.0074,
+        "longitude": -47.1345,
+        "municipality": "Campinas",
+        "name": "Viracopos International Airport"
+      },
+      "destination": {
+        "country_iso_name": "CL",
+        "country_name": "Chile",
+        "elevation": 1555,
+        "iata_code": "SCL",
+        "icao_code": "SCEL",
+        "latitude": -33.393,
+        "longitude": -70.7858,
+        "municipality": "Santiago",
+        "name": "Comodoro Arturo Merino Ben\u00edtez International Airport"
+      }
+    }
+  },
+  "EZY57UG": {
+    "time": 1793800233.092573,
+    "route": {
+      "callsign": "EZY57UG",
+      "callsign_icao": "EZY57UG",
+      "callsign_iata": "U257UG",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 17,
+        "iata_code": "RHO",
+        "icao_code": "LGRP",
+        "latitude": 36.4054,
+        "longitude": 28.0862,
+        "municipality": "Rhodes Island",
+        "name": "Diagoras Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
