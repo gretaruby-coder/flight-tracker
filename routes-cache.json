@@ -120918,44 +120918,6 @@
       }
     }
   },
-  "EXS42WP": {
-    "time": 1793316033.2193136,
-    "route": {
-      "callsign": "EXS42WP",
-      "callsign_icao": "EXS42WP",
-      "callsign_iata": "LS42WP",
-      "airline": {
-        "name": "Jet2.com",
-        "icao": "EXS",
-        "iata": "LS",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "CHANNEX"
-      },
-      "origin": {
-        "country_iso_name": "GR",
-        "country_name": "Greece",
-        "elevation": 6,
-        "iata_code": "CFU",
-        "icao_code": "LGKR",
-        "latitude": 39.6019,
-        "longitude": 19.9117,
-        "municipality": "Kerkyra Island",
-        "name": "Ioannis Kapodistrias International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 306,
-        "iata_code": "EMA",
-        "icao_code": "EGNX",
-        "latitude": 52.8311,
-        "longitude": -1.32806,
-        "municipality": "Nottingham",
-        "name": "East Midlands Airport"
-      }
-    }
-  },
   "RYR24BE": {
     "time": 1793905524.8542607,
     "route": {
@@ -138485,44 +138447,6 @@
       }
     }
   },
-  "RYR4419": {
-    "time": 1793316033.2193136,
-    "route": {
-      "callsign": "RYR4419",
-      "callsign_icao": "RYR4419",
-      "callsign_iata": "FR4419",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 47,
-        "iata_code": "BDS",
-        "icao_code": "LIBR",
-        "latitude": 40.6576,
-        "longitude": 17.947,
-        "municipality": "Brindisi",
-        "name": "Brindisi Airport"
-      },
-      "destination": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 123,
-        "iata_code": "BLQ",
-        "icao_code": "LIPE",
-        "latitude": 44.5354,
-        "longitude": 11.2887,
-        "municipality": "Bologna",
-        "name": "Bologna Guglielmo Marconi Airport"
-      }
-    }
-  },
   "EZY65RC": {
     "time": 1793574931.0367732,
     "route": {
@@ -153311,7 +153235,7 @@
     }
   },
   "RYR3SJ": {
-    "time": 1793429433.1774037,
+    "time": 1793920837.1639419,
     "route": {
       "callsign": "RYR3SJ",
       "callsign_icao": "RYR3SJ",
@@ -201449,7 +201373,7 @@
     }
   },
   "EZY59JL": {
-    "time": 1793822124.3084192,
+    "time": 1793920837.1639419,
     "route": {
       "callsign": "EZY59JL",
       "callsign_icao": "EZY59JL",
@@ -213486,7 +213410,7 @@
     }
   },
   "WUK83GK": {
-    "time": 1793747735.7520654,
+    "time": 1793920837.1639419,
     "route": {
       "callsign": "WUK83GK",
       "callsign_icao": "WUK83GK",
@@ -231611,6 +231535,82 @@
         "longitude": -74.5917,
         "municipality": "Wrightstown",
         "name": "Mc Guire Air Force Base"
+      }
+    }
+  },
+  "EZY24MX": {
+    "time": 1793920837.1639419,
+    "route": {
+      "callsign": "EZY24MX",
+      "callsign_icao": "EZY24MX",
+      "callsign_iata": "U224MX",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 276,
+        "iata_code": "RBA",
+        "icao_code": "GMME",
+        "latitude": 34.0515,
+        "longitude": -6.75152,
+        "municipality": "Rabat",
+        "name": "Rabat-Sal\u00e9 Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "EZY6151": {
+    "time": 1793920837.1639419,
+    "route": {
+      "callsign": "EZY6151",
+      "callsign_icao": "EZY6151",
+      "callsign_iata": "U26151",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
