@@ -3281,7 +3281,7 @@
     }
   },
   "AAR521": {
-    "time": 1793804462.465605,
+    "time": 1793891125.2539048,
     "route": {
       "callsign": "AAR521",
       "callsign_icao": "AAR521",
@@ -4825,7 +4825,7 @@
     }
   },
   "BAW4E": {
-    "time": 1793719241.1844273,
+    "time": 1793891125.2539048,
     "route": {
       "callsign": "BAW4E",
       "callsign_icao": "BAW4E",
@@ -6079,7 +6079,7 @@
     }
   },
   "AEE2EG": {
-    "time": 1793804462.465605,
+    "time": 1793891125.2539048,
     "route": {
       "callsign": "AEE2EG",
       "callsign_icao": "AEE2EG",
@@ -6383,7 +6383,7 @@
     }
   },
   "TAP764": {
-    "time": 1793720129.7889419,
+    "time": 1793891125.2539048,
     "route": {
       "callsign": "TAP764",
       "callsign_icao": "TAP764",
@@ -16535,7 +16535,7 @@
     }
   },
   "BAW695": {
-    "time": 1793721934.6934583,
+    "time": 1793891125.2539048,
     "route": {
       "callsign": "BAW695",
       "callsign_icao": "BAW695",
@@ -88799,7 +88799,7 @@
     }
   },
   "EZY39TH": {
-    "time": 1793629850.896239,
+    "time": 1793891125.2539048,
     "route": {
       "callsign": "EZY39TH",
       "callsign_icao": "EZY39TH",
@@ -102092,7 +102092,7 @@
     }
   },
   "EZY767Q": {
-    "time": 1793717133.515847,
+    "time": 1793891125.2539048,
     "route": {
       "callsign": "EZY767Q",
       "callsign_icao": "EZY767Q",
@@ -139062,7 +139062,7 @@
     }
   },
   "GTI5528": {
-    "time": 1793299838.253405,
+    "time": 1793891125.2539048,
     "route": {
       "callsign": "GTI5528",
       "callsign_icao": "GTI5528",
@@ -230585,6 +230585,82 @@
         "longitude": 1.16717,
         "municipality": "Reus",
         "name": "Reus Airport"
+      }
+    }
+  },
+  "BAW42BG": {
+    "time": 1793891125.2539048,
+    "route": {
+      "callsign": "BAW42BG",
+      "callsign_icao": "BAW42BG",
+      "callsign_iata": "BA42BG",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
+      }
+    }
+  },
+  "AFR175": {
+    "time": 1793891125.2539048,
+    "route": {
+      "callsign": "AFR175",
+      "callsign_icao": "AFR175",
+      "callsign_iata": "AF175",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "MX",
+        "country_name": "Mexico",
+        "elevation": 7316,
+        "iata_code": "MEX",
+        "icao_code": "MMMX",
+        "latitude": 19.4363,
+        "longitude": -99.0721,
+        "municipality": "Mexico City",
+        "name": "Licenciado Benito Juarez International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
       }
     }
   }
