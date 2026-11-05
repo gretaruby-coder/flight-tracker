@@ -1378,7 +1378,7 @@
     }
   },
   "TAP36GS": {
-    "time": 1793540731.2756352,
+    "time": 1793882432.5101383,
     "route": {
       "callsign": "TAP36GS",
       "callsign_icao": "TAP36GS",
@@ -1782,7 +1782,7 @@
     }
   },
   "BAW118": {
-    "time": 1793795730.4185207,
+    "time": 1793882432.5101383,
     "route": {
       "callsign": "BAW118",
       "callsign_icao": "BAW118",
@@ -1820,7 +1820,7 @@
     }
   },
   "SWR3CT": {
-    "time": 1793796032.3628402,
+    "time": 1793882432.5101383,
     "route": {
       "callsign": "SWR3CT",
       "callsign_icao": "SWR3CT",
@@ -2238,7 +2238,7 @@
     }
   },
   "BAW7W": {
-    "time": 1793710859.7487862,
+    "time": 1793882432.5101383,
     "route": {
       "callsign": "BAW7W",
       "callsign_icao": "BAW7W",
@@ -47549,7 +47549,7 @@
     }
   },
   "BAW96E": {
-    "time": 1793624127.254405,
+    "time": 1793882432.5101383,
     "route": {
       "callsign": "BAW96E",
       "callsign_icao": "BAW96E",
@@ -57934,7 +57934,7 @@
     }
   },
   "BAW769": {
-    "time": 1793795730.4185207,
+    "time": 1793882432.5101383,
     "route": {
       "callsign": "BAW769",
       "callsign_icao": "BAW769",
@@ -85099,7 +85099,7 @@
     }
   },
   "BAW6GC": {
-    "time": 1793795447.1923609,
+    "time": 1793882432.5101383,
     "route": {
       "callsign": "BAW6GC",
       "callsign_icao": "BAW6GC",
@@ -115243,7 +115243,7 @@
     }
   },
   "EXS86BR": {
-    "time": 1793366134.316454,
+    "time": 1793882432.5101383,
     "route": {
       "callsign": "EXS86BR",
       "callsign_icao": "EXS86BR",
@@ -137234,37 +137234,6 @@
       }
     }
   },
-  "GBPVA": {
-    "time": 1793277329.049971,
-    "route": {
-      "callsign": "GBPVA",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 73,
-        "iata_code": null,
-        "icao_code": "EGCB",
-        "latitude": 53.4717,
-        "longitude": -2.38972,
-        "municipality": "Manchester / Salford",
-        "name": "City Airport Manchester"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 73,
-        "iata_code": null,
-        "icao_code": "EGCB",
-        "latitude": 53.4717,
-        "longitude": -2.38972,
-        "municipality": "Manchester / Salford",
-        "name": "City Airport Manchester"
-      }
-    }
-  },
   "AEE9E": {
     "time": 1793277936.2921782,
     "route": {
@@ -151886,7 +151855,7 @@
     }
   },
   "RYR7XU": {
-    "time": 1793654443.7855833,
+    "time": 1793882432.5101383,
     "route": {
       "callsign": "RYR7XU",
       "callsign_icao": "RYR7XU",
@@ -230664,6 +230633,82 @@
         "longitude": 7.14274,
         "municipality": "Cologne",
         "name": "Cologne Bonn Airport"
+      }
+    }
+  },
+  "RYR797G": {
+    "time": 1793882432.5101383,
+    "route": {
+      "callsign": "RYR797G",
+      "callsign_icao": "RYR797G",
+      "callsign_iata": "FR797G",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "RO",
+        "country_name": "Romania",
+        "elevation": 314,
+        "iata_code": "OTP",
+        "icao_code": "LROP",
+        "latitude": 44.57111,
+        "longitude": 26.085,
+        "municipality": "Bucharest",
+        "name": "Henri Coand\u0103 International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      }
+    }
+  },
+  "EFW8NM": {
+    "time": 1793882432.5101383,
+    "route": {
+      "callsign": "EFW8NM",
+      "callsign_icao": "EFW8NM",
+      "callsign_iata": "A08NM",
+      "airline": {
+        "name": "BA Euroflyer",
+        "icao": "EFW",
+        "iata": "A0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Griffin"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 192,
+        "iata_code": "FNC",
+        "icao_code": "LPMA",
+        "latitude": 32.6979,
+        "longitude": -16.7745,
+        "municipality": "Funchal",
+        "name": "Madeira International Airport Cristiano Ronaldo"
       }
     }
   }
