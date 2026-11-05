@@ -4749,7 +4749,7 @@
     }
   },
   "DAL20": {
-    "time": 1793787636.6309888,
+    "time": 1793892648.0198352,
     "route": {
       "callsign": "DAL20",
       "callsign_icao": "DAL20",
@@ -6953,7 +6953,7 @@
     }
   },
   "SAS505": {
-    "time": 1793805953.6758964,
+    "time": 1793892648.0198352,
     "route": {
       "callsign": "SAS505",
       "callsign_icao": "SAS505",
@@ -63311,44 +63311,6 @@
       }
     }
   },
-  "CLX34P": {
-    "time": 1793287528.5062826,
-    "route": {
-      "callsign": "CLX34P",
-      "callsign_icao": "CLX34P",
-      "callsign_iata": "CV34P",
-      "airline": {
-        "name": "Cargolux",
-        "icao": "CLX",
-        "iata": "CV",
-        "country": "Luxembourg",
-        "country_iso": "LU",
-        "callsign": "CARGOLUX"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 1026,
-        "iata_code": "ATL",
-        "icao_code": "KATL",
-        "latitude": 33.6367,
-        "longitude": -84.4281,
-        "municipality": "Atlanta",
-        "name": "Hartsfield Jackson Atlanta International Airport"
-      },
-      "destination": {
-        "country_iso_name": "LU",
-        "country_name": "Luxembourg",
-        "elevation": 1234,
-        "iata_code": "LUX",
-        "icao_code": "ELLX",
-        "latitude": 49.62333,
-        "longitude": 6.20444,
-        "municipality": "Luxembourg",
-        "name": "Luxembourg-Findel International Airport"
-      }
-    }
-  },
   "BAW65LG": {
     "time": 1793644527.464465,
     "route": {
@@ -92143,7 +92105,7 @@
     }
   },
   "AUA336": {
-    "time": 1793805953.6758964,
+    "time": 1793892648.0198352,
     "route": {
       "callsign": "AUA336",
       "callsign_icao": "AUA336",
@@ -161780,7 +161742,7 @@
     }
   },
   "EXS1412": {
-    "time": 1793718934.5871484,
+    "time": 1793892648.0198352,
     "route": {
       "callsign": "EXS1412",
       "callsign_icao": "EXS1412",
@@ -230813,6 +230775,82 @@
         "longitude": -8.92482,
         "municipality": "Shannon",
         "name": "Shannon Airport"
+      }
+    }
+  },
+  "RYR57RX": {
+    "time": 1793892648.0198352,
+    "route": {
+      "callsign": "RYR57RX",
+      "callsign_icao": "RYR57RX",
+      "callsign_iata": "FR57RX",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 123,
+        "iata_code": "BLQ",
+        "icao_code": "LIPE",
+        "latitude": 44.5354,
+        "longitude": 11.2887,
+        "municipality": "Bologna",
+        "name": "Bologna Guglielmo Marconi Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "RYR75H": {
+    "time": 1793892648.0198352,
+    "route": {
+      "callsign": "RYR75H",
+      "callsign_icao": "RYR75H",
+      "callsign_iata": "FR75H",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 80,
+        "iata_code": "LPL",
+        "icao_code": "EGGP",
+        "latitude": 53.3336,
+        "longitude": -2.84972,
+        "municipality": "Liverpool",
+        "name": "Liverpool John Lennon Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 6,
+        "iata_code": "PSA",
+        "icao_code": "LIRP",
+        "latitude": 43.6839,
+        "longitude": 10.3927,
+        "municipality": "Pisa",
+        "name": "Pisa International Airport"
       }
     }
   }
