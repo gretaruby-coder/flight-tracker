@@ -18010,7 +18010,7 @@
     }
   },
   "SAS49K": {
-    "time": 1793821230.1043584,
+    "time": 1793907932.8451214,
     "route": {
       "callsign": "SAS49K",
       "callsign_icao": "SAS49K",
@@ -18352,7 +18352,7 @@
     }
   },
   "ELY317": {
-    "time": 1793821230.1043584,
+    "time": 1793907932.8451214,
     "route": {
       "callsign": "ELY317",
       "callsign_icao": "ELY317",
@@ -19416,7 +19416,7 @@
     }
   },
   "BAW910N": {
-    "time": 1793821532.7294137,
+    "time": 1793907932.8451214,
     "route": {
       "callsign": "BAW910N",
       "callsign_icao": "BAW910N",
@@ -30370,7 +30370,7 @@
     }
   },
   "BAW722": {
-    "time": 1793815257.9333696,
+    "time": 1793907932.8451214,
     "route": {
       "callsign": "BAW722",
       "callsign_icao": "BAW722",
@@ -57872,7 +57872,7 @@
     }
   },
   "NSZ3519": {
-    "time": 1793820924.7393384,
+    "time": 1793907932.8451214,
     "route": {
       "callsign": "NSZ3519",
       "callsign_icao": "NSZ3519",
@@ -101353,7 +101353,7 @@
     }
   },
   "BAW702E": {
-    "time": 1793735435.9638581,
+    "time": 1793907932.8451214,
     "route": {
       "callsign": "BAW702E",
       "callsign_icao": "BAW702E",
@@ -184509,7 +184509,7 @@
     }
   },
   "VLG66UR": {
-    "time": 1793568644.8146968,
+    "time": 1793907932.8451214,
     "route": {
       "callsign": "VLG66UR",
       "callsign_icao": "VLG66UR",
@@ -231442,6 +231442,113 @@
         "longitude": 17.9186,
         "municipality": "Stockholm",
         "name": "Stockholm-Arlanda Airport"
+      }
+    }
+  },
+  "EXS4PN": {
+    "time": 1793907932.8451214,
+    "route": {
+      "callsign": "EXS4PN",
+      "callsign_icao": "EXS4PN",
+      "callsign_iata": "LS4PN",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "N162QS": {
+    "time": 1793907932.8451214,
+    "route": {
+      "callsign": "N162QS",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 20,
+        "iata_code": "BOS",
+        "icao_code": "KBOS",
+        "latitude": 42.3643,
+        "longitude": -71.0052,
+        "municipality": "Boston",
+        "name": "Logan International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "EXS1AU": {
+    "time": 1793907932.8451214,
+    "route": {
+      "callsign": "EXS1AU",
+      "callsign_icao": "EXS1AU",
+      "callsign_iata": "LS1AU",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "IS",
+        "country_name": "Iceland",
+        "elevation": 171,
+        "iata_code": "KEF",
+        "icao_code": "BIKF",
+        "latitude": 63.985,
+        "longitude": -22.6056,
+        "municipality": "Reykjav\u00edk",
+        "name": "Keflavik International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
