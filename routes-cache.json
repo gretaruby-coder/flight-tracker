@@ -34391,7 +34391,7 @@
     }
   },
   "BAW49N": {
-    "time": 1793782862.0667164,
+    "time": 1793869832.6828554,
     "route": {
       "callsign": "BAW49N",
       "callsign_icao": "BAW49N",
@@ -35182,7 +35182,7 @@
     }
   },
   "CFE772": {
-    "time": 1793783125.9325492,
+    "time": 1793869832.6828554,
     "route": {
       "callsign": "CFE772",
       "callsign_icao": "CFE772",
@@ -38391,7 +38391,7 @@
     }
   },
   "KLM195": {
-    "time": 1793696731.0137484,
+    "time": 1793869832.6828554,
     "route": {
       "callsign": "KLM195",
       "callsign_icao": "KLM195",
@@ -44889,7 +44889,7 @@
     }
   },
   "BAW46EZ": {
-    "time": 1793783125.9325492,
+    "time": 1793869832.6828554,
     "route": {
       "callsign": "BAW46EZ",
       "callsign_icao": "BAW46EZ",
@@ -47808,7 +47808,7 @@
     }
   },
   "BAW513": {
-    "time": 1793698526.7017772,
+    "time": 1793869832.6828554,
     "route": {
       "callsign": "BAW513",
       "callsign_icao": "BAW513",
@@ -75423,7 +75423,7 @@
     }
   },
   "EZY35RM": {
-    "time": 1793604655.3318717,
+    "time": 1793869832.6828554,
     "route": {
       "callsign": "EZY35RM",
       "callsign_icao": "EZY35RM",
@@ -79337,7 +79337,7 @@
     }
   },
   "AFR57X": {
-    "time": 1793698250.06463,
+    "time": 1793869832.6828554,
     "route": {
       "callsign": "AFR57X",
       "callsign_icao": "AFR57X",
@@ -135905,7 +135905,7 @@
     }
   },
   "EXS31L": {
-    "time": 1793427035.3677197,
+    "time": 1793869832.6828554,
     "route": {
       "callsign": "EXS31L",
       "callsign_icao": "EXS31L",
@@ -136741,7 +136741,7 @@
     }
   },
   "TOM308": {
-    "time": 1793265034.8579788,
+    "time": 1793869832.6828554,
     "route": {
       "callsign": "TOM308",
       "callsign_icao": "TOM308",
@@ -166836,7 +166836,7 @@
     }
   },
   "RYR30RU": {
-    "time": 1793701236.76004,
+    "time": 1793869832.6828554,
     "route": {
       "callsign": "RYR30RU",
       "callsign_icao": "RYR30RU",
@@ -230063,6 +230063,82 @@
         "longitude": -71.3933,
         "municipality": "Quebec",
         "name": "Quebec Jean Lesage International Airport"
+      }
+    }
+  },
+  "THY801": {
+    "time": 1793869832.6828554,
+    "route": {
+      "callsign": "THY801",
+      "callsign_icao": "THY801",
+      "callsign_iata": "TK801",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "IQ",
+        "country_name": "Iraq",
+        "elevation": 719,
+        "iata_code": "OSM",
+        "icao_code": "ORBM",
+        "latitude": 36.3058,
+        "longitude": 43.1474,
+        "municipality": "Mosul",
+        "name": "Mosul International Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
+      }
+    }
+  },
+  "CLX27J": {
+    "time": 1793869832.6828554,
+    "route": {
+      "callsign": "CLX27J",
+      "callsign_icao": "CLX27J",
+      "callsign_iata": "CV27J",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 152,
+        "iata_code": "ANC",
+        "icao_code": "PANC",
+        "latitude": 61.1744,
+        "longitude": -149.996,
+        "municipality": "Anchorage",
+        "name": "Ted Stevens Anchorage International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
       }
     }
   }
