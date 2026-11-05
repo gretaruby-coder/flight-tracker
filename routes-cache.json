@@ -1416,7 +1416,7 @@
     }
   },
   "EIN43R": {
-    "time": 1793793925.8064485,
+    "time": 1793881233.912044,
     "route": {
       "callsign": "EIN43R",
       "callsign_icao": "EIN43R",
@@ -6459,7 +6459,7 @@
     }
   },
   "BAW5": {
-    "time": 1793708434.3336325,
+    "time": 1793881233.912044,
     "route": {
       "callsign": "BAW5",
       "callsign_icao": "BAW5",
@@ -43531,7 +43531,7 @@
     }
   },
   "KLM46P": {
-    "time": 1793793925.8064485,
+    "time": 1793881233.912044,
     "route": {
       "callsign": "KLM46P",
       "callsign_icao": "KLM46P",
@@ -47093,7 +47093,7 @@
     }
   },
   "PGT1197": {
-    "time": 1793624127.254405,
+    "time": 1793881233.912044,
     "route": {
       "callsign": "PGT1197",
       "callsign_icao": "PGT1197",
@@ -65426,7 +65426,7 @@
     }
   },
   "BAW365": {
-    "time": 1793793925.8064485,
+    "time": 1793881233.912044,
     "route": {
       "callsign": "BAW365",
       "callsign_icao": "BAW365",
@@ -84985,7 +84985,7 @@
     }
   },
   "AAL56": {
-    "time": 1793794832.5235302,
+    "time": 1793881233.912044,
     "route": {
       "callsign": "AAL56",
       "callsign_icao": "AAL56",
@@ -85745,7 +85745,7 @@
     }
   },
   "DLH3KV": {
-    "time": 1793794533.116201,
+    "time": 1793881233.912044,
     "route": {
       "callsign": "DLH3KV",
       "callsign_icao": "DLH3KV",
@@ -114483,7 +114483,7 @@
     }
   },
   "OCN642": {
-    "time": 1793621444.3702848,
+    "time": 1793881233.912044,
     "route": {
       "callsign": "OCN642",
       "callsign_icao": "OCN642",
@@ -125727,7 +125727,7 @@
     }
   },
   "EZY67XD": {
-    "time": 1793707261.9495704,
+    "time": 1793881233.912044,
     "route": {
       "callsign": "EZY67XD",
       "callsign_icao": "EZY67XD",
@@ -131446,44 +131446,6 @@
         "longitude": -16.5725,
         "municipality": "Tenerife",
         "name": "Tenerife Sur Airport"
-      }
-    }
-  },
-  "RCH690": {
-    "time": 1793276135.6371303,
-    "route": {
-      "callsign": "RCH690",
-      "callsign_icao": "RCH690",
-      "callsign_iata": "MC690",
-      "airline": {
-        "name": "Air Mobility Command",
-        "icao": "RCH",
-        "iata": "MC",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "REACH"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 192,
-        "iata_code": "BGR",
-        "icao_code": "KBGR",
-        "latitude": 44.8074,
-        "longitude": -68.8281,
-        "municipality": "Bangor",
-        "name": "Bangor International Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 3946,
-        "iata_code": "BIF",
-        "icao_code": "KBIF",
-        "latitude": 31.8495,
-        "longitude": -106.38,
-        "municipality": "Fort Bliss/El Paso",
-        "name": "Biggs Army Air Field (Fort Bliss)"
       }
     }
   },
@@ -198881,7 +198843,7 @@
     }
   },
   "EZY83KG": {
-    "time": 1793719529.5377522,
+    "time": 1793881233.912044,
     "route": {
       "callsign": "EZY83KG",
       "callsign_icao": "EZY83KG",
@@ -230588,6 +230550,44 @@
         "longitude": 10.2272,
         "municipality": "Tunis",
         "name": "Tunis Carthage International Airport"
+      }
+    }
+  },
+  "NOZ1702": {
+    "time": 1793881233.912044,
+    "route": {
+      "callsign": "NOZ1702",
+      "callsign_icao": "NOZ1702",
+      "callsign_iata": "1702",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
       }
     }
   }
