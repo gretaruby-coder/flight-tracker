@@ -18580,7 +18580,7 @@
     }
   },
   "UAL934": {
-    "time": 1793822725.1537268,
+    "time": 1793917523.445145,
     "route": {
       "callsign": "UAL934",
       "callsign_icao": "UAL934",
@@ -23931,7 +23931,7 @@
     }
   },
   "BAW249": {
-    "time": 1793745326.7736986,
+    "time": 1793917523.445145,
     "route": {
       "callsign": "BAW249",
       "callsign_icao": "BAW249",
@@ -25299,7 +25299,7 @@
     }
   },
   "AEE609": {
-    "time": 1793745326.7736986,
+    "time": 1793917523.445145,
     "route": {
       "callsign": "AEE609",
       "callsign_icao": "AEE609",
@@ -51635,44 +51635,6 @@
         "longitude": 4.48444,
         "municipality": "Brussels",
         "name": "Brussels Airport"
-      }
-    }
-  },
-  "EIN449": {
-    "time": 1793312436.7293532,
-    "route": {
-      "callsign": "EIN449",
-      "callsign_icao": "EIN449",
-      "callsign_iata": "EI449",
-      "airline": {
-        "name": "Aer Lingus",
-        "icao": "EIN",
-        "iata": "EI",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "SHAMROCK"
-      },
-      "origin": {
-        "country_iso_name": "GR",
-        "country_name": "Greece",
-        "elevation": 115,
-        "iata_code": "HER",
-        "icao_code": "LGIR",
-        "latitude": 35.3397,
-        "longitude": 25.1803,
-        "municipality": "Heraklion",
-        "name": "Heraklion International Nikos Kazantzakis Airport"
-      },
-      "destination": {
-        "country_iso_name": "IE",
-        "country_name": "Ireland",
-        "elevation": 242,
-        "iata_code": "DUB",
-        "icao_code": "EIDW",
-        "latitude": 53.4213,
-        "longitude": -6.27007,
-        "municipality": "Dublin",
-        "name": "Dublin Airport"
       }
     }
   },
@@ -119817,7 +119779,7 @@
     }
   },
   "EZY28ML": {
-    "time": 1793653528.1808782,
+    "time": 1793917523.445145,
     "route": {
       "callsign": "EZY28ML",
       "callsign_icao": "EZY28ML",
@@ -185743,7 +185705,7 @@
     }
   },
   "EZY68GH": {
-    "time": 1793829655.0267096,
+    "time": 1793917523.445145,
     "route": {
       "callsign": "EZY68GH",
       "callsign_icao": "EZY68GH",
@@ -200917,7 +200879,7 @@
     }
   },
   "EZY26YP": {
-    "time": 1793830232.1065176,
+    "time": 1793917523.445145,
     "route": {
       "callsign": "EZY26YP",
       "callsign_icao": "EZY26YP",
@@ -213562,7 +213524,7 @@
     }
   },
   "RUK7LE": {
-    "time": 1793747436.1898456,
+    "time": 1793917523.445145,
     "route": {
       "callsign": "RUK7LE",
       "callsign_icao": "RUK7LE",
@@ -231535,6 +231497,82 @@
         "longitude": 11.1004,
         "municipality": "Oslo",
         "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "RUK28AZ": {
+    "time": 1793917523.445145,
+    "route": {
+      "callsign": "RUK28AZ",
+      "callsign_icao": "RUK28AZ",
+      "callsign_iata": "RK28AZ",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 250,
+        "iata_code": "AGA",
+        "icao_code": "GMAD",
+        "latitude": 30.32248,
+        "longitude": -9.412,
+        "municipality": "Agadir (Temsia)",
+        "name": "Al Massira Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "WUK24JF": {
+    "time": 1793917523.445145,
+    "route": {
+      "callsign": "WUK24JF",
+      "callsign_icao": "WUK24JF",
+      "callsign_iata": "W924JF",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 821,
+        "iata_code": "LYS",
+        "icao_code": "LFLL",
+        "latitude": 45.72556,
+        "longitude": 5.08111,
+        "municipality": "Lyon",
+        "name": "Lyon Saint-Exup\u00e9ry Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
