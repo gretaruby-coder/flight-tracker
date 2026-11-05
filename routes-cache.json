@@ -25869,7 +25869,7 @@
     }
   },
   "CFG017": {
-    "time": 1793590834.8485835,
+    "time": 1793850924.0233605,
     "route": {
       "callsign": "CFG17",
       "callsign_icao": "CFG17",
@@ -52506,7 +52506,7 @@
     }
   },
   "FDX5202": {
-    "time": 1793699736.4989753,
+    "time": 1793850924.0233605,
     "route": {
       "callsign": "FDX5202",
       "callsign_icao": "FDX5202",
@@ -231182,6 +231182,44 @@
         "longitude": -89.9767,
         "municipality": "Memphis",
         "name": "Memphis International Airport"
+      }
+    }
+  },
+  "ELY017": {
+    "time": 1793850924.0233605,
+    "route": {
+      "callsign": "ELY17",
+      "callsign_icao": "ELY17",
+      "callsign_iata": "LY17",
+      "airline": {
+        "name": "El Al Israel Airlines",
+        "icao": "ELY",
+        "iata": "LY",
+        "country": "Israel",
+        "country_iso": "IL",
+        "callsign": "ELAL"
+      },
+      "origin": {
+        "country_iso_name": "IL",
+        "country_name": "Israel",
+        "elevation": 135,
+        "iata_code": "TLV",
+        "icao_code": "LLBG",
+        "latitude": 32.0114,
+        "longitude": 34.8867,
+        "municipality": "Tel Aviv",
+        "name": "Ben Gurion International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 8,
+        "iata_code": "MIA",
+        "icao_code": "KMIA",
+        "latitude": 25.7932,
+        "longitude": -80.2906,
+        "municipality": "Miami",
+        "name": "Miami International Airport"
       }
     }
   }
