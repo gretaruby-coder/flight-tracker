@@ -26553,7 +26553,7 @@
     }
   },
   "DLH403": {
-    "time": 1793772330.136658,
+    "time": 1793943325.4984705,
     "route": {
       "callsign": "DLH403",
       "callsign_icao": "DLH403",
@@ -36163,7 +36163,7 @@
     }
   },
   "BAW250": {
-    "time": 1793773236.885177,
+    "time": 1793943325.4984705,
     "route": {
       "callsign": "BAW250",
       "callsign_icao": "BAW250",
@@ -230868,6 +230868,44 @@
         "longitude": -83.3534,
         "municipality": "Detroit",
         "name": "Detroit Metropolitan Wayne County Airport"
+      }
+    }
+  },
+  "CLX34P": {
+    "time": 1793943325.4984705,
+    "route": {
+      "callsign": "CLX34P",
+      "callsign_icao": "CLX34P",
+      "callsign_iata": "CV34P",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1026,
+        "iata_code": "ATL",
+        "icao_code": "KATL",
+        "latitude": 33.6367,
+        "longitude": -84.4281,
+        "municipality": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
       }
     }
   }
