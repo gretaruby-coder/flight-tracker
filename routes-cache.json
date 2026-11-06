@@ -26249,7 +26249,7 @@
     }
   },
   "DLH411": {
-    "time": 1793421633.7052517,
+    "time": 1793940923.4143393,
     "route": {
       "callsign": "DLH411",
       "callsign_icao": "DLH411",
@@ -26629,7 +26629,7 @@
     }
   },
   "SIA322": {
-    "time": 1793769033.5303602,
+    "time": 1793940923.4143393,
     "route": {
       "callsign": "SIA322",
       "callsign_icao": "SIA322",
@@ -26819,7 +26819,7 @@
     }
   },
   "BAW32": {
-    "time": 1793854523.036111,
+    "time": 1793940923.4143393,
     "route": {
       "callsign": "BAW32",
       "callsign_icao": "BAW32",
@@ -61848,7 +61848,7 @@
     }
   },
   "ACA844": {
-    "time": 1793768726.3742168,
+    "time": 1793940923.4143393,
     "route": {
       "callsign": "ACA844",
       "callsign_icao": "ACA844",
@@ -138299,44 +138299,6 @@
         "longitude": 4.76389,
         "municipality": "Amsterdam",
         "name": "Amsterdam Airport Schiphol"
-      }
-    }
-  },
-  "UAL19": {
-    "time": 1793335833.5616739,
-    "route": {
-      "callsign": "UAL19",
-      "callsign_icao": "UAL19",
-      "callsign_iata": "UA19",
-      "airline": {
-        "name": "United Airlines",
-        "icao": "UAL",
-        "iata": "UA",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "UNITED"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 13,
-        "iata_code": "JFK",
-        "icao_code": "KJFK",
-        "latitude": 40.6398,
-        "longitude": -73.7789,
-        "municipality": "New York",
-        "name": "John F Kennedy International Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 13,
-        "iata_code": "SFO",
-        "icao_code": "KSFO",
-        "latitude": 37.619,
-        "longitude": -122.375,
-        "municipality": "San Francisco",
-        "name": "San Francisco International Airport"
       }
     }
   },
@@ -230875,6 +230837,82 @@
         "longitude": -73.7789,
         "municipality": "New York",
         "name": "John F Kennedy International Airport"
+      }
+    }
+  },
+  "CLX63A": {
+    "time": 1793940923.4143393,
+    "route": {
+      "callsign": "CLX63A",
+      "callsign_icao": "CLX63A",
+      "callsign_iata": "CV63A",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 433,
+        "iata_code": "SEA",
+        "icao_code": "KSEA",
+        "latitude": 47.449,
+        "longitude": -122.309,
+        "municipality": "Seattle",
+        "name": "Seattle Tacoma International Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
+      }
+    }
+  },
+  "WGN9781": {
+    "time": 1793940923.4143393,
+    "route": {
+      "callsign": "WGN9781",
+      "callsign_icao": "WGN9781",
+      "callsign_iata": "KD9781",
+      "airline": {
+        "name": "Western Global Airlines",
+        "icao": "WGN",
+        "iata": "KD",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 17,
+        "iata_code": "NGU",
+        "icao_code": "KNGU",
+        "latitude": 36.9376,
+        "longitude": -76.2893,
+        "municipality": "Norfolk",
+        "name": "Norfolk Naval Station (Chambers Field)"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 30,
+        "iata_code": "RSW",
+        "icao_code": "KRSW",
+        "latitude": 26.5362,
+        "longitude": -81.7552,
+        "municipality": "Fort Myers",
+        "name": "Southwest Florida International Airport"
       }
     }
   }
