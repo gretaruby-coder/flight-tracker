@@ -22584,7 +22584,7 @@
     }
   },
   "RWD711": {
-    "time": 1793912457.4907556,
+    "time": 1793998858.5961993,
     "route": {
       "callsign": "RWD711",
       "callsign_icao": "RWD711",
@@ -24211,7 +24211,7 @@
     }
   },
   "UAE4": {
-    "time": 1793911534.3712242,
+    "time": 1793998858.5961993,
     "route": {
       "callsign": "UAE4",
       "callsign_icao": "UAE4",
@@ -31897,7 +31897,7 @@
     }
   },
   "BAW823": {
-    "time": 1793912457.4907556,
+    "time": 1793998858.5961993,
     "route": {
       "callsign": "BAW823",
       "callsign_icao": "BAW823",
@@ -104998,7 +104998,7 @@
     }
   },
   "EZY23NY": {
-    "time": 1793828122.291422,
+    "time": 1793998858.5961993,
     "route": {
       "callsign": "EZY23NY",
       "callsign_icao": "EZY23NY",
@@ -134839,7 +134839,7 @@
     }
   },
   "EXS6R": {
-    "time": 1793656233.2727091,
+    "time": 1793998858.5961993,
     "route": {
       "callsign": "EXS6R",
       "callsign_icao": "EXS6R",
@@ -135029,7 +135029,7 @@
     }
   },
   "EZY94BW": {
-    "time": 1793910673.0407202,
+    "time": 1793998858.5961993,
     "route": {
       "callsign": "EZY94BW",
       "callsign_icao": "EZY94BW",
@@ -139730,7 +139730,7 @@
     }
   },
   "EZY16ZV": {
-    "time": 1793891434.0062692,
+    "time": 1793998858.5961993,
     "route": {
       "callsign": "EZY16ZV",
       "callsign_icao": "EZY16ZV",
@@ -139996,7 +139996,7 @@
     }
   },
   "RYR9RJ": {
-    "time": 1793826325.6040814,
+    "time": 1793998858.5961993,
     "route": {
       "callsign": "RYR9RJ",
       "callsign_icao": "RYR9RJ",
@@ -191060,7 +191060,7 @@
     }
   },
   "KLM41U": {
-    "time": 1793651450.7210348,
+    "time": 1793998858.5961993,
     "route": {
       "callsign": "KLM41U",
       "callsign_icao": "KLM41U",
@@ -231739,6 +231739,82 @@
         "longitude": 12.23639,
         "municipality": "Leipzig",
         "name": "Leipzig/Halle Airport"
+      }
+    }
+  },
+  "EXS2200": {
+    "time": 1793998858.5961993,
+    "route": {
+      "callsign": "EXS2200",
+      "callsign_icao": "EXS2200",
+      "callsign_iata": "LS2200",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "BOX192": {
+    "time": 1793998858.5961993,
+    "route": {
+      "callsign": "BOX192",
+      "callsign_icao": "BOX192",
+      "callsign_iata": "3S192",
+      "airline": {
+        "name": "AeroLogic",
+        "icao": "BOX",
+        "iata": "3S",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "GERMAN CARGO"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 465,
+        "iata_code": "LEJ",
+        "icao_code": "EDDP",
+        "latitude": 51.42389,
+        "longitude": 12.23639,
+        "municipality": "Leipzig",
+        "name": "Leipzig/Halle Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
       }
     }
   }
