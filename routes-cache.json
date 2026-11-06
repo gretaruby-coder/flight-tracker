@@ -29669,7 +29669,7 @@
     }
   },
   "BAW770": {
-    "time": 1793878246.5858033,
+    "time": 1793964924.980407,
     "route": {
       "callsign": "BAW770",
       "callsign_icao": "BAW770",
@@ -42602,7 +42602,7 @@
     }
   },
   "BAW17PA": {
-    "time": 1793793030.4442742,
+    "time": 1793964924.980407,
     "route": {
       "callsign": "BAW17PA",
       "callsign_icao": "BAW17PA",
@@ -82457,7 +82457,7 @@
     }
   },
   "BAW23CR": {
-    "time": 1793709062.0661614,
+    "time": 1793964924.980407,
     "route": {
       "callsign": "BAW23CR",
       "callsign_icao": "BAW23CR",
@@ -83787,7 +83787,7 @@
     }
   },
   "EWG6K": {
-    "time": 1793878246.5858033,
+    "time": 1793964924.980407,
     "route": {
       "callsign": "EWG6K",
       "callsign_icao": "EWG6K",
@@ -93546,7 +93546,7 @@
     }
   },
   "RYR11HW": {
-    "time": 1793739333.2129216,
+    "time": 1793964924.980407,
     "route": {
       "callsign": "RYR11HW",
       "callsign_icao": "RYR11HW",
@@ -105623,7 +105623,7 @@
     }
   },
   "EZY16QK": {
-    "time": 1793572525.3348148,
+    "time": 1793964924.980407,
     "route": {
       "callsign": "EZY16QK",
       "callsign_icao": "EZY16QK",
@@ -118998,44 +118998,6 @@
         "longitude": 33.80729,
         "municipality": "Hurghada",
         "name": "Hurghada International Airport"
-      }
-    }
-  },
-  "EXS87JB": {
-    "time": 1793360124.2591054,
-    "route": {
-      "callsign": "EXS87JB",
-      "callsign_icao": "EXS87JB",
-      "callsign_iata": "LS87JB",
-      "airline": {
-        "name": "Jet2.com",
-        "icao": "EXS",
-        "iata": "LS",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "CHANNEX"
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 233,
-        "iata_code": "REU",
-        "icao_code": "LERS",
-        "latitude": 41.1474,
-        "longitude": 1.16717,
-        "municipality": "Reus",
-        "name": "Reus Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
       }
     }
   },
@@ -147795,7 +147757,7 @@
     }
   },
   "CLX96Z": {
-    "time": 1793425836.987049,
+    "time": 1793964924.980407,
     "route": {
       "callsign": "CLX96Z",
       "callsign_icao": "CLX96Z",
@@ -171829,7 +171791,7 @@
     }
   },
   "EWG1UL": {
-    "time": 1793546134.69548,
+    "time": 1793964924.980407,
     "route": {
       "callsign": "EWG1UL",
       "callsign_icao": "EWG1UL",
@@ -230212,6 +230174,82 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "UAL41": {
+    "time": 1793964924.980407,
+    "route": {
+      "callsign": "UAL41",
+      "callsign_icao": "UAL41",
+      "callsign_iata": "UA41",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 125,
+        "iata_code": "LAX",
+        "icao_code": "KLAX",
+        "latitude": 33.9425,
+        "longitude": -118.408,
+        "municipality": "Los Angeles",
+        "name": "Los Angeles International Airport"
+      }
+    }
+  },
+  "CLX56R": {
+    "time": 1793964924.980407,
+    "route": {
+      "callsign": "CLX56R",
+      "callsign_icao": "CLX56R",
+      "callsign_iata": "CV56R",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 125,
+        "iata_code": "LAX",
+        "icao_code": "KLAX",
+        "latitude": 33.9425,
+        "longitude": -118.408,
+        "municipality": "Los Angeles",
+        "name": "Los Angeles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
       }
     }
   }
