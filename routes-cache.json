@@ -14034,7 +14034,7 @@
     }
   },
   "BAW808": {
-    "time": 1793866232.8403642,
+    "time": 1793954123.9395077,
     "route": {
       "callsign": "BAW808",
       "callsign_icao": "BAW808",
@@ -33061,7 +33061,7 @@
     }
   },
   "UAL123": {
-    "time": 1793867446.6098382,
+    "time": 1793954123.9395077,
     "route": {
       "callsign": "UAL123",
       "callsign_icao": "UAL123",
@@ -34878,7 +34878,7 @@
     }
   },
   "BAW520R": {
-    "time": 1793867446.6098382,
+    "time": 1793954123.9395077,
     "route": {
       "callsign": "BAW520R",
       "callsign_icao": "BAW520R",
@@ -43911,7 +43911,7 @@
     }
   },
   "BAW3VH": {
-    "time": 1793867723.517213,
+    "time": 1793954123.9395077,
     "route": {
       "callsign": "BAW3VH",
       "callsign_icao": "BAW3VH",
@@ -75223,7 +75223,7 @@
     }
   },
   "VLG45TW": {
-    "time": 1793866839.9262657,
+    "time": 1793954123.9395077,
     "route": {
       "callsign": "VLG45TW",
       "callsign_icao": "VLG45TW",
@@ -75603,7 +75603,7 @@
     }
   },
   "EZY78YH": {
-    "time": 1793607645.1242802,
+    "time": 1793954123.9395077,
     "route": {
       "callsign": "EZY78YH",
       "callsign_icao": "EZY78YH",
@@ -109858,7 +109858,7 @@
     }
   },
   "LOG64E": {
-    "time": 1793867446.6098382,
+    "time": 1793954123.9395077,
     "route": {
       "callsign": "LOG64E",
       "callsign_icao": "LOG64E",
@@ -118798,7 +118798,7 @@
     }
   },
   "EJU36YR": {
-    "time": 1793822725.1537268,
+    "time": 1793954123.9395077,
     "route": {
       "callsign": "EJU36YR",
       "callsign_icao": "EJU36YR",
@@ -138793,44 +138793,6 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
-      }
-    }
-  },
-  "RJA262G": {
-    "time": 1793349049.619267,
-    "route": {
-      "callsign": "RJA262G",
-      "callsign_icao": "RJA262G",
-      "callsign_iata": "RJ262G",
-      "airline": {
-        "name": "Royal Jordanian",
-        "icao": "RJA",
-        "iata": "RJ",
-        "country": "Jordan",
-        "country_iso": "JO",
-        "callsign": "JORDANIAN"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 13,
-        "iata_code": "JFK",
-        "icao_code": "KJFK",
-        "latitude": 40.6398,
-        "longitude": -73.7789,
-        "municipality": "New York",
-        "name": "John F Kennedy International Airport"
-      },
-      "destination": {
-        "country_iso_name": "JO",
-        "country_name": "Jordan",
-        "elevation": 2395,
-        "iata_code": "AMM",
-        "icao_code": "OJAI",
-        "latitude": 31.7226,
-        "longitude": 35.9932,
-        "municipality": "Amman",
-        "name": "Queen Alia International Airport"
       }
     }
   },
@@ -230464,6 +230426,75 @@
         "longitude": -15.3866,
         "municipality": "Gran Canaria Island",
         "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "SSP25": {
+    "time": 1793954123.9395077,
+    "route": {
+      "callsign": "SSP25",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 598,
+        "iata_code": "BQH",
+        "icao_code": "EGKB",
+        "latitude": 51.3308,
+        "longitude": 0.0325,
+        "municipality": "London",
+        "name": "London Biggin Hill Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 598,
+        "iata_code": "BQH",
+        "icao_code": "EGKB",
+        "latitude": 51.3308,
+        "longitude": 0.0325,
+        "municipality": "London",
+        "name": "London Biggin Hill Airport"
+      }
+    }
+  },
+  "JTD397": {
+    "time": 1793954123.9395077,
+    "route": {
+      "callsign": "JTD397",
+      "callsign_icao": "JTD397",
+      "callsign_iata": "397",
+      "airline": {
+        "name": "Jet Time",
+        "icao": "JTD",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 17,
+        "iata_code": "CPH",
+        "icao_code": "EKCH",
+        "latitude": 55.6179,
+        "longitude": 12.656,
+        "municipality": "Copenhagen",
+        "name": "Copenhagen Kastrup Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 177,
+        "iata_code": "AYT",
+        "icao_code": "LTAI",
+        "latitude": 36.8987,
+        "longitude": 30.8005,
+        "municipality": "Antalya",
+        "name": "Antalya International Airport"
       }
     }
   }
