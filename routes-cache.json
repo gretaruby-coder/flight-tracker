@@ -5554,7 +5554,7 @@
     }
   },
   "BAW28K": {
-    "time": 1793895031.9943123,
+    "time": 1793981732.933465,
     "route": {
       "callsign": "BAW28K",
       "callsign_icao": "BAW28K",
@@ -21216,7 +21216,7 @@
     }
   },
   "BAW544K": {
-    "time": 1793890231.4169836,
+    "time": 1793981732.933465,
     "route": {
       "callsign": "BAW544K",
       "callsign_icao": "BAW544K",
@@ -54932,7 +54932,7 @@
     }
   },
   "BAW759": {
-    "time": 1793808933.3357742,
+    "time": 1793981732.933465,
     "route": {
       "callsign": "BAW759",
       "callsign_icao": "BAW759",
@@ -56362,7 +56362,7 @@
     }
   },
   "NOZ1VE": {
-    "time": 1793892325.1329396,
+    "time": 1793981732.933465,
     "route": {
       "callsign": "NOZ1VE",
       "callsign_icao": "NOZ1VE",
@@ -67492,7 +67492,7 @@
     }
   },
   "RYR57UU": {
-    "time": 1793826325.6040814,
+    "time": 1793981732.933465,
     "route": {
       "callsign": "RYR57UU",
       "callsign_icao": "RYR57UU",
@@ -72470,7 +72470,7 @@
     }
   },
   "RYR5AQ": {
-    "time": 1793778928.1279364,
+    "time": 1793981732.933465,
     "route": {
       "callsign": "RYR5AQ",
       "callsign_icao": "RYR5AQ",
@@ -93439,7 +93439,7 @@
     }
   },
   "THY9DR": {
-    "time": 1793809526.0800364,
+    "time": 1793981732.933465,
     "route": {
       "callsign": "THY9DR",
       "callsign_icao": "THY9DR",
@@ -93857,7 +93857,7 @@
     }
   },
   "CFE789": {
-    "time": 1793895031.9943123,
+    "time": 1793981732.933465,
     "route": {
       "callsign": "CFE789",
       "callsign_icao": "CFE789",
@@ -231193,6 +231193,82 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "LOT6309": {
+    "time": 1793981732.933465,
+    "route": {
+      "callsign": "LOT6309",
+      "callsign_icao": "LOT6309",
+      "callsign_iata": "LO6309",
+      "airline": {
+        "name": "LOT Polish Airlines",
+        "icao": "LOT",
+        "iata": "LO",
+        "country": "Poland",
+        "country_iso": "PL",
+        "callsign": "POLLOT"
+      },
+      "origin": {
+        "country_iso_name": "PL",
+        "country_name": "Poland",
+        "elevation": 362,
+        "iata_code": "WAW",
+        "icao_code": "EPWA",
+        "latitude": 52.1657,
+        "longitude": 20.9671,
+        "municipality": "Warsaw",
+        "name": "Warsaw Chopin Airport"
+      },
+      "destination": {
+        "country_iso_name": "DO",
+        "country_name": "Dominican Republic",
+        "elevation": 47,
+        "iata_code": "PUJ",
+        "icao_code": "MDPC",
+        "latitude": 18.5674,
+        "longitude": -68.3634,
+        "municipality": "Punta Cana",
+        "name": "Punta Cana International Airport"
+      }
+    }
+  },
+  "EXS1YH": {
+    "time": 1793981732.933465,
+    "route": {
+      "callsign": "EXS1YH",
+      "callsign_icao": "EXS1YH",
+      "callsign_iata": "LS1YH",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 17,
+        "iata_code": "RHO",
+        "icao_code": "LGRP",
+        "latitude": 36.4054,
+        "longitude": 28.0862,
+        "municipality": "Rhodes Island",
+        "name": "Diagoras Airport"
       }
     }
   }
