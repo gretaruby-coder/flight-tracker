@@ -3129,7 +3129,7 @@
     }
   },
   "EIN52V": {
-    "time": 1793802032.402433,
+    "time": 1793973925.8090465,
     "route": {
       "callsign": "EIN52V",
       "callsign_icao": "EIN52V",
@@ -3547,7 +3547,7 @@
     }
   },
   "BAW81": {
-    "time": 1793886036.5131814,
+    "time": 1793973925.8090465,
     "route": {
       "callsign": "BAW81",
       "callsign_icao": "BAW81",
@@ -6238,7 +6238,7 @@
     }
   },
   "BAW4LV": {
-    "time": 1793813725.7621667,
+    "time": 1793973925.8090465,
     "route": {
       "callsign": "BAW4LV",
       "callsign_icao": "BAW4LV",
@@ -80564,7 +80564,7 @@
     }
   },
   "EZY62JL": {
-    "time": 1793874327.1425781,
+    "time": 1793973925.8090465,
     "route": {
       "callsign": "EZY62JL",
       "callsign_icao": "EZY62JL",
@@ -91166,7 +91166,7 @@
     }
   },
   "WMT3886": {
-    "time": 1793625926.641777,
+    "time": 1793973925.8090465,
     "route": {
       "callsign": "WMT3886",
       "callsign_icao": "WMT3886",
@@ -114090,7 +114090,7 @@
     }
   },
   "EXS39E": {
-    "time": 1793619325.0716233,
+    "time": 1793973925.8090465,
     "route": {
       "callsign": "EXS39E",
       "callsign_icao": "EXS39E",
@@ -172206,7 +172206,7 @@
     }
   },
   "RUK69EJ": {
-    "time": 1793550031.1143405,
+    "time": 1793973925.8090465,
     "route": {
       "callsign": "RUK69EJ",
       "callsign_icao": "RUK69EJ",
@@ -178514,7 +178514,7 @@
     }
   },
   "EZY72JH": {
-    "time": 1793571635.8081825,
+    "time": 1793973925.8090465,
     "route": {
       "callsign": "EZY72JH",
       "callsign_icao": "EZY72JH",
@@ -230547,6 +230547,44 @@
         "longitude": 4.45382,
         "municipality": "Brussels",
         "name": "Brussels South Charleroi Airport"
+      }
+    }
+  },
+  "EZY36XZ": {
+    "time": 1793973925.8090465,
+    "route": {
+      "callsign": "EZY36XZ",
+      "callsign_icao": "EZY36XZ",
+      "callsign_iata": "U236XZ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
