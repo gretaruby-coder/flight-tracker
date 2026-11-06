@@ -4338,7 +4338,7 @@
     }
   },
   "BAW347N": {
-    "time": 1793904631.367549,
+    "time": 1793993448.2043066,
     "route": {
       "callsign": "BAW347N",
       "callsign_icao": "BAW347N",
@@ -12200,7 +12200,7 @@
     }
   },
   "BAW493U": {
-    "time": 1793736934.7457156,
+    "time": 1793993448.2043066,
     "route": {
       "callsign": "BAW493U",
       "callsign_icao": "BAW493U",
@@ -17074,7 +17074,7 @@
     }
   },
   "ANA212": {
-    "time": 1793822456.9470134,
+    "time": 1793993448.2043066,
     "route": {
       "callsign": "ANA212",
       "callsign_icao": "ANA212",
@@ -31973,7 +31973,7 @@
     }
   },
   "BAW859": {
-    "time": 1793819733.175281,
+    "time": 1793993448.2043066,
     "route": {
       "callsign": "BAW859",
       "callsign_icao": "BAW859",
@@ -54863,7 +54863,7 @@
     }
   },
   "BAW992G": {
-    "time": 1793820647.1916456,
+    "time": 1793993448.2043066,
     "route": {
       "callsign": "BAW992G",
       "callsign_icao": "BAW992G",
@@ -81825,7 +81825,7 @@
     }
   },
   "RYR83SB": {
-    "time": 1793866232.8403642,
+    "time": 1793993448.2043066,
     "route": {
       "callsign": "RYR83SB",
       "callsign_icao": "RYR83SB",
@@ -86765,7 +86765,7 @@
     }
   },
   "RYR23SR": {
-    "time": 1793638527.1691673,
+    "time": 1793993448.2043066,
     "route": {
       "callsign": "RYR23SR",
       "callsign_icao": "RYR23SR",
@@ -101616,7 +101616,7 @@
     }
   },
   "WUK708": {
-    "time": 1793907046.792709,
+    "time": 1793993448.2043066,
     "route": {
       "callsign": "WUK708",
       "callsign_icao": "WUK708",
@@ -109278,7 +109278,7 @@
     }
   },
   "RYR91SM": {
-    "time": 1793609433.3613064,
+    "time": 1793993448.2043066,
     "route": {
       "callsign": "RYR91SM",
       "callsign_icao": "RYR91SM",
@@ -109544,7 +109544,7 @@
     }
   },
   "RYR1DH": {
-    "time": 1793733047.3259346,
+    "time": 1793993448.2043066,
     "route": {
       "callsign": "RYR1DH",
       "callsign_icao": "RYR1DH",
@@ -190863,7 +190863,7 @@
     }
   },
   "SWR8EA": {
-    "time": 1793906433.2121952,
+    "time": 1793993448.2043066,
     "route": {
       "callsign": "SWR8EA",
       "callsign_icao": "SWR8EA",
@@ -191281,7 +191281,7 @@
     }
   },
   "EFW876C": {
-    "time": 1793796333.6482737,
+    "time": 1793993448.2043066,
     "route": {
       "callsign": "EFW876C",
       "callsign_icao": "EFW876C",
@@ -231473,6 +231473,82 @@
         "longitude": 104.44128,
         "municipality": "Jianyang, Chengdu",
         "name": "Chengdu Tianfu International Airport"
+      }
+    }
+  },
+  "NOZ1325": {
+    "time": 1793993448.2043066,
+    "route": {
+      "callsign": "NOZ1325",
+      "callsign_icao": "NOZ1325",
+      "callsign_iata": "1325",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 31,
+        "iata_code": "TOS",
+        "icao_code": "ENTC",
+        "latitude": 69.6833,
+        "longitude": 18.9189,
+        "municipality": "Troms\u00f8",
+        "name": "Troms\u00f8 Airport, Langnes"
+      }
+    }
+  },
+  "AFR028": {
+    "time": 1793993448.2043066,
+    "route": {
+      "callsign": "AFR28",
+      "callsign_icao": "AFR28",
+      "callsign_iata": "AF28",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 125,
+        "iata_code": "LAX",
+        "icao_code": "KLAX",
+        "latitude": 33.9425,
+        "longitude": -118.408,
+        "municipality": "Los Angeles",
+        "name": "Los Angeles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "PF",
+        "country_name": "French Polynesia",
+        "elevation": 5,
+        "iata_code": "PPT",
+        "icao_code": "NTAA",
+        "latitude": -17.5537,
+        "longitude": -149.607,
+        "municipality": "Papeete",
+        "name": "Faa'a International Airport"
       }
     }
   }
