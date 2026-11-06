@@ -20114,7 +20114,7 @@
     }
   },
   "LOG93Y": {
-    "time": 1793825131.529463,
+    "time": 1793998233.5690763,
     "route": {
       "callsign": "LOG93Y",
       "callsign_icao": "LOG93Y",
@@ -24591,7 +24591,7 @@
     }
   },
   "UAE28Y": {
-    "time": 1793825432.5341837,
+    "time": 1793998233.5690763,
     "route": {
       "callsign": "UAE28Y",
       "callsign_icao": "UAE28Y",
@@ -25351,7 +25351,7 @@
     }
   },
   "EFW17EA": {
-    "time": 1793737536.8920178,
+    "time": 1793998233.5690763,
     "route": {
       "callsign": "EFW17EA",
       "callsign_icao": "EFW17EA",
@@ -46741,7 +46741,7 @@
     }
   },
   "BAW774": {
-    "time": 1793907324.8098702,
+    "time": 1793998233.5690763,
     "route": {
       "callsign": "BAW774",
       "callsign_icao": "BAW774",
@@ -78260,7 +78260,7 @@
     }
   },
   "RYR43SH": {
-    "time": 1793828436.670525,
+    "time": 1793998233.5690763,
     "route": {
       "callsign": "RYR43SH",
       "callsign_icao": "RYR43SH",
@@ -102345,7 +102345,7 @@
     }
   },
   "AFR38TY": {
-    "time": 1793911832.6866152,
+    "time": 1793998233.5690763,
     "route": {
       "callsign": "AFR38TY",
       "callsign_icao": "AFR38TY",
@@ -139802,44 +139802,6 @@
         "longitude": -8.41514,
         "municipality": "Santiago de Compostela",
         "name": "Santiago-Rosal\u00eda de Castro Airport"
-      }
-    }
-  },
-  "CFG3AT": {
-    "time": 1793393132.6758766,
-    "route": {
-      "callsign": "CFG3AT",
-      "callsign_icao": "CFG3AT",
-      "callsign_iata": "DE3AT",
-      "airline": {
-        "name": "Condor Flugdienst",
-        "icao": "CFG",
-        "iata": "DE",
-        "country": "Germany",
-        "country_iso": "DE",
-        "callsign": "CONDOR"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      },
-      "destination": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 364,
-        "iata_code": "FRA",
-        "icao_code": "EDDF",
-        "latitude": 50.03333,
-        "longitude": 8.57056,
-        "municipality": "Frankfurt am Main",
-        "name": "Frankfurt am Main Airport"
       }
     }
   },
@@ -177482,7 +177444,7 @@
     }
   },
   "RYR65WM": {
-    "time": 1793577034.6022391,
+    "time": 1793998233.5690763,
     "route": {
       "callsign": "RYR65WM",
       "callsign_icao": "RYR65WM",
@@ -231746,6 +231708,75 @@
         "longitude": -8.41514,
         "municipality": "Santiago de Compostela",
         "name": "Santiago-Rosal\u00eda de Castro Airport"
+      }
+    }
+  },
+  "AFR368V": {
+    "time": 1793998233.5690763,
+    "route": {
+      "callsign": "AFR368V",
+      "callsign_icao": "AFR368V",
+      "callsign_iata": "AF368V",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 270,
+        "iata_code": "YMX",
+        "icao_code": "CYMX",
+        "latitude": 45.6795,
+        "longitude": -74.0387,
+        "municipality": "Montr\u00e9al",
+        "name": "Montreal International (Mirabel) Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "VJT405": {
+    "time": 1793998233.5690763,
+    "route": {
+      "callsign": "VJT405",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 46,
+        "iata_code": "SNN",
+        "icao_code": "EINN",
+        "latitude": 52.702,
+        "longitude": -8.92482,
+        "municipality": "Shannon",
+        "name": "Shannon Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 124,
+        "iata_code": "NHT",
+        "icao_code": "EGWU",
+        "latitude": 51.553,
+        "longitude": -0.41817,
+        "municipality": "London",
+        "name": "RAF Northolt"
       }
     }
   }
