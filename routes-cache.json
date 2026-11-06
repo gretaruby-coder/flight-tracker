@@ -104770,7 +104770,7 @@
     }
   },
   "EZY18NP": {
-    "time": 1793914248.1317992,
+    "time": 1794007234.727401,
     "route": {
       "callsign": "EZY18NP",
       "callsign_icao": "EZY18NP",
@@ -189236,7 +189236,7 @@
     }
   },
   "EXS33N": {
-    "time": 1793647237.4014678,
+    "time": 1794007234.727401,
     "route": {
       "callsign": "EXS33N",
       "callsign_icao": "EXS33N",
@@ -231694,6 +231694,44 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "MSR948": {
+    "time": 1794007234.727401,
+    "route": {
+      "callsign": "MSR948",
+      "callsign_icao": "MSR948",
+      "callsign_iata": "MS948",
+      "airline": {
+        "name": "Egyptair",
+        "icao": "MSR",
+        "iata": "MS",
+        "country": "Egypt",
+        "country_iso": "EG",
+        "callsign": "EGYPTAIR"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 382,
+        "iata_code": "CAI",
+        "icao_code": "HECA",
+        "latitude": 30.1219,
+        "longitude": 31.4056,
+        "municipality": "Cairo",
+        "name": "Cairo International Airport"
       }
     }
   }
