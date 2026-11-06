@@ -7713,7 +7713,7 @@
     }
   },
   "UAE2": {
-    "time": 1793802324.2948232,
+    "time": 1793974532.8766377,
     "route": {
       "callsign": "UAE2",
       "callsign_icao": "UAE2",
@@ -59969,7 +59969,7 @@
     }
   },
   "CFE95E": {
-    "time": 1793887525.4483628,
+    "time": 1793974532.8766377,
     "route": {
       "callsign": "CFE95E",
       "callsign_icao": "CFE95E",
@@ -76498,7 +76498,7 @@
     }
   },
   "RYR7LN": {
-    "time": 1793781633.5246801,
+    "time": 1793974532.8766377,
     "route": {
       "callsign": "RYR7LN",
       "callsign_icao": "RYR7LN",
@@ -83300,7 +83300,7 @@
     }
   },
   "RYR78EK": {
-    "time": 1793622649.0116959,
+    "time": 1793974532.8766377,
     "route": {
       "callsign": "RYR78EK",
       "callsign_icao": "RYR78EK",
@@ -89038,7 +89038,7 @@
     }
   },
   "BAW155": {
-    "time": 1793801128.4509122,
+    "time": 1793974532.8766377,
     "route": {
       "callsign": "BAW155",
       "callsign_icao": "BAW155",
@@ -112691,7 +112691,7 @@
     }
   },
   "RYR39KA": {
-    "time": 1793825131.529463,
+    "time": 1793974532.8766377,
     "route": {
       "callsign": "RYR39KA",
       "callsign_icao": "RYR39KA",
@@ -169895,7 +169895,7 @@
     }
   },
   "MAC101": {
-    "time": 1793782523.110878,
+    "time": 1793974532.8766377,
     "route": {
       "callsign": "MAC101",
       "callsign_icao": "MAC101",
@@ -188493,7 +188493,7 @@
     }
   },
   "EZY56FL": {
-    "time": 1793801128.4509122,
+    "time": 1793974532.8766377,
     "route": {
       "callsign": "EZY56FL",
       "callsign_icao": "EZY56FL",
@@ -230661,6 +230661,82 @@
         "longitude": -1.32806,
         "municipality": "Nottingham",
         "name": "East Midlands Airport"
+      }
+    }
+  },
+  "EZS16KM": {
+    "time": 1793974532.8766377,
+    "route": {
+      "callsign": "EZS16KM",
+      "callsign_icao": "EZS16KM",
+      "callsign_iata": "DS16KM",
+      "airline": {
+        "name": "Easyjet Switzerland",
+        "icao": "EZS",
+        "iata": "DS",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
+      }
+    }
+  },
+  "WUK2013": {
+    "time": 1793974532.8766377,
+    "route": {
+      "callsign": "WUK2013",
+      "callsign_icao": "WUK2013",
+      "callsign_iata": "W92013",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 143,
+        "iata_code": "SSH",
+        "icao_code": "HESH",
+        "latitude": 27.9773,
+        "longitude": 34.395,
+        "municipality": "Sharm el-Sheikh",
+        "name": "Sharm El Sheikh International Airport"
       }
     }
   }
