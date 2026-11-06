@@ -40899,7 +40899,7 @@
     }
   },
   "BAW828Y": {
-    "time": 1793867723.517213,
+    "time": 1793955031.5516257,
     "route": {
       "callsign": "BAW828Y",
       "callsign_icao": "BAW828Y",
@@ -59385,7 +59385,7 @@
     }
   },
   "CFE23DB": {
-    "time": 1793542529.5819056,
+    "time": 1793955031.5516257,
     "route": {
       "callsign": "CFE23DB",
       "callsign_icao": "CFE23DB",
@@ -59575,7 +59575,7 @@
     }
   },
   "AHY107": {
-    "time": 1793610060.248558,
+    "time": 1793955031.5516257,
     "route": {
       "callsign": "AHY107",
       "callsign_icao": "AHY107",
@@ -61582,7 +61582,7 @@
     }
   },
   "EZY9002": {
-    "time": 1793621734.677036,
+    "time": 1793955031.5516257,
     "route": {
       "callsign": "EZY9002",
       "callsign_icao": "EZY9002",
@@ -75489,7 +75489,7 @@
     }
   },
   "AEA32MM": {
-    "time": 1793868031.586519,
+    "time": 1793955031.5516257,
     "route": {
       "callsign": "AEA32MM",
       "callsign_icao": "AEA32MM",
@@ -76705,7 +76705,7 @@
     }
   },
   "WZZ168": {
-    "time": 1793608835.8145614,
+    "time": 1793955031.5516257,
     "route": {
       "callsign": "WZZ168",
       "callsign_icao": "WZZ168",
@@ -77883,7 +77883,7 @@
     }
   },
   "QTR34H": {
-    "time": 1793784034.3621278,
+    "time": 1793955031.5516257,
     "route": {
       "callsign": "QTR34H",
       "callsign_icao": "QTR34H",
@@ -128673,37 +128673,6 @@
       }
     }
   },
-  "N148B": {
-    "time": 1793349933.4592152,
-    "route": {
-      "callsign": "N148B",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 439,
-        "iata_code": "HPN",
-        "icao_code": "KHPN",
-        "latitude": 41.067,
-        "longitude": -73.7076,
-        "municipality": "White Plains",
-        "name": "Westchester County Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 748,
-        "iata_code": "CLT",
-        "icao_code": "KCLT",
-        "latitude": 35.214,
-        "longitude": -80.9431,
-        "municipality": "Charlotte",
-        "name": "Charlotte Douglas International Airport"
-      }
-    }
-  },
   "UAE9987": {
     "time": 1793778335.6248064,
     "route": {
@@ -167059,7 +167028,7 @@
     }
   },
   "WMT7PU": {
-    "time": 1793607929.4417465,
+    "time": 1793955031.5516257,
     "route": {
       "callsign": "WMT7PU",
       "callsign_icao": "WMT7PU",
@@ -230457,6 +230426,44 @@
         "longitude": -13.8638,
         "municipality": "Fuerteventura Island",
         "name": "Fuerteventura Airport"
+      }
+    }
+  },
+  "THY800": {
+    "time": 1793955031.5516257,
+    "route": {
+      "callsign": "THY800",
+      "callsign_icao": "THY800",
+      "callsign_iata": "TK800",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "PA",
+        "country_name": "Panama",
+        "elevation": 135,
+        "iata_code": "PTY",
+        "icao_code": "MPTO",
+        "latitude": 9.07136,
+        "longitude": -79.3835,
+        "municipality": "Tocumen",
+        "name": "Tocumen International Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
       }
     }
   }
