@@ -11288,7 +11288,7 @@
     }
   },
   "ITY207": {
-    "time": 1793898631.5723119,
+    "time": 1793985331.211267,
     "route": {
       "callsign": "ITY207",
       "callsign_icao": "ITY207",
@@ -14611,7 +14611,7 @@
     }
   },
   "EIN34G": {
-    "time": 1793639129.5146663,
+    "time": 1793985331.211267,
     "route": {
       "callsign": "EIN34G",
       "callsign_icao": "EIN34G",
@@ -38481,7 +38481,7 @@
     }
   },
   "TAP1356": {
-    "time": 1793898327.3516328,
+    "time": 1793985331.211267,
     "route": {
       "callsign": "TAP1356",
       "callsign_icao": "TAP1356",
@@ -42008,7 +42008,7 @@
     }
   },
   "BAW990G": {
-    "time": 1793813450.6080966,
+    "time": 1793985331.211267,
     "route": {
       "callsign": "BAW990G",
       "callsign_icao": "BAW990G",
@@ -60463,7 +60463,7 @@
     }
   },
   "CFE67W": {
-    "time": 1793812233.7975895,
+    "time": 1793985331.211267,
     "route": {
       "callsign": "CFE67W",
       "callsign_icao": "CFE67W",
@@ -82502,7 +82502,7 @@
     }
   },
   "RYR38TG": {
-    "time": 1793811323.5141704,
+    "time": 1793985331.211267,
     "route": {
       "callsign": "RYR38TG",
       "callsign_icao": "RYR38TG",
@@ -92040,7 +92040,7 @@
     }
   },
   "RYR7ET": {
-    "time": 1793819125.1963763,
+    "time": 1793985331.211267,
     "route": {
       "callsign": "RYR7ET",
       "callsign_icao": "RYR7ET",
@@ -96099,7 +96099,7 @@
     }
   },
   "BAW373": {
-    "time": 1793897733.9032815,
+    "time": 1793985331.211267,
     "route": {
       "callsign": "BAW373",
       "callsign_icao": "BAW373",
@@ -98189,7 +98189,7 @@
     }
   },
   "AUR78B": {
-    "time": 1793640326.8185136,
+    "time": 1793985331.211267,
     "route": {
       "callsign": "AUR78B",
       "callsign_icao": "AUR78B",
@@ -112045,7 +112045,7 @@
     }
   },
   "EZY63HL": {
-    "time": 1793556632.4474533,
+    "time": 1793985331.211267,
     "route": {
       "callsign": "EZY63HL",
       "callsign_icao": "EZY63HL",
@@ -231314,6 +231314,82 @@
         "longitude": 11.1004,
         "municipality": "Oslo",
         "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "EZY65DG": {
+    "time": 1793985331.211267,
+    "route": {
+      "callsign": "EZY65DG",
+      "callsign_icao": "EZY65DG",
+      "callsign_iata": "U265DG",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "HR",
+        "country_name": "Croatia",
+        "elevation": 79,
+        "iata_code": "SPU",
+        "icao_code": "LDSP",
+        "latitude": 43.5389,
+        "longitude": 16.298,
+        "municipality": "Split",
+        "name": "Split Airport"
+      }
+    }
+  },
+  "EXS7UZ": {
+    "time": 1793985331.211267,
+    "route": {
+      "callsign": "EXS7UZ",
+      "callsign_icao": "EXS7UZ",
+      "callsign_iata": "LS7UZ",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 20,
+        "iata_code": "DLM",
+        "icao_code": "LTBS",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "name": "Dalaman International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
       }
     }
   }
