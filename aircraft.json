@@ -1,9 +1,76 @@
 {
-  "updated": "2026-11-07T03:30:48.126141+00:00",
+  "updated": "2026-11-07T03:35:26.146012+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": []
+  "aircraft": [
+    {
+      "hex": "394a14",
+      "type": "adsb_icao",
+      "flight": "AFR279  ",
+      "r": "F-GSQU",
+      "t": "B77W",
+      "desc": "BOEING 777-300ER",
+      "alt_baro": 37000,
+      "alt_geom": 37150,
+      "gs": 466.1,
+      "ias": 269,
+      "tas": 482,
+      "mach": 0.832,
+      "wd": 143,
+      "ws": 15,
+      "oat": -52,
+      "tat": -22,
+      "track": 147.71,
+      "roll": 0.0,
+      "mag_heading": 146.43,
+      "true_heading": 147.55,
+      "baro_rate": 0,
+      "geom_rate": -32,
+      "squawk": "6301",
+      "emergency": "none",
+      "category": "A5",
+      "nav_qnh": 1012.8,
+      "nav_altitude_mcp": 26016,
+      "nav_heading": 144.84,
+      "lat": 51.296749,
+      "lon": -0.411987,
+      "nic": 8,
+      "rc": 186,
+      "seen_pos": 0.245,
+      "version": 2,
+      "nic_baro": 1,
+      "nac_p": 9,
+      "nac_v": 1,
+      "sil": 3,
+      "sil_type": "perhour",
+      "gva": 2,
+      "sda": 2,
+      "alert": 0,
+      "spi": 0,
+      "mlat": [],
+      "tisb": [],
+      "messages": 335571,
+      "seen": 0.1,
+      "rssi": -15.9,
+      "dst": 9.188,
+      "dir": 180.7,
+      "registered_owner": "Air France",
+      "registered_owner_operator_flag_code": "AFR",
+      "origin": {
+        "iata": "HND",
+        "icao": "RJTT",
+        "name": "Tokyo Haneda International Airport"
+      },
+      "destination": {
+        "iata": "CDG",
+        "icao": "LFPG",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "airline_name": "Air France",
+      "airline_iata": "AF"
+    }
+  ]
 }
