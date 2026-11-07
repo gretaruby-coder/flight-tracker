@@ -8922,7 +8922,7 @@
     }
   },
   "FIN1336": {
-    "time": 1793897434.7609162,
+    "time": 1794071432.6703534,
     "route": {
       "callsign": "FIN1336",
       "callsign_icao": "FIN1336",
@@ -9706,7 +9706,7 @@
     }
   },
   "LOG4MU": {
-    "time": 1793984724.7829852,
+    "time": 1794071432.6703534,
     "route": {
       "callsign": "LOG4MU",
       "callsign_icao": "LOG4MU",
@@ -15112,7 +15112,7 @@
     }
   },
   "BAW85U": {
-    "time": 1793980858.9722912,
+    "time": 1794071432.6703534,
     "route": {
       "callsign": "BAW85U",
       "callsign_icao": "BAW85U",
@@ -19361,7 +19361,7 @@
     }
   },
   "BAW481B": {
-    "time": 1793979933.488718,
+    "time": 1794071432.6703534,
     "route": {
       "callsign": "BAW481B",
       "callsign_icao": "BAW481B",
@@ -25396,7 +25396,7 @@
     }
   },
   "EZY63XA": {
-    "time": 1793833525.4006736,
+    "time": 1794071432.6703534,
     "route": {
       "callsign": "EZY63XA",
       "callsign_icao": "EZY63XA",
@@ -40205,7 +40205,7 @@
     }
   },
   "BAW348K": {
-    "time": 1793869261.488647,
+    "time": 1794071432.6703534,
     "route": {
       "callsign": "BAW348K",
       "callsign_icao": "BAW348K",
@@ -62100,7 +62100,7 @@
     }
   },
   "KAL503": {
-    "time": 1793898932.7074585,
+    "time": 1794071432.6703534,
     "route": {
       "callsign": "KAL503",
       "callsign_icao": "KAL503",
@@ -90199,7 +90199,7 @@
     }
   },
   "VLG26CC": {
-    "time": 1793897141.134963,
+    "time": 1794071432.6703534,
     "route": {
       "callsign": "VLG26CC",
       "callsign_icao": "VLG26CC",
@@ -94037,7 +94037,7 @@
     }
   },
   "IBE07ER": {
-    "time": 1793984460.1015797,
+    "time": 1794071432.6703534,
     "route": {
       "callsign": "IBE07ER",
       "callsign_icao": "IBE07ER",
@@ -179081,7 +179081,7 @@
     }
   },
   "GTI8084": {
-    "time": 1793654443.7855833,
+    "time": 1794071432.6703534,
     "route": {
       "callsign": "GTI8084",
       "callsign_icao": "GTI8084",
@@ -198426,7 +198426,7 @@
     }
   },
   "BAW4TH": {
-    "time": 1793897141.134963,
+    "time": 1794071432.6703534,
     "route": {
       "callsign": "BAW4TH",
       "callsign_icao": "BAW4TH",
@@ -208028,7 +208028,7 @@
     }
   },
   "THY6DJ": {
-    "time": 1793899525.4486713,
+    "time": 1794071432.6703534,
     "route": {
       "callsign": "THY6DJ",
       "callsign_icao": "THY6DJ",
@@ -228316,6 +228316,82 @@
         "longitude": -87.9048,
         "municipality": "Chicago",
         "name": "Chicago O'Hare International Airport"
+      }
+    }
+  },
+  "EFW2716": {
+    "time": 1794071432.6703534,
+    "route": {
+      "callsign": "EFW2716",
+      "callsign_icao": "EFW2716",
+      "callsign_iata": "A02716",
+      "airline": {
+        "name": "BA Euroflyer",
+        "icao": "EFW",
+        "iata": "A0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Griffin"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 192,
+        "iata_code": "FNC",
+        "icao_code": "LPMA",
+        "latitude": 32.6979,
+        "longitude": -16.7745,
+        "municipality": "Funchal",
+        "name": "Madeira International Airport Cristiano Ronaldo"
+      }
+    }
+  },
+  "THY6040": {
+    "time": 1794071432.6703534,
+    "route": {
+      "callsign": "THY6040",
+      "callsign_icao": "THY6040",
+      "callsign_iata": "TK6040",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1026,
+        "iata_code": "ATL",
+        "icao_code": "KATL",
+        "latitude": 33.6367,
+        "longitude": -84.4281,
+        "municipality": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
       }
     }
   }
