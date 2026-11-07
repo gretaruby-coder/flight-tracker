@@ -141173,44 +141173,6 @@
       }
     }
   },
-  "RUK1QW": {
-    "time": 1793410523.8718936,
-    "route": {
-      "callsign": "RUK1QW",
-      "callsign_icao": "RUK1QW",
-      "callsign_iata": "RK1QW",
-      "airline": {
-        "name": "Ryanair UK",
-        "icao": "RUK",
-        "iata": "RK",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 782,
-        "iata_code": "BGY",
-        "icao_code": "LIME",
-        "latitude": 45.6739,
-        "longitude": 9.70417,
-        "municipality": "Milan",
-        "name": "Milan Bergamo Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 135,
-        "iata_code": "EDI",
-        "icao_code": "EGPH",
-        "latitude": 55.95015,
-        "longitude": -3.37229,
-        "municipality": "Edinburgh",
-        "name": "Edinburgh Airport"
-      }
-    }
-  },
   "EZY15WR": {
     "time": 1794010531.453166,
     "route": {
@@ -230820,6 +230782,44 @@
         "longitude": 55.3644,
         "municipality": "Dubai",
         "name": "Dubai International Airport"
+      }
+    }
+  },
+  "AFR6734": {
+    "time": 1794015326.886737,
+    "route": {
+      "callsign": "AFR6734",
+      "callsign_icao": "AFR6734",
+      "callsign_iata": "AF6734",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
       }
     }
   }
