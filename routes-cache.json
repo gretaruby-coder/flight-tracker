@@ -140983,44 +140983,6 @@
       }
     }
   },
-  "EXS76J": {
-    "time": 1793409031.255921,
-    "route": {
-      "callsign": "EXS76J",
-      "callsign_icao": "EXS76J",
-      "callsign_iata": "LS76J",
-      "airline": {
-        "name": "Jet2.com",
-        "icao": "EXS",
-        "iata": "LS",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "CHANNEX"
-      },
-      "origin": {
-        "country_iso_name": "CY",
-        "country_name": "Cyprus",
-        "elevation": 8,
-        "iata_code": "LCA",
-        "icao_code": "LCLK",
-        "latitude": 34.8751,
-        "longitude": 33.6249,
-        "municipality": "Larnaca",
-        "name": "Larnaca International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 348,
-        "iata_code": "STN",
-        "icao_code": "EGSS",
-        "latitude": 51.885,
-        "longitude": 0.235,
-        "municipality": "London",
-        "name": "London Stansted Airport"
-      }
-    }
-  },
   "MSR981": {
     "time": 1793409330.473939,
     "route": {
@@ -230972,6 +230934,44 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "MSR986": {
+    "time": 1794013834.238738,
+    "route": {
+      "callsign": "MSR986",
+      "callsign_icao": "MSR986",
+      "callsign_iata": "MS986",
+      "airline": {
+        "name": "Egyptair",
+        "icao": "MSR",
+        "iata": "MS",
+        "country": "Egypt",
+        "country_iso": "EG",
+        "callsign": "EGYPTAIR"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 382,
+        "iata_code": "CAI",
+        "icao_code": "HECA",
+        "latitude": 30.1219,
+        "longitude": 31.4056,
+        "municipality": "Cairo",
+        "name": "Cairo International Airport"
       }
     }
   }
