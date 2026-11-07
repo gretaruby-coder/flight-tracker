@@ -117113,7 +117113,7 @@
     }
   },
   "RYR266H": {
-    "time": 1793951723.0274642,
+    "time": 1794075333.3442075,
     "route": {
       "callsign": "RYR266H",
       "callsign_icao": "RYR266H",
@@ -140811,44 +140811,6 @@
         "longitude": -6.27007,
         "municipality": "Dublin",
         "name": "Dublin Airport"
-      }
-    }
-  },
-  "VKG459": {
-    "time": 1793470529.7625308,
-    "route": {
-      "callsign": "VKG459",
-      "callsign_icao": "VKG459",
-      "callsign_iata": "459",
-      "airline": {
-        "name": "SunClass Airlines",
-        "icao": "VKG",
-        "iata": null,
-        "country": "Denmark",
-        "country_iso": "DK",
-        "callsign": "VIKING"
-      },
-      "origin": {
-        "country_iso_name": "EG",
-        "country_name": "Egypt",
-        "elevation": 32,
-        "iata_code": "HRG",
-        "icao_code": "HEGN",
-        "latitude": 27.18033,
-        "longitude": 33.80729,
-        "municipality": "Hurghada",
-        "name": "Hurghada International Airport"
-      },
-      "destination": {
-        "country_iso_name": "DK",
-        "country_name": "Denmark",
-        "elevation": 17,
-        "iata_code": "CPH",
-        "icao_code": "EKCH",
-        "latitude": 55.6179,
-        "longitude": 12.656,
-        "municipality": "Copenhagen",
-        "name": "Copenhagen Kastrup Airport"
       }
     }
   },
@@ -228216,6 +228178,44 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "FDX5393": {
+    "time": 1794075333.3442075,
+    "route": {
+      "callsign": "FDX5393",
+      "callsign_icao": "FDX5393",
+      "callsign_iata": "FX5393",
+      "airline": {
+        "name": "FedEx Express",
+        "icao": "FDX",
+        "iata": "FX",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "FEDEX"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 302,
+        "iata_code": "CGN",
+        "icao_code": "EDDK",
+        "latitude": 50.8659,
+        "longitude": 7.14274,
+        "municipality": "Cologne",
+        "name": "Cologne Bonn Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 341,
+        "iata_code": "MEM",
+        "icao_code": "KMEM",
+        "latitude": 35.0424,
+        "longitude": -89.9767,
+        "municipality": "Memphis",
+        "name": "Memphis International Airport"
       }
     }
   }
