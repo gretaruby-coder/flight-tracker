@@ -2984,7 +2984,7 @@
     }
   },
   "KLM27M": {
-    "time": 1793971524.9664426,
+    "time": 1794063327.7508218,
     "route": {
       "callsign": "KLM27M",
       "callsign_icao": "KLM27M",
@@ -5174,7 +5174,7 @@
     }
   },
   "EIN38W": {
-    "time": 1793806253.739525,
+    "time": 1794063327.7508218,
     "route": {
       "callsign": "EIN38W",
       "callsign_icao": "EIN38W",
@@ -22660,7 +22660,7 @@
     }
   },
   "BAW423": {
-    "time": 1793971846.947874,
+    "time": 1794063327.7508218,
     "route": {
       "callsign": "BAW423",
       "callsign_icao": "BAW423",
@@ -65644,7 +65644,7 @@
     }
   },
   "RYR8MX": {
-    "time": 1793962232.717148,
+    "time": 1794063327.7508218,
     "route": {
       "callsign": "RYR8MX",
       "callsign_icao": "RYR8MX",
@@ -89394,7 +89394,7 @@
     }
   },
   "THY7AH": {
-    "time": 1793975727.6940742,
+    "time": 1794063327.7508218,
     "route": {
       "callsign": "THY7AH",
       "callsign_icao": "THY7AH",
@@ -156749,7 +156749,7 @@
     }
   },
   "CFG6LM": {
-    "time": 1793976633.4947872,
+    "time": 1794063327.7508218,
     "route": {
       "callsign": "CFG6LM",
       "callsign_icao": "CFG6LM",
@@ -174846,7 +174846,7 @@
     }
   },
   "EZY97JG": {
-    "time": 1793630856.0713844,
+    "time": 1794063327.7508218,
     "route": {
       "callsign": "EZY97JG",
       "callsign_icao": "EZY97JG",
@@ -208163,7 +208163,7 @@
     }
   },
   "DAL289": {
-    "time": 1793890860.789212,
+    "time": 1794063327.7508218,
     "route": {
       "callsign": "DAL289",
       "callsign_icao": "DAL289",
@@ -217194,7 +217194,7 @@
     }
   },
   "HOP88PF": {
-    "time": 1793976633.4947872,
+    "time": 1794063327.7508218,
     "route": {
       "callsign": "HOP88PF",
       "callsign_icao": "HOP88PF",
@@ -228081,6 +228081,82 @@
         "longitude": -15.3866,
         "municipality": "Gran Canaria Island",
         "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "EZY12JB": {
+    "time": 1794063327.7508218,
+    "route": {
+      "callsign": "EZY12JB",
+      "callsign_icao": "EZY12JB",
+      "callsign_iata": "U212JB",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 39,
+        "iata_code": "CTA",
+        "icao_code": "LICC",
+        "latitude": 37.4668,
+        "longitude": 15.0664,
+        "municipality": "Catania",
+        "name": "Catania-Fontanarossa Airport"
+      }
+    }
+  },
+  "RYR98JN": {
+    "time": 1794063327.7508218,
+    "route": {
+      "callsign": "RYR98JN",
+      "callsign_icao": "RYR98JN",
+      "callsign_iata": "FR98JN",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
       }
     }
   }
