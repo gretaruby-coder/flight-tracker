@@ -7378,7 +7378,7 @@
     }
   },
   "BAW97A": {
-    "time": 1793982035.0444312,
+    "time": 1794069047.8117683,
     "route": {
       "callsign": "BAW97A",
       "callsign_icao": "BAW97A",
@@ -8093,7 +8093,7 @@
     }
   },
   "EIN52T": {
-    "time": 1793810127.3914163,
+    "time": 1794069047.8117683,
     "route": {
       "callsign": "EIN52T",
       "callsign_icao": "EIN52T",
@@ -8960,7 +8960,7 @@
     }
   },
   "KLC23R": {
-    "time": 1793897733.9032815,
+    "time": 1794069047.8117683,
     "route": {
       "callsign": "KLC23R",
       "callsign_icao": "KLC23R",
@@ -9668,7 +9668,7 @@
     }
   },
   "BAW7TG": {
-    "time": 1793982324.3898795,
+    "time": 1794069047.8117683,
     "route": {
       "callsign": "BAW7TG",
       "callsign_icao": "BAW7TG",
@@ -13181,7 +13181,7 @@
     }
   },
   "RAM803L": {
-    "time": 1793897141.134963,
+    "time": 1794069047.8117683,
     "route": {
       "callsign": "RAM803L",
       "callsign_icao": "RAM803L",
@@ -13592,7 +13592,7 @@
     }
   },
   "BAW135": {
-    "time": 1793980858.9722912,
+    "time": 1794069047.8117683,
     "route": {
       "callsign": "BAW135",
       "callsign_icao": "BAW135",
@@ -50071,7 +50071,7 @@
     }
   },
   "RAM814": {
-    "time": 1793637327.419772,
+    "time": 1794069047.8117683,
     "route": {
       "callsign": "RAM814",
       "callsign_icao": "RAM814",
@@ -64967,7 +64967,7 @@
     }
   },
   "EZY3071": {
-    "time": 1793722838.1870558,
+    "time": 1794069047.8117683,
     "route": {
       "callsign": "EZY3071",
       "callsign_icao": "EZY3071",
@@ -91104,7 +91104,7 @@
     }
   },
   "RYR26YX": {
-    "time": 1793892925.877841,
+    "time": 1794069047.8117683,
     "route": {
       "callsign": "RYR26YX",
       "callsign_icao": "RYR26YX",
@@ -93688,7 +93688,7 @@
     }
   },
   "RYR9YQ": {
-    "time": 1793902833.3646479,
+    "time": 1794069047.8117683,
     "route": {
       "callsign": "RYR9YQ",
       "callsign_icao": "RYR9YQ",
@@ -119676,7 +119676,7 @@
     }
   },
   "EZY83YN": {
-    "time": 1793709062.0661614,
+    "time": 1794069047.8117683,
     "route": {
       "callsign": "EZY83YN",
       "callsign_icao": "EZY83YN",
@@ -140839,7 +140839,7 @@
     }
   },
   "RYR845V": {
-    "time": 1793974833.4738307,
+    "time": 1794069047.8117683,
     "route": {
       "callsign": "RYR845V",
       "callsign_icao": "RYR845V",
@@ -228423,6 +228423,82 @@
         "longitude": -15.3866,
         "municipality": "Gran Canaria Island",
         "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "NSZ5705": {
+    "time": 1794069047.8117683,
+    "route": {
+      "callsign": "NSZ5705",
+      "callsign_icao": "NSZ5705",
+      "callsign_iata": "D85705",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 506,
+        "iata_code": "GOT",
+        "icao_code": "ESGG",
+        "latitude": 57.6628,
+        "longitude": 12.2798,
+        "municipality": "Gothenburg",
+        "name": "Gothenburg-Landvetter Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "TOM1WA": {
+    "time": 1794069047.8117683,
+    "route": {
+      "callsign": "TOM1WA",
+      "callsign_icao": "TOM1WA",
+      "callsign_iata": "BY1WA",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "CY",
+        "country_name": "Cyprus",
+        "elevation": 8,
+        "iata_code": "LCA",
+        "icao_code": "LCLK",
+        "latitude": 34.8751,
+        "longitude": 33.6249,
+        "municipality": "Larnaca",
+        "name": "Larnaca International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
