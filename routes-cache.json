@@ -44969,7 +44969,7 @@
     }
   },
   "KLM791": {
-    "time": 1793790328.5002565,
+    "time": 1794135659.8153152,
     "route": {
       "callsign": "KLM791",
       "callsign_icao": "KLM791",
@@ -75134,7 +75134,7 @@
     }
   },
   "RYR4XL": {
-    "time": 1793999434.15372,
+    "time": 1794135659.8153152,
     "route": {
       "callsign": "RYR4XL",
       "callsign_icao": "RYR4XL",
@@ -75776,44 +75776,6 @@
         "longitude": 2.55,
         "municipality": "Paris",
         "name": "Charles de Gaulle International Airport"
-      }
-    }
-  },
-  "EZY59EZ": {
-    "time": 1793530855.3460023,
-    "route": {
-      "callsign": "EZY59EZ",
-      "callsign_icao": "EZY59EZ",
-      "callsign_iata": "U259EZ",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 526,
-        "iata_code": "LTN",
-        "icao_code": "EGGW",
-        "latitude": 51.8747,
-        "longitude": -0.36833,
-        "municipality": "London",
-        "name": "London Luton Airport"
-      },
-      "destination": {
-        "country_iso_name": "EG",
-        "country_name": "Egypt",
-        "elevation": 143,
-        "iata_code": "SSH",
-        "icao_code": "HESH",
-        "latitude": 27.9773,
-        "longitude": 34.395,
-        "municipality": "Sharm el-Sheikh",
-        "name": "Sharm El Sheikh International Airport"
       }
     }
   },
@@ -81062,7 +81024,7 @@
     }
   },
   "RYR4MA": {
-    "time": 1793976335.5178542,
+    "time": 1794135659.8153152,
     "route": {
       "callsign": "RYR4MA",
       "callsign_icao": "RYR4MA",
@@ -134085,44 +134047,6 @@
       }
     }
   },
-  "DAL301": {
-    "time": 1793530855.3460023,
-    "route": {
-      "callsign": "DAL301",
-      "callsign_icao": "DAL301",
-      "callsign_iata": "DL301",
-      "airline": {
-        "name": "Delta Air Lines",
-        "icao": "DAL",
-        "iata": "DL",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "DELTA"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 1026,
-        "iata_code": "ATL",
-        "icao_code": "KATL",
-        "latitude": 33.6367,
-        "longitude": -84.4281,
-        "municipality": "Atlanta",
-        "name": "Hartsfield Jackson Atlanta International Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 13,
-        "iata_code": "SFO",
-        "icao_code": "KSFO",
-        "latitude": 37.619,
-        "longitude": -122.375,
-        "municipality": "San Francisco",
-        "name": "San Francisco International Airport"
-      }
-    }
-  },
   "RYR7594": {
     "time": 1794046235.578082,
     "route": {
@@ -139188,7 +139112,7 @@
     }
   },
   "AFR068": {
-    "time": 1793961046.1986725,
+    "time": 1794135659.8153152,
     "route": {
       "callsign": "AFR68",
       "callsign_icao": "AFR68",
@@ -222855,6 +222779,82 @@
         "longitude": -3.37229,
         "municipality": "Edinburgh",
         "name": "Edinburgh Airport"
+      }
+    }
+  },
+  "NSZ3543": {
+    "time": 1794135659.8153152,
+    "route": {
+      "callsign": "NSZ3543",
+      "callsign_icao": "NSZ3543",
+      "callsign_iata": "D83543",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 10,
+        "iata_code": "AAL",
+        "icao_code": "EKYT",
+        "latitude": 57.09276,
+        "longitude": 9.84924,
+        "municipality": "Aalborg",
+        "name": "Aalborg Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "LOT34": {
+    "time": 1794135659.8153152,
+    "route": {
+      "callsign": "LOT34",
+      "callsign_icao": "LOT34",
+      "callsign_iata": "LO34",
+      "airline": {
+        "name": "LOT Polish Airlines",
+        "icao": "LOT",
+        "iata": "LO",
+        "country": "Poland",
+        "country_iso": "PL",
+        "callsign": "POLLOT"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 8,
+        "iata_code": "MIA",
+        "icao_code": "KMIA",
+        "latitude": 25.7932,
+        "longitude": -80.2906,
+        "municipality": "Miami",
+        "name": "Miami International Airport"
+      },
+      "destination": {
+        "country_iso_name": "PL",
+        "country_name": "Poland",
+        "elevation": 362,
+        "iata_code": "WAW",
+        "icao_code": "EPWA",
+        "latitude": 52.1657,
+        "longitude": 20.9671,
+        "municipality": "Warsaw",
+        "name": "Warsaw Chopin Airport"
       }
     }
   }
