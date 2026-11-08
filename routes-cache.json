@@ -53806,7 +53806,7 @@
     }
   },
   "BAW929": {
-    "time": 1793989848.9889054,
+    "time": 1794175526.0637968,
     "route": {
       "callsign": "BAW929",
       "callsign_icao": "BAW929",
@@ -56342,7 +56342,7 @@
     }
   },
   "BAW2231": {
-    "time": 1794087048.1618752,
+    "time": 1794175526.0637968,
     "route": {
       "callsign": "BAW2231",
       "callsign_icao": "BAW2231",
@@ -94697,7 +94697,7 @@
     }
   },
   "BAW637": {
-    "time": 1794003332.676521,
+    "time": 1794175526.0637968,
     "route": {
       "callsign": "BAW637",
       "callsign_icao": "BAW637",
@@ -162718,7 +162718,7 @@
     }
   },
   "RYR40AL": {
-    "time": 1794003632.052458,
+    "time": 1794175526.0637968,
     "route": {
       "callsign": "RYR40AL",
       "callsign_icao": "RYR40AL",
@@ -218309,6 +218309,82 @@
         "longitude": 12.656,
         "municipality": "Copenhagen",
         "name": "Copenhagen Kastrup Airport"
+      }
+    }
+  },
+  "WZZ3XX": {
+    "time": 1794175526.0637968,
+    "route": {
+      "callsign": "WZZ3XX",
+      "callsign_icao": "WZZ3XX",
+      "callsign_iata": "W63XX",
+      "airline": {
+        "name": "Wizz Air",
+        "icao": "WZZ",
+        "iata": "W6",
+        "country": "Hungary",
+        "country_iso": "HU",
+        "callsign": "WIZZ AIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "PL",
+        "country_name": "Poland",
+        "elevation": 404,
+        "iata_code": "WRO",
+        "icao_code": "EPWR",
+        "latitude": 51.1027,
+        "longitude": 16.8858,
+        "municipality": "Wroc\u0142aw",
+        "name": "Copernicus Wroc\u0142aw Airport"
+      }
+    }
+  },
+  "LOG941B": {
+    "time": 1794175526.0637968,
+    "route": {
+      "callsign": "LOG941B",
+      "callsign_icao": "LOG941B",
+      "callsign_iata": "LC941B",
+      "airline": {
+        "name": "Loganair",
+        "icao": "LOG",
+        "iata": "LC",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "LOGAN"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 215,
+        "iata_code": "ABZ",
+        "icao_code": "EGPD",
+        "latitude": 57.2019,
+        "longitude": -2.19778,
+        "municipality": "Aberdeen",
+        "name": "Aberdeen Dyce Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 22,
+        "iata_code": "LDY",
+        "icao_code": "EGAE",
+        "latitude": 55.0428,
+        "longitude": -7.16111,
+        "municipality": "Derry",
+        "name": "City of Derry Airport"
       }
     }
   }
