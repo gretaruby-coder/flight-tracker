@@ -24225,7 +24225,7 @@
     }
   },
   "TAP1366": {
-    "time": 1794003632.052458,
+    "time": 1794176436.160984,
     "route": {
       "callsign": "TAP1366",
       "callsign_icao": "TAP1366",
@@ -24415,7 +24415,7 @@
     }
   },
   "MSR780": {
-    "time": 1794004249.1585853,
+    "time": 1794176436.160984,
     "route": {
       "callsign": "MSR780",
       "callsign_icao": "MSR780",
@@ -49698,7 +49698,7 @@
     }
   },
   "KLC1131": {
-    "time": 1794089435.70554,
+    "time": 1794176436.160984,
     "route": {
       "callsign": "KLC1131",
       "callsign_icao": "KLC1131",
@@ -94545,7 +94545,7 @@
     }
   },
   "BAW679": {
-    "time": 1794084035.2691333,
+    "time": 1794176436.160984,
     "route": {
       "callsign": "BAW679",
       "callsign_icao": "BAW679",
@@ -131015,7 +131015,7 @@
     }
   },
   "EZY95ZP": {
-    "time": 1793965832.9693358,
+    "time": 1794176436.160984,
     "route": {
       "callsign": "EZY95ZP",
       "callsign_icao": "EZY95ZP",
@@ -218412,6 +218412,82 @@
         "longitude": -0.36833,
         "municipality": "London",
         "name": "London Luton Airport"
+      }
+    }
+  },
+  "BAW252": {
+    "time": 1794176436.160984,
+    "route": {
+      "callsign": "BAW252",
+      "callsign_icao": "BAW252",
+      "callsign_iata": "BA252",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "KY",
+        "country_name": "Cayman Islands",
+        "elevation": 8,
+        "iata_code": "GCM",
+        "icao_code": "MWCR",
+        "latitude": 19.2928,
+        "longitude": -81.3577,
+        "municipality": "Georgetown",
+        "name": "Owen Roberts International Airport"
+      },
+      "destination": {
+        "country_iso_name": "BS",
+        "country_name": "Bahamas",
+        "elevation": 16,
+        "iata_code": "NAS",
+        "icao_code": "MYNN",
+        "latitude": 25.039,
+        "longitude": -77.4662,
+        "municipality": "Nassau",
+        "name": "Lynden Pindling International Airport"
+      }
+    }
+  },
+  "UPS234": {
+    "time": 1794176436.160984,
+    "route": {
+      "callsign": "UPS234",
+      "callsign_icao": "UPS234",
+      "callsign_iata": "5X234",
+      "airline": {
+        "name": "United Parcel Service",
+        "icao": "UPS",
+        "iata": "5X",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UPS"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 302,
+        "iata_code": "CGN",
+        "icao_code": "EDDK",
+        "latitude": 50.8659,
+        "longitude": 7.14274,
+        "municipality": "Cologne",
+        "name": "Cologne Bonn Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
       }
     }
   }
