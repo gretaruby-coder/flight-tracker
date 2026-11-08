@@ -45235,7 +45235,7 @@
     }
   },
   "MEA202": {
-    "time": 1794061526.829844,
+    "time": 1794148834.3125017,
     "route": {
       "callsign": "MEA202",
       "callsign_icao": "MEA202",
@@ -63430,7 +63430,7 @@
     }
   },
   "EIN4GV": {
-    "time": 1793889048.8992887,
+    "time": 1794148834.3125017,
     "route": {
       "callsign": "EIN4GV",
       "callsign_icao": "EIN4GV",
@@ -83304,7 +83304,7 @@
     }
   },
   "RYR24SE": {
-    "time": 1794054647.5363078,
+    "time": 1794148834.3125017,
     "route": {
       "callsign": "RYR24SE",
       "callsign_icao": "RYR24SE",
@@ -84064,7 +84064,7 @@
     }
   },
   "BAW979": {
-    "time": 1793978433.647953,
+    "time": 1794148834.3125017,
     "route": {
       "callsign": "BAW979",
       "callsign_icao": "BAW979",
@@ -91736,44 +91736,6 @@
         "longitude": 14.2908,
         "municipality": "N\u00e1poli",
         "name": "Naples International Airport"
-      }
-    }
-  },
-  "RRR2301": {
-    "time": 1793544032.1811953,
-    "route": {
-      "callsign": "RRR2301",
-      "callsign_icao": "RRR2301",
-      "callsign_iata": "2301",
-      "airline": {
-        "name": "Royal Air Force",
-        "icao": "RRR",
-        "iata": null,
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "ASCOT"
-      },
-      "origin": {
-        "country_iso_name": "CY",
-        "country_name": "Cyprus",
-        "elevation": 76,
-        "iata_code": "AKT",
-        "icao_code": "LCRA",
-        "latitude": 34.5904,
-        "longitude": 32.9879,
-        "municipality": "Akrotiri",
-        "name": "RAF Akrotiri"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 288,
-        "iata_code": "BZZ",
-        "icao_code": "EGVN",
-        "latitude": 51.75,
-        "longitude": -1.58362,
-        "municipality": "Brize Norton",
-        "name": "RAF Brize Norton"
       }
     }
   },
@@ -157530,7 +157492,7 @@
     }
   },
   "EZY261P": {
-    "time": 1793975727.6940742,
+    "time": 1794148834.3125017,
     "route": {
       "callsign": "EZY261P",
       "callsign_icao": "EZY261P",
@@ -221021,6 +220983,82 @@
         "longitude": -4.43306,
         "municipality": "Paisley, Renfrewshire",
         "name": "Glasgow International Airport"
+      }
+    }
+  },
+  "ETD6JG": {
+    "time": 1794148834.3125017,
+    "route": {
+      "callsign": "ETD6JG",
+      "callsign_icao": "ETD6JG",
+      "callsign_iata": "EY6JG",
+      "airline": {
+        "name": "Etihad Airways",
+        "icao": "ETD",
+        "iata": "EY",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "ETIHAD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 88,
+        "iata_code": "AUH",
+        "icao_code": "OMAA",
+        "latitude": 24.44376,
+        "longitude": 54.65172,
+        "municipality": "Abu Dhabi",
+        "name": "Abu Dhabi International Airport"
+      }
+    }
+  },
+  "WMT904": {
+    "time": 1794148834.3125017,
+    "route": {
+      "callsign": "WMT904",
+      "callsign_icao": "WMT904",
+      "callsign_iata": "W4904",
+      "airline": {
+        "name": "Wizz Air Malta",
+        "icao": "WMT",
+        "iata": "W4",
+        "country": "Malta",
+        "country_iso": "MT",
+        "callsign": "Wizzairmalta"
+      },
+      "origin": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 600,
+        "iata_code": "VIE",
+        "icao_code": "LOWW",
+        "latitude": 48.1103,
+        "longitude": 16.5697,
+        "municipality": "Vienna",
+        "name": "Vienna International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 294,
+        "iata_code": "NAP",
+        "icao_code": "LIRN",
+        "latitude": 40.886,
+        "longitude": 14.2908,
+        "municipality": "N\u00e1poli",
+        "name": "Naples International Airport"
       }
     }
   }
