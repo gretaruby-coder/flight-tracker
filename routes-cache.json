@@ -26802,7 +26802,7 @@
     }
   },
   "BAW40F": {
-    "time": 1793945125.248123,
+    "time": 1794116127.7536879,
     "route": {
       "callsign": "BAW40F",
       "callsign_icao": "BAW40F",
@@ -27258,7 +27258,7 @@
     }
   },
   "UAL929": {
-    "time": 1794029727.035586,
+    "time": 1794116127.7536879,
     "route": {
       "callsign": "UAL929",
       "callsign_icao": "UAL929",
@@ -125205,44 +125205,6 @@
         "longitude": 2.76055,
         "municipality": "Girona",
         "name": "Girona-Costa Brava Airport"
-      }
-    }
-  },
-  "AAL714": {
-    "time": 1793511324.8201702,
-    "route": {
-      "callsign": "AAL714",
-      "callsign_icao": "AAL714",
-      "callsign_iata": "AA714",
-      "airline": {
-        "name": "American Airlines",
-        "icao": "AAL",
-        "iata": "AA",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "AMERICAN"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 36,
-        "iata_code": "PHL",
-        "icao_code": "KPHL",
-        "latitude": 39.8719,
-        "longitude": -75.2411,
-        "municipality": "Philadelphia",
-        "name": "Philadelphia International Airport"
-      },
-      "destination": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 7,
-        "iata_code": "VCE",
-        "icao_code": "LIPZ",
-        "latitude": 45.5053,
-        "longitude": 12.3519,
-        "municipality": "Venice",
-        "name": "Venice Marco Polo Airport"
       }
     }
   },
@@ -225393,6 +225355,82 @@
         "longitude": -77.4558,
         "municipality": "Washington",
         "name": "Washington Dulles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "AUA56": {
+    "time": 1794116127.7536879,
+    "route": {
+      "callsign": "AUA56",
+      "callsign_icao": "AUA56",
+      "callsign_iata": "OS56",
+      "airline": {
+        "name": "Austrian Airlines",
+        "icao": "AUA",
+        "iata": "OS",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "AUSTRIAN"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 118,
+        "iata_code": "YUL",
+        "icao_code": "CYUL",
+        "latitude": 45.4706,
+        "longitude": -73.7408,
+        "municipality": "Montr\u00e9al",
+        "name": "Montreal / Pierre Elliott Trudeau International Airport"
+      },
+      "destination": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 600,
+        "iata_code": "VIE",
+        "icao_code": "LOWW",
+        "latitude": 48.1103,
+        "longitude": 16.5697,
+        "municipality": "Vienna",
+        "name": "Vienna International Airport"
+      }
+    }
+  },
+  "UAL57": {
+    "time": 1794116127.7536879,
+    "route": {
+      "callsign": "UAL57",
+      "callsign_icao": "UAL57",
+      "callsign_iata": "UA57",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
       },
       "destination": {
         "country_iso_name": "FR",
