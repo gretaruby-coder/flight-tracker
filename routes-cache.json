@@ -22743,7 +22743,7 @@
     }
   },
   "BAW890": {
-    "time": 1793872856.6481426,
+    "time": 1794131725.004257,
     "route": {
       "callsign": "BAW890",
       "callsign_icao": "BAW890",
@@ -38989,7 +38989,7 @@
     }
   },
   "BAW98T": {
-    "time": 1794044734.1276164,
+    "time": 1794131725.004257,
     "route": {
       "callsign": "BAW98T",
       "callsign_icao": "BAW98T",
@@ -39179,7 +39179,7 @@
     }
   },
   "BAW396U": {
-    "time": 1794044436.3973918,
+    "time": 1794131725.004257,
     "route": {
       "callsign": "BAW396U",
       "callsign_icao": "BAW396U",
@@ -49280,7 +49280,7 @@
     }
   },
   "BAW577": {
-    "time": 1794043525.8434029,
+    "time": 1794131725.004257,
     "route": {
       "callsign": "BAW577",
       "callsign_icao": "BAW577",
@@ -54483,7 +54483,7 @@
     }
   },
   "SIA309": {
-    "time": 1793957727.8058774,
+    "time": 1794131725.004257,
     "route": {
       "callsign": "SIA309",
       "callsign_icao": "SIA309",
@@ -70605,7 +70605,7 @@
     }
   },
   "NSZ62Q": {
-    "time": 1793878525.232658,
+    "time": 1794131725.004257,
     "route": {
       "callsign": "NSZ62Q",
       "callsign_icao": "NSZ62Q",
@@ -72467,7 +72467,7 @@
     }
   },
   "EZY97WF": {
-    "time": 1793975727.6940742,
+    "time": 1794131725.004257,
     "route": {
       "callsign": "EZY97WF",
       "callsign_icao": "EZY97WF",
@@ -72961,7 +72961,7 @@
     }
   },
   "RYR33EQ": {
-    "time": 1793993124.723864,
+    "time": 1794131725.004257,
     "route": {
       "callsign": "RYR33EQ",
       "callsign_icao": "RYR33EQ",
@@ -73607,7 +73607,7 @@
     }
   },
   "QTR30C": {
-    "time": 1794045035.9913101,
+    "time": 1794131725.004257,
     "route": {
       "callsign": "QTR30C",
       "callsign_icao": "QTR30C",
@@ -134466,7 +134466,7 @@
     }
   },
   "EZY23TA": {
-    "time": 1794045035.9913101,
+    "time": 1794131725.004257,
     "route": {
       "callsign": "EZY23TA",
       "callsign_icao": "EZY23TA",
@@ -139481,44 +139481,6 @@
         "longitude": -16.5725,
         "municipality": "Tenerife",
         "name": "Tenerife Sur Airport"
-      }
-    }
-  },
-  "EJU89AC": {
-    "time": 1793526924.9117723,
-    "route": {
-      "callsign": "EJU89AC",
-      "callsign_icao": "EJU89AC",
-      "callsign_iata": "EC89AC",
-      "airline": {
-        "name": "easyJet Europe",
-        "icao": "EJU",
-        "iata": "EC",
-        "country": "Austria",
-        "country_iso": "AT",
-        "callsign": "Alpine"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 27,
-        "iata_code": "PMI",
-        "icao_code": "LEPA",
-        "latitude": 39.5517,
-        "longitude": 2.73881,
-        "municipality": "Palma De Mallorca",
-        "name": "Palma de Mallorca Airport"
       }
     }
   },
@@ -173098,7 +173060,7 @@
     }
   },
   "RYR88AC": {
-    "time": 1793999733.1151946,
+    "time": 1794131725.004257,
     "route": {
       "callsign": "RYR88AC",
       "callsign_icao": "RYR88AC",
@@ -223076,6 +223038,44 @@
         "longitude": 34.5837,
         "municipality": "Marsa Alam",
         "name": "Marsa Alam International Airport"
+      }
+    }
+  },
+  "EZY48JH": {
+    "time": 1794131725.004257,
+    "route": {
+      "callsign": "EZY48JH",
+      "callsign_icao": "EZY48JH",
+      "callsign_iata": "U248JH",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 308,
+        "iata_code": "ATH",
+        "icao_code": "LGAV",
+        "latitude": 37.9364,
+        "longitude": 23.9445,
+        "municipality": "Athens",
+        "name": "Athens Eleftherios Venizelos International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
