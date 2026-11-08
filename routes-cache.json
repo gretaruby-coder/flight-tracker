@@ -3281,7 +3281,7 @@
     }
   },
   "ASA100": {
-    "time": 1794050435.0807602,
+    "time": 1794138036.8225508,
     "route": {
       "callsign": "ASA100",
       "callsign_icao": "ASA100",
@@ -27341,7 +27341,7 @@
     }
   },
   "CES201": {
-    "time": 1794031258.6743202,
+    "time": 1794138036.8225508,
     "route": {
       "callsign": "CES201",
       "callsign_icao": "CES201",
@@ -43653,7 +43653,7 @@
     }
   },
   "SHT9Z": {
-    "time": 1793963127.8136432,
+    "time": 1794138036.8225508,
     "route": {
       "callsign": "SHT9Z",
       "callsign_icao": null,
@@ -74374,7 +74374,7 @@
     }
   },
   "AEA79LG": {
-    "time": 1794050727.272916,
+    "time": 1794138036.8225508,
     "route": {
       "callsign": "AEA79LG",
       "callsign_icao": "AEA79LG",
@@ -76236,7 +76236,7 @@
     }
   },
   "RYR8MT": {
-    "time": 1793733935.2020879,
+    "time": 1794138036.8225508,
     "route": {
       "callsign": "RYR8MT",
       "callsign_icao": "RYR8MT",
@@ -138880,44 +138880,6 @@
         "longitude": -104.673,
         "municipality": "Denver",
         "name": "Denver International Airport"
-      }
-    }
-  },
-  "EXS7Y": {
-    "time": 1793533233.8750534,
-    "route": {
-      "callsign": "EXS7Y",
-      "callsign_icao": "EXS7Y",
-      "callsign_iata": "LS7Y",
-      "airline": {
-        "name": "Jet2.com",
-        "icao": "EXS",
-        "iata": "LS",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "CHANNEX"
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 27,
-        "iata_code": "PMI",
-        "icao_code": "LEPA",
-        "latitude": 39.5517,
-        "longitude": 2.73881,
-        "municipality": "Palma De Mallorca",
-        "name": "Palma de Mallorca Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 681,
-        "iata_code": "LBA",
-        "icao_code": "EGNM",
-        "latitude": 53.8659,
-        "longitude": -1.66057,
-        "municipality": "Leeds",
-        "name": "Leeds Bradford Airport"
       }
     }
   },
@@ -222672,6 +222634,82 @@
         "longitude": 12.23639,
         "municipality": "Leipzig",
         "name": "Leipzig/Halle Airport"
+      }
+    }
+  },
+  "WZZ2HJ": {
+    "time": 1794138036.8225508,
+    "route": {
+      "callsign": "WZZ2HJ",
+      "callsign_icao": "WZZ2HJ",
+      "callsign_iata": "W62HJ",
+      "airline": {
+        "name": "Wizz Air",
+        "icao": "WZZ",
+        "iata": "W6",
+        "country": "Hungary",
+        "country_iso": "HU",
+        "callsign": "WIZZ AIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "SK",
+        "country_name": "Slovakia",
+        "elevation": 436,
+        "iata_code": "BTS",
+        "icao_code": "LZIB",
+        "latitude": 48.1702,
+        "longitude": 17.2127,
+        "municipality": "Bratislava",
+        "name": "M. R. \u0160tef\u00e1nik Airport"
+      }
+    }
+  },
+  "ETH719": {
+    "time": 1794138036.8225508,
+    "route": {
+      "callsign": "ETH719",
+      "callsign_icao": "ETH719",
+      "callsign_iata": "ET719",
+      "airline": {
+        "name": "Ethiopian Airlines",
+        "icao": "ETH",
+        "iata": "ET",
+        "country": "Ethiopia",
+        "country_iso": "ET",
+        "callsign": "ETHIOPIAN"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "ET",
+        "country_name": "Ethiopia",
+        "elevation": 7630,
+        "iata_code": "ADD",
+        "icao_code": "HAAB",
+        "latitude": 8.97789,
+        "longitude": 38.7993,
+        "municipality": "Addis Ababa",
+        "name": "Addis Ababa Bole International Airport"
       }
     }
   }
