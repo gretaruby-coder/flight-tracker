@@ -57665,7 +57665,7 @@
     }
   },
   "ETH700": {
-    "time": 1794031258.6743202,
+    "time": 1794117928.2618399,
     "route": {
       "callsign": "ETH700",
       "callsign_icao": "ETH700",
@@ -65506,7 +65506,7 @@
     }
   },
   "AUA4AV": {
-    "time": 1793946323.8623233,
+    "time": 1794117928.2618399,
     "route": {
       "callsign": "AUA4AV",
       "callsign_icao": "AUA4AV",
@@ -121140,44 +121140,6 @@
         "longitude": -3.37229,
         "municipality": "Edinburgh",
         "name": "Edinburgh Airport"
-      }
-    }
-  },
-  "EWG96M": {
-    "time": 1793513125.8924344,
-    "route": {
-      "callsign": "EWG96M",
-      "callsign_icao": "EWG96M",
-      "callsign_iata": "EW96M",
-      "airline": {
-        "name": "Eurowings",
-        "icao": "EWG",
-        "iata": "EW",
-        "country": "Germany",
-        "country_iso": "DE",
-        "callsign": "EUROWINGS"
-      },
-      "origin": {
-        "country_iso_name": "PT",
-        "country_name": "Portugal",
-        "elevation": 228,
-        "iata_code": "OPO",
-        "icao_code": "LPPR",
-        "latitude": 41.2481,
-        "longitude": -8.68139,
-        "municipality": "Porto",
-        "name": "Francisco de S\u00e1 Carneiro Airport"
-      },
-      "destination": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 53,
-        "iata_code": "HAM",
-        "icao_code": "EDDH",
-        "latitude": 53.6304,
-        "longitude": 9.98823,
-        "municipality": "Hamburg",
-        "name": "Hamburg Helmut Schmidt Airport"
       }
     }
   },
@@ -225328,6 +225290,44 @@
         "longitude": 2.55,
         "municipality": "Paris",
         "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "TAP56DP": {
+    "time": 1794117928.2618399,
+    "route": {
+      "callsign": "TAP56DP",
+      "callsign_icao": "TAP56DP",
+      "callsign_iata": "TP56DP",
+      "airline": {
+        "name": "TAP Portugal",
+        "icao": "TAP",
+        "iata": "TP",
+        "country": "Portugal",
+        "country_iso": "PT",
+        "callsign": "AIR PORTUGAL"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 53,
+        "iata_code": "HAM",
+        "icao_code": "EDDH",
+        "latitude": 53.6304,
+        "longitude": 9.98823,
+        "municipality": "Hamburg",
+        "name": "Hamburg Helmut Schmidt Airport"
+      },
+      "destination": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 374,
+        "iata_code": "LIS",
+        "icao_code": "LPPT",
+        "latitude": 38.7813,
+        "longitude": -9.13592,
+        "municipality": "Lisbon",
+        "name": "Humberto Delgado Airport (Lisbon Portela Airport)"
       }
     }
   }
