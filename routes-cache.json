@@ -1012,7 +1012,7 @@
     }
   },
   "AAL137": {
-    "time": 1793969131.3644524,
+    "time": 1794141933.5868192,
     "route": {
       "callsign": "AAL137",
       "callsign_icao": "AAL137",
@@ -1637,7 +1637,7 @@
     }
   },
   "SVA119": {
-    "time": 1794055234.630163,
+    "time": 1794141933.5868192,
     "route": {
       "callsign": "SVA119",
       "callsign_icao": "SVA119",
@@ -2200,7 +2200,7 @@
     }
   },
   "BAW7W": {
-    "time": 1793970325.913712,
+    "time": 1794141933.5868192,
     "route": {
       "callsign": "BAW7W",
       "callsign_icao": "BAW7W",
@@ -4148,7 +4148,7 @@
     }
   },
   "BAW219V": {
-    "time": 1793970325.913712,
+    "time": 1794141933.5868192,
     "route": {
       "callsign": "BAW219V",
       "callsign_icao": "BAW219V",
@@ -40060,7 +40060,7 @@
     }
   },
   "AAL150": {
-    "time": 1794047728.8930953,
+    "time": 1794141933.5868192,
     "route": {
       "callsign": "AAL150",
       "callsign_icao": "AAL150",
@@ -43349,7 +43349,7 @@
     }
   },
   "AUR605Y": {
-    "time": 1794054035.7510571,
+    "time": 1794141933.5868192,
     "route": {
       "callsign": "AUR605Y",
       "callsign_icao": "AUR605Y",
@@ -47052,7 +47052,7 @@
     }
   },
   "JAL45": {
-    "time": 1793969431.0023978,
+    "time": 1794141933.5868192,
     "route": {
       "callsign": "JAL45",
       "callsign_icao": "JAL45",
@@ -54117,7 +54117,7 @@
     }
   },
   "SEH7WA": {
-    "time": 1793966456.736531,
+    "time": 1794141933.5868192,
     "route": {
       "callsign": "SEH7WA",
       "callsign_icao": "SEH7WA",
@@ -77300,7 +77300,7 @@
     }
   },
   "BAW8KC": {
-    "time": 1793961639.4789858,
+    "time": 1794141933.5868192,
     "route": {
       "callsign": "BAW8KC",
       "callsign_icao": "BAW8KC",
@@ -79276,7 +79276,7 @@
     }
   },
   "EZY62BQ": {
-    "time": 1794049835.32294,
+    "time": 1794141933.5868192,
     "route": {
       "callsign": "EZY62BQ",
       "callsign_icao": "EZY62BQ",
@@ -79352,7 +79352,7 @@
     }
   },
   "EJU71FZ": {
-    "time": 1793987724.5276465,
+    "time": 1794141933.5868192,
     "route": {
       "callsign": "EJU71FZ",
       "callsign_icao": "EJU71FZ",
@@ -138604,7 +138604,7 @@
     }
   },
   "EXS4ZU": {
-    "time": 1793996132.723876,
+    "time": 1794141933.5868192,
     "route": {
       "callsign": "EXS4ZU",
       "callsign_icao": "EXS4ZU",
@@ -158701,7 +158701,7 @@
     }
   },
   "EZY98VX": {
-    "time": 1793978725.2656982,
+    "time": 1794141933.5868192,
     "route": {
       "callsign": "EZY98VX",
       "callsign_icao": "EZY98VX",
@@ -222185,6 +222185,75 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "NOZ5MN": {
+    "time": 1794141933.5868192,
+    "route": {
+      "callsign": "NOZ5MN",
+      "callsign_icao": "NOZ5MN",
+      "callsign_iata": "5MN",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "EFD2F": {
+    "time": 1794141933.5868192,
+    "route": {
+      "callsign": "EFD2F",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1276,
+        "iata_code": "STR",
+        "icao_code": "EDDS",
+        "latitude": 48.6899,
+        "longitude": 9.22196,
+        "municipality": "Stuttgart",
+        "name": "Stuttgart Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 915,
+        "iata_code": "LUG",
+        "icao_code": "LSZA",
+        "latitude": 46.0043,
+        "longitude": 8.91058,
+        "municipality": "Lugano",
+        "name": "Lugano Airport"
       }
     }
   }
