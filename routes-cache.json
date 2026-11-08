@@ -27942,7 +27942,7 @@
     }
   },
   "VIR303": {
-    "time": 1794041434.5257144,
+    "time": 1794128125.0314074,
     "route": {
       "callsign": "VIR303",
       "callsign_icao": "VIR303",
@@ -103613,7 +103613,7 @@
     }
   },
   "BAW154": {
-    "time": 1793955657.9397123,
+    "time": 1794128125.0314074,
     "route": {
       "callsign": "BAW154",
       "callsign_icao": "BAW154",
@@ -223549,6 +223549,120 @@
         "longitude": -22.9494,
         "municipality": "Espargos",
         "name": "Am\u00edlcar Cabral International Airport"
+      }
+    }
+  },
+  "ETD9SM": {
+    "time": 1794128125.0314074,
+    "route": {
+      "callsign": "ETD9SM",
+      "callsign_icao": "ETD9SM",
+      "callsign_iata": "EY9SM",
+      "airline": {
+        "name": "Etihad Airways",
+        "icao": "ETD",
+        "iata": "EY",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "ETIHAD"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1026,
+        "iata_code": "ATL",
+        "icao_code": "KATL",
+        "latitude": 33.6367,
+        "longitude": -84.4281,
+        "municipality": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 88,
+        "iata_code": "AUH",
+        "icao_code": "OMAA",
+        "latitude": 24.44376,
+        "longitude": 54.65172,
+        "municipality": "Abu Dhabi",
+        "name": "Abu Dhabi International Airport"
+      }
+    }
+  },
+  "EXS4LF": {
+    "time": 1794128125.0314074,
+    "route": {
+      "callsign": "EXS4LF",
+      "callsign_icao": "EXS4LF",
+      "callsign_iata": "LS4LF",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 85,
+        "iata_code": "FUE",
+        "icao_code": "GCFV",
+        "latitude": 28.4527,
+        "longitude": -13.8638,
+        "municipality": "Fuerteventura Island",
+        "name": "Fuerteventura Airport"
+      }
+    }
+  },
+  "TOM4CX": {
+    "time": 1794128125.0314074,
+    "route": {
+      "callsign": "TOM4CX",
+      "callsign_icao": "TOM4CX",
+      "callsign_iata": "BY4CX",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 220,
+        "iata_code": "CWL",
+        "icao_code": "EGFF",
+        "latitude": 51.3967,
+        "longitude": -3.34333,
+        "municipality": "Cardiff",
+        "name": "Cardiff International Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 177,
+        "iata_code": "AYT",
+        "icao_code": "LTAI",
+        "latitude": 36.8987,
+        "longitude": 30.8005,
+        "municipality": "Antalya",
+        "name": "Antalya International Airport"
       }
     }
   }
