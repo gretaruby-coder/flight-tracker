@@ -8580,7 +8580,7 @@
     }
   },
   "VIR316": {
-    "time": 1793968524.0143769,
+    "time": 1794141047.971379,
     "route": {
       "callsign": "VIR316",
       "callsign_icao": "VIR316",
@@ -36412,7 +36412,7 @@
     }
   },
   "EIN156": {
-    "time": 1794052858.1919844,
+    "time": 1794141047.971379,
     "route": {
       "callsign": "EIN156",
       "callsign_icao": "EIN156",
@@ -36564,7 +36564,7 @@
     }
   },
   "DAL33": {
-    "time": 1794044126.6186554,
+    "time": 1794141047.971379,
     "route": {
       "callsign": "DAL33",
       "callsign_icao": "DAL33",
@@ -39832,7 +39832,7 @@
     }
   },
   "MEA201": {
-    "time": 1794054326.7064333,
+    "time": 1794141047.971379,
     "route": {
       "callsign": "MEA201",
       "callsign_icao": "MEA201",
@@ -45235,7 +45235,7 @@
     }
   },
   "SRR902": {
-    "time": 1793967351.304835,
+    "time": 1794141047.971379,
     "route": {
       "callsign": "SRR902",
       "callsign_icao": "SRR902",
@@ -60563,7 +60563,7 @@
     }
   },
   "KLM759": {
-    "time": 1793537131.448705,
+    "time": 1794141047.971379,
     "route": {
       "callsign": "KLM759",
       "callsign_icao": "KLM759",
@@ -72740,7 +72740,7 @@
     }
   },
   "BAW681": {
-    "time": 1794045325.9693966,
+    "time": 1794141047.971379,
     "route": {
       "callsign": "BAW681",
       "callsign_icao": "BAW681",
@@ -84216,7 +84216,7 @@
     }
   },
   "RYR29ML": {
-    "time": 1793984125.5952642,
+    "time": 1794141047.971379,
     "route": {
       "callsign": "RYR29ML",
       "callsign_icao": "RYR29ML",
@@ -106128,7 +106128,7 @@
     }
   },
   "UAL109": {
-    "time": 1793882125.1157224,
+    "time": 1794141047.971379,
     "route": {
       "callsign": "UAL109",
       "callsign_icao": "UAL109",
@@ -138649,7 +138649,7 @@
     }
   },
   "SWU1932": {
-    "time": 1793807725.5610611,
+    "time": 1794141047.971379,
     "route": {
       "callsign": "SWU1932",
       "callsign_icao": "SWU1932",
@@ -138721,37 +138721,6 @@
         "longitude": 9.98823,
         "municipality": "Hamburg",
         "name": "Hamburg Helmut Schmidt Airport"
-      }
-    }
-  },
-  "ELG3D": {
-    "time": 1793536245.0433784,
-    "route": {
-      "callsign": "ELG3D",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 1947,
-        "iata_code": "OBF",
-        "icao_code": "EDMO",
-        "latitude": 48.0814,
-        "longitude": 11.2831,
-        "municipality": "We\u00dfling",
-        "name": "Oberpfaffenhofen Airport"
-      },
-      "destination": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 1947,
-        "iata_code": "OBF",
-        "icao_code": "EDMO",
-        "latitude": 48.0814,
-        "longitude": 11.2831,
-        "municipality": "We\u00dfling",
-        "name": "Oberpfaffenhofen Airport"
       }
     }
   },
@@ -222292,6 +222261,82 @@
         "longitude": -0.36833,
         "municipality": "London",
         "name": "London Luton Airport"
+      }
+    }
+  },
+  "EZY42FB": {
+    "time": 1794141047.971379,
+    "route": {
+      "callsign": "EZY42FB",
+      "callsign_icao": "EZY42FB",
+      "callsign_iata": "U242FB",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 240,
+        "iata_code": "VLC",
+        "icao_code": "LEVC",
+        "latitude": 39.4893,
+        "longitude": -0.48163,
+        "municipality": "Valencia",
+        "name": "Valencia Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EZY82ZQ": {
+    "time": 1794141047.971379,
+    "route": {
+      "callsign": "EZY82ZQ",
+      "callsign_icao": "EZY82ZQ",
+      "callsign_iata": "U282ZQ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
       }
     }
   }
