@@ -25738,7 +25738,7 @@
     }
   },
   "BAW58L": {
-    "time": 1794025525.6990197,
+    "time": 1794112248.7318735,
     "route": {
       "callsign": "BAW58L",
       "callsign_icao": "BAW58L",
@@ -65008,44 +65008,6 @@
         "longitude": 7.14274,
         "municipality": "Cologne",
         "name": "Cologne Bonn Airport"
-      }
-    }
-  },
-  "CLX73M": {
-    "time": 1793507444.8324468,
-    "route": {
-      "callsign": "CLX73M",
-      "callsign_icao": "CLX73M",
-      "callsign_iata": "CV73M",
-      "airline": {
-        "name": "Cargolux",
-        "icao": "CLX",
-        "iata": "CV",
-        "country": "Luxembourg",
-        "country_iso": "LU",
-        "callsign": "CARGOLUX"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 97,
-        "iata_code": "IAH",
-        "icao_code": "KIAH",
-        "latitude": 29.9844,
-        "longitude": -95.3414,
-        "municipality": "Houston",
-        "name": "George Bush Intercontinental Houston Airport"
-      },
-      "destination": {
-        "country_iso_name": "LU",
-        "country_name": "Luxembourg",
-        "elevation": 1234,
-        "iata_code": "LUX",
-        "icao_code": "ELLX",
-        "latitude": 49.62333,
-        "longitude": 6.20444,
-        "municipality": "Luxembourg",
-        "name": "Luxembourg-Findel International Airport"
       }
     }
   },
@@ -225556,6 +225518,44 @@
         "longitude": 2.07846,
         "municipality": "Barcelona",
         "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      }
+    }
+  },
+  "RJA281": {
+    "time": 1794112248.7318735,
+    "route": {
+      "callsign": "RJA281",
+      "callsign_icao": "RJA281",
+      "callsign_iata": "RJ281",
+      "airline": {
+        "name": "Royal Jordanian",
+        "icao": "RJA",
+        "iata": "RJ",
+        "country": "Jordan",
+        "country_iso": "JO",
+        "callsign": "JORDANIAN"
+      },
+      "origin": {
+        "country_iso_name": "JO",
+        "country_name": "Jordan",
+        "elevation": 2395,
+        "iata_code": "AMM",
+        "icao_code": "OJAI",
+        "latitude": 31.7226,
+        "longitude": 35.9932,
+        "municipality": "Amman",
+        "name": "Queen Alia International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 312,
+        "iata_code": "IAD",
+        "icao_code": "KIAD",
+        "latitude": 38.9445,
+        "longitude": -77.4558,
+        "municipality": "Washington",
+        "name": "Washington Dulles International Airport"
       }
     }
   }
