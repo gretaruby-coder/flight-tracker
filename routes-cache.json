@@ -140922,7 +140922,7 @@
     }
   },
   "EZY54PU": {
-    "time": 1793826930.2740304,
+    "time": 1794101124.509187,
     "route": {
       "callsign": "EZY54PU",
       "callsign_icao": "EZY54PU",
@@ -226012,6 +226012,44 @@
         "longitude": -0.36833,
         "municipality": "London",
         "name": "London Luton Airport"
+      }
+    }
+  },
+  "FDX5303": {
+    "time": 1794101124.509187,
+    "route": {
+      "callsign": "FDX5303",
+      "callsign_icao": "FDX5303",
+      "callsign_iata": "FX5303",
+      "airline": {
+        "name": "FedEx Express",
+        "icao": "FDX",
+        "iata": "FX",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "FEDEX"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 341,
+        "iata_code": "MEM",
+        "icao_code": "KMEM",
+        "latitude": 35.0424,
+        "longitude": -89.9767,
+        "municipality": "Memphis",
+        "name": "Memphis International Airport"
       }
     }
   }
