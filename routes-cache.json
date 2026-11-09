@@ -9789,7 +9789,7 @@
     }
   },
   "BAW575": {
-    "time": 1794082236.7923465,
+    "time": 1794252327.4763803,
     "route": {
       "callsign": "BAW575",
       "callsign_icao": "BAW575",
@@ -15765,7 +15765,7 @@
     }
   },
   "THA916": {
-    "time": 1794164728.3428752,
+    "time": 1794252327.4763803,
     "route": {
       "callsign": "THA916",
       "callsign_icao": "THA916",
@@ -15803,7 +15803,7 @@
     }
   },
   "AUR610A": {
-    "time": 1794164125.9916236,
+    "time": 1794252327.4763803,
     "route": {
       "callsign": "AUR610A",
       "callsign_icao": "AUR610A",
@@ -21420,7 +21420,7 @@
     }
   },
   "BAW835W": {
-    "time": 1794082534.0586112,
+    "time": 1794252327.4763803,
     "route": {
       "callsign": "BAW835W",
       "callsign_icao": "BAW835W",
@@ -67534,7 +67534,7 @@
     }
   },
   "RYR21EU": {
-    "time": 1794127234.282545,
+    "time": 1794252327.4763803,
     "route": {
       "callsign": "RYR21EU",
       "callsign_icao": "RYR21EU",
@@ -72930,7 +72930,7 @@
     }
   },
   "RYR83YV": {
-    "time": 1794133526.9016845,
+    "time": 1794252327.4763803,
     "route": {
       "callsign": "RYR83YV",
       "callsign_icao": "RYR83YV",
@@ -77984,7 +77984,7 @@
     }
   },
   "RYR102B": {
-    "time": 1794142860.0262005,
+    "time": 1794252327.4763803,
     "route": {
       "callsign": "RYR102B",
       "callsign_icao": "RYR102B",
@@ -89042,7 +89042,7 @@
     }
   },
   "VIR300": {
-    "time": 1794165926.8792186,
+    "time": 1794252327.4763803,
     "route": {
       "callsign": "VIR300",
       "callsign_icao": "VIR300",
@@ -93671,7 +93671,7 @@
     }
   },
   "EZY763D": {
-    "time": 1794080735.291062,
+    "time": 1794252327.4763803,
     "route": {
       "callsign": "EZY763D",
       "callsign_icao": "EZY763D",
@@ -101409,7 +101409,7 @@
     }
   },
   "EXS3ME": {
-    "time": 1794083128.5022604,
+    "time": 1794252327.4763803,
     "route": {
       "callsign": "EXS3ME",
       "callsign_icao": "EXS3ME",
@@ -143971,44 +143971,6 @@
       }
     }
   },
-  "RYR12WF": {
-    "time": 1793647526.8360956,
-    "route": {
-      "callsign": "RYR12WF",
-      "callsign_icao": "RYR12WF",
-      "callsign_iata": "FR12WF",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 782,
-        "iata_code": "BGY",
-        "icao_code": "LIME",
-        "latitude": 45.6739,
-        "longitude": 9.70417,
-        "municipality": "Milan",
-        "name": "Milan Bergamo Airport"
-      },
-      "destination": {
-        "country_iso_name": "CZ",
-        "country_name": "Czech Republic",
-        "elevation": 1247,
-        "iata_code": "PRG",
-        "icao_code": "LKPR",
-        "latitude": 50.1008,
-        "longitude": 14.26,
-        "municipality": "Prague",
-        "name": "V\u00e1clav Havel Airport Prague"
-      }
-    }
-  },
   "SWR8EA": {
     "time": 1794165926.8792186,
     "route": {
@@ -146632,7 +146594,7 @@
     }
   },
   "EXS99P": {
-    "time": 1793660462.5790348,
+    "time": 1794252327.4763803,
     "route": {
       "callsign": "EXS99P",
       "callsign_icao": "EXS99P",
@@ -217783,6 +217745,44 @@
         "longitude": 0.69556,
         "municipality": "London",
         "name": "Southend Airport"
+      }
+    }
+  },
+  "EXS95A": {
+    "time": 1794252327.4763803,
+    "route": {
+      "callsign": "EXS95A",
+      "callsign_icao": "EXS95A",
+      "callsign_iata": "LS95A",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 177,
+        "iata_code": "AYT",
+        "icao_code": "LTAI",
+        "latitude": 36.8987,
+        "longitude": 30.8005,
+        "municipality": "Antalya",
+        "name": "Antalya International Airport"
       }
     }
   }
