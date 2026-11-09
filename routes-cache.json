@@ -60480,7 +60480,7 @@
     }
   },
   "OMA103": {
-    "time": 1794029126.168958,
+    "time": 1794202248.4897497,
     "route": {
       "callsign": "OMA103",
       "callsign_icao": "OMA103",
@@ -156044,7 +156044,7 @@
     }
   },
   "UAL748": {
-    "time": 1793683236.17488,
+    "time": 1794202248.4897497,
     "route": {
       "callsign": "UAL748",
       "callsign_icao": "UAL748",
@@ -217500,6 +217500,44 @@
         "longitude": 12.252,
         "municipality": "Rome",
         "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      }
+    }
+  },
+  "UAL52": {
+    "time": 1794202248.4897497,
+    "route": {
+      "callsign": "UAL52",
+      "callsign_icao": "UAL52",
+      "callsign_iata": "UA52",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 312,
+        "iata_code": "IAD",
+        "icao_code": "KIAD",
+        "latitude": 38.9445,
+        "longitude": -77.4558,
+        "municipality": "Washington",
+        "name": "Washington Dulles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
       }
     }
   }
