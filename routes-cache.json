@@ -37590,7 +37590,7 @@
     }
   },
   "MSR784": {
-    "time": 1794132934.364171,
+    "time": 1794225660.337212,
     "route": {
       "callsign": "MSR784",
       "callsign_icao": "MSR784",
@@ -41262,7 +41262,7 @@
     }
   },
   "CFE8704": {
-    "time": 1794052525.9354203,
+    "time": 1794225660.337212,
     "route": {
       "callsign": "CFE8704",
       "callsign_icao": "CFE8704",
@@ -44171,7 +44171,7 @@
     }
   },
   "TAP1329": {
-    "time": 1794051047.7854977,
+    "time": 1794225660.337212,
     "route": {
       "callsign": "TAP1329",
       "callsign_icao": "TAP1329",
@@ -74526,7 +74526,7 @@
     }
   },
   "EZY57GC": {
-    "time": 1794137125.1994414,
+    "time": 1794225660.337212,
     "route": {
       "callsign": "EZY57GC",
       "callsign_icao": "EZY57GC",
@@ -141767,44 +141767,6 @@
       }
     }
   },
-  "FIN1701": {
-    "time": 1793620526.4432502,
-    "route": {
-      "callsign": "FIN1701",
-      "callsign_icao": "FIN1701",
-      "callsign_iata": "AY1701",
-      "airline": {
-        "name": "Finnair",
-        "icao": "FIN",
-        "iata": "AY",
-        "country": "Finland",
-        "country_iso": "FI",
-        "callsign": "FINNAIR"
-      },
-      "origin": {
-        "country_iso_name": "FI",
-        "country_name": "Finland",
-        "elevation": 179,
-        "iata_code": "HEL",
-        "icao_code": "EFHK",
-        "latitude": 60.3172,
-        "longitude": 24.9633,
-        "municipality": "Helsinki",
-        "name": "Helsinki Vantaa Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 85,
-        "iata_code": "FUE",
-        "icao_code": "GCFV",
-        "latitude": 28.4527,
-        "longitude": -13.8638,
-        "municipality": "Fuerteventura Island",
-        "name": "Fuerteventura Airport"
-      }
-    }
-  },
   "ABP811": {
     "time": 1793620862.112676,
     "route": {
@@ -175793,7 +175755,7 @@
     }
   },
   "TAR793": {
-    "time": 1793880931.5854843,
+    "time": 1794225660.337212,
     "route": {
       "callsign": "TAR793",
       "callsign_icao": "TAR793",
@@ -177986,7 +177948,7 @@
     }
   },
   "RYR228R": {
-    "time": 1794049835.32294,
+    "time": 1794225660.337212,
     "route": {
       "callsign": "RYR228R",
       "callsign_icao": "RYR228R",
@@ -205919,7 +205881,7 @@
     }
   },
   "WUK70": {
-    "time": 1794139259.134462,
+    "time": 1794225660.337212,
     "route": {
       "callsign": "WUK70",
       "callsign_icao": "WUK70",
@@ -217728,6 +217690,120 @@
         "longitude": -1.74803,
         "municipality": "Birmingham",
         "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "BAW660": {
+    "time": 1794225660.337212,
+    "route": {
+      "callsign": "BAW660",
+      "callsign_icao": "BAW660",
+      "callsign_iata": "BA660",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "CY",
+        "country_name": "Cyprus",
+        "elevation": 8,
+        "iata_code": "LCA",
+        "icao_code": "LCLK",
+        "latitude": 34.8751,
+        "longitude": 33.6249,
+        "municipality": "Larnaca",
+        "name": "Larnaca International Airport"
+      }
+    }
+  },
+  "FXT60V": {
+    "time": 1794225660.337212,
+    "route": {
+      "callsign": "FXT60V",
+      "callsign_icao": "FXT60V",
+      "callsign_iata": "60V",
+      "airline": {
+        "name": "Flexflight",
+        "icao": "FXT",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      },
+      "destination": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 10,
+        "iata_code": "AAL",
+        "icao_code": "EKYT",
+        "latitude": 57.09276,
+        "longitude": 9.84924,
+        "municipality": "Aalborg",
+        "name": "Aalborg Airport"
+      }
+    }
+  },
+  "BAW43XP": {
+    "time": 1794225660.337212,
+    "route": {
+      "callsign": "BAW43XP",
+      "callsign_icao": "BAW43XP",
+      "callsign_iata": "BA43XP",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
       }
     }
   }
