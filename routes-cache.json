@@ -96179,7 +96179,7 @@
     }
   },
   "RYR28QL": {
-    "time": 1794009035.3402102,
+    "time": 1794184248.2178824,
     "route": {
       "callsign": "RYR28QL",
       "callsign_icao": "RYR28QL",
@@ -140064,44 +140064,6 @@
         "longitude": -0.55816,
         "municipality": "Alicante",
         "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 348,
-        "iata_code": "STN",
-        "icao_code": "EGSS",
-        "latitude": 51.885,
-        "longitude": 0.235,
-        "municipality": "London",
-        "name": "London Stansted Airport"
-      }
-    }
-  },
-  "RUK6142": {
-    "time": 1793579446.469999,
-    "route": {
-      "callsign": "RUK6142",
-      "callsign_icao": "RUK6142",
-      "callsign_iata": "RK6142",
-      "airline": {
-        "name": "Ryanair UK",
-        "icao": "RUK",
-        "iata": "RK",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 160,
-        "iata_code": "FMO",
-        "icao_code": "EDDG",
-        "latitude": 52.1346,
-        "longitude": 7.68483,
-        "municipality": "M\u00fcnster",
-        "name": "M\u00fcnster Osnabr\u00fcck Airport"
       },
       "destination": {
         "country_iso_name": "GB",
@@ -217424,6 +217386,82 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "ELY010": {
+    "time": 1794184248.2178824,
+    "route": {
+      "callsign": "ELY10",
+      "callsign_icao": "ELY10",
+      "callsign_iata": "LY10",
+      "airline": {
+        "name": "El Al Israel Airlines",
+        "icao": "ELY",
+        "iata": "LY",
+        "country": "Israel",
+        "country_iso": "IL",
+        "callsign": "ELAL"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IL",
+        "country_name": "Israel",
+        "elevation": 135,
+        "iata_code": "TLV",
+        "icao_code": "LLBG",
+        "latitude": 32.0114,
+        "longitude": 34.8867,
+        "municipality": "Tel Aviv",
+        "name": "Ben Gurion International Airport"
+      }
+    }
+  },
+  "AIZ991": {
+    "time": 1794184248.2178824,
+    "route": {
+      "callsign": "AIZ991",
+      "callsign_icao": "AIZ991",
+      "callsign_iata": "IZ991",
+      "airline": {
+        "name": "Arkia Israel Airlines",
+        "icao": "AIZ",
+        "iata": "IZ",
+        "country": "Israel",
+        "country_iso": "IL",
+        "callsign": "ARKIA"
+      },
+      "origin": {
+        "country_iso_name": "IL",
+        "country_name": "Israel",
+        "elevation": 135,
+        "iata_code": "TLV",
+        "icao_code": "LLBG",
+        "latitude": 32.0114,
+        "longitude": 34.8867,
+        "municipality": "Tel Aviv",
+        "name": "Ben Gurion International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
       }
     }
   }
