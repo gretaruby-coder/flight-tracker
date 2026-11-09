@@ -25441,7 +25441,7 @@
     }
   },
   "CPA251": {
-    "time": 1794113725.4680524,
+    "time": 1794200459.2394848,
     "route": {
       "callsign": "CPA251",
       "callsign_icao": "CPA251",
@@ -27721,7 +27721,7 @@
     }
   },
   "BAW2230": {
-    "time": 1794027658.8035831,
+    "time": 1794200459.2394848,
     "route": {
       "callsign": "BAW2230",
       "callsign_icao": "BAW2230",
@@ -217424,6 +217424,44 @@
         "longitude": 77.0405,
         "municipality": "Almaty",
         "name": "Almaty Airport"
+      }
+    }
+  },
+  "UAL19": {
+    "time": 1794200459.2394848,
+    "route": {
+      "callsign": "UAL19",
+      "callsign_icao": "UAL19",
+      "callsign_iata": "UA19",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "SFO",
+        "icao_code": "KSFO",
+        "latitude": 37.619,
+        "longitude": -122.375,
+        "municipality": "San Francisco",
+        "name": "San Francisco International Airport"
       }
     }
   }
