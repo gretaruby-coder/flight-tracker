@@ -1157,7 +1157,7 @@
     }
   },
   "BAW180": {
-    "time": 1794114634.0268495,
+    "time": 1794201333.7727003,
     "route": {
       "callsign": "BAW180",
       "callsign_icao": "BAW180",
@@ -177330,7 +177330,7 @@
     }
   },
   "WUK7474": {
-    "time": 1794029727.035586,
+    "time": 1794201333.7727003,
     "route": {
       "callsign": "WUK7474",
       "callsign_icao": "WUK7474",
@@ -217462,6 +217462,44 @@
         "longitude": -122.375,
         "municipality": "San Francisco",
         "name": "San Francisco International Airport"
+      }
+    }
+  },
+  "UAL40": {
+    "time": 1794201333.7727003,
+    "route": {
+      "callsign": "UAL40",
+      "callsign_icao": "UAL40",
+      "callsign_iata": "UA40",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
       }
     }
   }
