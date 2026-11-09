@@ -24833,7 +24833,7 @@
     }
   },
   "UAE70": {
-    "time": 1794011124.7861462,
+    "time": 1794183332.7710245,
     "route": {
       "callsign": "UAE70",
       "callsign_icao": "UAE70",
@@ -140116,44 +140116,6 @@
       }
     }
   },
-  "TOM23B": {
-    "time": 1793578532.272152,
-    "route": {
-      "callsign": "TOM23B",
-      "callsign_icao": "TOM23B",
-      "callsign_iata": "BY23B",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 102,
-        "iata_code": "EXT",
-        "icao_code": "EGTE",
-        "latitude": 50.7344,
-        "longitude": -3.41389,
-        "municipality": "Exeter",
-        "name": "Exeter International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GR",
-        "country_name": "Greece",
-        "elevation": 17,
-        "iata_code": "RHO",
-        "icao_code": "LGRP",
-        "latitude": 36.4054,
-        "longitude": 28.0862,
-        "municipality": "Rhodes Island",
-        "name": "Diagoras Airport"
-      }
-    }
-  },
   "EXS16U": {
     "time": 1793578834.514689,
     "route": {
@@ -177140,7 +177102,7 @@
     }
   },
   "EZY19JF": {
-    "time": 1794093927.2920635,
+    "time": 1794183332.7710245,
     "route": {
       "callsign": "EZY19JF",
       "callsign_icao": "EZY19JF",
@@ -217489,6 +217451,44 @@
         "longitude": -16.5725,
         "municipality": "Tenerife",
         "name": "Tenerife Sur Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EZY18KG": {
+    "time": 1794183332.7710245,
+    "route": {
+      "callsign": "EZY18KG",
+      "callsign_icao": "EZY18KG",
+      "callsign_iata": "U218KG",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
       },
       "destination": {
         "country_iso_name": "GB",
