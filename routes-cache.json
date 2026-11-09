@@ -30771,7 +30771,7 @@
     }
   },
   "BAW353": {
-    "time": 1794050727.272916,
+    "time": 1794218127.3727968,
     "route": {
       "callsign": "BAW353",
       "callsign_icao": "BAW353",
@@ -35918,7 +35918,7 @@
     }
   },
   "BAW26E": {
-    "time": 1794048635.187194,
+    "time": 1794218127.3727968,
     "route": {
       "callsign": "BAW26E",
       "callsign_icao": "BAW26E",
@@ -38882,7 +38882,7 @@
     }
   },
   "BAW53M": {
-    "time": 1794047449.0353782,
+    "time": 1794218127.3727968,
     "route": {
       "callsign": "BAW53M",
       "callsign_icao": "BAW53M",
@@ -39794,7 +39794,7 @@
     }
   },
   "BAW131": {
-    "time": 1794046533.8828645,
+    "time": 1794218127.3727968,
     "route": {
       "callsign": "BAW131",
       "callsign_icao": "BAW131",
@@ -53616,7 +53616,7 @@
     }
   },
   "SIA309": {
-    "time": 1794131725.004257,
+    "time": 1794218127.3727968,
     "route": {
       "callsign": "SIA309",
       "callsign_icao": "SIA309",
@@ -71828,7 +71828,7 @@
     }
   },
   "RYR61KR": {
-    "time": 1794082534.0586112,
+    "time": 1794218127.3727968,
     "route": {
       "callsign": "RYR61KR",
       "callsign_icao": "RYR61KR",
@@ -72132,7 +72132,7 @@
     }
   },
   "HOP48FM": {
-    "time": 1794046235.578082,
+    "time": 1794218127.3727968,
     "route": {
       "callsign": "HOP48FM",
       "callsign_icao": "HOP48FM",
@@ -131243,7 +131243,7 @@
     }
   },
   "WMT4834": {
-    "time": 1794129636.554249,
+    "time": 1794218127.3727968,
     "route": {
       "callsign": "WMT4834",
       "callsign_icao": "WMT4834",
@@ -140894,7 +140894,7 @@
     }
   },
   "EZY51UP": {
-    "time": 1793803845.1640644,
+    "time": 1794218127.3727968,
     "route": {
       "callsign": "EZY51UP",
       "callsign_icao": "EZY51UP",
@@ -217265,6 +217265,82 @@
         "longitude": 8.54806,
         "municipality": "Zurich",
         "name": "Z\u00fcrich Airport"
+      }
+    }
+  },
+  "VKG622": {
+    "time": 1794218127.3727968,
+    "route": {
+      "callsign": "VKG622",
+      "callsign_icao": "VKG622",
+      "callsign_iata": "622",
+      "airline": {
+        "name": "SunClass Airlines",
+        "icao": "VKG",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": "VIKING"
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      },
+      "destination": {
+        "country_iso_name": "CV",
+        "country_name": "Cape Verde",
+        "elevation": 177,
+        "iata_code": "SID",
+        "icao_code": "GVAC",
+        "latitude": 16.7414,
+        "longitude": -22.9494,
+        "municipality": "Espargos",
+        "name": "Am\u00edlcar Cabral International Airport"
+      }
+    }
+  },
+  "PGT1691": {
+    "time": 1794218127.3727968,
+    "route": {
+      "callsign": "PGT1691",
+      "callsign_icao": "PGT1691",
+      "callsign_iata": "H91691",
+      "airline": {
+        "name": "Pegasus Airlines",
+        "icao": "PGT",
+        "iata": "H9",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "SUNTURK"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 3125,
+        "iata_code": "ESB",
+        "icao_code": "LTAC",
+        "latitude": 40.1281,
+        "longitude": 32.9951,
+        "municipality": "Ankara",
+        "name": "Esenbo\u011fa International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
