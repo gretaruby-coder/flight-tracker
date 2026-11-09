@@ -1,83 +1,9 @@
 {
-  "updated": "2026-11-09T02:00:58.458637+00:00",
+  "updated": "2026-11-09T02:05:27.083726+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": [
-    {
-      "hex": "a3ee0b",
-      "type": "adsb_icao",
-      "flight": "UPS208  ",
-      "r": "N352UP",
-      "t": "B763",
-      "desc": "BOEING 767-300",
-      "ownOp": "CC & E I LLC",
-      "year": "2012",
-      "alt_baro": 32000,
-      "alt_geom": 32300,
-      "gs": 391.5,
-      "ias": 295,
-      "tas": 476,
-      "mach": 0.812,
-      "wd": 300,
-      "ws": 92,
-      "oat": -47,
-      "tat": -17,
-      "track": 272.78,
-      "track_rate": -0.09,
-      "roll": -0.88,
-      "mag_heading": 277.03,
-      "true_heading": 278.01,
-      "baro_rate": 0,
-      "geom_rate": 0,
-      "squawk": "4116",
-      "emergency": "none",
-      "category": "A5",
-      "nav_qnh": 1012.8,
-      "nav_altitude_mcp": 32000,
-      "nav_heading": 277.03,
-      "nav_modes": [
-        "vnav",
-        "tcas"
-      ],
-      "lat": 51.436432,
-      "lon": -0.830284,
-      "nic": 8,
-      "rc": 186,
-      "seen_pos": 0.284,
-      "version": 2,
-      "nic_baro": 1,
-      "nac_p": 11,
-      "nac_v": 1,
-      "sil": 3,
-      "sil_type": "perhour",
-      "gva": 2,
-      "sda": 2,
-      "alert": 0,
-      "spi": 0,
-      "mlat": [],
-      "tisb": [],
-      "messages": 261528,
-      "seen": 0.0,
-      "rssi": -7.2,
-      "dst": 15.754,
-      "dir": 267.3,
-      "registered_owner": "United Parcel Service",
-      "registered_owner_operator_flag_code": "UPS",
-      "origin": {
-        "iata": "CGN",
-        "icao": "EDDK",
-        "name": "Cologne Bonn Airport"
-      },
-      "destination": {
-        "iata": "EWR",
-        "icao": "KEWR",
-        "name": "Newark Liberty International Airport"
-      },
-      "airline_name": "United Parcel Service",
-      "airline_iata": "5X"
-    }
-  ]
+  "aircraft": []
 }
