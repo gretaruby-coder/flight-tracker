@@ -8055,7 +8055,7 @@
     }
   },
   "UAL15": {
-    "time": 1794067256.9353385,
+    "time": 1794239727.3652494,
     "route": {
       "callsign": "UAL15",
       "callsign_icao": "UAL15",
@@ -66850,7 +66850,7 @@
     }
   },
   "EZY107L": {
-    "time": 1794068434.5799422,
+    "time": 1794239727.3652494,
     "route": {
       "callsign": "EZY107L",
       "callsign_icao": "EZY107L",
@@ -142793,44 +142793,6 @@
       }
     }
   },
-  "THY5": {
-    "time": 1793634640.4617038,
-    "route": {
-      "callsign": "THY5",
-      "callsign_icao": "THY5",
-      "callsign_iata": "TK5",
-      "airline": {
-        "name": "Turkish Airlines",
-        "icao": "THY",
-        "iata": "TK",
-        "country": "Turkey",
-        "country_iso": "TR",
-        "callsign": "TURKAIR"
-      },
-      "origin": {
-        "country_iso_name": "TR",
-        "country_name": "Turkey",
-        "elevation": 325,
-        "iata_code": "IST",
-        "icao_code": "LTFM",
-        "latitude": 41.2613,
-        "longitude": 28.74195,
-        "municipality": "Arnavutk\u00f6y, Istanbul",
-        "name": "\u0130stanbul Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 672,
-        "iata_code": "ORD",
-        "icao_code": "KORD",
-        "latitude": 41.9786,
-        "longitude": -87.9048,
-        "municipality": "Chicago",
-        "name": "Chicago O'Hare International Airport"
-      }
-    }
-  },
   "EXS84N": {
     "time": 1794213636.5185585,
     "route": {
@@ -218063,6 +218025,37 @@
         "longitude": -0.51306,
         "municipality": "Gerrards Cross",
         "name": "Denham Aerodrome"
+      }
+    }
+  },
+  "NJU2VY": {
+    "time": 1794239727.3652494,
+    "route": {
+      "callsign": "NJU2VY",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 220,
+        "iata_code": "CWL",
+        "icao_code": "EGFF",
+        "latitude": 51.3967,
+        "longitude": -3.34333,
+        "municipality": "Cardiff",
+        "name": "Cardiff International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GG",
+        "country_name": "Guernsey",
+        "elevation": 336,
+        "iata_code": "GCI",
+        "icao_code": "EGJB",
+        "latitude": 49.435,
+        "longitude": -2.60197,
+        "municipality": "Saint Peter Port",
+        "name": "Guernsey Airport"
       }
     }
   }
