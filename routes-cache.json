@@ -1972,7 +1972,7 @@
     }
   },
   "BAW23T": {
-    "time": 1794048635.187194,
+    "time": 1794222934.412786,
     "route": {
       "callsign": "BAW23T",
       "callsign_icao": "BAW23T",
@@ -32329,7 +32329,7 @@
     }
   },
   "ITY218": {
-    "time": 1793952325.7114277,
+    "time": 1794222934.412786,
     "route": {
       "callsign": "ITY218",
       "callsign_icao": "ITY218",
@@ -39718,7 +39718,7 @@
     }
   },
   "BAW851": {
-    "time": 1794057335.047802,
+    "time": 1794222934.412786,
     "route": {
       "callsign": "BAW851",
       "callsign_icao": "BAW851",
@@ -47919,7 +47919,7 @@
     }
   },
   "EZY816K": {
-    "time": 1794132056.4502735,
+    "time": 1794222934.412786,
     "route": {
       "callsign": "EZY816K",
       "callsign_icao": "EZY816K",
@@ -60777,7 +60777,7 @@
     }
   },
   "NOZ4DE": {
-    "time": 1793960433.757778,
+    "time": 1794222934.412786,
     "route": {
       "callsign": "NOZ4DE",
       "callsign_icao": "NOZ4DE",
@@ -68560,7 +68560,7 @@
     }
   },
   "BAW594": {
-    "time": 1794054647.5363078,
+    "time": 1794222934.412786,
     "route": {
       "callsign": "BAW594",
       "callsign_icao": "BAW594",
@@ -73576,7 +73576,7 @@
     }
   },
   "EZY21QT": {
-    "time": 1794066034.7799003,
+    "time": 1794222934.412786,
     "route": {
       "callsign": "EZY21QT",
       "callsign_icao": "EZY21QT",
@@ -100086,7 +100086,7 @@
     }
   },
   "RYR244L": {
-    "time": 1794048928.9574957,
+    "time": 1794222934.412786,
     "route": {
       "callsign": "RYR244L",
       "callsign_icao": "RYR244L",
@@ -141795,37 +141795,6 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
-      }
-    }
-  },
-  "GBOKA": {
-    "time": 1793618133.8602393,
-    "route": {
-      "callsign": "GBOKA",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 80,
-        "iata_code": null,
-        "icao_code": "EGTF",
-        "latitude": 51.3481,
-        "longitude": -0.55889,
-        "municipality": "Woking",
-        "name": "Fairoaks Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 29,
-        "iata_code": null,
-        "icao_code": "EGCM",
-        "latitude": 53.8343,
-        "longitude": -1.1955,
-        "municipality": "Church Fenton",
-        "name": "Leeds East Airport"
       }
     }
   },
@@ -217562,6 +217531,120 @@
         "longitude": -0.36833,
         "municipality": "London",
         "name": "London Luton Airport"
+      }
+    }
+  },
+  "DAL15": {
+    "time": 1794222934.412786,
+    "route": {
+      "callsign": "DAL15",
+      "callsign_icao": "DAL15",
+      "callsign_iata": "DL15",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1026,
+        "iata_code": "ATL",
+        "icao_code": "KATL",
+        "latitude": 33.6367,
+        "longitude": -84.4281,
+        "municipality": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
+      }
+    }
+  },
+  "UAE3TK": {
+    "time": 1794222934.412786,
+    "route": {
+      "callsign": "UAE3TK",
+      "callsign_icao": "UAE3TK",
+      "callsign_iata": "EK3TK",
+      "airline": {
+        "name": "Emirates",
+        "icao": "UAE",
+        "iata": "EK",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "EMIRATES"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 308,
+        "iata_code": "ATH",
+        "icao_code": "LGAV",
+        "latitude": 37.9364,
+        "longitude": 23.9445,
+        "municipality": "Athens",
+        "name": "Athens Eleftherios Venizelos International Airport"
+      }
+    }
+  },
+  "RYR31SG": {
+    "time": 1794222934.412786,
+    "route": {
+      "callsign": "RYR31SG",
+      "callsign_icao": "RYR31SG",
+      "callsign_iata": "FR31SG",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 600,
+        "iata_code": "VIE",
+        "icao_code": "LOWW",
+        "latitude": 48.1103,
+        "longitude": 16.5697,
+        "municipality": "Vienna",
+        "name": "Vienna International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
       }
     }
   }
