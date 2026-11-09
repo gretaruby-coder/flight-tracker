@@ -25213,7 +25213,7 @@
     }
   },
   "BAW58L": {
-    "time": 1794112248.7318735,
+    "time": 1794198650.5686269,
     "route": {
       "callsign": "BAW58L",
       "callsign_icao": "BAW58L",
@@ -217310,6 +217310,82 @@
         "longitude": 7.14274,
         "municipality": "Cologne",
         "name": "Cologne Bonn Airport"
+      }
+    }
+  },
+  "ETD6PX": {
+    "time": 1794198650.5686269,
+    "route": {
+      "callsign": "ETD6PX",
+      "callsign_icao": "ETD6PX",
+      "callsign_iata": "EY6PX",
+      "airline": {
+        "name": "Etihad Airways",
+        "icao": "ETD",
+        "iata": "EY",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "ETIHAD"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 20,
+        "iata_code": "BOS",
+        "icao_code": "KBOS",
+        "latitude": 42.3643,
+        "longitude": -71.0052,
+        "municipality": "Boston",
+        "name": "Logan International Airport"
+      },
+      "destination": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 88,
+        "iata_code": "AUH",
+        "icao_code": "OMAA",
+        "latitude": 24.44376,
+        "longitude": 54.65172,
+        "municipality": "Abu Dhabi",
+        "name": "Abu Dhabi International Airport"
+      }
+    }
+  },
+  "DAL82": {
+    "time": 1794198650.5686269,
+    "route": {
+      "callsign": "DAL82",
+      "callsign_icao": "DAL82",
+      "callsign_iata": "DL82",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1026,
+        "iata_code": "ATL",
+        "icao_code": "KATL",
+        "latitude": 33.6367,
+        "longitude": -84.4281,
+        "municipality": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
       }
     }
   }
