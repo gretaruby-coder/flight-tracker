@@ -3205,7 +3205,7 @@
     }
   },
   "BAW8ER": {
-    "time": 1794055234.630163,
+    "time": 1794225928.5209265,
     "route": {
       "callsign": "BAW8ER",
       "callsign_icao": "BAW8ER",
@@ -6390,7 +6390,7 @@
     }
   },
   "BAW213": {
-    "time": 1794053127.3573496,
+    "time": 1794225928.5209265,
     "route": {
       "callsign": "BAW213",
       "callsign_icao": "BAW213",
@@ -30771,7 +30771,7 @@
     }
   },
   "BAW581X": {
-    "time": 1794065126.13756,
+    "time": 1794225928.5209265,
     "route": {
       "callsign": "BAW581X",
       "callsign_icao": "BAW581X",
@@ -60701,7 +60701,7 @@
     }
   },
   "NSZ2767": {
-    "time": 1793876124.5189378,
+    "time": 1794225928.5209265,
     "route": {
       "callsign": "NSZ2767",
       "callsign_icao": "NSZ2767",
@@ -69244,7 +69244,7 @@
     }
   },
   "RYR84KG": {
-    "time": 1794128457.8990512,
+    "time": 1794225928.5209265,
     "route": {
       "callsign": "RYR84KG",
       "callsign_icao": "RYR84KG",
@@ -132735,7 +132735,7 @@
     }
   },
   "EWG1UL": {
-    "time": 1793964924.980407,
+    "time": 1794225928.5209265,
     "route": {
       "callsign": "EWG1UL",
       "callsign_icao": "EWG1UL",
@@ -141764,37 +141764,6 @@
         "longitude": 4.76389,
         "municipality": "Amsterdam",
         "name": "Amsterdam Airport Schiphol"
-      }
-    }
-  },
-  "ABP811": {
-    "time": 1793620862.112676,
-    "route": {
-      "callsign": "ABP811",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 589,
-        "iata_code": "IAG",
-        "icao_code": "KIAG",
-        "latitude": 43.1073,
-        "longitude": -78.9462,
-        "municipality": "Niagara Falls",
-        "name": "Niagara Falls International Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 18,
-        "iata_code": "EWR",
-        "icao_code": "KEWR",
-        "latitude": 40.6925,
-        "longitude": -74.1687,
-        "municipality": "New York",
-        "name": "Newark Liberty International Airport"
       }
     }
   },
@@ -217804,6 +217773,120 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "AUA55": {
+    "time": 1794225928.5209265,
+    "route": {
+      "callsign": "AUA55",
+      "callsign_icao": "AUA55",
+      "callsign_iata": "OS55",
+      "airline": {
+        "name": "Austrian Airlines",
+        "icao": "AUA",
+        "iata": "OS",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "AUSTRIAN"
+      },
+      "origin": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 600,
+        "iata_code": "VIE",
+        "icao_code": "LOWW",
+        "latitude": 48.1103,
+        "longitude": 16.5697,
+        "municipality": "Vienna",
+        "name": "Vienna International Airport"
+      },
+      "destination": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 118,
+        "iata_code": "YUL",
+        "icao_code": "CYUL",
+        "latitude": 45.4706,
+        "longitude": -73.7408,
+        "municipality": "Montr\u00e9al",
+        "name": "Montreal / Pierre Elliott Trudeau International Airport"
+      }
+    }
+  },
+  "PGT39JN": {
+    "time": 1794225928.5209265,
+    "route": {
+      "callsign": "PGT39JN",
+      "callsign_icao": "PGT39JN",
+      "callsign_iata": "H939JN",
+      "airline": {
+        "name": "Pegasus Airlines",
+        "icao": "PGT",
+        "iata": "H9",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "SUNTURK"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 312,
+        "iata_code": "SAW",
+        "icao_code": "LTFJ",
+        "latitude": 40.8986,
+        "longitude": 29.3092,
+        "municipality": "Pendik, Istanbul",
+        "name": "Istanbul Sabiha G\u00f6k\u00e7en International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "RYR5DN": {
+    "time": 1794225928.5209265,
+    "route": {
+      "callsign": "RYR5DN",
+      "callsign_icao": "RYR5DN",
+      "callsign_iata": "FR5DN",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "PL",
+        "country_name": "Poland",
+        "elevation": 341,
+        "iata_code": "WMI",
+        "icao_code": "EPMO",
+        "latitude": 52.4511,
+        "longitude": 20.6518,
+        "municipality": "Warsaw",
+        "name": "Modlin Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
