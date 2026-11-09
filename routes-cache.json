@@ -335,7 +335,7 @@
     }
   },
   "BAW865": {
-    "time": 1794051635.9783428,
+    "time": 1794213934.3080454,
     "route": {
       "callsign": "BAW865",
       "callsign_icao": "BAW865",
@@ -17202,7 +17202,7 @@
     }
   },
   "BAW78H": {
-    "time": 1794047129.3349428,
+    "time": 1794213934.3080454,
     "route": {
       "callsign": "BAW78H",
       "callsign_icao": "BAW78H",
@@ -29676,7 +29676,7 @@
     }
   },
   "SWR542D": {
-    "time": 1794046533.8828645,
+    "time": 1794213934.3080454,
     "route": {
       "callsign": "SWR542D",
       "callsign_icao": "SWR542D",
@@ -30018,7 +30018,7 @@
     }
   },
   "AAL174": {
-    "time": 1794126325.9806519,
+    "time": 1794213934.3080454,
     "route": {
       "callsign": "AAL174",
       "callsign_icao": "AAL174",
@@ -33317,7 +33317,7 @@
     }
   },
   "CFE78X": {
-    "time": 1794048928.9574957,
+    "time": 1794213934.3080454,
     "route": {
       "callsign": "CFE78X",
       "callsign_icao": "CFE78X",
@@ -34906,7 +34906,7 @@
     }
   },
   "AAL51": {
-    "time": 1794043525.8434029,
+    "time": 1794213934.3080454,
     "route": {
       "callsign": "AAL51",
       "callsign_icao": "AAL51",
@@ -35766,7 +35766,7 @@
     }
   },
   "SLM994": {
-    "time": 1794045035.9913101,
+    "time": 1794213934.3080454,
     "route": {
       "callsign": "SLM994",
       "callsign_icao": "SLM994",
@@ -39718,7 +39718,7 @@
     }
   },
   "BAW828Y": {
-    "time": 1794043525.8434029,
+    "time": 1794213934.3080454,
     "route": {
       "callsign": "BAW828Y",
       "callsign_icao": "BAW828Y",
@@ -71942,7 +71942,7 @@
     }
   },
   "EZY53MF": {
-    "time": 1794048928.9574957,
+    "time": 1794213934.3080454,
     "route": {
       "callsign": "EZY53MF",
       "callsign_icao": "EZY53MF",
@@ -98224,7 +98224,7 @@
     }
   },
   "RYR1DH": {
-    "time": 1794127534.213548,
+    "time": 1794213934.3080454,
     "route": {
       "callsign": "RYR1DH",
       "callsign_icao": "RYR1DH",
@@ -98262,7 +98262,7 @@
     }
   },
   "RYR104Q": {
-    "time": 1794057335.047802,
+    "time": 1794213934.3080454,
     "route": {
       "callsign": "RYR104Q",
       "callsign_icao": "RYR104Q",
@@ -217500,6 +217500,82 @@
         "longitude": -73.8726,
         "municipality": "New York",
         "name": "La Guardia Airport"
+      }
+    }
+  },
+  "ACA872": {
+    "time": 1794213934.3080454,
+    "route": {
+      "callsign": "ACA872",
+      "callsign_icao": "ACA872",
+      "callsign_iata": "AC872",
+      "airline": {
+        "name": "Air Canada",
+        "icao": "ACA",
+        "iata": "AC",
+        "country": "Canada",
+        "country_iso": "CA",
+        "callsign": "AIR CANADA"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "SWR9G": {
+    "time": 1794213934.3080454,
+    "route": {
+      "callsign": "SWR9G",
+      "callsign_icao": "SWR9G",
+      "callsign_iata": "LX9G",
+      "airline": {
+        "name": "Swiss International Air Lines",
+        "icao": "SWR",
+        "iata": "LX",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": "SWISS"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
       }
     }
   }
