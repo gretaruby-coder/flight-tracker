@@ -7302,7 +7302,7 @@
     }
   },
   "BAW97A": {
-    "time": 1794069047.8117683,
+    "time": 1794241238.2781122,
     "route": {
       "callsign": "BAW97A",
       "callsign_icao": "BAW97A",
@@ -8017,7 +8017,7 @@
     }
   },
   "EIN52T": {
-    "time": 1794069047.8117683,
+    "time": 1794241238.2781122,
     "route": {
       "callsign": "EIN52T",
       "callsign_icao": "EIN52T",
@@ -116687,7 +116687,7 @@
     }
   },
   "DLH2C": {
-    "time": 1793722838.1870558,
+    "time": 1794241238.2781122,
     "route": {
       "callsign": "DLH2C",
       "callsign_icao": "DLH2C",
@@ -166381,7 +166381,7 @@
     }
   },
   "BAW4TH": {
-    "time": 1794071432.6703534,
+    "time": 1794241238.2781122,
     "route": {
       "callsign": "BAW4TH",
       "callsign_icao": "BAW4TH",
@@ -217935,6 +217935,120 @@
         "longitude": 5.21814,
         "municipality": "Bergen",
         "name": "Bergen Airport, Flesland"
+      }
+    }
+  },
+  "EZY43NU": {
+    "time": 1794241238.2781122,
+    "route": {
+      "callsign": "EZY43NU",
+      "callsign_icao": "EZY43NU",
+      "callsign_iata": "U243NU",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1487,
+        "iata_code": "MUC",
+        "icao_code": "EDDM",
+        "latitude": 48.3538,
+        "longitude": 11.7861,
+        "municipality": "Munich",
+        "name": "Munich Airport"
+      }
+    }
+  },
+  "BLX101": {
+    "time": 1794241238.2781122,
+    "route": {
+      "callsign": "BLX101",
+      "callsign_icao": "BLX101",
+      "callsign_iata": "6B101",
+      "airline": {
+        "name": "TUIfly Nordic",
+        "icao": "BLX",
+        "iata": "6B",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": "BLUESCAN"
+      },
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 352,
+        "iata_code": "KSD",
+        "icao_code": "ESOK",
+        "latitude": 59.4447,
+        "longitude": 13.3374,
+        "municipality": "Karlstad",
+        "name": "Karlstad Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "EJU56MJ": {
+    "time": 1794241238.2781122,
+    "route": {
+      "callsign": "EJU56MJ",
+      "callsign_icao": "EJU56MJ",
+      "callsign_iata": "EC56MJ",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 26,
+        "iata_code": "BIA",
+        "icao_code": "LFKB",
+        "latitude": 42.5527,
+        "longitude": 9.48373,
+        "municipality": "Bastia/Poretta",
+        "name": "Bastia-Poretta Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 162,
+        "iata_code": "BOD",
+        "icao_code": "LFBD",
+        "latitude": 44.8283,
+        "longitude": -0.71556,
+        "municipality": "Bordeaux/M\u00e9rignac",
+        "name": "Bordeaux-M\u00e9rignac Airport"
       }
     }
   }
