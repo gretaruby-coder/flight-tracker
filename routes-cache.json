@@ -45805,7 +45805,7 @@
     }
   },
   "CFE72JF": {
-    "time": 1794051635.9783428,
+    "time": 1794241851.3757832,
     "route": {
       "callsign": "CFE72JF",
       "callsign_icao": "CFE72JF",
@@ -69662,7 +69662,7 @@
     }
   },
   "RYR5HB": {
-    "time": 1794062733.7883077,
+    "time": 1794241851.3757832,
     "route": {
       "callsign": "RYR5HB",
       "callsign_icao": "RYR5HB",
@@ -74222,7 +74222,7 @@
     }
   },
   "EZY62JL": {
-    "time": 1794153928.1319485,
+    "time": 1794241851.3757832,
     "route": {
       "callsign": "EZY62JL",
       "callsign_icao": "EZY62JL",
@@ -76654,7 +76654,7 @@
     }
   },
   "RYR6MV": {
-    "time": 1794046235.578082,
+    "time": 1794241851.3757832,
     "route": {
       "callsign": "RYR6MV",
       "callsign_icao": "RYR6MV",
@@ -84748,7 +84748,7 @@
     }
   },
   "QTR110": {
-    "time": 1794155125.8604524,
+    "time": 1794241851.3757832,
     "route": {
       "callsign": "QTR110",
       "callsign_icao": "QTR110",
@@ -102207,7 +102207,7 @@
     }
   },
   "EIN636": {
-    "time": 1793896831.2645593,
+    "time": 1794241851.3757832,
     "route": {
       "callsign": "EIN636",
       "callsign_icao": "EIN636",
@@ -142908,7 +142908,7 @@
     }
   },
   "UBT79G": {
-    "time": 1793809850.0853627,
+    "time": 1794241851.3757832,
     "route": {
       "callsign": "UBT79G",
       "callsign_icao": "UBT79G",
@@ -143170,44 +143170,6 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
-      }
-    }
-  },
-  "TOM4CH": {
-    "time": 1793637050.7597268,
-    "route": {
-      "callsign": "TOM4CH",
-      "callsign_icao": "TOM4CH",
-      "callsign_iata": "BY4CH",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 209,
-        "iata_code": "TFS",
-        "icao_code": "GCTS",
-        "latitude": 28.0445,
-        "longitude": -16.5725,
-        "municipality": "Tenerife",
-        "name": "Tenerife Sur Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 117,
-        "iata_code": "NWI",
-        "icao_code": "EGSH",
-        "latitude": 52.6758,
-        "longitude": 1.28278,
-        "municipality": "Norwich",
-        "name": "Norwich International Airport"
       }
     }
   },
@@ -218049,6 +218011,120 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "NSZ5324": {
+    "time": 1794241851.3757832,
+    "route": {
+      "callsign": "NSZ5324",
+      "callsign_icao": "NSZ5324",
+      "callsign_iata": "D85324",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "CAT338": {
+    "time": 1794241851.3757832,
+    "route": {
+      "callsign": "CAT338",
+      "callsign_icao": "CAT338",
+      "callsign_iata": "338",
+      "airline": {
+        "name": "Copenhagen Airtaxi",
+        "icao": "CAT",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": "AIRCAT"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 341,
+        "iata_code": "PXO",
+        "icao_code": "LPPS",
+        "latitude": 33.0734,
+        "longitude": -16.35,
+        "municipality": "Vila Baleira",
+        "name": "Porto Santo Airport"
+      },
+      "destination": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 247,
+        "iata_code": "BLL",
+        "icao_code": "EKBI",
+        "latitude": 55.7403,
+        "longitude": 9.15178,
+        "municipality": "Billund",
+        "name": "Billund Airport"
+      }
+    }
+  },
+  "RYR45YJ": {
+    "time": 1794241851.3757832,
+    "route": {
+      "callsign": "RYR45YJ",
+      "callsign_icao": "RYR45YJ",
+      "callsign_iata": "FR45YJ",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
