@@ -3053,7 +3053,7 @@
     }
   },
   "BAW801": {
-    "time": 1794063659.6950433,
+    "time": 1794234655.3006723,
     "route": {
       "callsign": "BAW801",
       "callsign_icao": "BAW801",
@@ -78934,7 +78934,7 @@
     }
   },
   "BAW596": {
-    "time": 1794067834.8693264,
+    "time": 1794234655.3006723,
     "route": {
       "callsign": "BAW596",
       "callsign_icao": "BAW596",
@@ -81252,7 +81252,7 @@
     }
   },
   "BAW84E": {
-    "time": 1794063927.1966538,
+    "time": 1794234655.3006723,
     "route": {
       "callsign": "BAW84E",
       "callsign_icao": "BAW84E",
@@ -101447,7 +101447,7 @@
     }
   },
   "BAW952M": {
-    "time": 1794064534.0025008,
+    "time": 1794234655.3006723,
     "route": {
       "callsign": "BAW952M",
       "callsign_icao": "BAW952M",
@@ -116618,7 +116618,7 @@
     }
   },
   "EXS94A": {
-    "time": 1793908235.3748693,
+    "time": 1794234655.3006723,
     "route": {
       "callsign": "EXS94A",
       "callsign_icao": "EXS94A",
@@ -218274,6 +218274,120 @@
         "longitude": 19.26109,
         "municipality": "Budapest",
         "name": "Budapest Liszt Ferenc International Airport"
+      }
+    }
+  },
+  "CFE28LW": {
+    "time": 1794234655.3006723,
+    "route": {
+      "callsign": "CFE28LW",
+      "callsign_icao": "CFE28LW",
+      "callsign_iata": "CJ28LW",
+      "airline": {
+        "name": "BA CityFlyer",
+        "icao": "CFE",
+        "iata": "CJ",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "FLYER"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 19,
+        "iata_code": "LCY",
+        "icao_code": "EGLC",
+        "latitude": 51.5053,
+        "longitude": 0.05528,
+        "municipality": "London",
+        "name": "London City Airport"
+      }
+    }
+  },
+  "DLH498": {
+    "time": 1794234655.3006723,
+    "route": {
+      "callsign": "DLH498",
+      "callsign_icao": "DLH498",
+      "callsign_iata": "LH498",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "MX",
+        "country_name": "Mexico",
+        "elevation": 7316,
+        "iata_code": "MEX",
+        "icao_code": "MMMX",
+        "latitude": 19.4363,
+        "longitude": -99.0721,
+        "municipality": "Mexico City",
+        "name": "Licenciado Benito Juarez International Airport"
+      }
+    }
+  },
+  "CFG3748": {
+    "time": 1794234655.3006723,
+    "route": {
+      "callsign": "CFG3748",
+      "callsign_icao": "CFG3748",
+      "callsign_iata": "DE3748",
+      "airline": {
+        "name": "Condor Flugdienst",
+        "icao": "CFG",
+        "iata": "DE",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "CONDOR"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "JM",
+        "country_name": "Jamaica",
+        "elevation": 4,
+        "iata_code": "MBJ",
+        "icao_code": "MKJS",
+        "latitude": 18.5037,
+        "longitude": -77.9134,
+        "municipality": "Montego Bay",
+        "name": "Sangster International Airport"
       }
     }
   }
