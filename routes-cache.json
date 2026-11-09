@@ -27949,7 +27949,7 @@
     }
   },
   "SHT7B": {
-    "time": 1794045325.9693966,
+    "time": 1794214528.3998394,
     "route": {
       "callsign": "SHT7B",
       "callsign_icao": null,
@@ -48869,7 +48869,7 @@
     }
   },
   "BAW820": {
-    "time": 1794057335.047802,
+    "time": 1794214528.3998394,
     "route": {
       "callsign": "BAW820",
       "callsign_icao": "BAW820",
@@ -51951,7 +51951,7 @@
     }
   },
   "UAL177": {
-    "time": 1793869526.6840837,
+    "time": 1794214528.3998394,
     "route": {
       "callsign": "UAL177",
       "callsign_icao": "UAL177",
@@ -140628,7 +140628,7 @@
     }
   },
   "EZY296M": {
-    "time": 1794032437.1649845,
+    "time": 1794214528.3998394,
     "route": {
       "callsign": "EZY296M",
       "callsign_icao": "EZY296M",
@@ -196782,7 +196782,7 @@
     }
   },
   "EXS2P": {
-    "time": 1794051635.9783428,
+    "time": 1794214528.3998394,
     "route": {
       "callsign": "EXS2P",
       "callsign_icao": "EXS2P",
@@ -217538,6 +217538,82 @@
         "longitude": -16.7745,
         "municipality": "Funchal",
         "name": "Madeira International Airport Cristiano Ronaldo"
+      }
+    }
+  },
+  "ACA50": {
+    "time": 1794214528.3998394,
+    "route": {
+      "callsign": "ACA50",
+      "callsign_icao": "ACA50",
+      "callsign_iata": "AC50",
+      "airline": {
+        "name": "Air Canada",
+        "icao": "ACA",
+        "iata": "AC",
+        "country": "Canada",
+        "country_iso": "CA",
+        "callsign": "AIR CANADA"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 118,
+        "iata_code": "YUL",
+        "icao_code": "CYUL",
+        "latitude": 45.4706,
+        "longitude": -73.7408,
+        "municipality": "Montr\u00e9al",
+        "name": "Montreal / Pierre Elliott Trudeau International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IN",
+        "country_name": "India",
+        "elevation": 777,
+        "iata_code": "DEL",
+        "icao_code": "VIDP",
+        "latitude": 28.5665,
+        "longitude": 77.1031,
+        "municipality": "New Delhi",
+        "name": "Indira Gandhi International Airport"
+      }
+    }
+  },
+  "AFR7U": {
+    "time": 1794214528.3998394,
+    "route": {
+      "callsign": "AFR7U",
+      "callsign_icao": "AFR7U",
+      "callsign_iata": "AF7U",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
       }
     }
   }
