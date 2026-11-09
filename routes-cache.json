@@ -1675,7 +1675,7 @@
     }
   },
   "JBU20": {
-    "time": 1794141634.86278,
+    "time": 1794229262.0414045,
     "route": {
       "callsign": "JBU20",
       "callsign_icao": "JBU20",
@@ -35842,7 +35842,7 @@
     }
   },
   "DAL141": {
-    "time": 1793797261.1469588,
+    "time": 1794229262.0414045,
     "route": {
       "callsign": "DAL141",
       "callsign_icao": "DAL141",
@@ -39034,7 +39034,7 @@
     }
   },
   "SAS41C": {
-    "time": 1794060933.3804462,
+    "time": 1794229262.0414045,
     "route": {
       "callsign": "SAS41C",
       "callsign_icao": "SAS41C",
@@ -43525,7 +43525,7 @@
     }
   },
   "ITY226": {
-    "time": 1794142526.788332,
+    "time": 1794229262.0414045,
     "route": {
       "callsign": "ITY226",
       "callsign_icao": "ITY226",
@@ -45197,7 +45197,7 @@
     }
   },
   "KLM765": {
-    "time": 1794132635.4312217,
+    "time": 1794229262.0414045,
     "route": {
       "callsign": "KLM765",
       "callsign_icao": "KLM765",
@@ -75210,7 +75210,7 @@
     }
   },
   "DLH8CJ": {
-    "time": 1794061848.915707,
+    "time": 1794229262.0414045,
     "route": {
       "callsign": "DLH8CJ",
       "callsign_icao": "DLH8CJ",
@@ -77262,7 +77262,7 @@
     }
   },
   "BAW668": {
-    "time": 1794139834.6331744,
+    "time": 1794229262.0414045,
     "route": {
       "callsign": "BAW668",
       "callsign_icao": "BAW668",
@@ -77452,7 +77452,7 @@
     }
   },
   "LHX2474": {
-    "time": 1794057035.8240094,
+    "time": 1794229262.0414045,
     "route": {
       "callsign": "LHX2474",
       "callsign_icao": "LHX2474",
@@ -189401,7 +189401,7 @@
     }
   },
   "EZY89HL": {
-    "time": 1794001535.0404813,
+    "time": 1794229262.0414045,
     "route": {
       "callsign": "EZY89HL",
       "callsign_icao": "EZY89HL",
@@ -217869,6 +217869,158 @@
         "longitude": 8.57056,
         "municipality": "Frankfurt am Main",
         "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      }
+    }
+  },
+  "OCN2104": {
+    "time": 1794229262.0414045,
+    "route": {
+      "callsign": "OCN2104",
+      "callsign_icao": "OCN2104",
+      "callsign_iata": "2104",
+      "airline": {
+        "name": "O Air",
+        "icao": "OCN",
+        "iata": null,
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "O-BIRD"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 491,
+        "iata_code": "SWF",
+        "icao_code": "KSWF",
+        "latitude": 41.5041,
+        "longitude": -74.1048,
+        "municipality": "Newburgh",
+        "name": "New York Stewart International Airport"
+      }
+    }
+  },
+  "BAW246D": {
+    "time": 1794229262.0414045,
+    "route": {
+      "callsign": "BAW246D",
+      "callsign_icao": "BAW246D",
+      "callsign_iata": "BA246D",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "BR",
+        "country_name": "Brazil",
+        "elevation": 2461,
+        "iata_code": "GRU",
+        "icao_code": "SBGR",
+        "latitude": -23.43194,
+        "longitude": -46.46778,
+        "municipality": "S\u00e3o Paulo",
+        "name": "Guarulhos - Governador Andr\u00e9 Franco Montoro International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "DLH452": {
+    "time": 1794229262.0414045,
+    "route": {
+      "callsign": "DLH452",
+      "callsign_icao": "DLH452",
+      "callsign_iata": "LH452",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1487,
+        "iata_code": "MUC",
+        "icao_code": "EDDM",
+        "latitude": 48.3538,
+        "longitude": 11.7861,
+        "municipality": "Munich",
+        "name": "Munich Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 125,
+        "iata_code": "LAX",
+        "icao_code": "KLAX",
+        "latitude": 33.9425,
+        "longitude": -118.408,
+        "municipality": "Los Angeles",
+        "name": "Los Angeles International Airport"
+      }
+    }
+  },
+  "EZY36EG": {
+    "time": 1794229262.0414045,
+    "route": {
+      "callsign": "EZY36EG",
+      "callsign_icao": "EZY36EG",
+      "callsign_iata": "U236EG",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 268,
+        "iata_code": "BFS",
+        "icao_code": "EGAA",
+        "latitude": 54.6575,
+        "longitude": -6.21583,
+        "municipality": "Belfast",
+        "name": "Belfast International Airport"
       },
       "destination": {
         "country_iso_name": "GB",
