@@ -25707,7 +25707,7 @@
     }
   },
   "VIR4C": {
-    "time": 1794030635.0783992,
+    "time": 1794202835.2654047,
     "route": {
       "callsign": "VIR4C",
       "callsign_icao": "VIR4C",
@@ -26277,7 +26277,7 @@
     }
   },
   "BAW40F": {
-    "time": 1794116127.7536879,
+    "time": 1794202835.2654047,
     "route": {
       "callsign": "BAW40F",
       "callsign_icao": "BAW40F",
@@ -26467,7 +26467,7 @@
     }
   },
   "BAW2064": {
-    "time": 1794030035.5399263,
+    "time": 1794202835.2654047,
     "route": {
       "callsign": "BAW2064",
       "callsign_icao": "BAW2064",
@@ -113229,44 +113229,6 @@
       }
     }
   },
-  "UAL108": {
-    "time": 1793597725.9625967,
-    "route": {
-      "callsign": "UAL108",
-      "callsign_icao": "UAL108",
-      "callsign_iata": "UA108",
-      "airline": {
-        "name": "United Airlines",
-        "icao": "UAL",
-        "iata": "UA",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "UNITED"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 18,
-        "iata_code": "EWR",
-        "icao_code": "KEWR",
-        "latitude": 40.6925,
-        "longitude": -74.1687,
-        "municipality": "New York",
-        "name": "Newark Liberty International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 135,
-        "iata_code": "EDI",
-        "icao_code": "EGPH",
-        "latitude": 55.95015,
-        "longitude": -3.37229,
-        "municipality": "Edinburgh",
-        "name": "Edinburgh Airport"
-      }
-    }
-  },
   "WUK721": {
     "time": 1793945732.107071,
     "route": {
@@ -126003,7 +125965,7 @@
     }
   },
   "UAL3": {
-    "time": 1793613656.8759036,
+    "time": 1794202835.2654047,
     "route": {
       "callsign": "UAL3",
       "callsign_icao": "UAL3",
@@ -217538,6 +217500,44 @@
         "longitude": 8.54806,
         "municipality": "Zurich",
         "name": "Z\u00fcrich Airport"
+      }
+    }
+  },
+  "ACA874": {
+    "time": 1794202835.2654047,
+    "route": {
+      "callsign": "ACA874",
+      "callsign_icao": "ACA874",
+      "callsign_iata": "AC874",
+      "airline": {
+        "name": "Air Canada",
+        "icao": "ACA",
+        "iata": "AC",
+        "country": "Canada",
+        "country_iso": "CA",
+        "callsign": "AIR CANADA"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 118,
+        "iata_code": "YUL",
+        "icao_code": "CYUL",
+        "latitude": 45.4706,
+        "longitude": -73.7408,
+        "municipality": "Montr\u00e9al",
+        "name": "Montreal / Pierre Elliott Trudeau International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
       }
     }
   }
