@@ -26429,7 +26429,7 @@
     }
   },
   "VIR10H": {
-    "time": 1794042059.3852005,
+    "time": 1794214863.123223,
     "route": {
       "callsign": "VIR10H",
       "callsign_icao": "VIR10H",
@@ -31113,7 +31113,7 @@
     }
   },
   "DLH413": {
-    "time": 1794125435.1315868,
+    "time": 1794214863.123223,
     "route": {
       "callsign": "DLH413",
       "callsign_icao": "DLH413",
@@ -31759,7 +31759,7 @@
     }
   },
   "ELY311": {
-    "time": 1793944856.7602015,
+    "time": 1794214863.123223,
     "route": {
       "callsign": "ELY311",
       "callsign_icao": "ELY311",
@@ -71676,7 +71676,7 @@
     }
   },
   "QTR34H": {
-    "time": 1794043235.2039165,
+    "time": 1794214863.123223,
     "route": {
       "callsign": "QTR34H",
       "callsign_icao": "QTR34H",
@@ -71714,7 +71714,7 @@
     }
   },
   "EZY16HR": {
-    "time": 1794040247.600914,
+    "time": 1794214863.123223,
     "route": {
       "callsign": "EZY16HR",
       "callsign_icao": "EZY16HR",
@@ -120945,44 +120945,6 @@
       }
     }
   },
-  "THY69W": {
-    "time": 1793610060.248558,
-    "route": {
-      "callsign": "THY69W",
-      "callsign_icao": "THY69W",
-      "callsign_iata": "TK69W",
-      "airline": {
-        "name": "Turkish Airlines",
-        "icao": "THY",
-        "iata": "TK",
-        "country": "Turkey",
-        "country_iso": "TR",
-        "callsign": "TURKAIR"
-      },
-      "origin": {
-        "country_iso_name": "TR",
-        "country_name": "Turkey",
-        "elevation": 325,
-        "iata_code": "IST",
-        "icao_code": "LTFM",
-        "latitude": 41.2613,
-        "longitude": 28.74195,
-        "municipality": "Arnavutk\u00f6y, Istanbul",
-        "name": "\u0130stanbul Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 312,
-        "iata_code": "IAD",
-        "icao_code": "KIAD",
-        "latitude": 38.9445,
-        "longitude": -77.4558,
-        "municipality": "Washington",
-        "name": "Washington Dulles International Airport"
-      }
-    }
-  },
   "CLX32P": {
     "time": 1793894124.2362285,
     "route": {
@@ -131205,7 +131167,7 @@
     }
   },
   "WMT1XF": {
-    "time": 1794042059.3852005,
+    "time": 1794214863.123223,
     "route": {
       "callsign": "WMT1XF",
       "callsign_icao": "WMT1XF",
@@ -177209,7 +177171,7 @@
     }
   },
   "EWG9XB": {
-    "time": 1794050435.0807602,
+    "time": 1794214863.123223,
     "route": {
       "callsign": "EWG9XB",
       "callsign_icao": "EWG9XB",
@@ -217614,6 +217576,37 @@
         "longitude": 2.55,
         "municipality": "Paris",
         "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "JFA11P": {
+    "time": 1794214863.123223,
+    "route": {
+      "callsign": "JFA11P",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 726,
+        "iata_code": "DIJ",
+        "icao_code": "LFSD",
+        "latitude": 47.2689,
+        "longitude": 5.09,
+        "municipality": "Dijon/Longvic",
+        "name": "Dijon-Bourgogne Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 3307,
+        "iata_code": null,
+        "icao_code": "LSGK",
+        "latitude": 46.4875,
+        "longitude": 7.25083,
+        "municipality": "Saanen",
+        "name": "Saanen Airport"
       }
     }
   }
