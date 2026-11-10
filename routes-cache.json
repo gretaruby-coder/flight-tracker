@@ -2010,7 +2010,7 @@
     }
   },
   "BAW48Q": {
-    "time": 1794147333.6285825,
+    "time": 1794318036.0820413,
     "route": {
       "callsign": "BAW48Q",
       "callsign_icao": "BAW48Q",
@@ -36160,7 +36160,7 @@
     }
   },
   "BAW18A": {
-    "time": 1794224434.8652773,
+    "time": 1794318036.0820413,
     "route": {
       "callsign": "BAW18A",
       "callsign_icao": "BAW18A",
@@ -37832,7 +37832,7 @@
     }
   },
   "AAL109": {
-    "time": 1794231326.1514695,
+    "time": 1794318036.0820413,
     "route": {
       "callsign": "AAL109",
       "callsign_icao": "AAL109",
@@ -71728,7 +71728,7 @@
     }
   },
   "EZY19KL": {
-    "time": 1794218462.6705697,
+    "time": 1794318036.0820413,
     "route": {
       "callsign": "EZY19KL",
       "callsign_icao": "EZY19KL",
@@ -146480,7 +146480,7 @@
     }
   },
   "CFE635": {
-    "time": 1794143734.6326134,
+    "time": 1794318036.0820413,
     "route": {
       "callsign": "CFE635",
       "callsign_icao": "CFE635",
@@ -216028,6 +216028,151 @@
         "longitude": 1.36382,
         "municipality": "Toulouse/Blagnac",
         "name": "Toulouse-Blagnac Airport"
+      }
+    }
+  },
+  "TFL511": {
+    "time": 1794318036.0820413,
+    "route": {
+      "callsign": "TFL511",
+      "callsign_icao": "TFL511",
+      "callsign_iata": "OR511",
+      "airline": {
+        "name": "Arkefly",
+        "icao": "TFL",
+        "iata": "OR",
+        "country": "Netherlands",
+        "country_iso": "NL",
+        "callsign": "ARKEFLY"
+      },
+      "origin": {
+        "country_iso_name": "MX",
+        "country_name": "Mexico",
+        "elevation": 22,
+        "iata_code": "CUN",
+        "icao_code": "MMUN",
+        "latitude": 21.0365,
+        "longitude": -86.8771,
+        "municipality": "Canc\u00fan",
+        "name": "Canc\u00fan International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "NJE4VP": {
+    "time": 1794318036.0820413,
+    "route": {
+      "callsign": "NJE4VP",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 9,
+        "iata_code": "TEB",
+        "icao_code": "KTEB",
+        "latitude": 40.8501,
+        "longitude": -74.0608,
+        "municipality": "Teterboro",
+        "name": "Teterboro Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 218,
+        "iata_code": "LBG",
+        "icao_code": "LFPB",
+        "latitude": 48.9694,
+        "longitude": 2.44139,
+        "municipality": "Paris",
+        "name": "Paris-Le Bourget Airport"
+      }
+    }
+  },
+  "DLH402": {
+    "time": 1794318036.0820413,
+    "route": {
+      "callsign": "DLH402",
+      "callsign_icao": "DLH402",
+      "callsign_iata": "LH402",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      }
+    }
+  },
+  "NSZ2VJ": {
+    "time": 1794318036.0820413,
+    "route": {
+      "callsign": "NSZ2VJ",
+      "callsign_icao": "NSZ2VJ",
+      "callsign_iata": "D82VJ",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
+      },
+      "destination": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
       }
     }
   }
