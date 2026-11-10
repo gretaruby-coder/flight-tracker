@@ -50116,7 +50116,7 @@
     }
   },
   "BCS428": {
-    "time": 1793926856.0652628,
+    "time": 1794271236.4055846,
     "route": {
       "callsign": "BCS428",
       "callsign_icao": "BCS428",
@@ -145035,44 +145035,6 @@
       }
     }
   },
-  "WUK469": {
-    "time": 1793666434.4400578,
-    "route": {
-      "callsign": "WUK469",
-      "callsign_icao": "WUK469",
-      "callsign_iata": "W9469",
-      "airline": {
-        "name": "Wizz Air UK",
-        "icao": "WUK",
-        "iata": "W9",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 55,
-        "iata_code": "DSA",
-        "icao_code": "EGCN",
-        "latitude": 53.48054,
-        "longitude": -1.01066,
-        "municipality": "Doncaster",
-        "name": "Robin Hood Doncaster Sheffield Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 142,
-        "iata_code": "ALC",
-        "icao_code": "LEAL",
-        "latitude": 38.2822,
-        "longitude": -0.55816,
-        "municipality": "Alicante",
-        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
-      }
-    }
-  },
   "EXS7DK": {
     "time": 1794264927.523125,
     "route": {
@@ -217195,6 +217157,44 @@
         "longitude": -3.37229,
         "municipality": "Edinburgh",
         "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "RYR18EQ": {
+    "time": 1794271236.4055846,
+    "route": {
+      "callsign": "RYR18EQ",
+      "callsign_icao": "RYR18EQ",
+      "callsign_iata": "FR18EQ",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 39,
+        "iata_code": "CTA",
+        "icao_code": "LICC",
+        "latitude": 37.4668,
+        "longitude": 15.0664,
+        "municipality": "Catania",
+        "name": "Catania-Fontanarossa Airport"
       },
       "destination": {
         "country_iso_name": "GB",
