@@ -9827,7 +9827,7 @@
     }
   },
   "VJT474": {
-    "time": 1794232235.9786453,
+    "time": 1794318636.8397694,
     "route": {
       "callsign": "VJT474",
       "callsign_icao": null,
@@ -54128,7 +54128,7 @@
     }
   },
   "BAW59Z": {
-    "time": 1794231050.7555804,
+    "time": 1794318636.8397694,
     "route": {
       "callsign": "BAW59Z",
       "callsign_icao": "BAW59Z",
@@ -80506,7 +80506,7 @@
     }
   },
   "QTR49V": {
-    "time": 1794232235.9786453,
+    "time": 1794318636.8397694,
     "route": {
       "callsign": "QTR49V",
       "callsign_icao": "QTR49V",
@@ -98998,7 +98998,7 @@
     }
   },
   "RYR39KA": {
-    "time": 1794223527.6757665,
+    "time": 1794318636.8397694,
     "route": {
       "callsign": "RYR39KA",
       "callsign_icao": "RYR39KA",
@@ -200683,7 +200683,7 @@
     }
   },
   "EXS4AY": {
-    "time": 1794173126.952046,
+    "time": 1794318636.8397694,
     "route": {
       "callsign": "EXS4AY",
       "callsign_icao": "EXS4AY",
@@ -216097,6 +216097,106 @@
         "longitude": 17.9186,
         "municipality": "Stockholm",
         "name": "Stockholm-Arlanda Airport"
+      }
+    }
+  },
+  "QTR8225": {
+    "time": 1794318636.8397694,
+    "route": {
+      "callsign": "QTR8225",
+      "callsign_icao": "QTR8225",
+      "callsign_iata": "QR8225",
+      "airline": {
+        "name": "Qatar Airways",
+        "icao": "QTR",
+        "iata": "QR",
+        "country": "Qatar",
+        "country_iso": "QA",
+        "callsign": "QATARI"
+      },
+      "origin": {
+        "country_iso_name": "QA",
+        "country_name": "Qatar",
+        "elevation": 13,
+        "iata_code": "DOH",
+        "icao_code": "OTHH",
+        "latitude": 25.27306,
+        "longitude": 51.60806,
+        "municipality": "Doha",
+        "name": "Hamad International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "VJT827": {
+    "time": 1794318636.8397694,
+    "route": {
+      "callsign": "VJT827",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "SFO",
+        "icao_code": "KSFO",
+        "latitude": 37.619,
+        "longitude": -122.375,
+        "municipality": "San Francisco",
+        "name": "San Francisco International Airport"
+      }
+    }
+  },
+  "DGDON": {
+    "time": 1794318636.8397694,
+    "route": {
+      "callsign": "DGDON",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 2470,
+        "iata_code": null,
+        "icao_code": "LOWZ",
+        "latitude": 47.29147,
+        "longitude": 12.79063,
+        "municipality": "Zell am See",
+        "name": "Flugplatz Zell am See"
+      },
+      "destination": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 1115,
+        "iata_code": "GRZ",
+        "icao_code": "LOWG",
+        "latitude": 46.9911,
+        "longitude": 15.4396,
+        "municipality": "Graz (Feldkirchen bei Graz)",
+        "name": "Graz Airport"
       }
     }
   }
