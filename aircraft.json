@@ -1,9 +1,76 @@
 {
-  "updated": "2026-11-10T23:40:34.614643+00:00",
+  "updated": "2026-11-10T23:45:33.625222+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": []
+  "aircraft": [
+    {
+      "hex": "407dbf",
+      "type": "adsb_icao",
+      "flight": "DHK528  ",
+      "r": "G-DHLW",
+      "t": "B77L",
+      "desc": "BOEING 777-200LR",
+      "alt_baro": 39000,
+      "alt_geom": 38950,
+      "gs": 481.3,
+      "ias": 260,
+      "tas": 478,
+      "mach": 0.836,
+      "wd": 258,
+      "ws": 20,
+      "oat": -58,
+      "tat": -28,
+      "track": 157.91,
+      "roll": -0.35,
+      "mag_heading": 159.26,
+      "true_heading": 160.38,
+      "baro_rate": 0,
+      "geom_rate": 32,
+      "squawk": "0501",
+      "emergency": "none",
+      "category": "A5",
+      "nav_qnh": 1012.8,
+      "nav_altitude_mcp": 39008,
+      "nav_heading": 158.91,
+      "lat": 51.264767,
+      "lon": -0.405807,
+      "nic": 8,
+      "rc": 186,
+      "seen_pos": 0.401,
+      "version": 2,
+      "nic_baro": 1,
+      "nac_p": 9,
+      "nac_v": 1,
+      "sil": 3,
+      "sil_type": "perhour",
+      "gva": 2,
+      "sda": 2,
+      "alert": 0,
+      "spi": 0,
+      "mlat": [],
+      "tisb": [],
+      "messages": 98596,
+      "seen": 0.0,
+      "rssi": -9.6,
+      "dst": 11.11,
+      "dir": 179.4,
+      "registered_owner": "DHL Air",
+      "registered_owner_operator_flag_code": "BCS",
+      "origin": {
+        "iata": "EMA",
+        "icao": "EGNX",
+        "name": "East Midlands Airport"
+      },
+      "destination": {
+        "iata": "EMA",
+        "icao": "EGNX",
+        "name": "East Midlands Airport"
+      },
+      "airline_name": "DHL Air",
+      "airline_iata": "D0"
+    }
+  ]
 }
