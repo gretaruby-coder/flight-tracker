@@ -71790,7 +71790,7 @@
     }
   },
   "AFR95LR": {
-    "time": 1794133526.9016845,
+    "time": 1794302727.5360036,
     "route": {
       "callsign": "AFR95LR",
       "callsign_icao": "AFR95LR",
@@ -216384,6 +216384,44 @@
         "longitude": -1.61073,
         "municipality": "Nantes",
         "name": "Nantes Atlantique Airport"
+      }
+    }
+  },
+  "FDX5183": {
+    "time": 1794302727.5360036,
+    "route": {
+      "callsign": "FDX5183",
+      "callsign_icao": "FDX5183",
+      "callsign_iata": "FX5183",
+      "airline": {
+        "name": "FedEx Express",
+        "icao": "FDX",
+        "iata": "FX",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "FEDEX"
+      },
+      "origin": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 659,
+        "iata_code": "LGG",
+        "icao_code": "EBLG",
+        "latitude": 50.6374,
+        "longitude": 5.44322,
+        "municipality": "Li\u00e8ge",
+        "name": "Li\u00e8ge Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 9,
+        "iata_code": "OAK",
+        "icao_code": "KOAK",
+        "latitude": 37.7213,
+        "longitude": -122.221,
+        "municipality": "Oakland",
+        "name": "Metropolitan Oakland International Airport"
       }
     }
   }
