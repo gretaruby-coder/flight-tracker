@@ -3395,7 +3395,7 @@
     }
   },
   "LOG39D": {
-    "time": 1794243929.6195395,
+    "time": 1794330935.075587,
     "route": {
       "callsign": "LOG39D",
       "callsign_icao": "LOG39D",
@@ -9188,7 +9188,7 @@
     }
   },
   "ITY247": {
-    "time": 1794156035.1958883,
+    "time": 1794330935.075587,
     "route": {
       "callsign": "ITY247",
       "callsign_icao": "ITY247",
@@ -11188,7 +11188,7 @@
     }
   },
   "SWR9AM": {
-    "time": 1794159635.79187,
+    "time": 1794330935.075587,
     "route": {
       "callsign": "SWR9AM",
       "callsign_icao": "SWR9AM",
@@ -13568,7 +13568,7 @@
     }
   },
   "CES551": {
-    "time": 1794243670.5998125,
+    "time": 1794330935.075587,
     "route": {
       "callsign": "CES551",
       "callsign_icao": "CES551",
@@ -54881,7 +54881,7 @@
     }
   },
   "UPS213": {
-    "time": 1793984724.7829852,
+    "time": 1794330935.075587,
     "route": {
       "callsign": "UPS213",
       "callsign_icao": "UPS213",
@@ -85035,7 +85035,7 @@
     }
   },
   "DLH9AX": {
-    "time": 1794244238.7148876,
+    "time": 1794330935.075587,
     "route": {
       "callsign": "DLH9AX",
       "callsign_icao": "DLH9AX",
@@ -106508,7 +106508,7 @@
     }
   },
   "HOP48NR": {
-    "time": 1793898631.5723119,
+    "time": 1794330935.075587,
     "route": {
       "callsign": "HOP48NR",
       "callsign_icao": "HOP48NR",
@@ -106774,7 +106774,7 @@
     }
   },
   "EXS4L": {
-    "time": 1794159934.8906624,
+    "time": 1794330935.075587,
     "route": {
       "callsign": "EXS4L",
       "callsign_icao": "EXS4L",
@@ -106846,44 +106846,6 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
-      }
-    }
-  },
-  "VKG553": {
-    "time": 1793725838.1003177,
-    "route": {
-      "callsign": "VKG553",
-      "callsign_icao": "VKG553",
-      "callsign_iata": "553",
-      "airline": {
-        "name": "SunClass Airlines",
-        "icao": "VKG",
-        "iata": null,
-        "country": "Denmark",
-        "country_iso": "DK",
-        "callsign": "VIKING"
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 209,
-        "iata_code": "TFS",
-        "icao_code": "GCTS",
-        "latitude": 28.0445,
-        "longitude": -16.5725,
-        "municipality": "Tenerife",
-        "name": "Tenerife Sur Airport"
-      },
-      "destination": {
-        "country_iso_name": "NO",
-        "country_name": "Norway",
-        "elevation": 681,
-        "iata_code": "OSL",
-        "icao_code": "ENGM",
-        "latitude": 60.1939,
-        "longitude": 11.1004,
-        "municipality": "Oslo",
-        "name": "Oslo Airport, Gardermoen"
       }
     }
   },
@@ -110145,7 +110107,7 @@
     }
   },
   "DLH3Y": {
-    "time": 1794159635.79187,
+    "time": 1794330935.075587,
     "route": {
       "callsign": "DLH3Y",
       "callsign_icao": "DLH3Y",
@@ -156990,7 +156952,7 @@
     }
   },
   "EZY19UG": {
-    "time": 1793897733.9032815,
+    "time": 1794330935.075587,
     "route": {
       "callsign": "EZY19UG",
       "callsign_icao": "EZY19UG",
@@ -215990,6 +215952,44 @@
         "longitude": 51.60806,
         "municipality": "Doha",
         "name": "Hamad International Airport"
+      }
+    }
+  },
+  "CLX51K": {
+    "time": 1794330935.075587,
+    "route": {
+      "callsign": "CLX51K",
+      "callsign_icao": "CLX51K",
+      "callsign_iata": "CV51K",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
       }
     }
   }
