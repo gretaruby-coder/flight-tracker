@@ -1,75 +1,9 @@
 {
-  "updated": "2026-11-10T23:50:36.026119+00:00",
+  "updated": "2026-11-10T23:55:27.176355+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": [
-    {
-      "hex": "406cd2",
-      "type": "adsb_icao",
-      "flight": "EZY28UP ",
-      "r": "G-EZOF",
-      "t": "A320",
-      "desc": "AIRBUS A-320",
-      "alt_baro": 2425,
-      "alt_geom": 2300,
-      "gs": 157.9,
-      "ias": 168,
-      "tas": 172,
-      "mach": 0.264,
-      "wd": 91,
-      "ws": 12,
-      "track": 77.2,
-      "track_rate": -0.53,
-      "roll": -0.53,
-      "mag_heading": 77.34,
-      "true_heading": 78.51,
-      "baro_rate": -960,
-      "geom_rate": -896,
-      "squawk": "2771",
-      "emergency": "none",
-      "category": "A3",
-      "nav_qnh": 1003.2,
-      "nav_altitude_mcp": 3008,
-      "nav_heading": 0.0,
-      "lat": 51.125111,
-      "lon": -0.355759,
-      "nic": 8,
-      "rc": 186,
-      "seen_pos": 0.123,
-      "version": 2,
-      "nic_baro": 1,
-      "nac_p": 9,
-      "nac_v": 1,
-      "sil": 3,
-      "sil_type": "perhour",
-      "gva": 2,
-      "sda": 2,
-      "alert": 0,
-      "spi": 0,
-      "mlat": [],
-      "tisb": [],
-      "messages": 447615,
-      "seen": 0.0,
-      "rssi": -7.9,
-      "dst": 19.606,
-      "dir": 174.1,
-      "registered_owner": "easyJet Airline",
-      "registered_owner_operator_flag_code": "EZY",
-      "origin": {
-        "iata": "HAM",
-        "icao": "EDDH",
-        "name": "Hamburg Helmut Schmidt Airport"
-      },
-      "destination": {
-        "iata": "LGW",
-        "icao": "EGKK",
-        "name": "London Gatwick Airport"
-      },
-      "airline_name": "easyJet",
-      "airline_iata": "U2"
-    }
-  ]
+  "aircraft": []
 }
