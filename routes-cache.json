@@ -94355,7 +94355,7 @@
     }
   },
   "RYR35VV": {
-    "time": 1794179436.1974573,
+    "time": 1794270925.839061,
     "route": {
       "callsign": "RYR35VV",
       "callsign_icao": "RYR35VV",
@@ -145032,44 +145032,6 @@
         "longitude": 16.5697,
         "municipality": "Vienna",
         "name": "Vienna International Airport"
-      }
-    }
-  },
-  "BCS7015": {
-    "time": 1793665859.4831223,
-    "route": {
-      "callsign": "BCS7015",
-      "callsign_icao": "BCS7015",
-      "callsign_iata": "QY7015",
-      "airline": {
-        "name": "European Air Transport",
-        "icao": "BCS",
-        "iata": "QY",
-        "country": "Germany",
-        "country_iso": "DE",
-        "callsign": "EUROTRANS"
-      },
-      "origin": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 123,
-        "iata_code": "BLQ",
-        "icao_code": "LIPE",
-        "latitude": 44.5354,
-        "longitude": 11.2887,
-        "municipality": "Bologna",
-        "name": "Bologna Guglielmo Marconi Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 306,
-        "iata_code": "EMA",
-        "icao_code": "EGNX",
-        "latitude": 52.8311,
-        "longitude": -1.32806,
-        "municipality": "Nottingham",
-        "name": "East Midlands Airport"
       }
     }
   },
@@ -217206,6 +217168,44 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "RUK7UJ": {
+    "time": 1794270925.839061,
+    "route": {
+      "callsign": "RUK7UJ",
+      "callsign_icao": "RUK7UJ",
+      "callsign_iata": "RK7UJ",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
