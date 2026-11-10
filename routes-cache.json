@@ -35317,7 +35317,7 @@
     }
   },
   "CFE3271": {
-    "time": 1794219037.9112778,
+    "time": 1794306329.6675136,
     "route": {
       "callsign": "CFE3271",
       "callsign_icao": "CFE3271",
@@ -35811,7 +35811,7 @@
     }
   },
   "CFE91C": {
-    "time": 1794217534.9975345,
+    "time": 1794306329.6675136,
     "route": {
       "callsign": "CFE91C",
       "callsign_icao": "CFE91C",
@@ -36913,7 +36913,7 @@
     }
   },
   "DLH9U": {
-    "time": 1794140438.5205514,
+    "time": 1794306329.6675136,
     "route": {
       "callsign": "DLH9U",
       "callsign_icao": "DLH9U",
@@ -196172,7 +196172,7 @@
     }
   },
   "ETH719": {
-    "time": 1794138036.8225508,
+    "time": 1794306329.6675136,
     "route": {
       "callsign": "ETH719",
       "callsign_icao": "ETH719",
@@ -202092,7 +202092,7 @@
     }
   },
   "EZY9010": {
-    "time": 1794171927.6576324,
+    "time": 1794306329.6675136,
     "route": {
       "callsign": "EZY9010",
       "callsign_icao": "EZY9010",
@@ -216149,6 +216149,82 @@
         "longitude": -6.27007,
         "municipality": "Dublin",
         "name": "Dublin Airport"
+      }
+    }
+  },
+  "AAL71": {
+    "time": 1794306329.6675136,
+    "route": {
+      "callsign": "AAL71",
+      "callsign_icao": "AAL71",
+      "callsign_iata": "AA71",
+      "airline": {
+        "name": "American Airlines",
+        "icao": "AAL",
+        "iata": "AA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "AMERICAN"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 607,
+        "iata_code": "DFW",
+        "icao_code": "KDFW",
+        "latitude": 32.8968,
+        "longitude": -97.038,
+        "municipality": "Dallas-Fort Worth",
+        "name": "Dallas Fort Worth International Airport"
+      }
+    }
+  },
+  "UAL963": {
+    "time": 1794306329.6675136,
+    "route": {
+      "callsign": "UAL963",
+      "callsign_icao": "UAL963",
+      "callsign_iata": "UA963",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 157,
+        "iata_code": "BER",
+        "icao_code": "EDDB",
+        "latitude": 52.35139,
+        "longitude": 13.49389,
+        "municipality": "Berlin",
+        "name": "Berlin Brandenburg Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
       }
     }
   }
