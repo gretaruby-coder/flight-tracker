@@ -26163,7 +26163,7 @@
     }
   },
   "RAM808": {
-    "time": 1794116436.0797117,
+    "time": 1794289836.407421,
     "route": {
       "callsign": "RAM808",
       "callsign_icao": "RAM808",
@@ -26733,7 +26733,7 @@
     }
   },
   "JAL41": {
-    "time": 1794119126.870142,
+    "time": 1794289836.407421,
     "route": {
       "callsign": "JAL41",
       "callsign_icao": "JAL41",
@@ -217282,6 +217282,44 @@
         "longitude": -79.6306,
         "municipality": "Toronto",
         "name": "Lester B. Pearson International Airport"
+      }
+    }
+  },
+  "ETD72W": {
+    "time": 1794289836.407421,
+    "route": {
+      "callsign": "ETD72W",
+      "callsign_icao": "ETD72W",
+      "callsign_iata": "EY72W",
+      "airline": {
+        "name": "Etihad Airways",
+        "icao": "ETD",
+        "iata": "EY",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "ETIHAD"
+      },
+      "origin": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 88,
+        "iata_code": "AUH",
+        "icao_code": "OMAA",
+        "latitude": 24.44376,
+        "longitude": 54.65172,
+        "municipality": "Abu Dhabi",
+        "name": "Abu Dhabi International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
       }
     }
   }
