@@ -50230,7 +50230,7 @@
     }
   },
   "BCS92L": {
-    "time": 1793930148.382195,
+    "time": 1794276058.2083857,
     "route": {
       "callsign": "BCS92L",
       "callsign_icao": "BCS92L",
@@ -144997,44 +144997,6 @@
       }
     }
   },
-  "RUK737": {
-    "time": 1793671256.266429,
-    "route": {
-      "callsign": "RUK737",
-      "callsign_icao": "RUK737",
-      "callsign_iata": "RK737",
-      "airline": {
-        "name": "Ryanair UK",
-        "icao": "RUK",
-        "iata": "RK",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 348,
-        "iata_code": "STN",
-        "icao_code": "EGSS",
-        "latitude": 51.885,
-        "longitude": 0.235,
-        "municipality": "London",
-        "name": "London Stansted Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 257,
-        "iata_code": "MAN",
-        "icao_code": "EGCC",
-        "latitude": 53.34938,
-        "longitude": -2.27952,
-        "municipality": "Manchester",
-        "name": "Manchester Airport"
-      }
-    }
-  },
   "TOM227": {
     "time": 1793674863.8214593,
     "route": {
@@ -217213,6 +217175,44 @@
         "longitude": -74.1687,
         "municipality": "New York",
         "name": "Newark Liberty International Airport"
+      }
+    }
+  },
+  "EXS6WY": {
+    "time": 1794276058.2083857,
+    "route": {
+      "callsign": "EXS6WY",
+      "callsign_icao": "EXS6WY",
+      "callsign_iata": "LS6WY",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "CY",
+        "country_name": "Cyprus",
+        "elevation": 41,
+        "iata_code": "PFO",
+        "icao_code": "LCPH",
+        "latitude": 34.718,
+        "longitude": 32.4857,
+        "municipality": "Paphos",
+        "name": "Paphos International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
