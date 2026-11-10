@@ -217322,5 +217322,43 @@
         "name": "Brussels Airport"
       }
     }
+  },
+  "MSR995": {
+    "time": 1794288037.1065514,
+    "route": {
+      "callsign": "MSR995",
+      "callsign_icao": "MSR995",
+      "callsign_iata": "MS995",
+      "airline": {
+        "name": "Egyptair",
+        "icao": "MSR",
+        "iata": "MS",
+        "country": "Egypt",
+        "country_iso": "EG",
+        "callsign": "EGYPTAIR"
+      },
+      "origin": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 382,
+        "iata_code": "CAI",
+        "icao_code": "HECA",
+        "latitude": 30.1219,
+        "longitude": 31.4056,
+        "municipality": "Cairo",
+        "name": "Cairo International Airport"
+      },
+      "destination": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
+      }
+    }
   }
 }
