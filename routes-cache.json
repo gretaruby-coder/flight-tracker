@@ -20546,7 +20546,7 @@
     }
   },
   "TAY813": {
-    "time": 1793836230.3988266,
+    "time": 1794291034.7040417,
     "route": {
       "callsign": "TAY813",
       "callsign_icao": "TAY813",
@@ -25593,7 +25593,7 @@
     }
   },
   "ACA832": {
-    "time": 1794116732.5629609,
+    "time": 1794291034.7040417,
     "route": {
       "callsign": "ACA832",
       "callsign_icao": "ACA832",
@@ -25821,7 +25821,7 @@
     }
   },
   "CPA255": {
-    "time": 1794204327.5401425,
+    "time": 1794291034.7040417,
     "route": {
       "callsign": "CPA255",
       "callsign_icao": "CPA255",
@@ -26239,7 +26239,7 @@
     }
   },
   "BAW40F": {
-    "time": 1794202835.2654047,
+    "time": 1794291034.7040417,
     "route": {
       "callsign": "BAW40F",
       "callsign_icao": "BAW40F",
@@ -27645,7 +27645,7 @@
     }
   },
   "THT8": {
-    "time": 1794203435.6037068,
+    "time": 1794291034.7040417,
     "route": {
       "callsign": "THT8",
       "callsign_icao": "THT8",
@@ -28436,7 +28436,7 @@
     }
   },
   "THA910": {
-    "time": 1794119126.870142,
+    "time": 1794291034.7040417,
     "route": {
       "callsign": "THA910",
       "callsign_icao": "THA910",
@@ -51305,7 +51305,7 @@
     }
   },
   "ACA888": {
-    "time": 1794117034.429491,
+    "time": 1794291034.7040417,
     "route": {
       "callsign": "ACA888",
       "callsign_icao": "ACA888",
@@ -65520,7 +65520,7 @@
     }
   },
   "BAW974": {
-    "time": 1794042638.4821265,
+    "time": 1794291034.7040417,
     "route": {
       "callsign": "BAW974",
       "callsign_icao": "BAW974",
@@ -217206,6 +217206,82 @@
         "longitude": -6.27007,
         "municipality": "Dublin",
         "name": "Dublin Airport"
+      }
+    }
+  },
+  "UAE8ER": {
+    "time": 1794291034.7040417,
+    "route": {
+      "callsign": "UAE8ER",
+      "callsign_icao": "UAE8ER",
+      "callsign_iata": "EK8ER",
+      "airline": {
+        "name": "Emirates",
+        "icao": "UAE",
+        "iata": "EK",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "EMIRATES"
+      },
+      "origin": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 62,
+        "iata_code": "DXB",
+        "icao_code": "OMDB",
+        "latitude": 25.2528,
+        "longitude": 55.3644,
+        "municipality": "Dubai",
+        "name": "Dubai International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      }
+    }
+  },
+  "AFR357K": {
+    "time": 1794291034.7040417,
+    "route": {
+      "callsign": "AFR357K",
+      "callsign_icao": "AFR357K",
+      "callsign_iata": "AF357K",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
       }
     }
   }
