@@ -35818,7 +35818,7 @@
     }
   },
   "DAL3": {
-    "time": 1794305443.608359,
+    "time": 1794392135.2261171,
     "route": {
       "callsign": "DAL3",
       "callsign_icao": "DAL3",
@@ -37110,7 +37110,7 @@
     }
   },
   "EIN381": {
-    "time": 1794226535.6104977,
+    "time": 1794392135.2261171,
     "route": {
       "callsign": "EIN381",
       "callsign_icao": "EIN381",
@@ -37908,7 +37908,7 @@
     }
   },
   "KLM30V": {
-    "time": 1794228333.0708048,
+    "time": 1794392135.2261171,
     "route": {
       "callsign": "KLM30V",
       "callsign_icao": "KLM30V",
@@ -72533,7 +72533,7 @@
     }
   },
   "LHX5LK": {
-    "time": 1794224734.9694881,
+    "time": 1794392135.2261171,
     "route": {
       "callsign": "LHX5LK",
       "callsign_icao": "LHX5LK",
@@ -97447,7 +97447,7 @@
     }
   },
   "VIR132K": {
-    "time": 1794305443.608359,
+    "time": 1794392135.2261171,
     "route": {
       "callsign": "VIR132K",
       "callsign_icao": "VIR132K",
@@ -108197,7 +108197,7 @@
     }
   },
   "EXS6B": {
-    "time": 1794049835.32294,
+    "time": 1794392135.2261171,
     "route": {
       "callsign": "EXS6B",
       "callsign_icao": "EXS6B",
@@ -134141,44 +134141,6 @@
       }
     }
   },
-  "NSZ3676": {
-    "time": 1793787334.4418392,
-    "route": {
-      "callsign": "NSZ3676",
-      "callsign_icao": "NSZ3676",
-      "callsign_iata": "D83676",
-      "airline": {
-        "name": "Norwegian Air Sweden AOC",
-        "icao": "NSZ",
-        "iata": "D8",
-        "country": "Sweden",
-        "country_iso": "SE",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "DK",
-        "country_name": "Denmark",
-        "elevation": 17,
-        "iata_code": "CPH",
-        "icao_code": "EKCH",
-        "latitude": 55.6179,
-        "longitude": 12.656,
-        "municipality": "Copenhagen",
-        "name": "Copenhagen Kastrup Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 209,
-        "iata_code": "TFS",
-        "icao_code": "GCTS",
-        "latitude": 28.0445,
-        "longitude": -16.5725,
-        "municipality": "Tenerife",
-        "name": "Tenerife Sur Airport"
-      }
-    }
-  },
   "EWG49A": {
     "time": 1794228034.45105,
     "route": {
@@ -150656,7 +150618,7 @@
     }
   },
   "LTG8503": {
-    "time": 1793798433.3842187,
+    "time": 1794392135.2261171,
     "route": {
       "callsign": "LTG8503",
       "callsign_icao": "LTG8503",
@@ -199686,7 +199648,7 @@
     }
   },
   "WUK725": {
-    "time": 1794219640.1605053,
+    "time": 1794392135.2261171,
     "route": {
       "callsign": "WUK725",
       "callsign_icao": "WUK725",
@@ -200591,7 +200553,7 @@
     }
   },
   "DLH440": {
-    "time": 1794224125.2686868,
+    "time": 1794392135.2261171,
     "route": {
       "callsign": "DLH440",
       "callsign_icao": "DLH440",
@@ -214401,6 +214363,44 @@
         "longitude": -15.3866,
         "municipality": "Gran Canaria Island",
         "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "CHG561": {
+    "time": 1794392135.2261171,
+    "route": {
+      "callsign": "CHG561",
+      "callsign_icao": "CHG561",
+      "callsign_iata": "561",
+      "airline": {
+        "name": "AC Challenge Aero",
+        "icao": "CHG",
+        "iata": null,
+        "country": "Ukraine",
+        "country_iso": "UA",
+        "callsign": "SKY CHALLENGER"
+      },
+      "origin": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 659,
+        "iata_code": "LGG",
+        "icao_code": "EBLG",
+        "latitude": 50.6374,
+        "longitude": 5.44322,
+        "municipality": "Li\u00e8ge",
+        "name": "Li\u00e8ge Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1026,
+        "iata_code": "ATL",
+        "icao_code": "KATL",
+        "latitude": 33.6367,
+        "longitude": -84.4281,
+        "municipality": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
       }
     }
   }
