@@ -1309,7 +1309,7 @@
     }
   },
   "BAW41R": {
-    "time": 1794222328.8435907,
+    "time": 1794391836.3720946,
     "route": {
       "callsign": "BAW41R",
       "callsign_icao": "BAW41R",
@@ -1347,7 +1347,7 @@
     }
   },
   "SHT5X": {
-    "time": 1794224734.9694881,
+    "time": 1794391836.3720946,
     "route": {
       "callsign": "SHT5X",
       "callsign_icao": null,
@@ -1858,7 +1858,7 @@
     }
   },
   "DAL9": {
-    "time": 1794305127.1015222,
+    "time": 1794391836.3720946,
     "route": {
       "callsign": "DAL9",
       "callsign_icao": "DAL9",
@@ -28063,7 +28063,7 @@
     }
   },
   "BAW7GV": {
-    "time": 1794304527.2514296,
+    "time": 1794391836.3720946,
     "route": {
       "callsign": "BAW7GV",
       "callsign_icao": "BAW7GV",
@@ -37414,7 +37414,7 @@
     }
   },
   "KLM35B": {
-    "time": 1794225326.3117096,
+    "time": 1794391836.3720946,
     "route": {
       "callsign": "KLM35B",
       "callsign_icao": "KLM35B",
@@ -69949,7 +69949,7 @@
     }
   },
   "EZY97WF": {
-    "time": 1794219640.1605053,
+    "time": 1794391836.3720946,
     "route": {
       "callsign": "EZY97WF",
       "callsign_icao": "EZY97WF",
@@ -95889,7 +95889,7 @@
     }
   },
   "EFW7HF": {
-    "time": 1794303637.390898,
+    "time": 1794391836.3720946,
     "route": {
       "callsign": "EFW7HF",
       "callsign_icao": "EFW7HF",
@@ -97713,7 +97713,7 @@
     }
   },
   "NSZ3512": {
-    "time": 1794222639.3035557,
+    "time": 1794391836.3720946,
     "route": {
       "callsign": "NSZ3512",
       "callsign_icao": "NSZ3512",
@@ -214314,6 +214314,82 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "BAW9178": {
+    "time": 1794391836.3720946,
+    "route": {
+      "callsign": "BAW9178",
+      "callsign_icao": "BAW9178",
+      "callsign_iata": "BA9178",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 220,
+        "iata_code": "CWL",
+        "icao_code": "EGFF",
+        "latitude": 51.3967,
+        "longitude": -3.34333,
+        "municipality": "Cardiff",
+        "name": "Cardiff International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 220,
+        "iata_code": "CWL",
+        "icao_code": "EGFF",
+        "latitude": 51.3967,
+        "longitude": -3.34333,
+        "municipality": "Cardiff",
+        "name": "Cardiff International Airport"
+      }
+    }
+  },
+  "NOZ9066": {
+    "time": 1794391836.3720946,
+    "route": {
+      "callsign": "NOZ9066",
+      "callsign_icao": "NOZ9066",
+      "callsign_iata": "9066",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
       },
       "destination": {
         "country_iso_name": "ES",
