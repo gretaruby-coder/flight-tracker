@@ -3402,7 +3402,7 @@
     }
   },
   "BAW81": {
-    "time": 1794233437.687892,
+    "time": 1794403850.8176541,
     "route": {
       "callsign": "BAW81",
       "callsign_icao": "BAW81",
@@ -4307,7 +4307,7 @@
     }
   },
   "NSZ6LA": {
-    "time": 1794315929.4384406,
+    "time": 1794403850.8176541,
     "route": {
       "callsign": "NSZ6LA",
       "callsign_icao": "NSZ6LA",
@@ -5105,7 +5105,7 @@
     }
   },
   "BAW134": {
-    "time": 1794313850.6008592,
+    "time": 1794403850.8176541,
     "route": {
       "callsign": "BAW134",
       "callsign_icao": "BAW134",
@@ -53029,7 +53029,7 @@
     }
   },
   "VIR358": {
-    "time": 1794229837.7012494,
+    "time": 1794403850.8176541,
     "route": {
       "callsign": "VIR358",
       "callsign_icao": "VIR358",
@@ -89830,7 +89830,7 @@
     }
   },
   "BAW669": {
-    "time": 1794254728.5028,
+    "time": 1794403850.8176541,
     "route": {
       "callsign": "BAW669",
       "callsign_icao": "BAW669",
@@ -99392,7 +99392,7 @@
     }
   },
   "SHT7D": {
-    "time": 1794317449.4696438,
+    "time": 1794403850.8176541,
     "route": {
       "callsign": "SHT7D",
       "callsign_icao": null,
@@ -143098,37 +143098,6 @@
       }
     }
   },
-  "GDZKY": {
-    "time": 1793799048.3568199,
-    "route": {
-      "callsign": "GDZKY",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 325,
-        "iata_code": "BBS",
-        "icao_code": "EGLK",
-        "latitude": 51.3239,
-        "longitude": -0.8475,
-        "municipality": "Yateley",
-        "name": "Blackbushe Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 7,
-        "iata_code": "ESH",
-        "icao_code": "EGKA",
-        "latitude": 50.8356,
-        "longitude": -0.29722,
-        "municipality": "Brighton",
-        "name": "Shoreham Airport"
-      }
-    }
-  },
   "SIA313": {
     "time": 1794230726.6894155,
     "route": {
@@ -149299,7 +149268,7 @@
     }
   },
   "EZS95PR": {
-    "time": 1793973660.4105697,
+    "time": 1794403850.8176541,
     "route": {
       "callsign": "EZS95PR",
       "callsign_icao": "EZS95PR",
@@ -214339,6 +214308,44 @@
         "longitude": 34.8867,
         "municipality": "Tel Aviv",
         "name": "Ben Gurion International Airport"
+      }
+    }
+  },
+  "NCR812": {
+    "time": 1794403850.8176541,
+    "route": {
+      "callsign": "NCR812",
+      "callsign_icao": "NCR812",
+      "callsign_iata": "N8812",
+      "airline": {
+        "name": "National Air Cargo",
+        "icao": "NCR",
+        "iata": "N8",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "JP",
+        "country_name": "Japan",
+        "elevation": 15,
+        "iata_code": "NGO",
+        "icao_code": "RJGG",
+        "latitude": 34.8584,
+        "longitude": 136.80499,
+        "municipality": "Tokoname",
+        "name": "Chubu Centrair International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 152,
+        "iata_code": "ANC",
+        "icao_code": "PANC",
+        "latitude": 61.1744,
+        "longitude": -149.996,
+        "municipality": "Anchorage",
+        "name": "Ted Stevens Anchorage International Airport"
       }
     }
   }
