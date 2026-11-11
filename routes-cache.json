@@ -3250,7 +3250,7 @@
     }
   },
   "KAC101": {
-    "time": 1794317127.9368978,
+    "time": 1794403529.1894867,
     "route": {
       "callsign": "KAC101",
       "callsign_icao": "KAC101",
@@ -5675,7 +5675,7 @@
     }
   },
   "VIR93": {
-    "time": 1794145235.3414347,
+    "time": 1794403529.1894867,
     "route": {
       "callsign": "VIR93",
       "callsign_icao": "VIR93",
@@ -33065,7 +33065,7 @@
     }
   },
   "BAW26AG": {
-    "time": 1794229837.7012494,
+    "time": 1794403529.1894867,
     "route": {
       "callsign": "BAW26AG",
       "callsign_icao": "BAW26AG",
@@ -79342,7 +79342,7 @@
     }
   },
   "EZY74LA": {
-    "time": 1794234928.5179746,
+    "time": 1794403529.1894867,
     "route": {
       "callsign": "EZY74LA",
       "callsign_icao": "EZY74LA",
@@ -99765,7 +99765,7 @@
     }
   },
   "BAW5HL": {
-    "time": 1794233437.687892,
+    "time": 1794403529.1894867,
     "route": {
       "callsign": "BAW5HL",
       "callsign_icao": "BAW5HL",
@@ -149109,7 +149109,7 @@
     }
   },
   "PGT54XF": {
-    "time": 1794237638.90064,
+    "time": 1794403529.1894867,
     "route": {
       "callsign": "PGT54XF",
       "callsign_icao": "PGT54XF",
@@ -149261,7 +149261,7 @@
     }
   },
   "EJU45CZ": {
-    "time": 1794240936.0319726,
+    "time": 1794403529.1894867,
     "route": {
       "callsign": "EJU45CZ",
       "callsign_icao": "EJU45CZ",
@@ -214301,6 +214301,44 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "WUK715": {
+    "time": 1794403529.1894867,
+    "route": {
+      "callsign": "WUK715",
+      "callsign_icao": "WUK715",
+      "callsign_iata": "W9715",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "IL",
+        "country_name": "Israel",
+        "elevation": 135,
+        "iata_code": "TLV",
+        "icao_code": "LLBG",
+        "latitude": 32.0114,
+        "longitude": 34.8867,
+        "municipality": "Tel Aviv",
+        "name": "Ben Gurion International Airport"
       }
     }
   }
