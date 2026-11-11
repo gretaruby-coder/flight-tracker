@@ -5941,7 +5941,7 @@
     }
   },
   "BAW4LV": {
-    "time": 1794235836.7393126,
+    "time": 1794406840.3419652,
     "route": {
       "callsign": "BAW4LV",
       "callsign_icao": "BAW4LV",
@@ -20408,7 +20408,7 @@
     }
   },
   "BAW544K": {
-    "time": 1794242128.3831966,
+    "time": 1794406840.3419652,
     "route": {
       "callsign": "BAW544K",
       "callsign_icao": "BAW544K",
@@ -57237,7 +57237,7 @@
     }
   },
   "SVA124": {
-    "time": 1794063033.8775313,
+    "time": 1794406840.3419652,
     "route": {
       "callsign": "SVA124",
       "callsign_icao": "SVA124",
@@ -135448,7 +135448,7 @@
     }
   },
   "AAL239": {
-    "time": 1794060933.3804462,
+    "time": 1794406840.3419652,
     "route": {
       "callsign": "AAL239",
       "callsign_icao": "AAL239",
@@ -142467,7 +142467,7 @@
     }
   },
   "RYR40AL": {
-    "time": 1794175526.0637968,
+    "time": 1794406840.3419652,
     "route": {
       "callsign": "RYR40AL",
       "callsign_icao": "RYR40AL",
@@ -143372,7 +143372,7 @@
     }
   },
   "LHX2475": {
-    "time": 1794237638.90064,
+    "time": 1794406840.3419652,
     "route": {
       "callsign": "LHX2475",
       "callsign_icao": "LHX2475",
@@ -149530,37 +149530,6 @@
         "longitude": -0.77633,
         "municipality": "Farnborough",
         "name": "Farnborough Airport"
-      }
-    }
-  },
-  "PLINE33": {
-    "time": 1793802032.402433,
-    "route": {
-      "callsign": "PLINE33",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 7,
-        "iata_code": "ESH",
-        "icao_code": "EGKA",
-        "latitude": 50.8356,
-        "longitude": -0.29722,
-        "municipality": "Brighton",
-        "name": "Shoreham Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 80,
-        "iata_code": "LPL",
-        "icao_code": "EGGP",
-        "latitude": 53.3336,
-        "longitude": -2.84972,
-        "municipality": "Liverpool",
-        "name": "Liverpool John Lennon Airport"
       }
     }
   },
@@ -214239,6 +214208,44 @@
         "longitude": 30.8005,
         "municipality": "Antalya",
         "name": "Antalya International Airport"
+      }
+    }
+  },
+  "TAP669": {
+    "time": 1794406840.3419652,
+    "route": {
+      "callsign": "TAP669",
+      "callsign_icao": "TAP669",
+      "callsign_iata": "TP669",
+      "airline": {
+        "name": "TAP Portugal",
+        "icao": "TAP",
+        "iata": "TP",
+        "country": "Portugal",
+        "country_iso": "PT",
+        "callsign": "AIR PORTUGAL"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 374,
+        "iata_code": "LIS",
+        "icao_code": "LPPT",
+        "latitude": 38.7813,
+        "longitude": -9.13592,
+        "municipality": "Lisbon",
+        "name": "Humberto Delgado Airport (Lisbon Portela Airport)"
       }
     }
   }
