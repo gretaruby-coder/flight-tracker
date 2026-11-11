@@ -30595,7 +30595,7 @@
     }
   },
   "BAW823": {
-    "time": 1794258327.1431947,
+    "time": 1794431437.1156602,
     "route": {
       "callsign": "BAW823",
       "callsign_icao": "BAW823",
@@ -73414,7 +73414,7 @@
     }
   },
   "RYR63HY": {
-    "time": 1794227727.060018,
+    "time": 1794431437.1156602,
     "route": {
       "callsign": "RYR63HY",
       "callsign_icao": "RYR63HY",
@@ -74288,7 +74288,7 @@
     }
   },
   "RYR92RC": {
-    "time": 1794256835.9705904,
+    "time": 1794431437.1156602,
     "route": {
       "callsign": "RYR92RC",
       "callsign_icao": "RYR92RC",
@@ -106774,7 +106774,7 @@
     }
   },
   "EZY85JG": {
-    "time": 1794179733.0800142,
+    "time": 1794431437.1156602,
     "route": {
       "callsign": "EZY85JG",
       "callsign_icao": "EZY85JG",
@@ -109416,7 +109416,7 @@
     }
   },
   "CHH7912": {
-    "time": 1793827532.2312057,
+    "time": 1794431437.1156602,
     "route": {
       "callsign": "CHH7912",
       "callsign_icao": "CHH7912",
@@ -129085,7 +129085,7 @@
     }
   },
   "KLM35W": {
-    "time": 1794173449.4073129,
+    "time": 1794431437.1156602,
     "route": {
       "callsign": "KLM35W",
       "callsign_icao": "KLM35W",
@@ -129313,7 +129313,7 @@
     }
   },
   "EZY16AX": {
-    "time": 1794342925.645462,
+    "time": 1794431437.1156602,
     "route": {
       "callsign": "EZY16AX",
       "callsign_icao": "EZY16AX",
@@ -138367,7 +138367,7 @@
     }
   },
   "VLG39YB": {
-    "time": 1794259527.6872385,
+    "time": 1794431437.1156602,
     "route": {
       "callsign": "VLG39YB",
       "callsign_icao": "VLG39YB",
@@ -213196,6 +213196,82 @@
         "longitude": 4.76389,
         "municipality": "Amsterdam",
         "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "NOZ91Z": {
+    "time": 1794431437.1156602,
+    "route": {
+      "callsign": "NOZ91Z",
+      "callsign_icao": "NOZ91Z",
+      "callsign_iata": "91Z",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      },
+      "destination": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 250,
+        "iata_code": "AGA",
+        "icao_code": "GMAD",
+        "latitude": 30.32248,
+        "longitude": -9.412,
+        "municipality": "Agadir (Temsia)",
+        "name": "Al Massira Airport"
+      }
+    }
+  },
+  "EZY58TL": {
+    "time": 1794431437.1156602,
+    "route": {
+      "callsign": "EZY58TL",
+      "callsign_icao": "EZY58TL",
+      "callsign_iata": "U258TL",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "HR",
+        "country_name": "Croatia",
+        "elevation": 79,
+        "iata_code": "SPU",
+        "icao_code": "LDSP",
+        "latitude": 43.5389,
+        "longitude": 16.298,
+        "municipality": "Split",
+        "name": "Split Airport"
       }
     }
   }
