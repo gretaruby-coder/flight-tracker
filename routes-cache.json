@@ -19648,7 +19648,7 @@
     }
   },
   "ITY224": {
-    "time": 1794260128.369891,
+    "time": 1794432926.4603865,
     "route": {
       "callsign": "ITY224",
       "callsign_icao": "ITY224",
@@ -20560,7 +20560,7 @@
     }
   },
   "AAL142": {
-    "time": 1794262837.7403214,
+    "time": 1794432926.4603865,
     "route": {
       "callsign": "AAL142",
       "callsign_icao": "AAL142",
@@ -91160,7 +91160,7 @@
     }
   },
   "BAW84PW": {
-    "time": 1794345637.2094874,
+    "time": 1794432926.4603865,
     "route": {
       "callsign": "BAW84PW",
       "callsign_icao": "BAW84PW",
@@ -93429,44 +93429,6 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
-      }
-    }
-  },
-  "EZY31KB": {
-    "time": 1793828122.291422,
-    "route": {
-      "callsign": "EZY31KB",
-      "callsign_icao": "EZY31KB",
-      "callsign_iata": "U231KB",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      },
-      "destination": {
-        "country_iso_name": "MA",
-        "country_name": "Morocco",
-        "elevation": 1545,
-        "iata_code": "RAK",
-        "icao_code": "GMMX",
-        "latitude": 31.6069,
-        "longitude": -8.0363,
-        "municipality": "Marrakech",
-        "name": "Menara Airport"
       }
     }
   },
@@ -109302,7 +109264,7 @@
     }
   },
   "AIC46A": {
-    "time": 1794173449.4073129,
+    "time": 1794432926.4603865,
     "route": {
       "callsign": "AIC46A",
       "callsign_icao": "AIC46A",
@@ -129351,7 +129313,7 @@
     }
   },
   "EZY86XD": {
-    "time": 1794179436.1974573,
+    "time": 1794432926.4603865,
     "route": {
       "callsign": "EZY86XD",
       "callsign_icao": "EZY86XD",
@@ -129503,7 +129465,7 @@
     }
   },
   "EZY93QR": {
-    "time": 1794183924.906491,
+    "time": 1794432926.4603865,
     "route": {
       "callsign": "EZY93QR",
       "callsign_icao": "EZY93QR",
@@ -213310,6 +213272,120 @@
         "longitude": -15.3866,
         "municipality": "Gran Canaria Island",
         "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "FDX6417": {
+    "time": 1794432926.4603865,
+    "route": {
+      "callsign": "FDX6417",
+      "callsign_icao": "FDX6417",
+      "callsign_iata": "FX6417",
+      "airline": {
+        "name": "FedEx Express",
+        "icao": "FDX",
+        "iata": "FX",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "FEDEX"
+      },
+      "origin": {
+        "country_iso_name": "HK",
+        "country_name": "Hong Kong",
+        "elevation": 28,
+        "iata_code": "HKG",
+        "icao_code": "VHHH",
+        "latitude": 22.3089,
+        "longitude": 113.915,
+        "municipality": "Hong Kong",
+        "name": "Hong Kong International Airport"
+      },
+      "destination": {
+        "country_iso_name": "VN",
+        "country_name": "Vietnam",
+        "elevation": 39,
+        "iata_code": "HAN",
+        "icao_code": "VVNB",
+        "latitude": 21.2212,
+        "longitude": 105.807,
+        "municipality": "Soc Son, Hanoi",
+        "name": "Noi Bai International Airport"
+      }
+    }
+  },
+  "AFR012": {
+    "time": 1794432926.4603865,
+    "route": {
+      "callsign": "AFR12",
+      "callsign_icao": "AFR12",
+      "callsign_iata": "AF12",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      }
+    }
+  },
+  "TOM725": {
+    "time": 1794432926.4603865,
+    "route": {
+      "callsign": "TOM725",
+      "callsign_icao": "TOM725",
+      "callsign_iata": "BY725",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "JM",
+        "country_name": "Jamaica",
+        "elevation": 4,
+        "iata_code": "MBJ",
+        "icao_code": "MKJS",
+        "latitude": 18.5037,
+        "longitude": -77.9134,
+        "municipality": "Montego Bay",
+        "name": "Sangster International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
       }
     }
   }
