@@ -11689,7 +11689,7 @@
     }
   },
   "VIR155M": {
-    "time": 1794248469.1572173,
+    "time": 1794419728.1372547,
     "route": {
       "callsign": "VIR155M",
       "callsign_icao": "VIR155M",
@@ -29044,7 +29044,7 @@
     }
   },
   "BAW722": {
-    "time": 1794333034.7230523,
+    "time": 1794419728.1372547,
     "route": {
       "callsign": "BAW722",
       "callsign_icao": "BAW722",
@@ -45971,7 +45971,7 @@
     }
   },
   "CFE102": {
-    "time": 1794325245.3751197,
+    "time": 1794419728.1372547,
     "route": {
       "callsign": "CFE102",
       "callsign_icao": "CFE102",
@@ -88082,7 +88082,7 @@
     }
   },
   "BAW394": {
-    "time": 1794251132.081462,
+    "time": 1794419728.1372547,
     "route": {
       "callsign": "BAW394",
       "callsign_icao": "BAW394",
@@ -129876,7 +129876,7 @@
     }
   },
   "RYR91RL": {
-    "time": 1794324037.5861473,
+    "time": 1794419728.1372547,
     "route": {
       "callsign": "RYR91RL",
       "callsign_icao": "RYR91RL",
@@ -144871,7 +144871,7 @@
     }
   },
   "EZY53NC": {
-    "time": 1794332437.5710793,
+    "time": 1794419728.1372547,
     "route": {
       "callsign": "EZY53NC",
       "callsign_icao": "EZY53NC",
@@ -150435,44 +150435,6 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
-      }
-    }
-  },
-  "NOZ9067": {
-    "time": 1793814924.879462,
-    "route": {
-      "callsign": "NOZ9067",
-      "callsign_icao": "NOZ9067",
-      "callsign_iata": "9067",
-      "airline": {
-        "name": "Norwegian Air Shuttle AOC AS",
-        "icao": "NOZ",
-        "iata": null,
-        "country": "Norway",
-        "country_iso": "NO",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 78,
-        "iata_code": "LPA",
-        "icao_code": "GCLP",
-        "latitude": 27.9319,
-        "longitude": -15.3866,
-        "municipality": "Gran Canaria Island",
-        "name": "Gran Canaria Airport"
-      },
-      "destination": {
-        "country_iso_name": "NO",
-        "country_name": "Norway",
-        "elevation": 681,
-        "iata_code": "OSL",
-        "icao_code": "ENGM",
-        "latitude": 60.1939,
-        "longitude": 11.1004,
-        "municipality": "Oslo",
-        "name": "Oslo Airport, Gardermoen"
       }
     }
   },
@@ -213797,6 +213759,44 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "DLH432": {
+    "time": 1794419728.1372547,
+    "route": {
+      "callsign": "DLH432",
+      "callsign_icao": "DLH432",
+      "callsign_iata": "LH432",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
       }
     }
   }
