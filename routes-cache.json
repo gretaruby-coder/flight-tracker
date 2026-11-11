@@ -1561,7 +1561,7 @@
     }
   },
   "ACA860": {
-    "time": 1794311136.7874203,
+    "time": 1794397836.404962,
     "route": {
       "callsign": "ACA860",
       "callsign_icao": "ACA860",
@@ -2086,7 +2086,7 @@
     }
   },
   "ETD75F": {
-    "time": 1794226535.6104977,
+    "time": 1794397836.404962,
     "route": {
       "callsign": "ETD75F",
       "callsign_icao": "ETD75F",
@@ -3205,7 +3205,7 @@
     }
   },
   "ASA100": {
-    "time": 1794227451.384985,
+    "time": 1794397836.404962,
     "route": {
       "callsign": "ASA100",
       "callsign_icao": "ASA100",
@@ -67859,7 +67859,7 @@
     }
   },
   "RYR733V": {
-    "time": 1794246338.264766,
+    "time": 1794397836.404962,
     "route": {
       "callsign": "RYR733V",
       "callsign_icao": "RYR733V",
@@ -127741,7 +127741,7 @@
     }
   },
   "EZY28AX": {
-    "time": 1794310530.0442405,
+    "time": 1794397836.404962,
     "route": {
       "callsign": "EZY28AX",
       "callsign_icao": "EZY28AX",
@@ -149136,44 +149136,6 @@
         "longitude": -59.4925,
         "municipality": "Bridgetown",
         "name": "Grantley Adams International Airport"
-      }
-    }
-  },
-  "TAP9017": {
-    "time": 1793793030.4442742,
-    "route": {
-      "callsign": "TAP9017",
-      "callsign_icao": "TAP9017",
-      "callsign_iata": "TP9017",
-      "airline": {
-        "name": "TAP Portugal",
-        "icao": "TAP",
-        "iata": "TP",
-        "country": "Portugal",
-        "country_iso": "PT",
-        "callsign": "AIR PORTUGAL"
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 27,
-        "iata_code": "PMI",
-        "icao_code": "LEPA",
-        "latitude": 39.5517,
-        "longitude": 2.73881,
-        "municipality": "Palma De Mallorca",
-        "name": "Palma de Mallorca Airport"
-      },
-      "destination": {
-        "country_iso_name": "PT",
-        "country_name": "Portugal",
-        "elevation": 374,
-        "iata_code": "LIS",
-        "icao_code": "LPPT",
-        "latitude": 38.7813,
-        "longitude": -9.13592,
-        "municipality": "Lisbon",
-        "name": "Humberto Delgado Airport (Lisbon Portela Airport)"
       }
     }
   },
@@ -188664,7 +188626,7 @@
     }
   },
   "EIN5MW": {
-    "time": 1794138634.379106,
+    "time": 1794397836.404962,
     "route": {
       "callsign": "EIN5MW",
       "callsign_icao": "EIN5MW",
@@ -200218,7 +200180,7 @@
     }
   },
   "AUA3A": {
-    "time": 1794311136.7874203,
+    "time": 1794397836.404962,
     "route": {
       "callsign": "AUA3A",
       "callsign_icao": "AUA3A",
@@ -214615,6 +214577,75 @@
         "longitude": -87.9048,
         "municipality": "Chicago",
         "name": "Chicago O'Hare International Airport"
+      }
+    }
+  },
+  "QTR783": {
+    "time": 1794397836.404962,
+    "route": {
+      "callsign": "QTR783",
+      "callsign_icao": "QTR783",
+      "callsign_iata": "QR783",
+      "airline": {
+        "name": "Qatar Airways",
+        "icao": "QTR",
+        "iata": "QR",
+        "country": "Qatar",
+        "country_iso": "QA",
+        "callsign": "QATARI"
+      },
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "VJT972": {
+    "time": 1794397836.404962,
+    "route": {
+      "callsign": "VJT972",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 9,
+        "iata_code": "TEB",
+        "icao_code": "KTEB",
+        "latitude": 40.8501,
+        "longitude": -74.0608,
+        "municipality": "Teterboro",
+        "name": "Teterboro Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 12,
+        "iata_code": "NCE",
+        "icao_code": "LFMN",
+        "latitude": 43.6584,
+        "longitude": 7.21587,
+        "municipality": "Nice",
+        "name": "Nice-C\u00f4te d'Azur Airport"
       }
     }
   }
