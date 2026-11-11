@@ -4117,7 +4117,7 @@
     }
   },
   "BAW6RB": {
-    "time": 1794233737.7682636,
+    "time": 1794405658.59927,
     "route": {
       "callsign": "BAW6RB",
       "callsign_icao": "BAW6RB",
@@ -56933,7 +56933,7 @@
     }
   },
   "CFE95E": {
-    "time": 1794235237.4696052,
+    "time": 1794405658.59927,
     "route": {
       "callsign": "CFE95E",
       "callsign_icao": "CFE95E",
@@ -120266,7 +120266,7 @@
     }
   },
   "DLH520": {
-    "time": 1794229528.2314196,
+    "time": 1794405658.59927,
     "route": {
       "callsign": "DLH520",
       "callsign_icao": "DLH520",
@@ -135827,37 +135827,6 @@
       }
     }
   },
-  "MSPOR": {
-    "time": 1793800526.3181856,
-    "route": {
-      "callsign": "MSPOR",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 49,
-        "iata_code": "SEN",
-        "icao_code": "EGMC",
-        "latitude": 51.5714,
-        "longitude": 0.69556,
-        "municipality": "London",
-        "name": "Southend Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 121,
-        "iata_code": "HUY",
-        "icao_code": "EGNJ",
-        "latitude": 53.5744,
-        "longitude": -0.35083,
-        "municipality": "Grimsby",
-        "name": "Humberside Airport"
-      }
-    }
-  },
   "EZY69AE": {
     "time": 1794234928.5179746,
     "route": {
@@ -149230,7 +149199,7 @@
     }
   },
   "EFW98Q": {
-    "time": 1793973032.2000477,
+    "time": 1794405658.59927,
     "route": {
       "callsign": "EFW98Q",
       "callsign_icao": "EFW98Q",
@@ -149306,7 +149275,7 @@
     }
   },
   "SWR14V": {
-    "time": 1794059133.8278968,
+    "time": 1794405658.59927,
     "route": {
       "callsign": "SWR14V",
       "callsign_icao": "SWR14V",
@@ -149492,37 +149461,6 @@
         "longitude": -2.71909,
         "municipality": "Bristol",
         "name": "Bristol Airport"
-      }
-    }
-  },
-  "N123VP": {
-    "time": 1793800857.6359558,
-    "route": {
-      "callsign": "N123VP",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 699,
-        "iata_code": "PAD",
-        "icao_code": "EDLP",
-        "latitude": 51.6141,
-        "longitude": 8.61632,
-        "municipality": "Paderborn",
-        "name": "Paderborn Lippstadt Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 598,
-        "iata_code": "BQH",
-        "icao_code": "EGKB",
-        "latitude": 51.3308,
-        "longitude": 0.0325,
-        "municipality": "London",
-        "name": "London Biggin Hill Airport"
       }
     }
   },
@@ -214225,6 +214163,82 @@
         "longitude": -0.55889,
         "municipality": "Woking",
         "name": "Fairoaks Airport"
+      }
+    }
+  },
+  "BOX465": {
+    "time": 1794405658.59927,
+    "route": {
+      "callsign": "BOX465",
+      "callsign_icao": "BOX465",
+      "callsign_iata": "3S465",
+      "airline": {
+        "name": "AeroLogic",
+        "icao": "BOX",
+        "iata": "3S",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "GERMAN CARGO"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 97,
+        "iata_code": "IAH",
+        "icao_code": "KIAH",
+        "latitude": 29.9844,
+        "longitude": -95.3414,
+        "municipality": "Houston",
+        "name": "George Bush Intercontinental Houston Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "TUA423": {
+    "time": 1794405658.59927,
+    "route": {
+      "callsign": "TUA423",
+      "callsign_icao": "TUA423",
+      "callsign_iata": "T5423",
+      "airline": {
+        "name": "Turkmenistan Airlines",
+        "icao": "TUA",
+        "iata": "T5",
+        "country": "Turkmenistan",
+        "country_iso": "TM",
+        "callsign": "TURKMENISTAN"
+      },
+      "origin": {
+        "country_iso_name": "TM",
+        "country_name": "Turkmenistan",
+        "elevation": 692,
+        "iata_code": "ASB",
+        "icao_code": "UTAA",
+        "latitude": 37.9868,
+        "longitude": 58.361,
+        "municipality": "Ashgabat",
+        "name": "Ashgabat International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
       }
     }
   }
