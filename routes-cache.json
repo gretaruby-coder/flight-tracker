@@ -107793,7 +107793,7 @@
     }
   },
   "UPS204": {
-    "time": 1794042638.4821265,
+    "time": 1794372926.0510595,
     "route": {
       "callsign": "UPS204",
       "callsign_icao": "UPS204",
@@ -148739,44 +148739,6 @@
         "longitude": 8.57056,
         "municipality": "Frankfurt am Main",
         "name": "Frankfurt am Main Airport"
-      }
-    }
-  },
-  "LOT6307": {
-    "time": 1793768125.367738,
-    "route": {
-      "callsign": "LOT6307",
-      "callsign_icao": "LOT6307",
-      "callsign_iata": "LO6307",
-      "airline": {
-        "name": "LOT Polish Airlines",
-        "icao": "LOT",
-        "iata": "LO",
-        "country": "Poland",
-        "country_iso": "PL",
-        "callsign": "POLLOT"
-      },
-      "origin": {
-        "country_iso_name": "PL",
-        "country_name": "Poland",
-        "elevation": 995,
-        "iata_code": "KTW",
-        "icao_code": "EPKT",
-        "latitude": 50.4743,
-        "longitude": 19.08,
-        "municipality": "Katowice",
-        "name": "Katowice International Airport"
-      },
-      "destination": {
-        "country_iso_name": "DO",
-        "country_name": "Dominican Republic",
-        "elevation": 47,
-        "iata_code": "PUJ",
-        "icao_code": "MDPC",
-        "latitude": 18.5674,
-        "longitude": -68.3634,
-        "municipality": "Punta Cana",
-        "name": "Punta Cana International Airport"
       }
     }
   },
@@ -214750,6 +214712,44 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "UAL124": {
+    "time": 1794372926.0510595,
+    "route": {
+      "callsign": "UAL124",
+      "callsign_icao": "UAL124",
+      "callsign_iata": "UA124",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 308,
+        "iata_code": "ATH",
+        "icao_code": "LGAV",
+        "latitude": 37.9364,
+        "longitude": 23.9445,
+        "municipality": "Athens",
+        "name": "Athens Eleftherios Venizelos International Airport"
       }
     }
   }
