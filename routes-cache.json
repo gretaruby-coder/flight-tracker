@@ -12822,7 +12822,7 @@
     }
   },
   "BAW938": {
-    "time": 1794247867.0514095,
+    "time": 1794418346.8584945,
     "route": {
       "callsign": "BAW938",
       "callsign_icao": "BAW938",
@@ -16114,7 +16114,7 @@
     }
   },
   "CSN608": {
-    "time": 1794159635.79187,
+    "time": 1794418346.8584945,
     "route": {
       "callsign": "CSN608",
       "callsign_icao": "CSN608",
@@ -47142,7 +47142,7 @@
     }
   },
   "SWR18P": {
-    "time": 1794072927.2914536,
+    "time": 1794418346.8584945,
     "route": {
       "callsign": "SWR18P",
       "callsign_icao": "SWR18P",
@@ -85688,7 +85688,7 @@
     }
   },
   "BAW393R": {
-    "time": 1794331529.1794817,
+    "time": 1794418346.8584945,
     "route": {
       "callsign": "BAW393R",
       "callsign_icao": "BAW393R",
@@ -86562,7 +86562,7 @@
     }
   },
   "AIC63H": {
-    "time": 1794331851.1736546,
+    "time": 1794418346.8584945,
     "route": {
       "callsign": "AIC63H",
       "callsign_icao": "AIC63H",
@@ -101095,7 +101095,7 @@
     }
   },
   "AFR163": {
-    "time": 1794246338.264766,
+    "time": 1794418346.8584945,
     "route": {
       "callsign": "AFR163",
       "callsign_icao": "AFR163",
@@ -112190,7 +112190,7 @@
     }
   },
   "AEA38MB": {
-    "time": 1794242736.3657122,
+    "time": 1794418346.8584945,
     "route": {
       "callsign": "AEA38MB",
       "callsign_icao": "AEA38MB",
@@ -150283,44 +150283,6 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
-      }
-    }
-  },
-  "TOM17E": {
-    "time": 1793813450.6080966,
-    "route": {
-      "callsign": "TOM17E",
-      "callsign_icao": "TOM17E",
-      "callsign_iata": "BY17E",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 24,
-        "iata_code": "IBZ",
-        "icao_code": "LEIB",
-        "latitude": 38.8729,
-        "longitude": 1.37312,
-        "municipality": "Ibiza",
-        "name": "Ibiza Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 257,
-        "iata_code": "MAN",
-        "icao_code": "EGCC",
-        "latitude": 53.34938,
-        "longitude": -2.27952,
-        "municipality": "Manchester",
-        "name": "Manchester Airport"
       }
     }
   },
@@ -208324,7 +208286,7 @@
     }
   },
   "EZY49DK": {
-    "time": 1794328836.7090378,
+    "time": 1794418346.8584945,
     "route": {
       "callsign": "EZY49DK",
       "callsign_icao": "EZY49DK",
@@ -213918,6 +213880,68 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "SSZ7": {
+    "time": 1794418346.8584945,
+    "route": {
+      "callsign": "SSZ7",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GG",
+        "country_name": "Guernsey",
+        "elevation": 336,
+        "iata_code": "GCI",
+        "icao_code": "EGJB",
+        "latitude": 49.435,
+        "longitude": -2.60197,
+        "municipality": "Saint Peter Port",
+        "name": "Guernsey Airport"
+      },
+      "destination": {
+        "country_iso_name": "GG",
+        "country_name": "Guernsey",
+        "elevation": 336,
+        "iata_code": "GCI",
+        "icao_code": "EGJB",
+        "latitude": 49.435,
+        "longitude": -2.60197,
+        "municipality": "Saint Peter Port",
+        "name": "Guernsey Airport"
+      }
+    }
+  },
+  "GCBFA": {
+    "time": 1794418346.8584945,
+    "route": {
+      "callsign": "GCBFA",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 101,
+        "iata_code": "GLO",
+        "icao_code": "EGBJ",
+        "latitude": 51.8942,
+        "longitude": -2.16722,
+        "municipality": "Staverton",
+        "name": "Gloucestershire Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 101,
+        "iata_code": "GLO",
+        "icao_code": "EGBJ",
+        "latitude": 51.8942,
+        "longitude": -2.16722,
+        "municipality": "Staverton",
+        "name": "Gloucestershire Airport"
       }
     }
   }
