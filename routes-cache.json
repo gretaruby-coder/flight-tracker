@@ -17216,7 +17216,7 @@
     }
   },
   "AUA3M": {
-    "time": 1794426928.4116457,
+    "time": 1794513660.6521852,
     "route": {
       "callsign": "AUA3M",
       "callsign_icao": "AUA3M",
@@ -17672,7 +17672,7 @@
     }
   },
   "UAL934": {
-    "time": 1794341734.8809965,
+    "time": 1794513660.6521852,
     "route": {
       "callsign": "UAL934",
       "callsign_icao": "UAL934",
@@ -17786,7 +17786,7 @@
     }
   },
   "BAW183": {
-    "time": 1794341127.5749607,
+    "time": 1794513660.6521852,
     "route": {
       "callsign": "BAW183",
       "callsign_icao": "BAW183",
@@ -19534,7 +19534,7 @@
     }
   },
   "BAW784": {
-    "time": 1794425450.138982,
+    "time": 1794513660.6521852,
     "route": {
       "callsign": "BAW784",
       "callsign_icao": "BAW784",
@@ -48289,7 +48289,7 @@
     }
   },
   "EIN1YG": {
-    "time": 1794426928.4116457,
+    "time": 1794513660.6521852,
     "route": {
       "callsign": "EIN1YG",
       "callsign_icao": "EIN1YG",
@@ -69293,7 +69293,7 @@
     }
   },
   "RYR58PU": {
-    "time": 1794418837.5031843,
+    "time": 1794513660.6521852,
     "route": {
       "callsign": "RYR58PU",
       "callsign_icao": "RYR58PU",
@@ -90117,7 +90117,7 @@
     }
   },
   "RYR28AA": {
-    "time": 1794169847.9856975,
+    "time": 1794513660.6521852,
     "route": {
       "callsign": "RYR28AA",
       "callsign_icao": "RYR28AA",
@@ -101382,7 +101382,7 @@
     }
   },
   "EXS57JU": {
-    "time": 1794255038.610577,
+    "time": 1794513660.6521852,
     "route": {
       "callsign": "EXS57JU",
       "callsign_icao": "EXS57JU",
@@ -111327,7 +111327,7 @@
     }
   },
   "LOG91YC": {
-    "time": 1794341127.5749607,
+    "time": 1794513660.6521852,
     "route": {
       "callsign": "LOG91YC",
       "callsign_icao": "LOG91YC",
@@ -136012,7 +136012,7 @@
     }
   },
   "CFE78PG": {
-    "time": 1794340527.5499725,
+    "time": 1794513660.6521852,
     "route": {
       "callsign": "CFE78PG",
       "callsign_icao": "CFE78PG",
@@ -152612,37 +152612,6 @@
         "longitude": -0.36833,
         "municipality": "London",
         "name": "London Luton Airport"
-      }
-    }
-  },
-  "GMKAS": {
-    "time": 1793908857.9091632,
-    "route": {
-      "callsign": "GMKAS",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 433,
-        "iata_code": "GBA",
-        "icao_code": "EGBP",
-        "latitude": 51.6681,
-        "longitude": -2.05694,
-        "municipality": "Kemble",
-        "name": "Cotswold Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 433,
-        "iata_code": "GBA",
-        "icao_code": "EGBP",
-        "latitude": 51.6681,
-        "longitude": -2.05694,
-        "municipality": "Kemble",
-        "name": "Cotswold Airport"
       }
     }
   },
@@ -213427,6 +213396,75 @@
         "longitude": 11.1004,
         "municipality": "Oslo",
         "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "EXS9D": {
+    "time": 1794513660.6521852,
+    "route": {
+      "callsign": "EXS9D",
+      "callsign_icao": "EXS9D",
+      "callsign_iata": "LS9D",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 250,
+        "iata_code": "AGA",
+        "icao_code": "GMAD",
+        "latitude": 30.32248,
+        "longitude": -9.412,
+        "municipality": "Agadir (Temsia)",
+        "name": "Al Massira Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      }
+    }
+  },
+  "REV905": {
+    "time": 1794513660.6521852,
+    "route": {
+      "callsign": "REV905",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "JE",
+        "country_name": "Jersey",
+        "elevation": 277,
+        "iata_code": "JER",
+        "icao_code": "EGJJ",
+        "latitude": 49.2079,
+        "longitude": -2.19551,
+        "municipality": "Saint Helier",
+        "name": "Jersey Airport"
+      },
+      "destination": {
+        "country_iso_name": "JE",
+        "country_name": "Jersey",
+        "elevation": 277,
+        "iata_code": "JER",
+        "icao_code": "EGJJ",
+        "latitude": 49.2079,
+        "longitude": -2.19551,
+        "municipality": "Saint Helier",
+        "name": "Jersey Airport"
       }
     }
   }
