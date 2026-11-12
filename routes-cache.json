@@ -8131,7 +8131,7 @@
     }
   },
   "BAW578": {
-    "time": 1794398126.9486082,
+    "time": 1794486927.4918237,
     "route": {
       "callsign": "BAW578",
       "callsign_icao": "BAW578",
@@ -42983,7 +42983,7 @@
     }
   },
   "UAL919": {
-    "time": 1794315327.3471026,
+    "time": 1794486927.4918237,
     "route": {
       "callsign": "UAL919",
       "callsign_icao": "UAL919",
@@ -58301,7 +58301,7 @@
     }
   },
   "GCMAH": {
-    "time": 1793893531.3731,
+    "time": 1794486927.4918237,
     "route": {
       "callsign": "GCMAH",
       "callsign_icao": null,
@@ -75359,7 +75359,7 @@
     }
   },
   "RYR878F": {
-    "time": 1794235237.4696052,
+    "time": 1794486927.4918237,
     "route": {
       "callsign": "RYR878F",
       "callsign_icao": "RYR878F",
@@ -126405,7 +126405,7 @@
     }
   },
   "RYR45BP": {
-    "time": 1794160527.4343395,
+    "time": 1794486927.4918237,
     "route": {
       "callsign": "RYR45BP",
       "callsign_icao": "RYR45BP",
@@ -151354,44 +151354,6 @@
       }
     }
   },
-  "NSZ5025": {
-    "time": 1793882125.1157224,
-    "route": {
-      "callsign": "NSZ5025",
-      "callsign_icao": "NSZ5025",
-      "callsign_iata": "D85025",
-      "airline": {
-        "name": "Norwegian Air Sweden AOC",
-        "icao": "NSZ",
-        "iata": "D8",
-        "country": "Sweden",
-        "country_iso": "SE",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "NO",
-        "country_name": "Norway",
-        "elevation": 681,
-        "iata_code": "OSL",
-        "icao_code": "ENGM",
-        "latitude": 60.1939,
-        "longitude": 11.1004,
-        "municipality": "Oslo",
-        "name": "Oslo Airport, Gardermoen"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 53,
-        "iata_code": "AGP",
-        "icao_code": "LEMG",
-        "latitude": 36.6749,
-        "longitude": -4.49911,
-        "municipality": "M\u00e1laga",
-        "name": "M\u00e1laga-Costa del Sol Airport"
-      }
-    }
-  },
   "RYR10JU": {
     "time": 1794227127.1767948,
     "route": {
@@ -151507,7 +151469,7 @@
     }
   },
   "TOM4BD": {
-    "time": 1793882730.4280531,
+    "time": 1794486927.4918237,
     "route": {
       "callsign": "TOM4BD",
       "callsign_icao": "TOM4BD",
@@ -193646,7 +193608,7 @@
     }
   },
   "DLH480": {
-    "time": 1794228034.45105,
+    "time": 1794486927.4918237,
     "route": {
       "callsign": "DLH480",
       "callsign_icao": "DLH480",
@@ -213631,6 +213593,113 @@
         "longitude": -122.375,
         "municipality": "San Francisco",
         "name": "San Francisco International Airport"
+      }
+    }
+  },
+  "ABD4009": {
+    "time": 1794486927.4918237,
+    "route": {
+      "callsign": "ABD4009",
+      "callsign_icao": "ABD4009",
+      "callsign_iata": "CC4009",
+      "airline": {
+        "name": "Air Atlanta Icelandic",
+        "icao": "ABD",
+        "iata": "CC",
+        "country": "Iceland",
+        "country_iso": "IS",
+        "callsign": "ATLANTA"
+      },
+      "origin": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 659,
+        "iata_code": "LGG",
+        "icao_code": "EBLG",
+        "latitude": 50.6374,
+        "longitude": 5.44322,
+        "municipality": "Li\u00e8ge",
+        "name": "Li\u00e8ge Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 1090,
+        "iata_code": "CFE",
+        "icao_code": "LFLC",
+        "latitude": 45.7867,
+        "longitude": 3.16917,
+        "municipality": "Clermont-Ferrand/Auvergne",
+        "name": "Clermont-Ferrand Auvergne Airport"
+      }
+    }
+  },
+  "FIN79U": {
+    "time": 1794486927.4918237,
+    "route": {
+      "callsign": "FIN79U",
+      "callsign_icao": "FIN79U",
+      "callsign_iata": "AY79U",
+      "airline": {
+        "name": "Finnair",
+        "icao": "FIN",
+        "iata": "AY",
+        "country": "Finland",
+        "country_iso": "FI",
+        "callsign": "FINNAIR"
+      },
+      "origin": {
+        "country_iso_name": "FI",
+        "country_name": "Finland",
+        "elevation": 179,
+        "iata_code": "HEL",
+        "icao_code": "EFHK",
+        "latitude": 60.3172,
+        "longitude": 24.9633,
+        "municipality": "Helsinki",
+        "name": "Helsinki Vantaa Airport"
+      },
+      "destination": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 24,
+        "iata_code": "FAO",
+        "icao_code": "LPFR",
+        "latitude": 37.0144,
+        "longitude": -7.96591,
+        "municipality": "Faro",
+        "name": "Faro Airport"
+      }
+    }
+  },
+  "GFELC": {
+    "time": 1794486927.4918237,
+    "route": {
+      "callsign": "GFELC",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 318,
+        "iata_code": null,
+        "icao_code": "EGBS",
+        "latitude": 52.2417,
+        "longitude": -2.88111,
+        "municipality": "Shobdon",
+        "name": "Shobdon Aerodrome"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 330,
+        "iata_code": null,
+        "icao_code": "EGTP",
+        "latitude": 50.3317,
+        "longitude": -5.1775,
+        "municipality": "Perranporth",
+        "name": "Perranporth Airfield"
       }
     }
   }
