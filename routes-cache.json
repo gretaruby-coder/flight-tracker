@@ -2245,7 +2245,7 @@
     }
   },
   "UAL930": {
-    "time": 1794394862.5620217,
+    "time": 1794481528.2795765,
     "route": {
       "callsign": "UAL930",
       "callsign_icao": "UAL930",
@@ -7264,7 +7264,7 @@
     }
   },
   "BAW480N": {
-    "time": 1794224434.8652773,
+    "time": 1794481528.2795765,
     "route": {
       "callsign": "BAW480N",
       "callsign_icao": "BAW480N",
@@ -39245,7 +39245,7 @@
     }
   },
   "SAS804": {
-    "time": 1794393934.8967443,
+    "time": 1794481528.2795765,
     "route": {
       "callsign": "SAS804",
       "callsign_icao": "SAS804",
@@ -43287,7 +43287,7 @@
     }
   },
   "BAW26V": {
-    "time": 1794306928.5604923,
+    "time": 1794481528.2795765,
     "route": {
       "callsign": "BAW26V",
       "callsign_icao": "BAW26V",
@@ -44693,7 +44693,7 @@
     }
   },
   "VIR94": {
-    "time": 1794221726.8984857,
+    "time": 1794481528.2795765,
     "route": {
       "callsign": "VIR94",
       "callsign_icao": "VIR94",
@@ -53447,7 +53447,7 @@
     }
   },
   "EFW26BF": {
-    "time": 1794060635.5226095,
+    "time": 1794481528.2795765,
     "route": {
       "callsign": "EFW26BF",
       "callsign_icao": "EFW26BF",
@@ -56218,7 +56218,7 @@
     }
   },
   "TFL367": {
-    "time": 1794317726.9868207,
+    "time": 1794481528.2795765,
     "route": {
       "callsign": "TFL367",
       "callsign_icao": "TFL367",
@@ -59399,7 +59399,7 @@
     }
   },
   "NSZ2767": {
-    "time": 1794225928.5209265,
+    "time": 1794481528.2795765,
     "route": {
       "callsign": "NSZ2767",
       "callsign_icao": "NSZ2767",
@@ -151233,82 +151233,6 @@
       }
     }
   },
-  "TOM17T": {
-    "time": 1793876725.4681363,
-    "route": {
-      "callsign": "TOM17T",
-      "callsign_icao": "TOM17T",
-      "callsign_iata": "BY17T",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 78,
-        "iata_code": "LPA",
-        "icao_code": "GCLP",
-        "latitude": 27.9319,
-        "longitude": -15.3866,
-        "municipality": "Gran Canaria Island",
-        "name": "Gran Canaria Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 78,
-        "iata_code": "LPA",
-        "icao_code": "GCLP",
-        "latitude": 27.9319,
-        "longitude": -15.3866,
-        "municipality": "Gran Canaria Island",
-        "name": "Gran Canaria Airport"
-      }
-    }
-  },
-  "TOM8JN": {
-    "time": 1793876725.4681363,
-    "route": {
-      "callsign": "TOM8JN",
-      "callsign_icao": "TOM8JN",
-      "callsign_iata": "BY8JN",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 220,
-        "iata_code": "CWL",
-        "icao_code": "EGFF",
-        "latitude": 51.3967,
-        "longitude": -3.34333,
-        "municipality": "Cardiff",
-        "name": "Cardiff International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GR",
-        "country_name": "Greece",
-        "elevation": 6,
-        "iata_code": "CFU",
-        "icao_code": "LGKR",
-        "latitude": 39.6019,
-        "longitude": 19.9117,
-        "municipality": "Kerkyra Island",
-        "name": "Ioannis Kapodistrias International Airport"
-      }
-    }
-  },
   "EIN909": {
     "time": 1794139259.134462,
     "route": {
@@ -213552,6 +213476,44 @@
         "longitude": -86.8771,
         "municipality": "Canc\u00fan",
         "name": "Canc\u00fan International Airport"
+      }
+    }
+  },
+  "DLH490": {
+    "time": 1794481528.2795765,
+    "route": {
+      "callsign": "DLH490",
+      "callsign_icao": "DLH490",
+      "callsign_iata": "LH490",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 433,
+        "iata_code": "SEA",
+        "icao_code": "KSEA",
+        "latitude": 47.449,
+        "longitude": -122.309,
+        "municipality": "Seattle",
+        "name": "Seattle Tacoma International Airport"
       }
     }
   }
