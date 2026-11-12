@@ -17330,7 +17330,7 @@
     }
   },
   "NOZ1309": {
-    "time": 1794332739.0286002,
+    "time": 1794516638.1261458,
     "route": {
       "callsign": "NOZ1309",
       "callsign_icao": "NOZ1309",
@@ -19040,7 +19040,7 @@
     }
   },
   "LGL4L": {
-    "time": 1794342649.1822913,
+    "time": 1794516638.1261458,
     "route": {
       "callsign": "LGL4L",
       "callsign_icao": "LGL4L",
@@ -20598,7 +20598,7 @@
     }
   },
   "KLM1016": {
-    "time": 1794342649.1822913,
+    "time": 1794516638.1261458,
     "route": {
       "callsign": "KLM1016",
       "callsign_icao": "KLM1016",
@@ -21358,7 +21358,7 @@
     }
   },
   "ICE455": {
-    "time": 1794261035.2176886,
+    "time": 1794516638.1261458,
     "route": {
       "callsign": "ICE455",
       "callsign_icao": "ICE455",
@@ -21738,7 +21738,7 @@
     }
   },
   "UAL122": {
-    "time": 1794344126.0910897,
+    "time": 1794516638.1261458,
     "route": {
       "callsign": "UAL122",
       "callsign_icao": "UAL122",
@@ -30975,7 +30975,7 @@
     }
   },
   "EZY64HD": {
-    "time": 1794173449.4073129,
+    "time": 1794516638.1261458,
     "route": {
       "callsign": "EZY64HD",
       "callsign_icao": "EZY64HD",
@@ -46054,7 +46054,7 @@
     }
   },
   "BAW969H": {
-    "time": 1794422734.476105,
+    "time": 1794516638.1261458,
     "route": {
       "callsign": "BAW969H",
       "callsign_icao": "BAW969H",
@@ -48365,7 +48365,7 @@
     }
   },
   "BAW99XC": {
-    "time": 1794342925.645462,
+    "time": 1794516638.1261458,
     "route": {
       "callsign": "BAW99XC",
       "callsign_icao": "BAW99XC",
@@ -73055,7 +73055,7 @@
     }
   },
   "RYR6XN": {
-    "time": 1794405325.6852674,
+    "time": 1794516638.1261458,
     "route": {
       "callsign": "RYR6XN",
       "callsign_icao": "RYR6XN",
@@ -111136,44 +111136,6 @@
       }
     }
   },
-  "AFR6732": {
-    "time": 1793911832.6866152,
-    "route": {
-      "callsign": "AFR6732",
-      "callsign_icao": "AFR6732",
-      "callsign_iata": "AF6732",
-      "airline": {
-        "name": "Air France",
-        "icao": "AFR",
-        "iata": "AF",
-        "country": "France",
-        "country_iso": "FR",
-        "callsign": "AIRFRANS"
-      },
-      "origin": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 392,
-        "iata_code": "CDG",
-        "icao_code": "LFPG",
-        "latitude": 49.0128,
-        "longitude": 2.55,
-        "municipality": "Paris",
-        "name": "Charles de Gaulle International Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 672,
-        "iata_code": "ORD",
-        "icao_code": "KORD",
-        "latitude": 41.9786,
-        "longitude": -87.9048,
-        "municipality": "Chicago",
-        "name": "Chicago O'Hare International Airport"
-      }
-    }
-  },
   "UBT52W": {
     "time": 1794259235.5070376,
     "route": {
@@ -111365,7 +111327,7 @@
     }
   },
   "EZY94BW": {
-    "time": 1794261930.163169,
+    "time": 1794516638.1261458,
     "route": {
       "callsign": "EZY94BW",
       "callsign_icao": "EZY94BW",
@@ -148447,7 +148409,7 @@
     }
   },
   "EZY79FZ": {
-    "time": 1794171324.8872724,
+    "time": 1794516638.1261458,
     "route": {
       "callsign": "EZY79FZ",
       "callsign_icao": "EZY79FZ",
@@ -213769,6 +213731,82 @@
         "longitude": 7.14274,
         "municipality": "Cologne",
         "name": "Cologne Bonn Airport"
+      }
+    }
+  },
+  "EXS16ZV": {
+    "time": 1794516638.1261458,
+    "route": {
+      "callsign": "EXS16ZV",
+      "callsign_icao": "EXS16ZV",
+      "callsign_iata": "LS16ZV",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      }
+    }
+  },
+  "BCS229": {
+    "time": 1794516638.1261458,
+    "route": {
+      "callsign": "BCS229",
+      "callsign_icao": "BCS229",
+      "callsign_iata": "QY229",
+      "airline": {
+        "name": "European Air Transport",
+        "icao": "BCS",
+        "iata": "QY",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "EUROTRANS"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
       }
     }
   }
