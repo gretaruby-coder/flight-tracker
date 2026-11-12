@@ -33217,7 +33217,7 @@
     }
   },
   "BAW874": {
-    "time": 1794307236.414042,
+    "time": 1794480929.690225,
     "route": {
       "callsign": "BAW874",
       "callsign_icao": "BAW874",
@@ -37383,7 +37383,7 @@
     }
   },
   "BAW65": {
-    "time": 1794393047.7164235,
+    "time": 1794480929.690225,
     "route": {
       "callsign": "BAW65",
       "callsign_icao": "BAW65",
@@ -39511,7 +39511,7 @@
     }
   },
   "SWR8PZ": {
-    "time": 1794393327.18192,
+    "time": 1794480929.690225,
     "route": {
       "callsign": "SWR8PZ",
       "callsign_icao": "SWR8PZ",
@@ -40827,7 +40827,7 @@
     }
   },
   "TAP1335": {
-    "time": 1794227127.1767948,
+    "time": 1794480929.690225,
     "route": {
       "callsign": "TAP1335",
       "callsign_icao": "TAP1335",
@@ -81135,7 +81135,7 @@
     }
   },
   "RYR8LB": {
-    "time": 1794339052.2135468,
+    "time": 1794480929.690225,
     "route": {
       "callsign": "RYR8LB",
       "callsign_icao": "RYR8LB",
@@ -110387,7 +110387,7 @@
     }
   },
   "UAL995": {
-    "time": 1794308463.01806,
+    "time": 1794480929.690225,
     "route": {
       "callsign": "UAL995",
       "callsign_icao": "UAL995",
@@ -151261,44 +151261,6 @@
         "longitude": -73.7789,
         "municipality": "New York",
         "name": "John F Kennedy International Airport"
-      }
-    }
-  },
-  "TOM9HV": {
-    "time": 1793876124.5189378,
-    "route": {
-      "callsign": "TOM9HV",
-      "callsign_icao": "TOM9HV",
-      "callsign_iata": "BY9HV",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 327,
-        "iata_code": "BHX",
-        "icao_code": "EGBB",
-        "latitude": 52.4539,
-        "longitude": -1.74803,
-        "municipality": "Birmingham",
-        "name": "Birmingham International Airport"
-      },
-      "destination": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 239,
-        "iata_code": "VRN",
-        "icao_code": "LIPX",
-        "latitude": 45.3957,
-        "longitude": 10.8885,
-        "municipality": "Verona",
-        "name": "Verona Villafranca Airport"
       }
     }
   },
@@ -192748,7 +192710,7 @@
     }
   },
   "DLH408": {
-    "time": 1794220526.7253597,
+    "time": 1794480929.690225,
     "route": {
       "callsign": "DLH408",
       "callsign_icao": "DLH408",
@@ -213552,6 +213514,75 @@
         "longitude": 2.07846,
         "municipality": "Barcelona",
         "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      }
+    }
+  },
+  "DAL73": {
+    "time": 1794480929.690225,
+    "route": {
+      "callsign": "DAL73",
+      "callsign_icao": "DAL73",
+      "callsign_iata": "DL73",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1026,
+        "iata_code": "ATL",
+        "icao_code": "KATL",
+        "latitude": 33.6367,
+        "longitude": -84.4281,
+        "municipality": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
+      }
+    }
+  },
+  "NJE5BF": {
+    "time": 1794480929.690225,
+    "route": {
+      "callsign": "NJE5BF",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 1411,
+        "iata_code": "SZG",
+        "icao_code": "LOWS",
+        "latitude": 47.7933,
+        "longitude": 13.0043,
+        "municipality": "Salzburg",
+        "name": "Salzburg Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 885,
+        "iata_code": "BSL",
+        "icao_code": "LFSB",
+        "latitude": 47.59,
+        "longitude": 7.52917,
+        "municipality": "B\u00e2le/Mulhouse",
+        "name": "EuroAirport Basel-Mulhouse-Freiburg Airport"
       }
     }
   }
