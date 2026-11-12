@@ -34046,7 +34046,7 @@
     }
   },
   "VIR8Y": {
-    "time": 1794316237.2664573,
+    "time": 1794483327.4161282,
     "route": {
       "callsign": "VIR8Y",
       "callsign_icao": "VIR8Y",
@@ -39663,7 +39663,7 @@
     }
   },
   "BAW457V": {
-    "time": 1794226535.6104977,
+    "time": 1794483327.4161282,
     "route": {
       "callsign": "BAW457V",
       "callsign_icao": "BAW457V",
@@ -71749,7 +71749,7 @@
     }
   },
   "RYR52AH": {
-    "time": 1794342925.645462,
+    "time": 1794483327.4161282,
     "route": {
       "callsign": "RYR52AH",
       "callsign_icao": "RYR52AH",
@@ -73649,7 +73649,7 @@
     }
   },
   "BAW975R": {
-    "time": 1794396927.2863233,
+    "time": 1794483327.4161282,
     "route": {
       "callsign": "BAW975R",
       "callsign_icao": "BAW975R",
@@ -74941,7 +74941,7 @@
     }
   },
   "AAL56": {
-    "time": 1794311728.3262053,
+    "time": 1794483327.4161282,
     "route": {
       "callsign": "AAL56",
       "callsign_icao": "AAL56",
@@ -76005,7 +76005,7 @@
     }
   },
   "UBT783": {
-    "time": 1794396650.230746,
+    "time": 1794483327.4161282,
     "route": {
       "callsign": "UBT783",
       "callsign_icao": "UBT783",
@@ -151202,44 +151202,6 @@
       }
     }
   },
-  "TOM680": {
-    "time": 1793878525.232658,
-    "route": {
-      "callsign": "TOM680",
-      "callsign_icao": "TOM680",
-      "callsign_iata": "BY680",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      },
-      "destination": {
-        "country_iso_name": "MA",
-        "country_name": "Morocco",
-        "elevation": 250,
-        "iata_code": "AGA",
-        "icao_code": "GMAD",
-        "latitude": 30.32248,
-        "longitude": -9.412,
-        "municipality": "Agadir (Temsia)",
-        "name": "Al Massira Airport"
-      }
-    }
-  },
   "NSZ5035": {
     "time": 1793878831.7920737,
     "route": {
@@ -213514,6 +213476,75 @@
         "longitude": -79.6306,
         "municipality": "Toronto",
         "name": "Lester B. Pearson International Airport"
+      }
+    }
+  },
+  "VJT495": {
+    "time": 1794483327.4161282,
+    "route": {
+      "callsign": "VJT495",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "IL",
+        "country_name": "Israel",
+        "elevation": 135,
+        "iata_code": "TLV",
+        "icao_code": "LLBG",
+        "latitude": 32.0114,
+        "longitude": 34.8867,
+        "municipality": "Tel Aviv",
+        "name": "Ben Gurion International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "GTI8240": {
+    "time": 1794483327.4161282,
+    "route": {
+      "callsign": "GTI8240",
+      "callsign_icao": "GTI8240",
+      "callsign_iata": "5Y8240",
+      "airline": {
+        "name": "Atlas Air",
+        "icao": "GTI",
+        "iata": "5Y",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "GIANT"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 232,
+        "iata_code": "YQM",
+        "icao_code": "CYQM",
+        "latitude": 46.1122,
+        "longitude": -64.6786,
+        "municipality": "Moncton",
+        "name": "Greater Moncton Rom\u00e9o LeBlanc International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 152,
+        "iata_code": "ANC",
+        "icao_code": "PANC",
+        "latitude": 61.1744,
+        "longitude": -149.996,
+        "municipality": "Anchorage",
+        "name": "Ted Stevens Anchorage International Airport"
       }
     }
   }
