@@ -1119,7 +1119,7 @@
     }
   },
   "RWD710": {
-    "time": 1794376857.08201,
+    "time": 1794471635.6533558,
     "route": {
       "callsign": "RWD710",
       "callsign_icao": "RWD710",
@@ -32001,7 +32001,7 @@
     }
   },
   "SWR3EZ": {
-    "time": 1794305737.2957356,
+    "time": 1794471635.6533558,
     "route": {
       "callsign": "SWR3EZ",
       "callsign_icao": "SWR3EZ",
@@ -37687,7 +37687,7 @@
     }
   },
   "BAW22E": {
-    "time": 1794302136.6958835,
+    "time": 1794471635.6533558,
     "route": {
       "callsign": "BAW22E",
       "callsign_icao": "BAW22E",
@@ -43394,7 +43394,7 @@
     }
   },
   "BAW630": {
-    "time": 1794298537.320769,
+    "time": 1794471635.6533558,
     "route": {
       "callsign": "BAW630",
       "callsign_icao": "BAW630",
@@ -47598,7 +47598,7 @@
     }
   },
   "BAW18LX": {
-    "time": 1794384060.2496867,
+    "time": 1794471635.6533558,
     "route": {
       "callsign": "BAW18LX",
       "callsign_icao": "BAW18LX",
@@ -66764,7 +66764,7 @@
     }
   },
   "AFR76FV": {
-    "time": 1794040247.600914,
+    "time": 1794471635.6533558,
     "route": {
       "callsign": "AFR76FV",
       "callsign_icao": "AFR76FV",
@@ -118159,7 +118159,7 @@
     }
   },
   "WMT8AL": {
-    "time": 1794040835.3975005,
+    "time": 1794471635.6533558,
     "route": {
       "callsign": "WMT8AL",
       "callsign_icao": "WMT8AL",
@@ -213279,6 +213279,82 @@
         "longitude": 30.8005,
         "municipality": "Antalya",
         "name": "Antalya International Airport"
+      }
+    }
+  },
+  "EZY15BN": {
+    "time": 1794471635.6533558,
+    "route": {
+      "callsign": "EZY15BN",
+      "callsign_icao": "EZY15BN",
+      "callsign_iata": "U215BN",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 233,
+        "iata_code": "REU",
+        "icao_code": "LERS",
+        "latitude": 41.1474,
+        "longitude": 1.16717,
+        "municipality": "Reus",
+        "name": "Reus Airport"
+      }
+    }
+  },
+  "EJU89FU": {
+    "time": 1794471635.6533558,
+    "route": {
+      "callsign": "EJU89FU",
+      "callsign_icao": "EJU89FU",
+      "callsign_iata": "EC89FU",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
