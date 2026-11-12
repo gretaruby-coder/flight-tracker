@@ -24999,7 +24999,7 @@
     }
   },
   "CPA251": {
-    "time": 1794287737.3525126,
+    "time": 1794458435.659789,
     "route": {
       "callsign": "CPA251",
       "callsign_icao": "CPA251",
@@ -25493,7 +25493,7 @@
     }
   },
   "BAW32": {
-    "time": 1794286526.0299985,
+    "time": 1794458435.659789,
     "route": {
       "callsign": "BAW32",
       "callsign_icao": "BAW32",
@@ -150673,44 +150673,6 @@
       }
     }
   },
-  "MNB312": {
-    "time": 1793853630.2574599,
-    "route": {
-      "callsign": "MNB312",
-      "callsign_icao": "MNB312",
-      "callsign_iata": "MB312",
-      "airline": {
-        "name": "MNG Airlines",
-        "icao": "MNB",
-        "iata": "MB",
-        "country": "Turkey",
-        "country_iso": "TR",
-        "callsign": "BLACK SEA"
-      },
-      "origin": {
-        "country_iso_name": "BE",
-        "country_name": "Belgium",
-        "elevation": 659,
-        "iata_code": "LGG",
-        "icao_code": "EBLG",
-        "latitude": 50.6374,
-        "longitude": 5.44322,
-        "municipality": "Li\u00e8ge",
-        "name": "Li\u00e8ge Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 13,
-        "iata_code": "JFK",
-        "icao_code": "KJFK",
-        "latitude": 40.6398,
-        "longitude": -73.7789,
-        "municipality": "New York",
-        "name": "John F Kennedy International Airport"
-      }
-    }
-  },
   "ICV11T": {
     "time": 1793854857.9661999,
     "route": {
@@ -213013,6 +212975,44 @@
         "longitude": -77.4558,
         "municipality": "Washington",
         "name": "Washington Dulles International Airport"
+      }
+    }
+  },
+  "UAL944": {
+    "time": 1794458435.659789,
+    "route": {
+      "callsign": "UAL944",
+      "callsign_icao": "UAL944",
+      "callsign_iata": "UA944",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
       }
     }
   }
