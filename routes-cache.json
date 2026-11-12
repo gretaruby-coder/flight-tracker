@@ -33704,7 +33704,7 @@
     }
   },
   "LHX5H": {
-    "time": 1794300927.8444066,
+    "time": 1794472837.8524225,
     "route": {
       "callsign": "LHX5H",
       "callsign_icao": "LHX5H",
@@ -36319,7 +36319,7 @@
     }
   },
   "AUR601Y": {
-    "time": 1794216036.406961,
+    "time": 1794472837.8524225,
     "route": {
       "callsign": "AUR601Y",
       "callsign_icao": "AUR601Y",
@@ -42067,7 +42067,7 @@
     }
   },
   "BAW3VH": {
-    "time": 1794386125.9342942,
+    "time": 1794472837.8524225,
     "route": {
       "callsign": "BAW3VH",
       "callsign_icao": "BAW3VH",
@@ -70146,7 +70146,7 @@
     }
   },
   "BAW681": {
-    "time": 1794386436.5960534,
+    "time": 1794472837.8524225,
     "route": {
       "callsign": "BAW681",
       "callsign_icao": "BAW681",
@@ -95820,7 +95820,7 @@
     }
   },
   "EWG6G": {
-    "time": 1794386436.5960534,
+    "time": 1794472837.8524225,
     "route": {
       "callsign": "EWG6G",
       "callsign_icao": "EWG6G",
@@ -114342,7 +114342,7 @@
     }
   },
   "CFE502": {
-    "time": 1794301528.8424294,
+    "time": 1794472837.8524225,
     "route": {
       "callsign": "CFE502",
       "callsign_icao": "CFE502",
@@ -150905,44 +150905,6 @@
         "longitude": 51.60806,
         "municipality": "Doha",
         "name": "Hamad International Airport"
-      }
-    }
-  },
-  "VKG438": {
-    "time": 1793868031.586519,
-    "route": {
-      "callsign": "VKG438",
-      "callsign_icao": "VKG438",
-      "callsign_iata": "438",
-      "airline": {
-        "name": "SunClass Airlines",
-        "icao": "VKG",
-        "iata": null,
-        "country": "Denmark",
-        "country_iso": "DK",
-        "callsign": "VIKING"
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 27,
-        "iata_code": "PMI",
-        "icao_code": "LEPA",
-        "latitude": 39.5517,
-        "longitude": 2.73881,
-        "municipality": "Palma De Mallorca",
-        "name": "Palma de Mallorca Airport"
-      },
-      "destination": {
-        "country_iso_name": "DK",
-        "country_name": "Denmark",
-        "elevation": 17,
-        "iata_code": "CPH",
-        "icao_code": "EKCH",
-        "latitude": 55.6179,
-        "longitude": 12.656,
-        "municipality": "Copenhagen",
-        "name": "Copenhagen Kastrup Airport"
       }
     }
   },
@@ -213431,6 +213393,82 @@
         "longitude": -16.5725,
         "municipality": "Tenerife",
         "name": "Tenerife Sur Airport"
+      }
+    }
+  },
+  "MPH6141": {
+    "time": 1794472837.8524225,
+    "route": {
+      "callsign": "MPH6141",
+      "callsign_icao": "MPH6141",
+      "callsign_iata": "MP6141",
+      "airline": {
+        "name": "Martinair",
+        "icao": "MPH",
+        "iata": "MP",
+        "country": "Netherlands",
+        "country_iso": "NL",
+        "callsign": "MARTINAIR"
+      },
+      "origin": {
+        "country_iso_name": "GT",
+        "country_name": "Guatemala",
+        "elevation": 4952,
+        "iata_code": "GUA",
+        "icao_code": "MGGT",
+        "latitude": 14.5833,
+        "longitude": -90.5275,
+        "municipality": "Guatemala City",
+        "name": "La Aurora Airport"
+      },
+      "destination": {
+        "country_iso_name": "CO",
+        "country_name": "Colombia",
+        "elevation": 8361,
+        "iata_code": "BOG",
+        "icao_code": "SKBO",
+        "latitude": 4.70159,
+        "longitude": -74.1469,
+        "municipality": "Bogota",
+        "name": "El Dorado International Airport"
+      }
+    }
+  },
+  "RYR68BT": {
+    "time": 1794472837.8524225,
+    "route": {
+      "callsign": "RYR68BT",
+      "callsign_icao": "RYR68BT",
+      "callsign_iata": "FR68BT",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
       }
     }
   }
