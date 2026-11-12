@@ -33369,7 +33369,7 @@
     }
   },
   "VSB01": {
-    "time": 1794382836.2865336,
+    "time": 1794471925.905989,
     "route": {
       "callsign": "VSB01",
       "callsign_icao": null,
@@ -33438,7 +33438,7 @@
     }
   },
   "BAW520R": {
-    "time": 1794299451.5883386,
+    "time": 1794471925.905989,
     "route": {
       "callsign": "BAW520R",
       "callsign_icao": "BAW520R",
@@ -34464,7 +34464,7 @@
     }
   },
   "BAW9EW": {
-    "time": 1794306042.2227929,
+    "time": 1794471925.905989,
     "route": {
       "callsign": "BAW9EW",
       "callsign_icao": "BAW9EW",
@@ -47788,7 +47788,7 @@
     }
   },
   "BAW577": {
-    "time": 1794385239.3631957,
+    "time": 1794471925.905989,
     "route": {
       "callsign": "BAW577",
       "callsign_icao": "BAW577",
@@ -67334,7 +67334,7 @@
     }
   },
   "VLG1WZ": {
-    "time": 1794299126.7708733,
+    "time": 1794471925.905989,
     "route": {
       "callsign": "VLG1WZ",
       "callsign_icao": "VLG1WZ",
@@ -67562,7 +67562,7 @@
     }
   },
   "SAS70Z": {
-    "time": 1794385239.3631957,
+    "time": 1794471925.905989,
     "route": {
       "callsign": "SAS70Z",
       "callsign_icao": "SAS70Z",
@@ -67790,7 +67790,7 @@
     }
   },
   "VLG45TW": {
-    "time": 1794133235.7832098,
+    "time": 1794471925.905989,
     "route": {
       "callsign": "VLG45TW",
       "callsign_icao": "VLG45TW",
@@ -94680,7 +94680,7 @@
     }
   },
   "WMT735": {
-    "time": 1794298537.320769,
+    "time": 1794471925.905989,
     "route": {
       "callsign": "WMT735",
       "callsign_icao": "WMT735",
@@ -95478,7 +95478,7 @@
     }
   },
   "BAW957": {
-    "time": 1794299727.6561897,
+    "time": 1794471925.905989,
     "route": {
       "callsign": "BAW957",
       "callsign_icao": "BAW957",
@@ -109986,7 +109986,7 @@
     }
   },
   "EZY71VV": {
-    "time": 1794158435.1345203,
+    "time": 1794471925.905989,
     "route": {
       "callsign": "EZY71VV",
       "callsign_icao": "EZY71VV",
@@ -213355,6 +213355,82 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "BLX227": {
+    "time": 1794471925.905989,
+    "route": {
+      "callsign": "BLX227",
+      "callsign_icao": "BLX227",
+      "callsign_iata": "6B227",
+      "airline": {
+        "name": "TUIfly Nordic",
+        "icao": "BLX",
+        "iata": "6B",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": "BLUESCAN"
+      },
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "BTI27N": {
+    "time": 1794471925.905989,
+    "route": {
+      "callsign": "BTI27N",
+      "callsign_icao": "BTI27N",
+      "callsign_iata": "BT27N",
+      "airline": {
+        "name": "Air Baltic",
+        "icao": "BTI",
+        "iata": "BT",
+        "country": "Latvia",
+        "country_iso": "LV",
+        "callsign": "AIRBALTIC"
+      },
+      "origin": {
+        "country_iso_name": "EE",
+        "country_name": "Estonia",
+        "elevation": 131,
+        "iata_code": "TLL",
+        "icao_code": "EETN",
+        "latitude": 59.4133,
+        "longitude": 24.8328,
+        "municipality": "Tallinn",
+        "name": "Lennart Meri Tallinn Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
       }
     }
   }
