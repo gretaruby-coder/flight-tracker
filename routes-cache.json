@@ -2694,7 +2694,7 @@
     }
   },
   "BAW6B": {
-    "time": 1794326468.7932968,
+    "time": 1794493239.2949023,
     "route": {
       "callsign": "BAW6B",
       "callsign_icao": "BAW6B",
@@ -3737,7 +3737,7 @@
     }
   },
   "BAW556Q": {
-    "time": 1794404438.2678998,
+    "time": 1794493239.2949023,
     "route": {
       "callsign": "BAW556Q",
       "callsign_icao": "BAW556Q",
@@ -41428,7 +41428,7 @@
     }
   },
   "SVA121": {
-    "time": 1794321051.893406,
+    "time": 1794493239.2949023,
     "route": {
       "callsign": "SVA121",
       "callsign_icao": "SVA121",
@@ -46769,7 +46769,7 @@
     }
   },
   "BAW437Z": {
-    "time": 1794406536.2788985,
+    "time": 1794493239.2949023,
     "route": {
       "callsign": "BAW437Z",
       "callsign_icao": "BAW437Z",
@@ -99164,7 +99164,7 @@
     }
   },
   "EWG7XR": {
-    "time": 1794406536.2788985,
+    "time": 1794493239.2949023,
     "route": {
       "callsign": "EWG7XR",
       "callsign_icao": "EWG7XR",
@@ -213738,6 +213738,75 @@
         "longitude": -95.3414,
         "municipality": "Houston",
         "name": "George Bush Intercontinental Houston Airport"
+      }
+    }
+  },
+  "N497XP": {
+    "time": 1794493239.2949023,
+    "route": {
+      "callsign": "N497XP",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "JE",
+        "country_name": "Jersey",
+        "elevation": 277,
+        "iata_code": "JER",
+        "icao_code": "EGJJ",
+        "latitude": 49.2079,
+        "longitude": -2.19551,
+        "municipality": "Saint Helier",
+        "name": "Jersey Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 12,
+        "iata_code": "NCE",
+        "icao_code": "LFMN",
+        "latitude": 43.6584,
+        "longitude": 7.21587,
+        "municipality": "Nice",
+        "name": "Nice-C\u00f4te d'Azur Airport"
+      }
+    }
+  },
+  "TAP2BU": {
+    "time": 1794493239.2949023,
+    "route": {
+      "callsign": "TAP2BU",
+      "callsign_icao": "TAP2BU",
+      "callsign_iata": "TP2BU",
+      "airline": {
+        "name": "TAP Portugal",
+        "icao": "TAP",
+        "iata": "TP",
+        "country": "Portugal",
+        "country_iso": "PT",
+        "callsign": "AIR PORTUGAL"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 374,
+        "iata_code": "LIS",
+        "icao_code": "LPPT",
+        "latitude": 38.7813,
+        "longitude": -9.13592,
+        "municipality": "Lisbon",
+        "name": "Humberto Delgado Airport (Lisbon Portela Airport)"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 53,
+        "iata_code": "HAM",
+        "icao_code": "EDDH",
+        "latitude": 53.6304,
+        "longitude": 9.98823,
+        "municipality": "Hamburg",
+        "name": "Hamburg Helmut Schmidt Airport"
       }
     }
   }
