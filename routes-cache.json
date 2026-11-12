@@ -33780,7 +33780,7 @@
     }
   },
   "CFE603": {
-    "time": 1794225326.3117096,
+    "time": 1794477658.8930225,
     "route": {
       "callsign": "CFE603",
       "callsign_icao": "CFE603",
@@ -36357,7 +36357,7 @@
     }
   },
   "BAW120": {
-    "time": 1794388235.3296387,
+    "time": 1794477658.8930225,
     "route": {
       "callsign": "BAW120",
       "callsign_icao": "BAW120",
@@ -38029,7 +38029,7 @@
     }
   },
   "BAW396U": {
-    "time": 1794388838.616886,
+    "time": 1794477658.8930225,
     "route": {
       "callsign": "BAW396U",
       "callsign_icao": "BAW396U",
@@ -38295,7 +38295,7 @@
     }
   },
   "BAW53M": {
-    "time": 1794307534.9698727,
+    "time": 1794477658.8930225,
     "route": {
       "callsign": "BAW53M",
       "callsign_icao": "BAW53M",
@@ -39473,7 +39473,7 @@
     }
   },
   "UAL5": {
-    "time": 1794390927.393828,
+    "time": 1794477658.8930225,
     "route": {
       "callsign": "UAL5",
       "callsign_icao": "UAL5",
@@ -65973,7 +65973,7 @@
     }
   },
   "EZY16CG": {
-    "time": 1794382836.2865336,
+    "time": 1794477658.8930225,
     "route": {
       "callsign": "EZY16CG",
       "callsign_icao": "EZY16CG",
@@ -110107,7 +110107,7 @@
     }
   },
   "EJU74ZA": {
-    "time": 1794174035.385555,
+    "time": 1794477658.8930225,
     "route": {
       "callsign": "EJU74ZA",
       "callsign_icao": "EJU74ZA",
@@ -110221,7 +110221,7 @@
     }
   },
   "EXS1KG": {
-    "time": 1794207658.908558,
+    "time": 1794477658.8930225,
     "route": {
       "callsign": "EXS1KG",
       "callsign_icao": "EXS1KG",
@@ -131828,7 +131828,7 @@
     }
   },
   "KLC1127": {
-    "time": 1794305737.2957356,
+    "time": 1794477658.8930225,
     "route": {
       "callsign": "KLC1127",
       "callsign_icao": "KLC1127",
@@ -213590,6 +213590,82 @@
         "longitude": 2.73881,
         "municipality": "Palma De Mallorca",
         "name": "Palma de Mallorca Airport"
+      }
+    }
+  },
+  "NSZ2876": {
+    "time": 1794477658.8930225,
+    "route": {
+      "callsign": "NSZ2876",
+      "callsign_icao": "NSZ2876",
+      "callsign_iata": "D82876",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "FI",
+        "country_name": "Finland",
+        "elevation": 179,
+        "iata_code": "HEL",
+        "icao_code": "EFHK",
+        "latitude": 60.3172,
+        "longitude": 24.9633,
+        "municipality": "Helsinki",
+        "name": "Helsinki Vantaa Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      }
+    }
+  },
+  "BAW9750": {
+    "time": 1794477658.8930225,
+    "route": {
+      "callsign": "BAW9750",
+      "callsign_icao": "BAW9750",
+      "callsign_iata": "BA9750",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 6,
+        "iata_code": "CFU",
+        "icao_code": "LGKR",
+        "latitude": 39.6019,
+        "longitude": 19.9117,
+        "municipality": "Kerkyra Island",
+        "name": "Ioannis Kapodistrias International Airport"
       }
     }
   }
