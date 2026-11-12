@@ -38,7 +38,7 @@
     }
   },
   "BAW521": {
-    "time": 1794316534.9912214,
+    "time": 1794489042.5550041,
     "route": {
       "callsign": "BAW521",
       "callsign_icao": "BAW521",
@@ -3851,7 +3851,7 @@
     }
   },
   "BAW873": {
-    "time": 1794332437.5710793,
+    "time": 1794489042.5550041,
     "route": {
       "callsign": "BAW873",
       "callsign_icao": "BAW873",
@@ -76461,7 +76461,7 @@
     }
   },
   "BAW934L": {
-    "time": 1794315929.4384406,
+    "time": 1794489042.5550041,
     "route": {
       "callsign": "BAW934L",
       "callsign_icao": "BAW934L",
@@ -98525,7 +98525,7 @@
     }
   },
   "EXS4Z": {
-    "time": 1793885124.7825534,
+    "time": 1794489042.5550041,
     "route": {
       "callsign": "EXS4Z",
       "callsign_icao": "EXS4Z",
@@ -213624,6 +213624,82 @@
         "longitude": -9.13592,
         "municipality": "Lisbon",
         "name": "Humberto Delgado Airport (Lisbon Portela Airport)"
+      }
+    }
+  },
+  "UA147": {
+    "time": 1794489042.5550041,
+    "route": {
+      "callsign": "UA147",
+      "callsign_icao": "UAL147",
+      "callsign_iata": "UA147",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      }
+    }
+  },
+  "UAE3U": {
+    "time": 1794489042.5550041,
+    "route": {
+      "callsign": "UAE3U",
+      "callsign_icao": "UAE3U",
+      "callsign_iata": "EK3U",
+      "airline": {
+        "name": "Emirates",
+        "icao": "UAE",
+        "iata": "EK",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "EMIRATES"
+      },
+      "origin": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 62,
+        "iata_code": "DXB",
+        "icao_code": "OMDB",
+        "latitude": 25.2528,
+        "longitude": 55.3644,
+        "municipality": "Dubai",
+        "name": "Dubai International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
       }
     }
   }
