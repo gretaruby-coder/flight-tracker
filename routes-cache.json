@@ -21700,7 +21700,7 @@
     }
   },
   "KLM51B": {
-    "time": 1794433836.1763768,
+    "time": 1794523535.5870109,
     "route": {
       "callsign": "KLM51B",
       "callsign_icao": "KLM51B",
@@ -24049,7 +24049,7 @@
     }
   },
   "AEE609": {
-    "time": 1794435926.2819738,
+    "time": 1794523535.5870109,
     "route": {
       "callsign": "AEE609",
       "callsign_icao": "AEE609",
@@ -24125,7 +24125,7 @@
     }
   },
   "VIR411Y": {
-    "time": 1794351325.6224053,
+    "time": 1794523535.5870109,
     "route": {
       "callsign": "VIR411Y",
       "callsign_icao": "VIR411Y",
@@ -49042,7 +49042,7 @@
     }
   },
   "FPO9NN": {
-    "time": 1794351034.8137584,
+    "time": 1794523535.5870109,
     "route": {
       "callsign": "FPO9NN",
       "callsign_icao": "FPO9NN",
@@ -119803,44 +119803,6 @@
       }
     }
   },
-  "RYR276A": {
-    "time": 1793918731.7547982,
-    "route": {
-      "callsign": "RYR276A",
-      "callsign_icao": "RYR276A",
-      "callsign_iata": "FR276A",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "IE",
-        "country_name": "Ireland",
-        "elevation": 242,
-        "iata_code": "DUB",
-        "icao_code": "EIDW",
-        "latitude": 53.4213,
-        "longitude": -6.27007,
-        "municipality": "Dublin",
-        "name": "Dublin Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 348,
-        "iata_code": "STN",
-        "icao_code": "EGSS",
-        "latitude": 51.885,
-        "longitude": 0.235,
-        "municipality": "London",
-        "name": "London Stansted Airport"
-      }
-    }
-  },
   "RUK1UX": {
     "time": 1794353125.950614,
     "route": {
@@ -143100,7 +143062,7 @@
     }
   },
   "SAS70Y": {
-    "time": 1794345925.2476354,
+    "time": 1794523535.5870109,
     "route": {
       "callsign": "SAS70Y",
       "callsign_icao": "SAS70Y",
@@ -213876,6 +213838,44 @@
         "longitude": 2.07846,
         "municipality": "Barcelona",
         "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      }
+    }
+  },
+  "VKG725": {
+    "time": 1794523535.5870109,
+    "route": {
+      "callsign": "VKG725",
+      "callsign_icao": "VKG725",
+      "callsign_iata": "725",
+      "airline": {
+        "name": "SunClass Airlines",
+        "icao": "VKG",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": "VIKING"
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 170,
+        "iata_code": "BGO",
+        "icao_code": "ENBR",
+        "latitude": 60.2934,
+        "longitude": 5.21814,
+        "municipality": "Bergen",
+        "name": "Bergen Airport, Flesland"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
       }
     }
   }
