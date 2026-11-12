@@ -9865,7 +9865,7 @@
     }
   },
   "AEE3LG": {
-    "time": 1794416463.3347955,
+    "time": 1794504040.6061714,
     "route": {
       "callsign": "AEE3LG",
       "callsign_icao": "AEE3LG",
@@ -10967,7 +10967,7 @@
     }
   },
   "CPA238": {
-    "time": 1794416463.3347955,
+    "time": 1794504040.6061714,
     "route": {
       "callsign": "CPA238",
       "callsign_icao": "CPA238",
@@ -38067,7 +38067,7 @@
     }
   },
   "BAW468": {
-    "time": 1794244536.7267976,
+    "time": 1794504040.6061714,
     "route": {
       "callsign": "BAW468",
       "callsign_icao": "BAW468",
@@ -54021,7 +54021,7 @@
     }
   },
   "CFE99B": {
-    "time": 1794417638.839068,
+    "time": 1794504040.6061714,
     "route": {
       "callsign": "CFE99B",
       "callsign_icao": "CFE99B",
@@ -54591,7 +54591,7 @@
     }
   },
   "BAW41HA": {
-    "time": 1794417638.839068,
+    "time": 1794504040.6061714,
     "route": {
       "callsign": "BAW41HA",
       "callsign_icao": "BAW41HA",
@@ -100463,7 +100463,7 @@
     }
   },
   "EZY52YV": {
-    "time": 1794332437.5710793,
+    "time": 1794504040.6061714,
     "route": {
       "callsign": "EZY52YV",
       "callsign_icao": "EZY52YV",
@@ -110712,7 +110712,7 @@
     }
   },
   "BAW700V": {
-    "time": 1794246338.264766,
+    "time": 1794504040.6061714,
     "route": {
       "callsign": "BAW700V",
       "callsign_icao": "BAW700V",
@@ -125469,7 +125469,7 @@
     }
   },
   "EZY48TM": {
-    "time": 1794250529.0044785,
+    "time": 1794504040.6061714,
     "route": {
       "callsign": "EZY48TM",
       "callsign_icao": "EZY48TM",
@@ -152236,7 +152236,7 @@
     }
   },
   "THY6DJ": {
-    "time": 1794071432.6703534,
+    "time": 1794504040.6061714,
     "route": {
       "callsign": "THY6DJ",
       "callsign_icao": "THY6DJ",
@@ -213334,6 +213334,106 @@
         "longitude": 32.4857,
         "municipality": "Paphos",
         "name": "Paphos International Airport"
+      }
+    }
+  },
+  "HBFUN": {
+    "time": 1794504040.6061714,
+    "route": {
+      "callsign": "HBFUN",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 217,
+        "iata_code": null,
+        "icao_code": "EDLD",
+        "latitude": 51.61611,
+        "longitude": 6.86528,
+        "municipality": "Bottrop-Kirchhellen",
+        "name": "Dinslaken/Schwarze Heide Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      }
+    }
+  },
+  "TWY604": {
+    "time": 1794504040.6061714,
+    "route": {
+      "callsign": "TWY604",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 312,
+        "iata_code": "IAD",
+        "icao_code": "KIAD",
+        "latitude": 38.9445,
+        "longitude": -77.4558,
+        "municipality": "Washington",
+        "name": "Washington Dulles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 20,
+        "iata_code": "BOS",
+        "icao_code": "KBOS",
+        "latitude": 42.3643,
+        "longitude": -71.0052,
+        "municipality": "Boston",
+        "name": "Logan International Airport"
+      }
+    }
+  },
+  "ICV11T": {
+    "time": 1794504040.6061714,
+    "route": {
+      "callsign": "ICV11T",
+      "callsign_icao": "ICV11T",
+      "callsign_iata": "11T",
+      "airline": {
+        "name": "Cargolux Italia",
+        "icao": "ICV",
+        "iata": null,
+        "country": "Italy",
+        "country_iso": "IT",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
       }
     }
   }
