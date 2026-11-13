@@ -1637,7 +1637,7 @@
     }
   },
   "JBU20": {
-    "time": 1794316534.9912214,
+    "time": 1794574237.5554867,
     "route": {
       "callsign": "JBU20",
       "callsign_icao": "JBU20",
@@ -7195,7 +7195,7 @@
     }
   },
   "SHT9B": {
-    "time": 1794397535.0321677,
+    "time": 1794574237.5554867,
     "route": {
       "callsign": "SHT9B",
       "callsign_icao": null,
@@ -52625,7 +52625,7 @@
     }
   },
   "EIN4TH": {
-    "time": 1794402061.6758587,
+    "time": 1794574237.5554867,
     "route": {
       "callsign": "EIN4TH",
       "callsign_icao": "EIN4TH",
@@ -58156,7 +58156,7 @@
     }
   },
   "GCMAH": {
-    "time": 1794486927.4918237,
+    "time": 1794574237.5554867,
     "route": {
       "callsign": "GCMAH",
       "callsign_icao": null,
@@ -75114,7 +75114,7 @@
     }
   },
   "DLH3KV": {
-    "time": 1794487235.978335,
+    "time": 1794574237.5554867,
     "route": {
       "callsign": "DLH3KV",
       "callsign_icao": "DLH3KV",
@@ -75304,7 +75304,7 @@
     }
   },
   "BAW668": {
-    "time": 1794470462.2851033,
+    "time": 1794574237.5554867,
     "route": {
       "callsign": "BAW668",
       "callsign_icao": "BAW668",
@@ -87882,7 +87882,7 @@
     }
   },
   "RYR4RE": {
-    "time": 1794166835.4114063,
+    "time": 1794574237.5554867,
     "route": {
       "callsign": "RYR4RE",
       "callsign_icao": "RYR4RE",
@@ -153330,75 +153330,6 @@
       }
     }
   },
-  "VJT751": {
-    "time": 1793969431.0023978,
-    "route": {
-      "callsign": "VJT751",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 62,
-        "iata_code": "SJC",
-        "icao_code": "KSJC",
-        "latitude": 37.3626,
-        "longitude": -121.929,
-        "municipality": "San Jose",
-        "name": "Norman Y. Mineta San Jose International Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 5431,
-        "iata_code": "DEN",
-        "icao_code": "KDEN",
-        "latitude": 39.8617,
-        "longitude": -104.673,
-        "municipality": "Denver",
-        "name": "Denver International Airport"
-      }
-    }
-  },
-  "TOM469": {
-    "time": 1793969431.0023978,
-    "route": {
-      "callsign": "TOM469",
-      "callsign_icao": "TOM469",
-      "callsign_iata": "BY469",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "TN",
-        "country_name": "Tunisia",
-        "elevation": 21,
-        "iata_code": "NBE",
-        "icao_code": "DTNH",
-        "latitude": 36.07583,
-        "longitude": 10.43861,
-        "municipality": "Enfidha",
-        "name": "Enfidha - Hammamet International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 327,
-        "iata_code": "BHX",
-        "icao_code": "EGBB",
-        "latitude": 52.4539,
-        "longitude": -1.74803,
-        "municipality": "Birmingham",
-        "name": "Birmingham International Airport"
-      }
-    }
-  },
   "BRJ758": {
     "time": 1794309927.9890525,
     "route": {
@@ -213768,6 +213699,44 @@
         "longitude": -97.038,
         "municipality": "Dallas-Fort Worth",
         "name": "Dallas Fort Worth International Airport"
+      }
+    }
+  },
+  "GTI6079": {
+    "time": 1794574237.5554867,
+    "route": {
+      "callsign": "GTI6079",
+      "callsign_icao": "GTI6079",
+      "callsign_iata": "5Y6079",
+      "airline": {
+        "name": "Atlas Air",
+        "icao": "GTI",
+        "iata": "5Y",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "GIANT"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1026,
+        "iata_code": "ATL",
+        "icao_code": "KATL",
+        "latitude": 33.6367,
+        "longitude": -84.4281,
+        "municipality": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
       }
     }
   }
