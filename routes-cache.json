@@ -29082,7 +29082,7 @@
     }
   },
   "LGL5L": {
-    "time": 1794381635.4394882,
+    "time": 1794554727.537619,
     "route": {
       "callsign": "LGL5L",
       "callsign_icao": "LGL5L",
@@ -50269,7 +50269,7 @@
     }
   },
   "ITY217": {
-    "time": 1794467734.3259726,
+    "time": 1794554727.537619,
     "route": {
       "callsign": "ITY217",
       "callsign_icao": "ITY217",
@@ -62909,7 +62909,7 @@
     }
   },
   "EJU78AN": {
-    "time": 1794294060.7414298,
+    "time": 1794554727.537619,
     "route": {
       "callsign": "EJU78AN",
       "callsign_icao": "EJU78AN",
@@ -63669,7 +63669,7 @@
     }
   },
   "EIN40G": {
-    "time": 1794467437.6561048,
+    "time": 1794554727.537619,
     "route": {
       "callsign": "EIN40G",
       "callsign_icao": "EIN40G",
@@ -69369,7 +69369,7 @@
     }
   },
   "EZY23XZ": {
-    "time": 1794301841.9420342,
+    "time": 1794554727.537619,
     "route": {
       "callsign": "EZY23XZ",
       "callsign_icao": "EZY23XZ",
@@ -93986,7 +93986,7 @@
     }
   },
   "EZY818": {
-    "time": 1794467437.6561048,
+    "time": 1794554727.537619,
     "route": {
       "callsign": "EZY818",
       "callsign_icao": "EZY818",
@@ -96297,7 +96297,7 @@
     }
   },
   "EZY18FA": {
-    "time": 1794467128.1855512,
+    "time": 1794554727.537619,
     "route": {
       "callsign": "EZY18FA",
       "callsign_icao": "EZY18FA",
@@ -153064,44 +153064,6 @@
       }
     }
   },
-  "BAW9601": {
-    "time": 1793949923.563119,
-    "route": {
-      "callsign": "BAW9601",
-      "callsign_icao": "BAW9601",
-      "callsign_iata": "BA9601",
-      "airline": {
-        "name": "British Airways",
-        "icao": "BAW",
-        "iata": "BA",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "SPEEDBIRD"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 97,
-        "iata_code": "IAH",
-        "icao_code": "KIAH",
-        "latitude": 29.9844,
-        "longitude": -95.3414,
-        "municipality": "Houston",
-        "name": "George Bush Intercontinental Houston Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 83,
-        "iata_code": "LHR",
-        "icao_code": "EGLL",
-        "latitude": 51.4706,
-        "longitude": -0.46194,
-        "municipality": "London",
-        "name": "London Heathrow Airport"
-      }
-    }
-  },
   "TOM093": {
     "time": 1794551728.7084227,
     "route": {
@@ -184767,7 +184729,7 @@
     }
   },
   "WUK3420": {
-    "time": 1794209448.9751432,
+    "time": 1794554727.537619,
     "route": {
       "callsign": "WUK3420",
       "callsign_icao": "WUK3420",
@@ -213548,6 +213510,82 @@
         "longitude": 12.252,
         "municipality": "Rome",
         "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      }
+    }
+  },
+  "EZY52MR": {
+    "time": 1794554727.537619,
+    "route": {
+      "callsign": "EZY52MR",
+      "callsign_icao": "EZY52MR",
+      "callsign_iata": "U252MR",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 177,
+        "iata_code": "AYT",
+        "icao_code": "LTAI",
+        "latitude": 36.8987,
+        "longitude": 30.8005,
+        "municipality": "Antalya",
+        "name": "Antalya International Airport"
+      }
+    }
+  },
+  "NSZ3KQ": {
+    "time": 1794554727.537619,
+    "route": {
+      "callsign": "NSZ3KQ",
+      "callsign_icao": "NSZ3KQ",
+      "callsign_iata": "D83KQ",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 53,
+        "iata_code": "AGP",
+        "icao_code": "LEMG",
+        "latitude": 36.6749,
+        "longitude": -4.49911,
+        "municipality": "M\u00e1laga",
+        "name": "M\u00e1laga-Costa del Sol Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 286,
+        "iata_code": "TRF",
+        "icao_code": "ENTO",
+        "latitude": 59.1867,
+        "longitude": 10.2586,
+        "municipality": "Torp",
+        "name": "Sandefjord Airport, Torp"
       }
     }
   }
