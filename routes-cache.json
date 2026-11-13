@@ -58111,7 +58111,7 @@
     }
   },
   "RYR6RP": {
-    "time": 1794160858.0345461,
+    "time": 1794592859.895159,
     "route": {
       "callsign": "RYR6RP",
       "callsign_icao": "RYR6RP",
@@ -133076,7 +133076,7 @@
     }
   },
   "EJU49FM": {
-    "time": 1794337260.4586475,
+    "time": 1794592859.895159,
     "route": {
       "callsign": "EJU49FM",
       "callsign_icao": "EJU49FM",
@@ -139684,7 +139684,7 @@
     }
   },
   "EZY53NC": {
-    "time": 1794419728.1372547,
+    "time": 1794592859.895159,
     "route": {
       "callsign": "EZY53NC",
       "callsign_icao": "EZY53NC",
@@ -213222,6 +213222,120 @@
         "longitude": 7.14274,
         "municipality": "Cologne",
         "name": "Cologne Bonn Airport"
+      }
+    }
+  },
+  "RYR7L": {
+    "time": 1794592859.895159,
+    "route": {
+      "callsign": "RYR7L",
+      "callsign_icao": "RYR7L",
+      "callsign_iata": "FR7L",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "PL",
+        "country_name": "Poland",
+        "elevation": 489,
+        "iata_code": "GDN",
+        "icao_code": "EPGD",
+        "latitude": 54.3776,
+        "longitude": 18.4662,
+        "municipality": "Gda\u0144sk",
+        "name": "Gda\u0144sk Lech Wa\u0142\u0119sa Airport"
+      },
+      "destination": {
+        "country_iso_name": "LV",
+        "country_name": "Latvia",
+        "elevation": 36,
+        "iata_code": "RIX",
+        "icao_code": "EVRA",
+        "latitude": 56.9236,
+        "longitude": 23.9711,
+        "municipality": "Riga",
+        "name": "Riga International Airport"
+      }
+    }
+  },
+  "EZY48KP": {
+    "time": 1794592859.895159,
+    "route": {
+      "callsign": "EZY48KP",
+      "callsign_icao": "EZY48KP",
+      "callsign_iata": "U248KP",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 46,
+        "iata_code": "ACE",
+        "icao_code": "GCRR",
+        "latitude": 28.9455,
+        "longitude": -13.6052,
+        "municipality": "Lanzarote Island",
+        "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      }
+    }
+  },
+  "EXS97G": {
+    "time": 1794592859.895159,
+    "route": {
+      "callsign": "EXS97G",
+      "callsign_icao": "EXS97G",
+      "callsign_iata": "LS97G",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 177,
+        "iata_code": "AYT",
+        "icao_code": "LTAI",
+        "latitude": 36.8987,
+        "longitude": 30.8005,
+        "municipality": "Antalya",
+        "name": "Antalya International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
       }
     }
   }
