@@ -936,7 +936,7 @@
     }
   },
   "VIR24M": {
-    "time": 1794414037.2190292,
+    "time": 1794585328.808781,
     "route": {
       "callsign": "VIR24M",
       "callsign_icao": "VIR24M",
@@ -7872,7 +7872,7 @@
     }
   },
   "UAL15": {
-    "time": 1794498038.8351698,
+    "time": 1794585328.808781,
     "route": {
       "callsign": "UAL15",
       "callsign_icao": "UAL15",
@@ -28671,7 +28671,7 @@
     }
   },
   "BAW986G": {
-    "time": 1794154536.290987,
+    "time": 1794585328.808781,
     "route": {
       "callsign": "BAW986G",
       "callsign_icao": "BAW986G",
@@ -35597,7 +35597,7 @@
     }
   },
   "BAW466": {
-    "time": 1794498336.500633,
+    "time": 1794585328.808781,
     "route": {
       "callsign": "BAW466",
       "callsign_icao": "BAW466",
@@ -48510,7 +48510,7 @@
     }
   },
   "BAW735": {
-    "time": 1794415836.8919463,
+    "time": 1794585328.808781,
     "route": {
       "callsign": "BAW735",
       "callsign_icao": "BAW735",
@@ -82106,7 +82106,7 @@
     }
   },
   "BAW510Y": {
-    "time": 1794497452.3491328,
+    "time": 1794585328.808781,
     "route": {
       "callsign": "BAW510Y",
       "callsign_icao": "BAW510Y",
@@ -85868,7 +85868,7 @@
     }
   },
   "RUK9227": {
-    "time": 1794165334.9053755,
+    "time": 1794585328.808781,
     "route": {
       "callsign": "RUK9227",
       "callsign_icao": "RUK9227",
@@ -153696,84 +153696,8 @@
       }
     }
   },
-  "AFR175A": {
-    "time": 1793980524.3243318,
-    "route": {
-      "callsign": "AFR175A",
-      "callsign_icao": "AFR175A",
-      "callsign_iata": "AF175A",
-      "airline": {
-        "name": "Air France",
-        "icao": "AFR",
-        "iata": "AF",
-        "country": "France",
-        "country_iso": "FR",
-        "callsign": "AIRFRANS"
-      },
-      "origin": {
-        "country_iso_name": "MX",
-        "country_name": "Mexico",
-        "elevation": 7316,
-        "iata_code": "MEX",
-        "icao_code": "MMMX",
-        "latitude": 19.4363,
-        "longitude": -99.0721,
-        "municipality": "Mexico City",
-        "name": "Licenciado Benito Juarez International Airport"
-      },
-      "destination": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 392,
-        "iata_code": "CDG",
-        "icao_code": "LFPG",
-        "latitude": 49.0128,
-        "longitude": 2.55,
-        "municipality": "Paris",
-        "name": "Charles de Gaulle International Airport"
-      }
-    }
-  },
-  "CFE657": {
-    "time": 1793980524.3243318,
-    "route": {
-      "callsign": "CFE657",
-      "callsign_icao": "CFE657",
-      "callsign_iata": "CJ657",
-      "airline": {
-        "name": "BA CityFlyer",
-        "icao": "CFE",
-        "iata": "CJ",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "FLYER"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 19,
-        "iata_code": "LCY",
-        "icao_code": "EGLC",
-        "latitude": 51.5053,
-        "longitude": 0.05528,
-        "municipality": "London",
-        "name": "London City Airport"
-      },
-      "destination": {
-        "country_iso_name": "NL",
-        "country_name": "Netherlands",
-        "elevation": -15,
-        "iata_code": "RTM",
-        "icao_code": "EHRD",
-        "latitude": 51.9569,
-        "longitude": 4.43722,
-        "municipality": "Rotterdam",
-        "name": "Rotterdam The Hague Airport"
-      }
-    }
-  },
   "EJU4646": {
-    "time": 1793980858.9722912,
+    "time": 1794585328.808781,
     "route": {
       "callsign": "EJU4646",
       "callsign_icao": "EJU4646",
@@ -153887,7 +153811,7 @@
     }
   },
   "NSZ9093": {
-    "time": 1793981432.648025,
+    "time": 1794585328.808781,
     "route": {
       "callsign": "NSZ9093",
       "callsign_icao": "NSZ9093",
@@ -213236,6 +213160,44 @@
         "longitude": -6.27007,
         "municipality": "Dublin",
         "name": "Dublin Airport"
+      }
+    }
+  },
+  "THY1": {
+    "time": 1794585328.808781,
+    "route": {
+      "callsign": "THY1",
+      "callsign_icao": "THY1",
+      "callsign_iata": "TK1",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
       }
     }
   }
