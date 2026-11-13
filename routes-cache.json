@@ -23745,7 +23745,7 @@
     }
   },
   "BAW83": {
-    "time": 1794438328.2312102,
+    "time": 1794613835.5383365,
     "route": {
       "callsign": "BAW83",
       "callsign_icao": "BAW83",
@@ -212593,6 +212593,44 @@
         "longitude": 5.44322,
         "municipality": "Li\u00e8ge",
         "name": "Li\u00e8ge Airport"
+      }
+    }
+  },
+  "BCS7KV": {
+    "time": 1794613835.5383365,
+    "route": {
+      "callsign": "BCS7KV",
+      "callsign_icao": "BCS7KV",
+      "callsign_iata": "QY7KV",
+      "airline": {
+        "name": "European Air Transport",
+        "icao": "BCS",
+        "iata": "QY",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "EUROTRANS"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
