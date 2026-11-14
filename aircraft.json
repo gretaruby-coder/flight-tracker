@@ -1,9 +1,74 @@
 {
-  "updated": "2026-11-14T01:55:30.402592+00:00",
+  "updated": "2026-11-14T02:00:58.531469+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": []
+  "aircraft": [
+    {
+      "hex": "400772",
+      "type": "adsb_icao",
+      "flight": "BAW5KW  ",
+      "r": "G-VIIU",
+      "t": "B772",
+      "desc": "BOEING 777-200",
+      "alt_baro": 3925,
+      "alt_geom": 4175,
+      "gs": 195.8,
+      "ias": 181,
+      "tas": 190,
+      "mach": 0.292,
+      "wd": 237,
+      "ws": 6,
+      "track": 77.31,
+      "roll": 0.53,
+      "mag_heading": 76.82,
+      "true_heading": 77.94,
+      "baro_rate": -1088,
+      "geom_rate": -1088,
+      "squawk": "5170",
+      "emergency": "none",
+      "category": "A5",
+      "nav_qnh": 1019.2,
+      "nav_altitude_mcp": 3008,
+      "nav_heading": 75.94,
+      "lat": 51.104416,
+      "lon": -0.502847,
+      "nic": 8,
+      "rc": 186,
+      "seen_pos": 0.256,
+      "version": 2,
+      "nic_baro": 1,
+      "nac_p": 11,
+      "nac_v": 2,
+      "sil": 3,
+      "sil_type": "perhour",
+      "gva": 2,
+      "sda": 2,
+      "alert": 0,
+      "spi": 0,
+      "mlat": [],
+      "tisb": [],
+      "messages": 208427,
+      "seen": 0.0,
+      "rssi": -12.6,
+      "dst": 21.045,
+      "dir": 189.7,
+      "registered_owner": "British Airways",
+      "registered_owner_operator_flag_code": "BAW",
+      "origin": {
+        "iata": "UVF",
+        "icao": "TLPL",
+        "name": "Hewanorra International Airport"
+      },
+      "destination": {
+        "iata": "LGW",
+        "icao": "EGKK",
+        "name": "London Gatwick Airport"
+      },
+      "airline_name": "British Airways",
+      "airline_iata": "BA"
+    }
+  ]
 }
