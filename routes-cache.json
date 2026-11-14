@@ -15627,7 +15627,7 @@
     }
   },
   "BAW257": {
-    "time": 1794598249.3695004,
+    "time": 1794687334.8803,
     "route": {
       "callsign": "BAW257",
       "callsign_icao": "BAW257",
@@ -19990,7 +19990,7 @@
     }
   },
   "BAW397": {
-    "time": 1794514842.6926093,
+    "time": 1794687334.8803,
     "route": {
       "callsign": "BAW397",
       "callsign_icao": "BAW397",
@@ -56612,7 +56612,7 @@
     }
   },
   "BAW317": {
-    "time": 1794599437.2470276,
+    "time": 1794687334.8803,
     "route": {
       "callsign": "BAW317",
       "callsign_icao": "BAW317",
@@ -89371,7 +89371,7 @@
     }
   },
   "RYR4JF": {
-    "time": 1794521127.960304,
+    "time": 1794687334.8803,
     "route": {
       "callsign": "RYR4JF",
       "callsign_icao": "RYR4JF",
@@ -97748,7 +97748,7 @@
     }
   },
   "EXS3ME": {
-    "time": 1794512735.1794271,
+    "time": 1794687334.8803,
     "route": {
       "callsign": "EXS3ME",
       "callsign_icao": "EXS3ME",
@@ -201917,7 +201917,7 @@
     }
   },
   "WUK8BG": {
-    "time": 1794600329.8595953,
+    "time": 1794687334.8803,
     "route": {
       "callsign": "WUK8BG",
       "callsign_icao": "WUK8BG",
@@ -209418,6 +209418,120 @@
         "longitude": 27.5152,
         "municipality": "Burgas",
         "name": "Burgas Airport"
+      }
+    }
+  },
+  "LCO1506": {
+    "time": 1794687334.8803,
+    "route": {
+      "callsign": "LCO1506",
+      "callsign_icao": "LCO1506",
+      "callsign_iata": "UC1506",
+      "airline": {
+        "name": "LAN Cargo",
+        "icao": "LCO",
+        "iata": "UC",
+        "country": "Chile",
+        "country_iso": "CL",
+        "callsign": "LAN CARGO"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 8,
+        "iata_code": "MIA",
+        "icao_code": "KMIA",
+        "latitude": 25.7932,
+        "longitude": -80.2906,
+        "municipality": "Miami",
+        "name": "Miami International Airport"
+      }
+    }
+  },
+  "ABD5935": {
+    "time": 1794687334.8803,
+    "route": {
+      "callsign": "ABD5935",
+      "callsign_icao": "ABD5935",
+      "callsign_iata": "CC5935",
+      "airline": {
+        "name": "Air Atlanta Icelandic",
+        "icao": "ABD",
+        "iata": "CC",
+        "country": "Iceland",
+        "country_iso": "IS",
+        "callsign": "ATLANTA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 964,
+        "iata_code": "GSP",
+        "icao_code": "KGSP",
+        "latitude": 34.8957,
+        "longitude": -82.2189,
+        "municipality": "Greer",
+        "name": "Greenville Spartanburg International Airport"
+      },
+      "destination": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 659,
+        "iata_code": "LGG",
+        "icao_code": "EBLG",
+        "latitude": 50.6374,
+        "longitude": 5.44322,
+        "municipality": "Li\u00e8ge",
+        "name": "Li\u00e8ge Airport"
+      }
+    }
+  },
+  "WUK929": {
+    "time": 1794687334.8803,
+    "route": {
+      "callsign": "WUK929",
+      "callsign_icao": "WUK929",
+      "callsign_iata": "W9929",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 821,
+        "iata_code": "LYS",
+        "icao_code": "LFLL",
+        "latitude": 45.72556,
+        "longitude": 5.08111,
+        "municipality": "Lyon",
+        "name": "Lyon Saint-Exup\u00e9ry Airport"
       }
     }
   }
