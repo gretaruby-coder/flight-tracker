@@ -38523,7 +38523,7 @@
     }
   },
   "MEA201": {
-    "time": 1794479727.6897483,
+    "time": 1794653133.473926,
     "route": {
       "callsign": "MEA201",
       "callsign_icao": "MEA201",
@@ -39017,7 +39017,7 @@
     }
   },
   "SAS804": {
-    "time": 1794481528.2795765,
+    "time": 1794653133.473926,
     "route": {
       "callsign": "SAS804",
       "callsign_icao": "SAS804",
@@ -69414,7 +69414,7 @@
     }
   },
   "EZY53MF": {
-    "time": 1794557436.052288,
+    "time": 1794653133.473926,
     "route": {
       "callsign": "EZY53MF",
       "callsign_icao": "EZY53MF",
@@ -71086,7 +71086,7 @@
     }
   },
   "LHX5LK": {
-    "time": 1794481262.8851852,
+    "time": 1794653133.473926,
     "route": {
       "callsign": "LHX5LK",
       "callsign_icao": "LHX5LK",
@@ -72606,7 +72606,7 @@
     }
   },
   "BAW948M": {
-    "time": 1794486037.02712,
+    "time": 1794653133.473926,
     "route": {
       "callsign": "BAW948M",
       "callsign_icao": "BAW948M",
@@ -95696,7 +95696,7 @@
     }
   },
   "UAL31": {
-    "time": 1794477035.8702834,
+    "time": 1794653133.473926,
     "route": {
       "callsign": "UAL31",
       "callsign_icao": "UAL31",
@@ -153803,44 +153803,6 @@
       }
     }
   },
-  "EXS3M": {
-    "time": 1794048037.005811,
-    "route": {
-      "callsign": "EXS3M",
-      "callsign_icao": "EXS3M",
-      "callsign_iata": "LS3M",
-      "airline": {
-        "name": "Jet2.com",
-        "icao": "EXS",
-        "iata": "LS",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "CHANNEX"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 327,
-        "iata_code": "BHX",
-        "icao_code": "EGBB",
-        "latitude": 52.4539,
-        "longitude": -1.74803,
-        "municipality": "Birmingham",
-        "name": "Birmingham International Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 12,
-        "iata_code": "BCN",
-        "icao_code": "LEBL",
-        "latitude": 41.2971,
-        "longitude": 2.07846,
-        "municipality": "Barcelona",
-        "name": "Josep Tarradellas Barcelona-El Prat Airport"
-      }
-    }
-  },
   "CASTLE07": {
     "time": 1794048336.2607303,
     "route": {
@@ -153873,7 +153835,7 @@
     }
   },
   "SAS4669": {
-    "time": 1794048928.9574957,
+    "time": 1794653133.473926,
     "route": {
       "callsign": "SAS4669",
       "callsign_icao": "SAS4669",
@@ -204989,7 +204951,7 @@
     }
   },
   "GTIPR": {
-    "time": 1794566439.8815825,
+    "time": 1794653133.473926,
     "route": {
       "callsign": "GTIPR",
       "callsign_icao": null,
@@ -212634,6 +212596,82 @@
         "longitude": 2.44139,
         "municipality": "Paris",
         "name": "Paris-Le Bourget Airport"
+      }
+    }
+  },
+  "JTD465": {
+    "time": 1794653133.473926,
+    "route": {
+      "callsign": "JTD465",
+      "callsign_icao": "JTD465",
+      "callsign_iata": "465",
+      "airline": {
+        "name": "Jet Time",
+        "icao": "JTD",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 10,
+        "iata_code": "AAL",
+        "icao_code": "EKYT",
+        "latitude": 57.09276,
+        "longitude": 9.84924,
+        "municipality": "Aalborg",
+        "name": "Aalborg Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "RCH9206": {
+    "time": 1794653133.473926,
+    "route": {
+      "callsign": "RCH9206",
+      "callsign_icao": "RCH9206",
+      "callsign_iata": "MC9206",
+      "airline": {
+        "name": "Air Mobility Command",
+        "icao": "RCH",
+        "iata": "MC",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "REACH"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 217,
+        "iata_code": "POB",
+        "icao_code": "KPOB",
+        "latitude": 35.1709,
+        "longitude": -79.0145,
+        "municipality": "Fayetteville",
+        "name": "Pope Field"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 46,
+        "iata_code": "CHS",
+        "icao_code": "KCHS",
+        "latitude": 32.8986,
+        "longitude": -80.0405,
+        "municipality": "Charleston",
+        "name": "Charleston International Airport"
       }
     }
   }
