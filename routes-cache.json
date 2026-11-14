@@ -35490,7 +35490,7 @@
     }
   },
   "BAW8DS": {
-    "time": 1794562838.2803953,
+    "time": 1794677127.144975,
     "route": {
       "callsign": "BAW8DS",
       "callsign_icao": "BAW8DS",
@@ -42838,7 +42838,7 @@
     }
   },
   "NOZ81R": {
-    "time": 1794402933.8097954,
+    "time": 1794677127.144975,
     "route": {
       "callsign": "NOZ81R",
       "callsign_icao": "NOZ81R",
@@ -51796,7 +51796,7 @@
     }
   },
   "BAW759": {
-    "time": 1794586238.056838,
+    "time": 1794677127.144975,
     "route": {
       "callsign": "BAW759",
       "callsign_icao": "BAW759",
@@ -83633,7 +83633,7 @@
     }
   },
   "BAW373": {
-    "time": 1794418528.3825262,
+    "time": 1794677127.144975,
     "route": {
       "callsign": "BAW373",
       "callsign_icao": "BAW373",
@@ -129290,7 +129290,7 @@
     }
   },
   "RYR157P": {
-    "time": 1794388838.616886,
+    "time": 1794677127.144975,
     "route": {
       "callsign": "RYR157P",
       "callsign_icao": "RYR157P",
@@ -153901,7 +153901,7 @@
     }
   },
   "BLX252": {
-    "time": 1794072327.0031946,
+    "time": 1794677127.144975,
     "route": {
       "callsign": "BLX252",
       "callsign_icao": "BLX252",
@@ -153935,44 +153935,6 @@
         "longitude": 17.9186,
         "municipality": "Stockholm",
         "name": "Stockholm-Arlanda Airport"
-      }
-    }
-  },
-  "JTD810": {
-    "time": 1794072327.0031946,
-    "route": {
-      "callsign": "JTD810",
-      "callsign_icao": "JTD810",
-      "callsign_iata": "810",
-      "airline": {
-        "name": "Jet Time",
-        "icao": "JTD",
-        "iata": null,
-        "country": "Denmark",
-        "country_iso": "DK",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "SE",
-        "country_name": "Sweden",
-        "elevation": 65,
-        "iata_code": "LLA",
-        "icao_code": "ESPA",
-        "latitude": 65.5438,
-        "longitude": 22.122,
-        "municipality": "Lule\u00e5",
-        "name": "Lule\u00e5 Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 78,
-        "iata_code": "LPA",
-        "icao_code": "GCLP",
-        "latitude": 27.9319,
-        "longitude": -15.3866,
-        "municipality": "Gran Canaria Island",
-        "name": "Gran Canaria Airport"
       }
     }
   },
@@ -209767,6 +209729,82 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "SAS82P": {
+    "time": 1794677127.144975,
+    "route": {
+      "callsign": "SAS82P",
+      "callsign_icao": "SAS82P",
+      "callsign_iata": "SK82P",
+      "airline": {
+        "name": "Scandinavian Airlines System",
+        "icao": "SAS",
+        "iata": "SK",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": "SCANDINAVIAN"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 57,
+        "iata_code": "KRS",
+        "icao_code": "ENCN",
+        "latitude": 58.2042,
+        "longitude": 8.08537,
+        "municipality": "Kjevik",
+        "name": "Kristiansand Airport, Kjevik"
+      }
+    }
+  },
+  "EXS76A": {
+    "time": 1794677127.144975,
+    "route": {
+      "callsign": "EXS76A",
+      "callsign_icao": "EXS76A",
+      "callsign_iata": "LS76A",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 177,
+        "iata_code": "AYT",
+        "icao_code": "LTAI",
+        "latitude": 36.8987,
+        "longitude": 30.8005,
+        "municipality": "Antalya",
+        "name": "Antalya International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
