@@ -10739,7 +10739,7 @@
     }
   },
   "AAR522": {
-    "time": 1794593129.5744526,
+    "time": 1794679530.27453,
     "route": {
       "callsign": "AAR522",
       "callsign_icao": "AAR522",
@@ -10815,7 +10815,7 @@
     }
   },
   "BAW899": {
-    "time": 1794422734.476105,
+    "time": 1794679530.27453,
     "route": {
       "callsign": "BAW899",
       "callsign_icao": "BAW899",
@@ -13005,7 +13005,7 @@
     }
   },
   "CSN303": {
-    "time": 1794591937.0227664,
+    "time": 1794679530.27453,
     "route": {
       "callsign": "CSN303",
       "callsign_icao": "CSN303",
@@ -15323,7 +15323,7 @@
     }
   },
   "UAE39K": {
-    "time": 1794508250.9009514,
+    "time": 1794679530.27453,
     "route": {
       "callsign": "UAE39K",
       "callsign_icao": "UAE39K",
@@ -85229,7 +85229,7 @@
     }
   },
   "DLH1U": {
-    "time": 1794508527.5912826,
+    "time": 1794679530.27453,
     "route": {
       "callsign": "DLH1U",
       "callsign_icao": "DLH1U",
@@ -144247,7 +144247,7 @@
     }
   },
   "THY6DJ": {
-    "time": 1794590729.0489395,
+    "time": 1794679530.27453,
     "route": {
       "callsign": "THY6DJ",
       "callsign_icao": "THY6DJ",
@@ -209736,6 +209736,44 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "NSZ6MJ": {
+    "time": 1794679530.27453,
+    "route": {
+      "callsign": "NSZ6MJ",
+      "callsign_icao": "NSZ6MJ",
+      "callsign_iata": "D86MJ",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 24,
+        "iata_code": "FAO",
+        "icao_code": "LPFR",
+        "latitude": 37.0144,
+        "longitude": -7.96591,
+        "municipality": "Faro",
+        "name": "Faro Airport"
+      },
+      "destination": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
       }
     }
   }
