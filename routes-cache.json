@@ -1157,7 +1157,7 @@
     }
   },
   "BAW180": {
-    "time": 1794289537.4112043,
+    "time": 1794636636.1343832,
     "route": {
       "callsign": "BAW180",
       "callsign_icao": "BAW180",
@@ -24923,7 +24923,7 @@
     }
   },
   "BEL52B": {
-    "time": 1794291928.0379868,
+    "time": 1794636636.1343832,
     "route": {
       "callsign": "BEL52B",
       "callsign_icao": "BEL52B",
@@ -26139,7 +26139,7 @@
     }
   },
   "JAL41": {
-    "time": 1794549928.945567,
+    "time": 1794636636.1343832,
     "route": {
       "callsign": "JAL41",
       "callsign_icao": "JAL41",
@@ -59572,7 +59572,7 @@
     }
   },
   "CSN689": {
-    "time": 1794549928.945567,
+    "time": 1794636636.1343832,
     "route": {
       "callsign": "CSN689",
       "callsign_icao": "CSN689",
@@ -90763,7 +90763,7 @@
     }
   },
   "RYR56PE": {
-    "time": 1794172234.430795,
+    "time": 1794636636.1343832,
     "route": {
       "callsign": "RYR56PE",
       "callsign_icao": "RYR56PE",
@@ -114443,7 +114443,7 @@
     }
   },
   "WUK134": {
-    "time": 1794290460.3529851,
+    "time": 1794636636.1343832,
     "route": {
       "callsign": "WUK134",
       "callsign_icao": "WUK134",
@@ -114477,44 +114477,6 @@
         "longitude": 28.931,
         "municipality": "Chi\u015fin\u0103u",
         "name": "Chi\u015fin\u0103u International Airport"
-      }
-    }
-  },
-  "QTR8160": {
-    "time": 1794031835.2256615,
-    "route": {
-      "callsign": "QTR8160",
-      "callsign_icao": "QTR8160",
-      "callsign_iata": "QR8160",
-      "airline": {
-        "name": "Qatar Airways",
-        "icao": "QTR",
-        "iata": "QR",
-        "country": "Qatar",
-        "country_iso": "QA",
-        "callsign": "QATARI"
-      },
-      "origin": {
-        "country_iso_name": "NL",
-        "country_name": "Netherlands",
-        "elevation": -11,
-        "iata_code": "AMS",
-        "icao_code": "EHAM",
-        "latitude": 52.3086,
-        "longitude": 4.76389,
-        "municipality": "Amsterdam",
-        "name": "Amsterdam Airport Schiphol"
-      },
-      "destination": {
-        "country_iso_name": "QA",
-        "country_name": "Qatar",
-        "elevation": 13,
-        "iata_code": "DOH",
-        "icao_code": "OTHH",
-        "latitude": 25.27306,
-        "longitude": 51.60806,
-        "municipality": "Doha",
-        "name": "Hamad International Airport"
       }
     }
   },
@@ -127055,7 +127017,7 @@
     }
   },
   "EZY296M": {
-    "time": 1794383134.8173523,
+    "time": 1794636636.1343832,
     "route": {
       "callsign": "EZY296M",
       "callsign_icao": "EZY296M",
@@ -134520,7 +134482,7 @@
     }
   },
   "WUK7206": {
-    "time": 1794032437.1649845,
+    "time": 1794636636.1343832,
     "route": {
       "callsign": "WUK7206",
       "callsign_icao": "WUK7206",
@@ -198536,7 +198498,7 @@
     }
   },
   "QTR3F": {
-    "time": 1794464135.3300123,
+    "time": 1794636636.1343832,
     "route": {
       "callsign": "QTR3F",
       "callsign_icao": "QTR3F",
@@ -212600,6 +212562,82 @@
         "longitude": -84.4281,
         "municipality": "Atlanta",
         "name": "Hartsfield Jackson Atlanta International Airport"
+      }
+    }
+  },
+  "AUA42": {
+    "time": 1794636636.1343832,
+    "route": {
+      "callsign": "AUA42",
+      "callsign_icao": "AUA42",
+      "callsign_iata": "OS42",
+      "airline": {
+        "name": "Austrian Airlines",
+        "icao": "AUA",
+        "iata": "OS",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "AUSTRIAN"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 312,
+        "iata_code": "IAD",
+        "icao_code": "KIAD",
+        "latitude": 38.9445,
+        "longitude": -77.4558,
+        "municipality": "Washington",
+        "name": "Washington Dulles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 600,
+        "iata_code": "VIE",
+        "icao_code": "LOWW",
+        "latitude": 48.1103,
+        "longitude": 16.5697,
+        "municipality": "Vienna",
+        "name": "Vienna International Airport"
+      }
+    }
+  },
+  "GFA091": {
+    "time": 1794636636.1343832,
+    "route": {
+      "callsign": "GFA91",
+      "callsign_icao": "GFA91",
+      "callsign_iata": "GF91",
+      "airline": {
+        "name": "Gulf Air",
+        "icao": "GFA",
+        "iata": "GF",
+        "country": "Bahrain",
+        "country_iso": "BH",
+        "callsign": "GULF AIR"
+      },
+      "origin": {
+        "country_iso_name": "BH",
+        "country_name": "Bahrain",
+        "elevation": 6,
+        "iata_code": "BAH",
+        "icao_code": "OBBI",
+        "latitude": 26.2673,
+        "longitude": 50.63764,
+        "municipality": "Manama",
+        "name": "Bahrain International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
       }
     }
   }
