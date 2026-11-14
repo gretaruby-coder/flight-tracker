@@ -4763,7 +4763,7 @@
     }
   },
   "BAW473D": {
-    "time": 1794568239.8434527,
+    "time": 1794654935.6075814,
     "route": {
       "callsign": "BAW473D",
       "callsign_icao": "BAW473D",
@@ -5029,7 +5029,7 @@
     }
   },
   "BAW8NG": {
-    "time": 1794567929.0968122,
+    "time": 1794654935.6075814,
     "route": {
       "callsign": "BAW8NG",
       "callsign_icao": "BAW8NG",
@@ -40371,7 +40371,7 @@
     }
   },
   "BAW34N": {
-    "time": 1794481262.8851852,
+    "time": 1794654935.6075814,
     "route": {
       "callsign": "BAW34N",
       "callsign_icao": "BAW34N",
@@ -87958,7 +87958,7 @@
     }
   },
   "RYR858Y": {
-    "time": 1794415236.493441,
+    "time": 1794654935.6075814,
     "route": {
       "callsign": "RYR858Y",
       "callsign_icao": "RYR858Y",
@@ -96076,7 +96076,7 @@
     }
   },
   "BAW358": {
-    "time": 1794564058.7570732,
+    "time": 1794654935.6075814,
     "route": {
       "callsign": "BAW358",
       "callsign_icao": "BAW358",
@@ -96228,7 +96228,7 @@
     }
   },
   "AUA41": {
-    "time": 1794482727.6332817,
+    "time": 1794654935.6075814,
     "route": {
       "callsign": "AUA41",
       "callsign_icao": "AUA41",
@@ -145214,7 +145214,7 @@
     }
   },
   "NOZ1702": {
-    "time": 1794493852.208969,
+    "time": 1794654935.6075814,
     "route": {
       "callsign": "NOZ1702",
       "callsign_icao": "NOZ1702",
@@ -153886,39 +153886,8 @@
       }
     }
   },
-  "N234QS": {
-    "time": 1794050133.1561956,
-    "route": {
-      "callsign": "N234QS",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 192,
-        "iata_code": "BGR",
-        "icao_code": "KBGR",
-        "latitude": 44.8074,
-        "longitude": -68.8281,
-        "municipality": "Bangor",
-        "name": "Bangor International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 598,
-        "iata_code": "BQH",
-        "icao_code": "EGKB",
-        "latitude": 51.3308,
-        "longitude": 0.0325,
-        "municipality": "London",
-        "name": "London Biggin Hill Airport"
-      }
-    }
-  },
   "SAS6077": {
-    "time": 1794050133.1561956,
+    "time": 1794654935.6075814,
     "route": {
       "callsign": "SAS6077",
       "callsign_icao": "SAS6077",
@@ -212496,6 +212465,44 @@
         "longitude": -15.3866,
         "municipality": "Gran Canaria Island",
         "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "MSR985": {
+    "time": 1794654935.6075814,
+    "route": {
+      "callsign": "MSR985",
+      "callsign_icao": "MSR985",
+      "callsign_iata": "MS985",
+      "airline": {
+        "name": "Egyptair",
+        "icao": "MSR",
+        "iata": "MS",
+        "country": "Egypt",
+        "country_iso": "EG",
+        "callsign": "EGYPTAIR"
+      },
+      "origin": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 382,
+        "iata_code": "CAI",
+        "icao_code": "HECA",
+        "latitude": 30.1219,
+        "longitude": 31.4056,
+        "municipality": "Cairo",
+        "name": "Cairo International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
       }
     }
   }
