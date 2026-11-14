@@ -26709,7 +26709,7 @@
     }
   },
   "BAW142": {
-    "time": 1794478242.0590713,
+    "time": 1794639655.0932178,
     "route": {
       "callsign": "BAW142",
       "callsign_icao": "BAW142",
@@ -32267,7 +32267,7 @@
     }
   },
   "EFW5BP": {
-    "time": 1794474329.0667038,
+    "time": 1794639655.0932178,
     "route": {
       "callsign": "EFW5BP",
       "callsign_icao": "EFW5BP",
@@ -33704,7 +33704,7 @@
     }
   },
   "BAW302": {
-    "time": 1794468927.6053162,
+    "time": 1794639655.0932178,
     "route": {
       "callsign": "BAW302",
       "callsign_icao": "BAW302",
@@ -63600,7 +63600,7 @@
     }
   },
   "EZY48FN": {
-    "time": 1794294933.9604597,
+    "time": 1794639655.0932178,
     "route": {
       "callsign": "EZY48FN",
       "callsign_icao": "EZY48FN",
@@ -102567,7 +102567,7 @@
     }
   },
   "WMT3QP": {
-    "time": 1794467128.1855512,
+    "time": 1794639655.0932178,
     "route": {
       "callsign": "WMT3QP",
       "callsign_icao": "WMT3QP",
@@ -114557,7 +114557,7 @@
     }
   },
   "SWR1QL": {
-    "time": 1794411328.0928931,
+    "time": 1794639655.0932178,
     "route": {
       "callsign": "SWR1QL",
       "callsign_icao": "SWR1QL",
@@ -154260,7 +154260,7 @@
     }
   },
   "RYR32FH": {
-    "time": 1794241527.3844118,
+    "time": 1794639655.0932178,
     "route": {
       "callsign": "RYR32FH",
       "callsign_icao": "RYR32FH",
@@ -213007,6 +213007,158 @@
         "longitude": 32.4857,
         "municipality": "Paphos",
         "name": "Paphos International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      }
+    }
+  },
+  "UAE2J": {
+    "time": 1794639655.0932178,
+    "route": {
+      "callsign": "UAE2J",
+      "callsign_icao": "UAE2J",
+      "callsign_iata": "EK2J",
+      "airline": {
+        "name": "Emirates",
+        "icao": "UAE",
+        "iata": "EK",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "EMIRATES"
+      },
+      "origin": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 62,
+        "iata_code": "DXB",
+        "icao_code": "OMDB",
+        "latitude": 25.2528,
+        "longitude": 55.3644,
+        "municipality": "Dubai",
+        "name": "Dubai International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 96,
+        "iata_code": "MCO",
+        "icao_code": "KMCO",
+        "latitude": 28.4294,
+        "longitude": -81.309,
+        "municipality": "Orlando",
+        "name": "Orlando International Airport"
+      }
+    }
+  },
+  "AUA32X": {
+    "time": 1794639655.0932178,
+    "route": {
+      "callsign": "AUA32X",
+      "callsign_icao": "AUA32X",
+      "callsign_iata": "OS32X",
+      "airline": {
+        "name": "Austrian Airlines",
+        "icao": "AUA",
+        "iata": "OS",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "AUSTRIAN"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 600,
+        "iata_code": "VIE",
+        "icao_code": "LOWW",
+        "latitude": 48.1103,
+        "longitude": 16.5697,
+        "municipality": "Vienna",
+        "name": "Vienna International Airport"
+      }
+    }
+  },
+  "LGL4591": {
+    "time": 1794639655.0932178,
+    "route": {
+      "callsign": "LGL4591",
+      "callsign_icao": "LGL4591",
+      "callsign_iata": "LG4591",
+      "airline": {
+        "name": "Luxair",
+        "icao": "LGL",
+        "iata": "LG",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "LUXAIR"
+      },
+      "origin": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 19,
+        "iata_code": "LCY",
+        "icao_code": "EGLC",
+        "latitude": 51.5053,
+        "longitude": 0.05528,
+        "municipality": "London",
+        "name": "London City Airport"
+      }
+    }
+  },
+  "RYR20UM": {
+    "time": 1794639655.0932178,
+    "route": {
+      "callsign": "RYR20UM",
+      "callsign_icao": "RYR20UM",
+      "callsign_iata": "FR20UM",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 302,
+        "iata_code": "CGN",
+        "icao_code": "EDDK",
+        "latitude": 50.8659,
+        "longitude": 7.14274,
+        "municipality": "Cologne",
+        "name": "Cologne Bonn Airport"
       },
       "destination": {
         "country_iso_name": "GB",
