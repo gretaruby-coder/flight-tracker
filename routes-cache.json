@@ -12183,7 +12183,7 @@
     }
   },
   "BAW37J": {
-    "time": 1794509733.2558575,
+    "time": 1794681327.3687751,
     "route": {
       "callsign": "BAW37J",
       "callsign_icao": "BAW37J",
@@ -14601,7 +14601,7 @@
     }
   },
   "BAW362Y": {
-    "time": 1794162648.6474922,
+    "time": 1794681327.3687751,
     "route": {
       "callsign": "BAW362Y",
       "callsign_icao": "BAW362Y",
@@ -19686,7 +19686,7 @@
     }
   },
   "BAW870": {
-    "time": 1794513929.2155366,
+    "time": 1794681327.3687751,
     "route": {
       "callsign": "BAW870",
       "callsign_icao": "BAW870",
@@ -27766,7 +27766,7 @@
     }
   },
   "BAW5PQ": {
-    "time": 1794513929.2155366,
+    "time": 1794681327.3687751,
     "route": {
       "callsign": "BAW5PQ",
       "callsign_icao": "BAW5PQ",
@@ -209698,6 +209698,75 @@
         "longitude": 12.2798,
         "municipality": "Gothenburg",
         "name": "Gothenburg-Landvetter Airport"
+      }
+    }
+  },
+  "VJT938": {
+    "time": 1794681327.3687751,
+    "route": {
+      "callsign": "VJT938",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 455,
+        "iata_code": "SOP",
+        "icao_code": "KSOP",
+        "latitude": 35.23718,
+        "longitude": -79.38938,
+        "municipality": "Carthage",
+        "name": "Moore County Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 6,
+        "iata_code": "PSA",
+        "icao_code": "LIRP",
+        "latitude": 43.6839,
+        "longitude": 10.3927,
+        "municipality": "Pisa",
+        "name": "Pisa International Airport"
+      }
+    }
+  },
+  "UAE9393": {
+    "time": 1794681327.3687751,
+    "route": {
+      "callsign": "UAE9393",
+      "callsign_icao": "UAE9393",
+      "callsign_iata": "EK9393",
+      "airline": {
+        "name": "Emirates",
+        "icao": "UAE",
+        "iata": "EK",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "EMIRATES"
+      },
+      "origin": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 184,
+        "iata_code": "BRU",
+        "icao_code": "EBBR",
+        "latitude": 50.9014,
+        "longitude": 4.48444,
+        "municipality": "Brussels",
+        "name": "Brussels Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
       }
     }
   }
