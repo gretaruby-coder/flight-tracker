@@ -27317,7 +27317,7 @@
     }
   },
   "SHT7B": {
-    "time": 1794555333.1104825,
+    "time": 1794642034.9909608,
     "route": {
       "callsign": "SHT7B",
       "callsign_icao": null,
@@ -29987,7 +29987,7 @@
     }
   },
   "EIN63N": {
-    "time": 1794555333.1104825,
+    "time": 1794642034.9909608,
     "route": {
       "callsign": "EIN63N",
       "callsign_icao": "EIN63N",
@@ -59116,7 +59116,7 @@
     }
   },
   "NOZ14X": {
-    "time": 1794390638.5237422,
+    "time": 1794642034.9909608,
     "route": {
       "callsign": "NOZ14X",
       "callsign_icao": "NOZ14X",
@@ -87084,7 +87084,7 @@
     }
   },
   "RYR42DP": {
-    "time": 1794555333.1104825,
+    "time": 1794642034.9909608,
     "route": {
       "callsign": "RYR42DP",
       "callsign_icao": "RYR42DP",
@@ -154259,44 +154259,6 @@
       }
     }
   },
-  "VKG218": {
-    "time": 1794036927.660922,
-    "route": {
-      "callsign": "VKG218",
-      "callsign_icao": "VKG218",
-      "callsign_iata": "218",
-      "airline": {
-        "name": "SunClass Airlines",
-        "icao": "VKG",
-        "iata": null,
-        "country": "Denmark",
-        "country_iso": "DK",
-        "callsign": "VIKING"
-      },
-      "origin": {
-        "country_iso_name": "DK",
-        "country_name": "Denmark",
-        "elevation": 247,
-        "iata_code": "BLL",
-        "icao_code": "EKBI",
-        "latitude": 55.7403,
-        "longitude": 9.15178,
-        "municipality": "Billund",
-        "name": "Billund Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 78,
-        "iata_code": "LPA",
-        "icao_code": "GCLP",
-        "latitude": 27.9319,
-        "longitude": -15.3866,
-        "municipality": "Gran Canaria Island",
-        "name": "Gran Canaria Airport"
-      }
-    }
-  },
   "EXS42KR": {
     "time": 1794037235.8122923,
     "route": {
@@ -213170,6 +213132,82 @@
         "longitude": 4.76389,
         "municipality": "Amsterdam",
         "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "AUA2R": {
+    "time": 1794642034.9909608,
+    "route": {
+      "callsign": "AUA2R",
+      "callsign_icao": "AUA2R",
+      "callsign_iata": "OS2R",
+      "airline": {
+        "name": "Austrian Airlines",
+        "icao": "AUA",
+        "iata": "OS",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "AUSTRIAN"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "AT",
+        "country_name": "Austria",
+        "elevation": 600,
+        "iata_code": "VIE",
+        "icao_code": "LOWW",
+        "latitude": 48.1103,
+        "longitude": 16.5697,
+        "municipality": "Vienna",
+        "name": "Vienna International Airport"
+      }
+    }
+  },
+  "EFW1RF": {
+    "time": 1794642034.9909608,
+    "route": {
+      "callsign": "EFW1RF",
+      "callsign_icao": "EFW1RF",
+      "callsign_iata": "A01RF",
+      "airline": {
+        "name": "BA Euroflyer",
+        "icao": "EFW",
+        "iata": "A0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Griffin"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
       }
     }
   }
