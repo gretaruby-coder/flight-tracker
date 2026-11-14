@@ -212709,5 +212709,43 @@
         "name": "London Gatwick Airport"
       }
     }
+  },
+  "BCS465": {
+    "time": 1794620441.6995387,
+    "route": {
+      "callsign": "BCS465",
+      "callsign_icao": "BCS465",
+      "callsign_iata": "QY465",
+      "airline": {
+        "name": "European Air Transport",
+        "icao": "BCS",
+        "iata": "QY",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "EUROTRANS"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 49,
+        "iata_code": "AOI",
+        "icao_code": "LIPY",
+        "latitude": 43.6163,
+        "longitude": 13.3623,
+        "municipality": "Ancona",
+        "name": "Marche Airport"
+      }
+    }
   }
 }
