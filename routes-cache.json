@@ -44396,7 +44396,7 @@
     }
   },
   "UAL935": {
-    "time": 1794499262.7215095,
+    "time": 1794672935.4400012,
     "route": {
       "callsign": "UAL935",
       "callsign_icao": "UAL935",
@@ -45643,7 +45643,7 @@
     }
   },
   "BAW744": {
-    "time": 1794157260.050033,
+    "time": 1794672935.4400012,
     "route": {
       "callsign": "BAW744",
       "callsign_icao": "BAW744",
@@ -64443,7 +64443,7 @@
     }
   },
   "EZY107L": {
-    "time": 1794407127.0681705,
+    "time": 1794672935.4400012,
     "route": {
       "callsign": "EZY107L",
       "callsign_icao": "EZY107L",
@@ -81239,7 +81239,7 @@
     }
   },
   "IBE07HH": {
-    "time": 1794586238.056838,
+    "time": 1794672935.4400012,
     "route": {
       "callsign": "IBE07HH",
       "callsign_icao": "IBE07HH",
@@ -129145,7 +129145,7 @@
     }
   },
   "EXS8AH": {
-    "time": 1794506464.8751361,
+    "time": 1794672935.4400012,
     "route": {
       "callsign": "EXS8AH",
       "callsign_icao": "EXS8AH",
@@ -153859,44 +153859,6 @@
         "longitude": 6.20444,
         "municipality": "Luxembourg",
         "name": "Luxembourg-Findel International Airport"
-      }
-    }
-  },
-  "EZY87PK": {
-    "time": 1794068133.8088245,
-    "route": {
-      "callsign": "EZY87PK",
-      "callsign_icao": "EZY87PK",
-      "callsign_iata": "U287PK",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "GR",
-        "country_name": "Greece",
-        "elevation": 115,
-        "iata_code": "HER",
-        "icao_code": "LGIR",
-        "latitude": 35.3397,
-        "longitude": 25.1803,
-        "municipality": "Heraklion",
-        "name": "Heraklion International Nikos Kazantzakis Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
       }
     }
   },
@@ -210102,6 +210064,82 @@
         "longitude": 35.9932,
         "municipality": "Amman",
         "name": "Queen Alia International Airport"
+      }
+    }
+  },
+  "NSZ9028": {
+    "time": 1794672935.4400012,
+    "route": {
+      "callsign": "NSZ9028",
+      "callsign_icao": "NSZ9028",
+      "callsign_iata": "D89028",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 86,
+        "iata_code": "HAU",
+        "icao_code": "ENHD",
+        "latitude": 59.3453,
+        "longitude": 5.20836,
+        "municipality": "Karm\u00f8y",
+        "name": "Haugesund Airport, Karm\u00f8y"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "AFR6722": {
+    "time": 1794672935.4400012,
+    "route": {
+      "callsign": "AFR6722",
+      "callsign_icao": "AFR6722",
+      "callsign_iata": "AF6722",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "MX",
+        "country_name": "Mexico",
+        "elevation": 7316,
+        "iata_code": "MEX",
+        "icao_code": "MMMX",
+        "latitude": 19.4363,
+        "longitude": -99.0721,
+        "municipality": "Mexico City",
+        "name": "Licenciado Benito Juarez International Airport"
       }
     }
   }
