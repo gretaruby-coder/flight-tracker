@@ -33476,7 +33476,7 @@
     }
   },
   "UAL27": {
-    "time": 1794562249.270881,
+    "time": 1794657326.4364576,
     "route": {
       "callsign": "UAL27",
       "callsign_icao": "UAL27",
@@ -37725,7 +37725,7 @@
     }
   },
   "VIR7B": {
-    "time": 1794568837.7143443,
+    "time": 1794657326.4364576,
     "route": {
       "callsign": "VIR7B",
       "callsign_icao": "VIR7B",
@@ -42907,7 +42907,7 @@
     }
   },
   "KLM757": {
-    "time": 1794568837.7143443,
+    "time": 1794657326.4364576,
     "route": {
       "callsign": "KLM757",
       "callsign_icao": "KLM757",
@@ -103023,7 +103023,7 @@
     }
   },
   "VIR118": {
-    "time": 1794570637.9077623,
+    "time": 1794657326.4364576,
     "route": {
       "callsign": "VIR118",
       "callsign_icao": "VIR118",
@@ -212206,6 +212206,82 @@
         "longitude": -6.27007,
         "municipality": "Dublin",
         "name": "Dublin Airport"
+      }
+    }
+  },
+  "DLH433": {
+    "time": 1794657326.4364576,
+    "route": {
+      "callsign": "DLH433",
+      "callsign_icao": "DLH433",
+      "callsign_iata": "LH433",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "NSZ9029": {
+    "time": 1794657326.4364576,
+    "route": {
+      "callsign": "NSZ9029",
+      "callsign_icao": "NSZ9029",
+      "callsign_iata": "D89029",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 86,
+        "iata_code": "HAU",
+        "icao_code": "ENHD",
+        "latitude": 59.3453,
+        "longitude": 5.20836,
+        "municipality": "Karm\u00f8y",
+        "name": "Haugesund Airport, Karm\u00f8y"
       }
     }
   }
