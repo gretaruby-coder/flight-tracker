@@ -12069,7 +12069,7 @@
     }
   },
   "BAW751": {
-    "time": 1794382249.7813118,
+    "time": 1794640837.6836855,
     "route": {
       "callsign": "BAW751",
       "callsign_icao": "BAW751",
@@ -63790,7 +63790,7 @@
     }
   },
   "EXS2F": {
-    "time": 1794388535.4275587,
+    "time": 1794640837.6836855,
     "route": {
       "callsign": "EXS2F",
       "callsign_icao": "EXS2F",
@@ -64018,7 +64018,7 @@
     }
   },
   "EZY83FH": {
-    "time": 1794468927.6053162,
+    "time": 1794640837.6836855,
     "route": {
       "callsign": "EZY83FH",
       "callsign_icao": "EZY83FH",
@@ -64588,7 +64588,7 @@
     }
   },
   "WZZ52YC": {
-    "time": 1794468927.6053162,
+    "time": 1794640837.6836855,
     "route": {
       "callsign": "WZZ52YC",
       "callsign_icao": "WZZ52YC",
@@ -67248,7 +67248,7 @@
     }
   },
   "EFW66MB": {
-    "time": 1794412525.890656,
+    "time": 1794640837.6836855,
     "route": {
       "callsign": "EFW66MB",
       "callsign_icao": "EFW66MB",
@@ -149846,7 +149846,7 @@
     }
   },
   "EZY41AY": {
-    "time": 1794553835.7512262,
+    "time": 1794640837.6836855,
     "route": {
       "callsign": "EZY41AY",
       "callsign_icao": "EZY41AY",
@@ -213094,6 +213094,82 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "NOZ1758": {
+    "time": 1794640837.6836855,
+    "route": {
+      "callsign": "NOZ1758",
+      "callsign_icao": "NOZ1758",
+      "callsign_iata": "1758",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 29,
+        "iata_code": "SVG",
+        "icao_code": "ENZV",
+        "latitude": 58.8767,
+        "longitude": 5.63778,
+        "municipality": "Stavanger",
+        "name": "Stavanger Airport, Sola"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      }
+    }
+  },
+  "EXS8KH": {
+    "time": 1794640837.6836855,
+    "route": {
+      "callsign": "EXS8KH",
+      "callsign_icao": "EXS8KH",
+      "callsign_iata": "LS8KH",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
       }
     }
   }
