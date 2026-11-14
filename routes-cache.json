@@ -22042,7 +22042,7 @@
     }
   },
   "BAW709": {
-    "time": 1794480640.5854456,
+    "time": 1794652835.59041,
     "route": {
       "callsign": "BAW709",
       "callsign_icao": "BAW709",
@@ -71504,7 +71504,7 @@
     }
   },
   "BAW69WL": {
-    "time": 1794566127.1282332,
+    "time": 1794652835.59041,
     "route": {
       "callsign": "BAW69WL",
       "callsign_icao": "BAW69WL",
@@ -95278,7 +95278,7 @@
     }
   },
   "EZY94CU": {
-    "time": 1794344460.109233,
+    "time": 1794652835.59041,
     "route": {
       "callsign": "EZY94CU",
       "callsign_icao": "EZY94CU",
@@ -105410,7 +105410,7 @@
     }
   },
   "ACA845": {
-    "time": 1794218729.073663,
+    "time": 1794652835.59041,
     "route": {
       "callsign": "ACA845",
       "callsign_icao": "ACA845",
@@ -107389,7 +107389,7 @@
     }
   },
   "EXS1L": {
-    "time": 1794478840.631779,
+    "time": 1794652835.59041,
     "route": {
       "callsign": "EXS1L",
       "callsign_icao": "EXS1L",
@@ -212565,6 +212565,75 @@
         "longitude": -79.6306,
         "municipality": "Toronto",
         "name": "Lester B. Pearson International Airport"
+      }
+    }
+  },
+  "AFR22N": {
+    "time": 1794652835.59041,
+    "route": {
+      "callsign": "AFR22N",
+      "callsign_icao": "AFR22N",
+      "callsign_iata": "AF22N",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 125,
+        "iata_code": "LAX",
+        "icao_code": "KLAX",
+        "latitude": 33.9425,
+        "longitude": -118.408,
+        "municipality": "Los Angeles",
+        "name": "Los Angeles International Airport"
+      }
+    }
+  },
+  "NJE3NX": {
+    "time": 1794652835.59041,
+    "route": {
+      "callsign": "NJE3NX",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 502,
+        "iata_code": "ORK",
+        "icao_code": "EICK",
+        "latitude": 51.8413,
+        "longitude": -8.49111,
+        "municipality": "Cork",
+        "name": "Cork Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 218,
+        "iata_code": "LBG",
+        "icao_code": "LFPB",
+        "latitude": 48.9694,
+        "longitude": 2.44139,
+        "municipality": "Paris",
+        "name": "Paris-Le Bourget Airport"
       }
     }
   }
