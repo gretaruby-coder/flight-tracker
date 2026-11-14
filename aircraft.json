@@ -1,80 +1,9 @@
 {
-  "updated": "2026-11-14T03:05:27.285867+00:00",
+  "updated": "2026-11-14T03:10:35.793044+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": [
-    {
-      "hex": "406b12",
-      "type": "adsb_icao",
-      "flight": "TOM075  ",
-      "r": "G-TUIE",
-      "t": "B788",
-      "desc": "BOEING 787-8 Dreamliner",
-      "alt_baro": 2650,
-      "alt_geom": 2900,
-      "gs": 159.7,
-      "ias": 162,
-      "tas": 166,
-      "mach": 0.256,
-      "wd": 212,
-      "ws": 10,
-      "track": 257.7,
-      "track_rate": 0.06,
-      "roll": 0.18,
-      "mag_heading": 253.65,
-      "true_heading": 254.95,
-      "baro_rate": -960,
-      "geom_rate": -960,
-      "squawk": "7645",
-      "emergency": "none",
-      "category": "A5",
-      "nav_qnh": 1019.2,
-      "nav_altitude_mcp": 3008,
-      "nav_heading": 255.94,
-      "nav_modes": [
-        "autopilot",
-        "approach",
-        "tcas"
-      ],
-      "lat": 51.177715,
-      "lon": 0.024796,
-      "nic": 8,
-      "rc": 186,
-      "seen_pos": 0.421,
-      "version": 2,
-      "nic_baro": 1,
-      "nac_p": 9,
-      "nac_v": 1,
-      "sil": 3,
-      "sil_type": "perhour",
-      "gva": 2,
-      "sda": 2,
-      "alert": 0,
-      "spi": 0,
-      "mlat": [],
-      "tisb": [],
-      "messages": 256853,
-      "seen": 0.1,
-      "rssi": -16.7,
-      "dst": 23.039,
-      "dir": 134.9,
-      "registered_owner": "TUI Airways",
-      "registered_owner_operator_flag_code": "TOM",
-      "origin": {
-        "iata": "LIR",
-        "icao": "MRLB",
-        "name": "Guanacaste Airport"
-      },
-      "destination": {
-        "iata": "LGW",
-        "icao": "EGKK",
-        "name": "London Gatwick Airport"
-      },
-      "airline_name": "TUI Airways",
-      "airline_iata": "BY"
-    }
-  ]
+  "aircraft": []
 }
