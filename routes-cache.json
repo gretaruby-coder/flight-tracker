@@ -4459,7 +4459,7 @@
     }
   },
   "FIN4PE": {
-    "time": 1794581728.0065265,
+    "time": 1794756036.8174539,
     "route": {
       "callsign": "FIN4PE",
       "callsign_icao": "FIN4PE",
@@ -8359,7 +8359,7 @@
     }
   },
   "BAW71K": {
-    "time": 1794580250.6390593,
+    "time": 1794756036.8174539,
     "route": {
       "callsign": "BAW71K",
       "callsign_icao": "BAW71K",
@@ -8587,7 +8587,7 @@
     }
   },
   "BAW19N": {
-    "time": 1794497452.3491328,
+    "time": 1794756036.8174539,
     "route": {
       "callsign": "BAW19N",
       "callsign_icao": "BAW19N",
@@ -53123,7 +53123,7 @@
     }
   },
   "CFE99B": {
-    "time": 1794504040.6061714,
+    "time": 1794756036.8174539,
     "route": {
       "callsign": "CFE99B",
       "callsign_icao": "CFE99B",
@@ -53959,7 +53959,7 @@
     }
   },
   "UPS203": {
-    "time": 1794522927.1112514,
+    "time": 1794756036.8174539,
     "route": {
       "callsign": "UPS203",
       "callsign_icao": "UPS203",
@@ -79187,7 +79187,7 @@
     }
   },
   "EWG73N": {
-    "time": 1794495662.039398,
+    "time": 1794756036.8174539,
     "route": {
       "callsign": "EWG73N",
       "callsign_icao": "EWG73N",
@@ -112771,7 +112771,7 @@
     }
   },
   "EXS1412": {
-    "time": 1794663047.1897466,
+    "time": 1794756036.8174539,
     "route": {
       "callsign": "EXS1412",
       "callsign_icao": "EXS1412",
@@ -123141,7 +123141,7 @@
     }
   },
   "EFW8CM": {
-    "time": 1794156035.1958883,
+    "time": 1794756036.8174539,
     "route": {
       "callsign": "EFW8CM",
       "callsign_icao": "EFW8CM",
@@ -132986,7 +132986,7 @@
     }
   },
   "EXS3P": {
-    "time": 1794335451.045722,
+    "time": 1794756036.8174539,
     "route": {
       "callsign": "EXS3P",
       "callsign_icao": "EXS3P",
@@ -149358,44 +149358,6 @@
       }
     }
   },
-  "QTR70U": {
-    "time": 1794151233.6944041,
-    "route": {
-      "callsign": "QTR70U",
-      "callsign_icao": "QTR70U",
-      "callsign_iata": "QR70U",
-      "airline": {
-        "name": "Qatar Airways",
-        "icao": "QTR",
-        "iata": "QR",
-        "country": "Qatar",
-        "country_iso": "QA",
-        "callsign": "QATARI"
-      },
-      "origin": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 768,
-        "iata_code": "MXP",
-        "icao_code": "LIMC",
-        "latitude": 45.6306,
-        "longitude": 8.72811,
-        "municipality": "Milan",
-        "name": "Malpensa International Airport"
-      },
-      "destination": {
-        "country_iso_name": "QA",
-        "country_name": "Qatar",
-        "elevation": 13,
-        "iata_code": "DOH",
-        "icao_code": "OTHH",
-        "latitude": 25.27306,
-        "longitude": 51.60806,
-        "municipality": "Doha",
-        "name": "Hamad International Airport"
-      }
-    }
-  },
   "TRA38K": {
     "time": 1794468927.6053162,
     "route": {
@@ -155052,7 +155014,7 @@
     }
   },
   "EZY28ED": {
-    "time": 1794152127.6856678,
+    "time": 1794756036.8174539,
     "route": {
       "callsign": "EZY28ED",
       "callsign_icao": "EZY28ED",
@@ -155090,7 +155052,7 @@
     }
   },
   "EZY27GH": {
-    "time": 1794152127.6856678,
+    "time": 1794756036.8174539,
     "route": {
       "callsign": "EZY27GH",
       "callsign_icao": "EZY27GH",
@@ -155128,7 +155090,7 @@
     }
   },
   "EWG9UL": {
-    "time": 1794152436.5305955,
+    "time": 1794756036.8174539,
     "route": {
       "callsign": "EWG9UL",
       "callsign_icao": "EWG9UL",
@@ -209415,6 +209377,44 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "LGL8U": {
+    "time": 1794756036.8174539,
+    "route": {
+      "callsign": "LGL8U",
+      "callsign_icao": "LGL8U",
+      "callsign_iata": "LG8U",
+      "airline": {
+        "name": "Luxair",
+        "icao": "LGL",
+        "iata": "LG",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "LUXAIR"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
       }
     }
   }
