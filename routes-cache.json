@@ -8245,7 +8245,7 @@
     }
   },
   "BAW506": {
-    "time": 1794573636.958713,
+    "time": 1794745234.865071,
     "route": {
       "callsign": "BAW506",
       "callsign_icao": "BAW506",
@@ -40530,7 +40530,7 @@
     }
   },
   "BAW17PA": {
-    "time": 1794649537.1125698,
+    "time": 1794745234.865071,
     "route": {
       "callsign": "BAW17PA",
       "callsign_icao": "BAW17PA",
@@ -42724,7 +42724,7 @@
     }
   },
   "SWR5MP": {
-    "time": 1794573051.0041182,
+    "time": 1794745234.865071,
     "route": {
       "callsign": "SWR5MP",
       "callsign_icao": "SWR5MP",
@@ -55434,7 +55434,7 @@
     }
   },
   "KLM81D": {
-    "time": 1794314733.6001678,
+    "time": 1794745234.865071,
     "route": {
       "callsign": "KLM81D",
       "callsign_icao": "KLM81D",
@@ -73867,7 +73867,7 @@
     }
   },
   "EZY59GZ": {
-    "time": 1794313524.5648148,
+    "time": 1794745234.865071,
     "route": {
       "callsign": "EZY59GZ",
       "callsign_icao": "EZY59GZ",
@@ -74057,7 +74057,7 @@
     }
   },
   "BAW668": {
-    "time": 1794574237.5554867,
+    "time": 1794745234.865071,
     "route": {
       "callsign": "BAW668",
       "callsign_icao": "BAW668",
@@ -74095,7 +74095,7 @@
     }
   },
   "RYR64AN": {
-    "time": 1794646235.0646117,
+    "time": 1794745234.865071,
     "route": {
       "callsign": "RYR64AN",
       "callsign_icao": "RYR64AN",
@@ -155303,44 +155303,6 @@
       }
     }
   },
-  "CLX74A": {
-    "time": 1794140135.1639287,
-    "route": {
-      "callsign": "CLX74A",
-      "callsign_icao": "CLX74A",
-      "callsign_iata": "CV74A",
-      "airline": {
-        "name": "Cargolux",
-        "icao": "CLX",
-        "iata": "CV",
-        "country": "Luxembourg",
-        "country_iso": "LU",
-        "callsign": "CARGOLUX"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 13,
-        "iata_code": "JFK",
-        "icao_code": "KJFK",
-        "latitude": 40.6398,
-        "longitude": -73.7789,
-        "municipality": "New York",
-        "name": "John F Kennedy International Airport"
-      },
-      "destination": {
-        "country_iso_name": "LU",
-        "country_name": "Luxembourg",
-        "elevation": 1234,
-        "iata_code": "LUX",
-        "icao_code": "ELLX",
-        "latitude": 49.62333,
-        "longitude": 6.20444,
-        "municipality": "Luxembourg",
-        "name": "Luxembourg-Findel International Airport"
-      }
-    }
-  },
   "EZY17YP": {
     "time": 1794744932.8708053,
     "route": {
@@ -155570,7 +155532,7 @@
     }
   },
   "EZY82ZQ": {
-    "time": 1794141047.971379,
+    "time": 1794745234.865071,
     "route": {
       "callsign": "EZY82ZQ",
       "callsign_icao": "EZY82ZQ",
@@ -155867,7 +155829,7 @@
     }
   },
   "FIN27W": {
-    "time": 1794142860.0262005,
+    "time": 1794745234.865071,
     "route": {
       "callsign": "FIN27W",
       "callsign_icao": "FIN27W",
@@ -209332,6 +209294,44 @@
         "longitude": -75.2411,
         "municipality": "Philadelphia",
         "name": "Philadelphia International Airport"
+      }
+    }
+  },
+  "AFR98E": {
+    "time": 1794745234.865071,
+    "route": {
+      "callsign": "AFR98E",
+      "callsign_icao": "AFR98E",
+      "callsign_iata": "AF98E",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 97,
+        "iata_code": "IAH",
+        "icao_code": "KIAH",
+        "latitude": 29.9844,
+        "longitude": -95.3414,
+        "municipality": "Houston",
+        "name": "George Bush Intercontinental Houston Airport"
       }
     }
   }
