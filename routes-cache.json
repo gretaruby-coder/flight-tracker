@@ -27386,7 +27386,7 @@
     }
   },
   "BAW63H": {
-    "time": 1794555333.1104825,
+    "time": 1794728130.8182607,
     "route": {
       "callsign": "BAW63H",
       "callsign_icao": "BAW63H",
@@ -34502,7 +34502,7 @@
     }
   },
   "AAL728": {
-    "time": 1794641126.9670928,
+    "time": 1794728130.8182607,
     "route": {
       "callsign": "AAL728",
       "callsign_icao": "AAL728",
@@ -44282,7 +44282,7 @@
     }
   },
   "BAW601Y": {
-    "time": 1794641725.4258895,
+    "time": 1794728130.8182607,
     "route": {
       "callsign": "BAW601Y",
       "callsign_icao": "BAW601Y",
@@ -63455,7 +63455,7 @@
     }
   },
   "WZZ625": {
-    "time": 1794468328.0922496,
+    "time": 1794728130.8182607,
     "route": {
       "callsign": "WZZ625",
       "callsign_icao": "WZZ625",
@@ -63793,44 +63793,6 @@
         "longitude": -13.8638,
         "municipality": "Fuerteventura Island",
         "name": "Fuerteventura Airport"
-      }
-    }
-  },
-  "EZY547B": {
-    "time": 1794123325.0751643,
-    "route": {
-      "callsign": "EZY547B",
-      "callsign_icao": "EZY547B",
-      "callsign_iata": "U2547B",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 526,
-        "iata_code": "LTN",
-        "icao_code": "EGGW",
-        "latitude": 51.8747,
-        "longitude": -0.36833,
-        "municipality": "London",
-        "name": "London Luton Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 31,
-        "iata_code": "INV",
-        "icao_code": "EGPE",
-        "latitude": 57.5425,
-        "longitude": -4.0475,
-        "municipality": "Inverness",
-        "name": "Inverness Airport"
       }
     }
   },
@@ -64671,7 +64633,7 @@
     }
   },
   "EZY16CG": {
-    "time": 1794639927.45754,
+    "time": 1794728130.8182607,
     "route": {
       "callsign": "EZY16CG",
       "callsign_icao": "EZY16CG",
@@ -94791,7 +94753,7 @@
     }
   },
   "EZY18FA": {
-    "time": 1794554727.537619,
+    "time": 1794728130.8182607,
     "route": {
       "callsign": "EZY18FA",
       "callsign_icao": "EZY18FA",
@@ -194306,7 +194268,7 @@
     }
   },
   "THY1RT": {
-    "time": 1794640536.2183137,
+    "time": 1794728130.8182607,
     "route": {
       "callsign": "THY1RT",
       "callsign_icao": "THY1RT",
@@ -209107,6 +209069,82 @@
         "longitude": -22.8889,
         "municipality": "Rabil",
         "name": "Rabil Airport"
+      }
+    }
+  },
+  "NSZ3692": {
+    "time": 1794728130.8182607,
+    "route": {
+      "callsign": "NSZ3692",
+      "callsign_icao": "NSZ3692",
+      "callsign_iata": "D83692",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 17,
+        "iata_code": "CPH",
+        "icao_code": "EKCH",
+        "latitude": 55.6179,
+        "longitude": 12.656,
+        "municipality": "Copenhagen",
+        "name": "Copenhagen Kastrup Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "EZY473U": {
+    "time": 1794728130.8182607,
+    "route": {
+      "callsign": "EZY473U",
+      "callsign_icao": "EZY473U",
+      "callsign_iata": "U2473U",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 26,
+        "iata_code": "GLA",
+        "icao_code": "EGPF",
+        "latitude": 55.8719,
+        "longitude": -4.43306,
+        "municipality": "Paisley, Renfrewshire",
+        "name": "Glasgow International Airport"
       }
     }
   }
