@@ -1979,7 +1979,7 @@
     }
   },
   "AAL733": {
-    "time": 1794659446.906777,
+    "time": 1794747035.4345176,
     "route": {
       "callsign": "AAL733",
       "callsign_icao": "AAL733",
@@ -3630,7 +3630,7 @@
     }
   },
   "SHT5W": {
-    "time": 1794574529.0332098,
+    "time": 1794747035.4345176,
     "route": {
       "callsign": "SHT5W",
       "callsign_icao": null,
@@ -28070,7 +28070,7 @@
     }
   },
   "CFE92Q": {
-    "time": 1794553527.9301782,
+    "time": 1794747035.4345176,
     "route": {
       "callsign": "CFE92Q",
       "callsign_icao": "CFE92Q",
@@ -55396,7 +55396,7 @@
     }
   },
   "CFE37Y": {
-    "time": 1794570336.0669622,
+    "time": 1794747035.4345176,
     "route": {
       "callsign": "CFE37Y",
       "callsign_icao": "CFE37Y",
@@ -55510,7 +55510,7 @@
     }
   },
   "CXA822": {
-    "time": 1794573935.0801237,
+    "time": 1794747035.4345176,
     "route": {
       "callsign": "CXA822",
       "callsign_icao": "CXA822",
@@ -55662,7 +55662,7 @@
     }
   },
   "EFW1BS": {
-    "time": 1794496537.4673326,
+    "time": 1794747035.4345176,
     "route": {
       "callsign": "EFW1BS",
       "callsign_icao": "EFW1BS",
@@ -74779,7 +74779,7 @@
     }
   },
   "BAW934L": {
-    "time": 1794578126.5340421,
+    "time": 1794747035.4345176,
     "route": {
       "callsign": "BAW934L",
       "callsign_icao": "BAW934L",
@@ -75463,7 +75463,7 @@
     }
   },
   "RYR67DV": {
-    "time": 1794573935.0801237,
+    "time": 1794747035.4345176,
     "route": {
       "callsign": "RYR67DV",
       "callsign_icao": "RYR67DV",
@@ -76489,7 +76489,7 @@
     }
   },
   "RYR126Y": {
-    "time": 1794217237.0052922,
+    "time": 1794747035.4345176,
     "route": {
       "callsign": "RYR126Y",
       "callsign_icao": "RYR126Y",
@@ -155341,44 +155341,6 @@
       }
     }
   },
-  "ELY014": {
-    "time": 1794142234.4032788,
-    "route": {
-      "callsign": "ELY14",
-      "callsign_icao": "ELY14",
-      "callsign_iata": "LY14",
-      "airline": {
-        "name": "El Al Israel Airlines",
-        "icao": "ELY",
-        "iata": "LY",
-        "country": "Israel",
-        "country_iso": "IL",
-        "callsign": "ELAL"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 13,
-        "iata_code": "JFK",
-        "icao_code": "KJFK",
-        "latitude": 40.6398,
-        "longitude": -73.7789,
-        "municipality": "New York",
-        "name": "John F Kennedy International Airport"
-      },
-      "destination": {
-        "country_iso_name": "IL",
-        "country_name": "Israel",
-        "elevation": 135,
-        "iata_code": "TLV",
-        "icao_code": "LLBG",
-        "latitude": 32.0114,
-        "longitude": 34.8867,
-        "municipality": "Tel Aviv",
-        "name": "Ben Gurion International Airport"
-      }
-    }
-  },
   "UL506": {
     "time": 1794142860.0262005,
     "route": {
@@ -209187,6 +209149,82 @@
         "longitude": 5.22142,
         "municipality": "Marseille",
         "name": "Marseille Provence Airport"
+      }
+    }
+  },
+  "DJT300": {
+    "time": 1794747035.4345176,
+    "route": {
+      "callsign": "DJT300",
+      "callsign_icao": "DJT300",
+      "callsign_iata": "300",
+      "airline": {
+        "name": "Denver Jet",
+        "icao": "DJT",
+        "iata": null,
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DENVER JET"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      }
+    }
+  },
+  "TAM8078": {
+    "time": 1794747035.4345176,
+    "route": {
+      "callsign": "TAM8078",
+      "callsign_icao": "TAM8078",
+      "callsign_iata": "JJ8078",
+      "airline": {
+        "name": "TAM Brazilian Airlines",
+        "icao": "TAM",
+        "iata": "JJ",
+        "country": "Brazil",
+        "country_iso": "BR",
+        "callsign": "TAM"
+      },
+      "origin": {
+        "country_iso_name": "BR",
+        "country_name": "Brazil",
+        "elevation": 2461,
+        "iata_code": "GRU",
+        "icao_code": "SBGR",
+        "latitude": -23.43194,
+        "longitude": -46.46778,
+        "municipality": "S\u00e3o Paulo",
+        "name": "Guarulhos - Governador Andr\u00e9 Franco Montoro International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
       }
     }
   }
