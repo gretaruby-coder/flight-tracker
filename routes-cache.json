@@ -23783,7 +23783,7 @@
     }
   },
   "BAW59": {
-    "time": 1794610525.39369,
+    "time": 1794783927.8234766,
     "route": {
       "callsign": "BAW59",
       "callsign_icao": "BAW59",
@@ -126706,7 +126706,7 @@
     }
   },
   "EZY83RJ": {
-    "time": 1794522650.94713,
+    "time": 1794783927.8234766,
     "route": {
       "callsign": "EZY83RJ",
       "callsign_icao": "EZY83RJ",
@@ -209513,6 +209513,82 @@
         "longitude": -87.9048,
         "municipality": "Chicago",
         "name": "Chicago O'Hare International Airport"
+      }
+    }
+  },
+  "EZY75EA": {
+    "time": 1794783927.8234766,
+    "route": {
+      "callsign": "EZY75EA",
+      "callsign_icao": "EZY75EA",
+      "callsign_iata": "U275EA",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 143,
+        "iata_code": "SSH",
+        "icao_code": "HESH",
+        "latitude": 27.9773,
+        "longitude": 34.395,
+        "municipality": "Sharm el-Sheikh",
+        "name": "Sharm El Sheikh International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      }
+    }
+  },
+  "EXS4HW": {
+    "time": 1794783927.8234766,
+    "route": {
+      "callsign": "EXS4HW",
+      "callsign_icao": "EXS4HW",
+      "callsign_iata": "LS4HW",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "HU",
+        "country_name": "Hungary",
+        "elevation": 495,
+        "iata_code": "BUD",
+        "icao_code": "LHBP",
+        "latitude": 47.42976,
+        "longitude": 19.26109,
+        "municipality": "Budapest",
+        "name": "Budapest Liszt Ferenc International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 266,
+        "iata_code": "NCL",
+        "icao_code": "EGNT",
+        "latitude": 55.0375,
+        "longitude": -1.69167,
+        "municipality": "Newcastle",
+        "name": "Newcastle Airport"
       }
     }
   }
