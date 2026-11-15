@@ -3060,7 +3060,7 @@
     }
   },
   "BAW04A": {
-    "time": 1794579036.5367198,
+    "time": 1794750035.922404,
     "route": {
       "callsign": "BAW04A",
       "callsign_icao": "BAW04A",
@@ -3737,7 +3737,7 @@
     }
   },
   "BAW556Q": {
-    "time": 1794663327.8660865,
+    "time": 1794750035.922404,
     "route": {
       "callsign": "BAW556Q",
       "callsign_icao": "BAW556Q",
@@ -75463,7 +75463,7 @@
     }
   },
   "RYR14SY": {
-    "time": 1794411328.0928931,
+    "time": 1794750035.922404,
     "route": {
       "callsign": "RYR14SY",
       "callsign_icao": "RYR14SY",
@@ -76869,7 +76869,7 @@
     }
   },
   "EWG2462": {
-    "time": 1794576657.1300242,
+    "time": 1794750035.922404,
     "route": {
       "callsign": "EWG2462",
       "callsign_icao": "EWG2462",
@@ -124508,44 +124508,6 @@
       }
     }
   },
-  "SWR39": {
-    "time": 1794145235.3414347,
-    "route": {
-      "callsign": "SWR39",
-      "callsign_icao": "SWR39",
-      "callsign_iata": "LX39",
-      "airline": {
-        "name": "Swiss International Air Lines",
-        "icao": "SWR",
-        "iata": "LX",
-        "country": "Switzerland",
-        "country_iso": "CH",
-        "callsign": "SWISS"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 13,
-        "iata_code": "SFO",
-        "icao_code": "KSFO",
-        "latitude": 37.619,
-        "longitude": -122.375,
-        "municipality": "San Francisco",
-        "name": "San Francisco International Airport"
-      },
-      "destination": {
-        "country_iso_name": "CH",
-        "country_name": "Switzerland",
-        "elevation": 1417,
-        "iata_code": "ZRH",
-        "icao_code": "LSZH",
-        "latitude": 47.45806,
-        "longitude": 8.54806,
-        "municipality": "Zurich",
-        "name": "Z\u00fcrich Airport"
-      }
-    }
-  },
   "DAL203": {
     "time": 1794402647.6518054,
     "route": {
@@ -136779,7 +136741,7 @@
     }
   },
   "SWR14V": {
-    "time": 1794405658.59927,
+    "time": 1794750035.922404,
     "route": {
       "callsign": "SWR14V",
       "callsign_icao": "SWR14V",
@@ -155470,7 +155432,7 @@
     }
   },
   "EWG25Y": {
-    "time": 1794146728.1401079,
+    "time": 1794750035.922404,
     "route": {
       "callsign": "EWG25Y",
       "callsign_icao": "EWG25Y",
@@ -209391,6 +209353,120 @@
         "longitude": 0.05528,
         "municipality": "London",
         "name": "London City Airport"
+      }
+    }
+  },
+  "ELY198": {
+    "time": 1794750035.922404,
+    "route": {
+      "callsign": "ELY198",
+      "callsign_icao": "ELY198",
+      "callsign_iata": "LY198",
+      "airline": {
+        "name": "El Al Israel Airlines",
+        "icao": "ELY",
+        "iata": "LY",
+        "country": "Israel",
+        "country_iso": "IL",
+        "callsign": "ELAL"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "AMX045": {
+    "time": 1794750035.922404,
+    "route": {
+      "callsign": "AMX45",
+      "callsign_icao": "AMX45",
+      "callsign_iata": "AM45",
+      "airline": {
+        "name": "Aerom\u00e9xico",
+        "icao": "AMX",
+        "iata": "AM",
+        "country": "Mexico",
+        "country_iso": "MX",
+        "callsign": "AEROMEXICO"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "MX",
+        "country_name": "Mexico",
+        "elevation": 1278,
+        "iata_code": "MTY",
+        "icao_code": "MMMY",
+        "latitude": 25.7785,
+        "longitude": -100.107,
+        "municipality": "Monterrey",
+        "name": "General Mariano Escobedo International Airport"
+      }
+    }
+  },
+  "DLH543": {
+    "time": 1794750035.922404,
+    "route": {
+      "callsign": "DLH543",
+      "callsign_icao": "DLH543",
+      "callsign_iata": "LH543",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "CO",
+        "country_name": "Colombia",
+        "elevation": 8361,
+        "iata_code": "BOG",
+        "icao_code": "SKBO",
+        "latitude": 4.70159,
+        "longitude": -74.1469,
+        "municipality": "Bogota",
+        "name": "El Dorado International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
       }
     }
   }
