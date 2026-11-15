@@ -154629,44 +154629,6 @@
       }
     }
   },
-  "UPS209": {
-    "time": 1794107732.2543378,
-    "route": {
-      "callsign": "UPS209",
-      "callsign_icao": "UPS209",
-      "callsign_iata": "5X209",
-      "airline": {
-        "name": "United Parcel Service",
-        "icao": "UPS",
-        "iata": "5X",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "UPS"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 36,
-        "iata_code": "PHL",
-        "icao_code": "KPHL",
-        "latitude": 39.8719,
-        "longitude": -75.2411,
-        "municipality": "Philadelphia",
-        "name": "Philadelphia International Airport"
-      },
-      "destination": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 302,
-        "iata_code": "CGN",
-        "icao_code": "EDDK",
-        "latitude": 50.8659,
-        "longitude": 7.14274,
-        "municipality": "Cologne",
-        "name": "Cologne Bonn Airport"
-      }
-    }
-  },
   "UPS201": {
     "time": 1794698436.1388285,
     "route": {
@@ -209259,6 +209221,44 @@
         "longitude": 51.60806,
         "municipality": "Doha",
         "name": "Hamad International Airport"
+      }
+    }
+  },
+  "MSR988": {
+    "time": 1794712532.567278,
+    "route": {
+      "callsign": "MSR988",
+      "callsign_icao": "MSR988",
+      "callsign_iata": "MS988",
+      "airline": {
+        "name": "Egyptair",
+        "icao": "MSR",
+        "iata": "MS",
+        "country": "Egypt",
+        "country_iso": "EG",
+        "callsign": "EGYPTAIR"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 382,
+        "iata_code": "CAI",
+        "icao_code": "HECA",
+        "latitude": 30.1219,
+        "longitude": 31.4056,
+        "municipality": "Cairo",
+        "name": "Cairo International Airport"
       }
     }
   }
