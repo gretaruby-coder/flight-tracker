@@ -120108,7 +120108,7 @@
     }
   },
   "RYR66KC": {
-    "time": 1794301841.9420342,
+    "time": 1794782437.061197,
     "route": {
       "callsign": "RYR66KC",
       "callsign_icao": "RYR66KC",
@@ -126820,7 +126820,7 @@
     }
   },
   "DLH5LT": {
-    "time": 1794609932.8569844,
+    "time": 1794782437.061197,
     "route": {
       "callsign": "DLH5LT",
       "callsign_icao": "DLH5LT",
@@ -127086,7 +127086,7 @@
     }
   },
   "EZY68AM": {
-    "time": 1794690936.1144524,
+    "time": 1794782437.061197,
     "route": {
       "callsign": "EZY68AM",
       "callsign_icao": "EZY68AM",
@@ -127196,44 +127196,6 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
-      }
-    }
-  },
-  "QTR8104": {
-    "time": 1794177635.353297,
-    "route": {
-      "callsign": "QTR8104",
-      "callsign_icao": "QTR8104",
-      "callsign_iata": "QR8104",
-      "airline": {
-        "name": "Qatar Airways",
-        "icao": "QTR",
-        "iata": "QR",
-        "country": "Qatar",
-        "country_iso": "QA",
-        "callsign": "QATARI"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 125,
-        "iata_code": "LAX",
-        "icao_code": "KLAX",
-        "latitude": 33.9425,
-        "longitude": -118.408,
-        "municipality": "Los Angeles",
-        "name": "Los Angeles International Airport"
-      },
-      "destination": {
-        "country_iso_name": "QA",
-        "country_name": "Qatar",
-        "elevation": 13,
-        "iata_code": "DOH",
-        "icao_code": "OTHH",
-        "latitude": 25.27306,
-        "longitude": 51.60806,
-        "municipality": "Doha",
-        "name": "Hamad International Airport"
       }
     }
   },
@@ -209551,6 +209513,82 @@
         "longitude": -77.4558,
         "municipality": "Washington",
         "name": "Washington Dulles International Airport"
+      }
+    }
+  },
+  "CLX95U": {
+    "time": 1794782437.061197,
+    "route": {
+      "callsign": "CLX95U",
+      "callsign_icao": "CLX95U",
+      "callsign_iata": "CV95U",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 629,
+        "iata_code": "HSV",
+        "icao_code": "KHSV",
+        "latitude": 34.6372,
+        "longitude": -86.7751,
+        "municipality": "Huntsville",
+        "name": "Huntsville International Carl T Jones Field"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
+      }
+    }
+  },
+  "EFW8HZ": {
+    "time": 1794782437.061197,
+    "route": {
+      "callsign": "EFW8HZ",
+      "callsign_icao": "EFW8HZ",
+      "callsign_iata": "A08HZ",
+      "airline": {
+        "name": "BA Euroflyer",
+        "icao": "EFW",
+        "iata": "A0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Griffin"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 46,
+        "iata_code": "ACE",
+        "icao_code": "GCRR",
+        "latitude": 28.9455,
+        "longitude": -13.6052,
+        "municipality": "Lanzarote Island",
+        "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
