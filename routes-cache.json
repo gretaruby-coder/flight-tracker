@@ -17520,7 +17520,7 @@
     }
   },
   "EZY82FZ": {
-    "time": 1794638434.4794877,
+    "time": 1794732636.010962,
     "route": {
       "callsign": "EZY82FZ",
       "callsign_icao": "EZY82FZ",
@@ -33141,7 +33141,7 @@
     }
   },
   "JBU7": {
-    "time": 1794564329.4734213,
+    "time": 1794732636.010962,
     "route": {
       "callsign": "JBU7",
       "callsign_icao": "JBU7",
@@ -33369,7 +33369,7 @@
     }
   },
   "LHX5H": {
-    "time": 1794559534.606602,
+    "time": 1794732636.010962,
     "route": {
       "callsign": "LHX5H",
       "callsign_icao": "LHX5H",
@@ -56308,7 +56308,7 @@
     }
   },
   "LZB852": {
-    "time": 1794593436.6430542,
+    "time": 1794732636.010962,
     "route": {
       "callsign": "LZB852",
       "callsign_icao": "LZB852",
@@ -58249,7 +58249,7 @@
     }
   },
   "OMA104": {
-    "time": 1794646235.0646117,
+    "time": 1794732636.010962,
     "route": {
       "callsign": "OMA104",
       "callsign_icao": "OMA104",
@@ -66989,7 +66989,7 @@
     }
   },
   "FIN16R": {
-    "time": 1794645934.0417986,
+    "time": 1794732636.010962,
     "route": {
       "callsign": "FIN16R",
       "callsign_icao": "FIN16R",
@@ -67141,7 +67141,7 @@
     }
   },
   "THY6YE": {
-    "time": 1794474638.3885798,
+    "time": 1794732636.010962,
     "route": {
       "callsign": "THY6YE",
       "callsign_icao": "THY6YE",
@@ -77553,7 +77553,7 @@
     }
   },
   "EXS2DP": {
-    "time": 1794304238.21813,
+    "time": 1794732636.010962,
     "route": {
       "callsign": "EXS2DP",
       "callsign_icao": "EXS2DP",
@@ -154750,82 +154750,6 @@
       }
     }
   },
-  "SAS7407": {
-    "time": 1794127833.2989094,
-    "route": {
-      "callsign": "SAS7407",
-      "callsign_icao": "SAS7407",
-      "callsign_iata": "SK7407",
-      "airline": {
-        "name": "Scandinavian Airlines System",
-        "icao": "SAS",
-        "iata": "SK",
-        "country": "Sweden",
-        "country_iso": "SE",
-        "callsign": "SCANDINAVIAN"
-      },
-      "origin": {
-        "country_iso_name": "NO",
-        "country_name": "Norway",
-        "elevation": 681,
-        "iata_code": "OSL",
-        "icao_code": "ENGM",
-        "latitude": 60.1939,
-        "longitude": 11.1004,
-        "municipality": "Oslo",
-        "name": "Oslo Airport, Gardermoen"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 209,
-        "iata_code": "TFS",
-        "icao_code": "GCTS",
-        "latitude": 28.0445,
-        "longitude": -16.5725,
-        "municipality": "Tenerife",
-        "name": "Tenerife Sur Airport"
-      }
-    }
-  },
-  "VKG722": {
-    "time": 1794127833.2989094,
-    "route": {
-      "callsign": "VKG722",
-      "callsign_icao": "VKG722",
-      "callsign_iata": "722",
-      "airline": {
-        "name": "SunClass Airlines",
-        "icao": "VKG",
-        "iata": null,
-        "country": "Denmark",
-        "country_iso": "DK",
-        "callsign": "VIKING"
-      },
-      "origin": {
-        "country_iso_name": "NO",
-        "country_name": "Norway",
-        "elevation": 29,
-        "iata_code": "SVG",
-        "icao_code": "ENZV",
-        "latitude": 58.8767,
-        "longitude": 5.63778,
-        "municipality": "Stavanger",
-        "name": "Stavanger Airport, Sola"
-      },
-      "destination": {
-        "country_iso_name": "CV",
-        "country_name": "Cape Verde",
-        "elevation": 177,
-        "iata_code": "SID",
-        "icao_code": "GVAC",
-        "latitude": 16.7414,
-        "longitude": -22.9494,
-        "municipality": "Espargos",
-        "name": "Am\u00edlcar Cabral International Airport"
-      }
-    }
-  },
   "ETD9SM": {
     "time": 1794128125.0314074,
     "route": {
@@ -208924,6 +208848,44 @@
         "longitude": -73.7789,
         "municipality": "New York",
         "name": "John F Kennedy International Airport"
+      }
+    }
+  },
+  "BLX205": {
+    "time": 1794732636.010962,
+    "route": {
+      "callsign": "BLX205",
+      "callsign_icao": "BLX205",
+      "callsign_iata": "6B205",
+      "airline": {
+        "name": "TUIfly Nordic",
+        "icao": "BLX",
+        "iata": "6B",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": "BLUESCAN"
+      },
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
       }
     }
   }
