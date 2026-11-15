@@ -17824,7 +17824,7 @@
     }
   },
   "CFE76D": {
-    "time": 1794515734.44703,
+    "time": 1794775836.0890803,
     "route": {
       "callsign": "CFE76D",
       "callsign_icao": "CFE76D",
@@ -19268,7 +19268,7 @@
     }
   },
   "SAS87J": {
-    "time": 1794518726.3663516,
+    "time": 1794775836.0890803,
     "route": {
       "callsign": "SAS87J",
       "callsign_icao": "SAS87J",
@@ -21928,7 +21928,7 @@
     }
   },
   "EIN34Y": {
-    "time": 1794603039.591303,
+    "time": 1794775836.0890803,
     "route": {
       "callsign": "EIN34Y",
       "callsign_icao": "EIN34Y",
@@ -30450,7 +30450,7 @@
     }
   },
   "BAW5GU": {
-    "time": 1794601848.6833472,
+    "time": 1794775836.0890803,
     "route": {
       "callsign": "BAW5GU",
       "callsign_icao": "BAW5GU",
@@ -87090,44 +87090,6 @@
       }
     }
   },
-  "RYR72SA": {
-    "time": 1794171033.5186439,
-    "route": {
-      "callsign": "RYR72SA",
-      "callsign_icao": "RYR72SA",
-      "callsign_iata": "FR72SA",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 327,
-        "iata_code": "BHX",
-        "icao_code": "EGBB",
-        "latitude": 52.4539,
-        "longitude": -1.74803,
-        "municipality": "Birmingham",
-        "name": "Birmingham International Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 240,
-        "iata_code": "VLC",
-        "icao_code": "LEVC",
-        "latitude": 39.4893,
-        "longitude": -0.48163,
-        "municipality": "Valencia",
-        "name": "Valencia Airport"
-      }
-    }
-  },
   "BAW48YA": {
     "time": 1794773437.6262214,
     "route": {
@@ -87775,7 +87737,7 @@
     }
   },
   "BAW404": {
-    "time": 1794604837.412864,
+    "time": 1794775836.0890803,
     "route": {
       "callsign": "BAW404",
       "callsign_icao": "BAW404",
@@ -88984,7 +88946,7 @@
     }
   },
   "RYR613B": {
-    "time": 1794640233.6929295,
+    "time": 1794775836.0890803,
     "route": {
       "callsign": "RYR613B",
       "callsign_icao": "RYR613B",
@@ -118246,7 +118208,7 @@
     }
   },
   "VLG43JB": {
-    "time": 1794171324.8872724,
+    "time": 1794775836.0890803,
     "route": {
       "callsign": "VLG43JB",
       "callsign_icao": "VLG43JB",
@@ -139532,7 +139494,7 @@
     }
   },
   "EZY89TK": {
-    "time": 1794506729.365569,
+    "time": 1794775836.0890803,
     "route": {
       "callsign": "EZY89TK",
       "callsign_icao": "EZY89TK",
@@ -209426,6 +209388,82 @@
         "longitude": 18.6017,
         "municipality": "Cape Town",
         "name": "Cape Town International Airport"
+      }
+    }
+  },
+  "EXS2E": {
+    "time": 1794775836.0890803,
+    "route": {
+      "callsign": "EXS2E",
+      "callsign_icao": "EXS2E",
+      "callsign_iata": "LS2E",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "PL",
+        "country_name": "Poland",
+        "elevation": 791,
+        "iata_code": "KRK",
+        "icao_code": "EPKK",
+        "latitude": 50.0777,
+        "longitude": 19.7848,
+        "municipality": "Krak\u00f3w",
+        "name": "Krak\u00f3w John Paul II International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      }
+    }
+  },
+  "TOM47T": {
+    "time": 1794775836.0890803,
+    "route": {
+      "callsign": "TOM47T",
+      "callsign_icao": "TOM47T",
+      "callsign_iata": "BY47T",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 17,
+        "iata_code": "RHO",
+        "icao_code": "LGRP",
+        "latitude": 36.4054,
+        "longitude": 28.0862,
+        "municipality": "Rhodes Island",
+        "name": "Diagoras Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
       }
     }
   }
