@@ -36592,7 +36592,7 @@
     }
   },
   "EIN381": {
-    "time": 1794651928.924618,
+    "time": 1794738925.2180822,
     "route": {
       "callsign": "EIN381",
       "callsign_icao": "EIN381",
@@ -36706,7 +36706,7 @@
     }
   },
   "SAS38M": {
-    "time": 1794564936.9311934,
+    "time": 1794738925.2180822,
     "route": {
       "callsign": "SAS38M",
       "callsign_icao": "SAS38M",
@@ -69497,7 +69497,7 @@
     }
   },
   "RYR486H": {
-    "time": 1794579036.5367198,
+    "time": 1794738925.2180822,
     "route": {
       "callsign": "RYR486H",
       "callsign_icao": "RYR486H",
@@ -109676,7 +109676,7 @@
     }
   },
   "EJU82CX": {
-    "time": 1794510638.1469865,
+    "time": 1794738925.2180822,
     "route": {
       "callsign": "EJU82CX",
       "callsign_icao": "EJU82CX",
@@ -143935,37 +143935,6 @@
       }
     }
   },
-  "N776MA": {
-    "time": 1794133850.271329,
-    "route": {
-      "callsign": "N776MA",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 21,
-        "iata_code": "MTN",
-        "icao_code": "KMTN",
-        "latitude": 39.3257,
-        "longitude": -76.4138,
-        "municipality": "Baltimore",
-        "name": "Martin State Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 76,
-        "iata_code": "PWM",
-        "icao_code": "KPWM",
-        "latitude": 43.6462,
-        "longitude": -70.3093,
-        "municipality": "Portland",
-        "name": "Portland International Jetport"
-      }
-    }
-  },
   "DHK7017": {
     "time": 1794529847.9923663,
     "route": {
@@ -154909,44 +154878,6 @@
       }
     }
   },
-  "ABD7746": {
-    "time": 1794133850.271329,
-    "route": {
-      "callsign": "ABD7746",
-      "callsign_icao": "ABD7746",
-      "callsign_iata": "CC7746",
-      "airline": {
-        "name": "Air Atlanta Icelandic",
-        "icao": "ABD",
-        "iata": "CC",
-        "country": "Iceland",
-        "country_iso": "IS",
-        "callsign": "ATLANTA"
-      },
-      "origin": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 1649,
-        "iata_code": "HHN",
-        "icao_code": "EDFH",
-        "latitude": 49.9487,
-        "longitude": 7.26389,
-        "municipality": "Frankfurt am Main",
-        "name": "Frankfurt-Hahn Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 742,
-        "iata_code": "RFD",
-        "icao_code": "KRFD",
-        "latitude": 42.1954,
-        "longitude": -89.0972,
-        "municipality": "Chicago/Rockford",
-        "name": "Chicago Rockford International Airport"
-      }
-    }
-  },
   "TOM6EJ": {
     "time": 1794737437.8398292,
     "route": {
@@ -156005,7 +155936,7 @@
     }
   },
   "NSZ5TP": {
-    "time": 1794560460.2826526,
+    "time": 1794738925.2180822,
     "route": {
       "callsign": "NSZ5TP",
       "callsign_icao": "NSZ5TP",
@@ -208886,6 +208817,120 @@
         "longitude": -73.7789,
         "municipality": "New York",
         "name": "John F Kennedy International Airport"
+      }
+    }
+  },
+  "DAL86": {
+    "time": 1794738925.2180822,
+    "route": {
+      "callsign": "DAL86",
+      "callsign_icao": "DAL86",
+      "callsign_iata": "DL86",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 645,
+        "iata_code": "DTW",
+        "icao_code": "KDTW",
+        "latitude": 42.2124,
+        "longitude": -83.3534,
+        "municipality": "Detroit",
+        "name": "Detroit Metropolitan Wayne County Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "VKG464": {
+    "time": 1794738925.2180822,
+    "route": {
+      "callsign": "VKG464",
+      "callsign_icao": "VKG464",
+      "callsign_iata": "464",
+      "airline": {
+        "name": "SunClass Airlines",
+        "icao": "VKG",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": "VIKING"
+      },
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 236,
+        "iata_code": "MMX",
+        "icao_code": "ESMS",
+        "latitude": 55.53631,
+        "longitude": 13.3762,
+        "municipality": "Malm\u00f6",
+        "name": "Malm\u00f6 Sturup Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "THY6020": {
+    "time": 1794738925.2180822,
+    "route": {
+      "callsign": "THY6020",
+      "callsign_icao": "THY6020",
+      "callsign_iata": "TK6020",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
       }
     }
   }
