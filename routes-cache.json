@@ -39777,7 +39777,7 @@
     }
   },
   "BAW43C": {
-    "time": 1794483934.3658025,
+    "time": 1794744328.1563768,
     "route": {
       "callsign": "BAW43C",
       "callsign_icao": "BAW43C",
@@ -73183,7 +73183,7 @@
     }
   },
   "EZY58UG": {
-    "time": 1794142234.4032788,
+    "time": 1794744328.1563768,
     "route": {
       "callsign": "EZY58UG",
       "callsign_icao": "EZY58UG",
@@ -115880,7 +115880,7 @@
     }
   },
   "EZY2591": {
-    "time": 1794389728.0801842,
+    "time": 1794744328.1563768,
     "route": {
       "callsign": "EZY2591",
       "callsign_icao": "EZY2591",
@@ -155079,44 +155079,6 @@
         "longitude": 6.20444,
         "municipality": "Luxembourg",
         "name": "Luxembourg-Findel International Airport"
-      }
-    }
-  },
-  "DAL257": {
-    "time": 1794139259.134462,
-    "route": {
-      "callsign": "DAL257",
-      "callsign_icao": "DAL257",
-      "callsign_iata": "DL257",
-      "airline": {
-        "name": "Delta Air Lines",
-        "icao": "DAL",
-        "iata": "DL",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "DELTA"
-      },
-      "origin": {
-        "country_iso_name": "NL",
-        "country_name": "Netherlands",
-        "elevation": -11,
-        "iata_code": "AMS",
-        "icao_code": "EHAM",
-        "latitude": 52.3086,
-        "longitude": 4.76389,
-        "municipality": "Amsterdam",
-        "name": "Amsterdam Airport Schiphol"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 20,
-        "iata_code": "BOS",
-        "icao_code": "KBOS",
-        "latitude": 42.3643,
-        "longitude": -71.0052,
-        "municipality": "Boston",
-        "name": "Logan International Airport"
       }
     }
   },
@@ -209142,6 +209104,120 @@
         "longitude": 34.395,
         "municipality": "Sharm el-Sheikh",
         "name": "Sharm El Sheikh International Airport"
+      }
+    }
+  },
+  "DAL225": {
+    "time": 1794744328.1563768,
+    "route": {
+      "callsign": "DAL225",
+      "callsign_icao": "DAL225",
+      "callsign_iata": "DL225",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 20,
+        "iata_code": "BOS",
+        "icao_code": "KBOS",
+        "latitude": 42.3643,
+        "longitude": -71.0052,
+        "municipality": "Boston",
+        "name": "Logan International Airport"
+      }
+    }
+  },
+  "AFR70K": {
+    "time": 1794744328.1563768,
+    "route": {
+      "callsign": "AFR70K",
+      "callsign_icao": "AFR70K",
+      "callsign_iata": "AF70K",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      }
+    }
+  },
+  "EIN991": {
+    "time": 1794744328.1563768,
+    "route": {
+      "callsign": "EIN991",
+      "callsign_icao": "EIN991",
+      "callsign_iata": "EI991",
+      "airline": {
+        "name": "Aer Lingus",
+        "icao": "EIN",
+        "iata": "EI",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "SHAMROCK"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 353,
+        "iata_code": "LIN",
+        "icao_code": "LIML",
+        "latitude": 45.4451,
+        "longitude": 9.27674,
+        "municipality": "Milan",
+        "name": "Milano Linate Airport"
+      },
+      "destination": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
       }
     }
   }
