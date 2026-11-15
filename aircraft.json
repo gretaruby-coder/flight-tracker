@@ -1,83 +1,9 @@
 {
-  "updated": "2026-11-15T03:20:35.668710+00:00",
+  "updated": "2026-11-15T03:25:28.211251+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": [
-    {
-      "hex": "0101dd",
-      "type": "adsb_icao",
-      "flight": "MSR988  ",
-      "r": "SU-GET",
-      "t": "B789",
-      "desc": "BOEING 787-9 Dreamliner",
-      "alt_baro": 36975,
-      "alt_geom": 36500,
-      "gs": 493.7,
-      "ias": 277,
-      "tas": 484,
-      "mach": 0.848,
-      "wd": 208,
-      "ws": 64,
-      "oat": -59,
-      "tat": -28,
-      "track": 105.39,
-      "track_rate": -0.03,
-      "roll": -0.35,
-      "mag_heading": 111.62,
-      "true_heading": 112.89,
-      "baro_rate": 0,
-      "geom_rate": 0,
-      "squawk": "1154",
-      "emergency": "none",
-      "category": "A5",
-      "nav_qnh": 1012.8,
-      "nav_altitude_mcp": 36992,
-      "nav_heading": 108.98,
-      "nav_modes": [
-        "autopilot",
-        "vnav",
-        "lnav",
-        "tcas"
-      ],
-      "lat": 51.217163,
-      "lon": 0.026427,
-      "nic": 8,
-      "rc": 186,
-      "seen_pos": 0.164,
-      "version": 2,
-      "nic_baro": 1,
-      "nac_p": 9,
-      "nac_v": 2,
-      "sil": 3,
-      "sil_type": "perhour",
-      "gva": 2,
-      "sda": 2,
-      "alert": 0,
-      "spi": 0,
-      "mlat": [],
-      "tisb": [],
-      "messages": 231406,
-      "seen": 0.0,
-      "rssi": -6.6,
-      "dst": 21.463,
-      "dir": 130.3,
-      "registered_owner": "Egypt Air",
-      "registered_owner_operator_flag_code": "MSR",
-      "origin": {
-        "iata": "EWR",
-        "icao": "KEWR",
-        "name": "Newark Liberty International Airport"
-      },
-      "destination": {
-        "iata": "CAI",
-        "icao": "HECA",
-        "name": "Cairo International Airport"
-      },
-      "airline_name": "Egyptair",
-      "airline_iata": "MS"
-    }
-  ]
+  "aircraft": []
 }
