@@ -4535,7 +4535,7 @@
     }
   },
   "ACA857": {
-    "time": 1794583850.021946,
+    "time": 1794756650.088643,
     "route": {
       "callsign": "ACA857",
       "callsign_icao": "ACA857",
@@ -6967,7 +6967,7 @@
     }
   },
   "TAP68HR": {
-    "time": 1794498336.500633,
+    "time": 1794756650.088643,
     "route": {
       "callsign": "TAP68HR",
       "callsign_icao": "TAP68HR",
@@ -52663,7 +52663,7 @@
     }
   },
   "CFE33V": {
-    "time": 1794324930.6271493,
+    "time": 1794756650.088643,
     "route": {
       "callsign": "CFE33V",
       "callsign_icao": "CFE33V",
@@ -79529,7 +79529,7 @@
     }
   },
   "RYR7ET": {
-    "time": 1794588637.7368233,
+    "time": 1794756650.088643,
     "route": {
       "callsign": "RYR7ET",
       "callsign_icao": "RYR7ET",
@@ -81239,7 +81239,7 @@
     }
   },
   "QTR76H": {
-    "time": 1794585930.6312592,
+    "time": 1794756650.088643,
     "route": {
       "callsign": "QTR76H",
       "callsign_icao": "QTR76H",
@@ -82033,44 +82033,6 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
-      }
-    }
-  },
-  "EJU51HX": {
-    "time": 1794151848.749973,
-    "route": {
-      "callsign": "EJU51HX",
-      "callsign_icao": "EJU51HX",
-      "callsign_iata": "EC51HX",
-      "airline": {
-        "name": "easyJet Europe",
-        "icao": "EJU",
-        "iata": "EC",
-        "country": "Austria",
-        "country_iso": "AT",
-        "callsign": "Alpine"
-      },
-      "origin": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 294,
-        "iata_code": "NAP",
-        "icao_code": "LIRN",
-        "latitude": 40.886,
-        "longitude": 14.2908,
-        "municipality": "N\u00e1poli",
-        "name": "Naples International Airport"
-      },
-      "destination": {
-        "country_iso_name": "CZ",
-        "country_name": "Czech Republic",
-        "elevation": 1247,
-        "iata_code": "PRG",
-        "icao_code": "LKPR",
-        "latitude": 50.1008,
-        "longitude": 14.26,
-        "municipality": "Prague",
-        "name": "V\u00e1clav Havel Airport Prague"
       }
     }
   },
@@ -209415,6 +209377,82 @@
         "longitude": 6.20444,
         "municipality": "Luxembourg",
         "name": "Luxembourg-Findel International Airport"
+      }
+    }
+  },
+  "THY8PN": {
+    "time": 1794756650.088643,
+    "route": {
+      "callsign": "THY8PN",
+      "callsign_icao": "THY8PN",
+      "callsign_iata": "TK8PN",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "IQ",
+        "country_name": "Iraq",
+        "elevation": 114,
+        "iata_code": "BGW",
+        "icao_code": "ORBI",
+        "latitude": 33.2625,
+        "longitude": 44.2346,
+        "municipality": "Baghdad",
+        "name": "Baghdad International Airport / New Al Muthana Air Base"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
+      }
+    }
+  },
+  "EJU46DC": {
+    "time": 1794756650.088643,
+    "route": {
+      "callsign": "EJU46DC",
+      "callsign_icao": "EJU46DC",
+      "callsign_iata": "EC46DC",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 266,
+        "iata_code": "NCL",
+        "icao_code": "EGNT",
+        "latitude": 55.0375,
+        "longitude": -1.69167,
+        "municipality": "Newcastle",
+        "name": "Newcastle Airport"
       }
     }
   }
