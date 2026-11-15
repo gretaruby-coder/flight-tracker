@@ -37960,7 +37960,7 @@
     }
   },
   "BAW53M": {
-    "time": 1794565531.0496252,
+    "time": 1794737733.2684436,
     "route": {
       "callsign": "BAW53M",
       "callsign_icao": "BAW53M",
@@ -38302,7 +38302,7 @@
     }
   },
   "BAW3G": {
-    "time": 1794569126.3924181,
+    "time": 1794737733.2684436,
     "route": {
       "callsign": "BAW3G",
       "callsign_icao": "BAW3G",
@@ -69307,7 +69307,7 @@
     }
   },
   "RYR2LH": {
-    "time": 1794573935.0801237,
+    "time": 1794737733.2684436,
     "route": {
       "callsign": "RYR2LH",
       "callsign_icao": "RYR2LH",
@@ -69915,7 +69915,7 @@
     }
   },
   "BAW931": {
-    "time": 1794651046.7143996,
+    "time": 1794737733.2684436,
     "route": {
       "callsign": "BAW931",
       "callsign_icao": "BAW931",
@@ -70105,7 +70105,7 @@
     }
   },
   "EZY41NK": {
-    "time": 1794564640.6859624,
+    "time": 1794737733.2684436,
     "route": {
       "callsign": "EZY41NK",
       "callsign_icao": "EZY41NK",
@@ -94943,7 +94943,7 @@
     }
   },
   "DAL153": {
-    "time": 1794391258.1897893,
+    "time": 1794737733.2684436,
     "route": {
       "callsign": "DAL153",
       "callsign_icao": "DAL153",
@@ -101852,7 +101852,7 @@
     }
   },
   "EXS4U": {
-    "time": 1794306042.2227929,
+    "time": 1794737733.2684436,
     "route": {
       "callsign": "EXS4U",
       "callsign_icao": "EXS4U",
@@ -109562,7 +109562,7 @@
     }
   },
   "ICE544": {
-    "time": 1794565851.8839579,
+    "time": 1794737733.2684436,
     "route": {
       "callsign": "ICE544",
       "callsign_icao": "ICE544",
@@ -154910,7 +154910,7 @@
     }
   },
   "VKG1726": {
-    "time": 1794132934.364171,
+    "time": 1794737733.2684436,
     "route": {
       "callsign": "VKG1726",
       "callsign_icao": "VKG1726",
@@ -208734,6 +208734,82 @@
         "longitude": 2.07846,
         "municipality": "Barcelona",
         "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      }
+    }
+  },
+  "VKG816": {
+    "time": 1794737733.2684436,
+    "route": {
+      "callsign": "VKG816",
+      "callsign_icao": "VKG816",
+      "callsign_iata": "816",
+      "airline": {
+        "name": "SunClass Airlines",
+        "icao": "VKG",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": "VIKING"
+      },
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      }
+    }
+  },
+  "AFR342G": {
+    "time": 1794737733.2684436,
+    "route": {
+      "callsign": "AFR342G",
+      "callsign_icao": "AFR342G",
+      "callsign_iata": "AF342G",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 118,
+        "iata_code": "YUL",
+        "icao_code": "CYUL",
+        "latitude": 45.4706,
+        "longitude": -73.7408,
+        "municipality": "Montr\u00e9al",
+        "name": "Montreal / Pierre Elliott Trudeau International Airport"
       }
     }
   }
