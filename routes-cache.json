@@ -32236,7 +32236,7 @@
     }
   },
   "BAW563": {
-    "time": 1794734728.0520499,
+    "time": 1794821450.1958694,
     "route": {
       "callsign": "BAW563",
       "callsign_icao": "BAW563",
@@ -33749,7 +33749,7 @@
     }
   },
   "ITY202": {
-    "time": 1794734728.0520499,
+    "time": 1794821450.1958694,
     "route": {
       "callsign": "ITY202",
       "callsign_icao": "ITY202",
@@ -34236,7 +34236,7 @@
     }
   },
   "KLC25Y": {
-    "time": 1794647734.678788,
+    "time": 1794821450.1958694,
     "route": {
       "callsign": "KLC25Y",
       "callsign_icao": "KLC25Y",
@@ -37466,7 +37466,7 @@
     }
   },
   "BAW396U": {
-    "time": 1794648931.9255629,
+    "time": 1794821450.1958694,
     "route": {
       "callsign": "BAW396U",
       "callsign_icao": "BAW396U",
@@ -40789,7 +40789,7 @@
     }
   },
   "UAL940": {
-    "time": 1794667534.2642236,
+    "time": 1794821450.1958694,
     "route": {
       "callsign": "UAL940",
       "callsign_icao": "UAL940",
@@ -50276,7 +50276,7 @@
     }
   },
   "TAP34A": {
-    "time": 1794734728.0520499,
+    "time": 1794821450.1958694,
     "route": {
       "callsign": "TAP34A",
       "callsign_icao": "TAP34A",
@@ -50960,7 +50960,7 @@
     }
   },
   "NSZ2ES": {
-    "time": 1794561642.1878035,
+    "time": 1794821450.1958694,
     "route": {
       "callsign": "NSZ2ES",
       "callsign_icao": "NSZ2ES",
@@ -56833,7 +56833,7 @@
     }
   },
   "CND5990": {
-    "time": 1794732926.6983788,
+    "time": 1794821450.1958694,
     "route": {
       "callsign": "CND5990",
       "callsign_icao": "CND5990",
@@ -68091,7 +68091,7 @@
     }
   },
   "BAW681": {
-    "time": 1794734728.0520499,
+    "time": 1794821450.1958694,
     "route": {
       "callsign": "BAW681",
       "callsign_icao": "BAW681",
@@ -92473,7 +92473,7 @@
     }
   },
   "EWG37X": {
-    "time": 1794561336.2379594,
+    "time": 1794821450.1958694,
     "route": {
       "callsign": "EWG37X",
       "callsign_icao": "EWG37X",
@@ -208701,6 +208701,120 @@
         "longitude": 13.0043,
         "municipality": "Salzburg",
         "name": "Salzburg Airport"
+      }
+    }
+  },
+  "UAL957": {
+    "time": 1794821450.1958694,
+    "route": {
+      "callsign": "UAL957",
+      "callsign_icao": "UAL957",
+      "callsign_iata": "UA957",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      }
+    }
+  },
+  "DAL46": {
+    "time": 1794821450.1958694,
+    "route": {
+      "callsign": "DAL46",
+      "callsign_icao": "DAL46",
+      "callsign_iata": "DL46",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "KLM745": {
+    "time": 1794821450.1958694,
+    "route": {
+      "callsign": "KLM745",
+      "callsign_icao": "KLM745",
+      "callsign_iata": "KL745",
+      "airline": {
+        "name": "KLM Royal Dutch Airlines",
+        "icao": "KLM",
+        "iata": "KL",
+        "country": "Netherlands",
+        "country_iso": "NL",
+        "callsign": "KLM"
+      },
+      "origin": {
+        "country_iso_name": "CO",
+        "country_name": "Colombia",
+        "elevation": 4,
+        "iata_code": "CTG",
+        "icao_code": "SKCG",
+        "latitude": 10.4424,
+        "longitude": -75.513,
+        "municipality": "Cartagena",
+        "name": "Rafael Nu\u00f1ez International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
       }
     }
   }
