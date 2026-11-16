@@ -2808,7 +2808,7 @@
     }
   },
   "SHT3P": {
-    "time": 1794650730.1338139,
+    "time": 1794821731.9013026,
     "route": {
       "callsign": "SHT3P",
       "callsign_icao": null,
@@ -34464,7 +34464,7 @@
     }
   },
   "ITY221": {
-    "time": 1794561926.0110962,
+    "time": 1794821731.9013026,
     "route": {
       "callsign": "ITY221",
       "callsign_icao": "ITY221",
@@ -34578,7 +34578,7 @@
     }
   },
   "UAE7CN": {
-    "time": 1794651637.734971,
+    "time": 1794821731.9013026,
     "route": {
       "callsign": "UAE7CN",
       "callsign_icao": "UAE7CN",
@@ -44921,7 +44921,7 @@
     }
   },
   "BAW513": {
-    "time": 1794735052.2904258,
+    "time": 1794821731.9013026,
     "route": {
       "callsign": "BAW513",
       "callsign_icao": "BAW513",
@@ -51263,44 +51263,6 @@
       }
     }
   },
-  "EFW24AD": {
-    "time": 1794216650.5982041,
-    "route": {
-      "callsign": "EFW24AD",
-      "callsign_icao": "EFW24AD",
-      "callsign_iata": "A024AD",
-      "airline": {
-        "name": "BA Euroflyer",
-        "icao": "EFW",
-        "iata": "A0",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "Griffin"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      },
-      "destination": {
-        "country_iso_name": "CY",
-        "country_name": "Cyprus",
-        "elevation": 8,
-        "iata_code": "LCA",
-        "icao_code": "LCLK",
-        "latitude": 34.8751,
-        "longitude": 33.6249,
-        "municipality": "Larnaca",
-        "name": "Larnaca International Airport"
-      }
-    }
-  },
   "BAW992G": {
     "time": 1794771327.0959592,
     "route": {
@@ -51568,7 +51530,7 @@
     }
   },
   "SIA309": {
-    "time": 1794735331.0050473,
+    "time": 1794821731.9013026,
     "route": {
       "callsign": "SIA309",
       "callsign_icao": "SIA309",
@@ -68661,7 +68623,7 @@
     }
   },
   "AFR95LR": {
-    "time": 1794735052.2904258,
+    "time": 1794821731.9013026,
     "route": {
       "callsign": "AFR95LR",
       "callsign_icao": "AFR95LR",
@@ -91865,7 +91827,7 @@
     }
   },
   "AFR81K": {
-    "time": 1794733835.5992184,
+    "time": 1794821731.9013026,
     "route": {
       "callsign": "AFR81K",
       "callsign_icao": "AFR81K",
@@ -155560,7 +155522,7 @@
     }
   },
   "UAE9906": {
-    "time": 1794219037.9112778,
+    "time": 1794821731.9013026,
     "route": {
       "callsign": "UAE9906",
       "callsign_icao": "UAE9906",
@@ -169768,7 +169730,7 @@
     }
   },
   "EJU42FQ": {
-    "time": 1794387660.4932153,
+    "time": 1794821731.9013026,
     "route": {
       "callsign": "EJU42FQ",
       "callsign_icao": "EJU42FQ",
@@ -208815,6 +208777,75 @@
         "longitude": 4.76389,
         "municipality": "Amsterdam",
         "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "EFD2F": {
+    "time": 1794821731.9013026,
+    "route": {
+      "callsign": "EFD2F",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1276,
+        "iata_code": "STR",
+        "icao_code": "EDDS",
+        "latitude": 48.6899,
+        "longitude": 9.22196,
+        "municipality": "Stuttgart",
+        "name": "Stuttgart Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 915,
+        "iata_code": "LUG",
+        "icao_code": "LSZA",
+        "latitude": 46.0043,
+        "longitude": 8.91058,
+        "municipality": "Lugano",
+        "name": "Lugano Airport"
+      }
+    }
+  },
+  "EXS2W": {
+    "time": 1794821731.9013026,
+    "route": {
+      "callsign": "EXS2W",
+      "callsign_icao": "EXS2W",
+      "callsign_iata": "LS2W",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 681,
+        "iata_code": "LBA",
+        "icao_code": "EGNM",
+        "latitude": 53.8659,
+        "longitude": -1.66057,
+        "municipality": "Leeds",
+        "name": "Leeds Bradford Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
       }
     }
   }
