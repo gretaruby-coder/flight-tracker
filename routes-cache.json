@@ -49060,7 +49060,7 @@
     }
   },
   "AUA38": {
-    "time": 1794638734.43426,
+    "time": 1794803126.4588337,
     "route": {
       "callsign": "AUA38",
       "callsign_icao": "AUA38",
@@ -209354,6 +209354,44 @@
         "longitude": 8.57056,
         "municipality": "Frankfurt am Main",
         "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "BOX397": {
+    "time": 1794803126.4588337,
+    "route": {
+      "callsign": "BOX397",
+      "callsign_icao": "BOX397",
+      "callsign_iata": "3S397",
+      "airline": {
+        "name": "AeroLogic",
+        "icao": "BOX",
+        "iata": "3S",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "GERMAN CARGO"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 896,
+        "iata_code": "CVG",
+        "icao_code": "KCVG",
+        "latitude": 39.0488,
+        "longitude": -84.6678,
+        "municipality": "Cincinnati / Covington",
+        "name": "Cincinnati Northern Kentucky International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 465,
+        "iata_code": "LEJ",
+        "icao_code": "EDDP",
+        "latitude": 51.42389,
+        "longitude": 12.23639,
+        "municipality": "Leipzig",
+        "name": "Leipzig/Halle Airport"
       }
     }
   }
