@@ -5751,7 +5751,7 @@
     }
   },
   "LOG18D": {
-    "time": 1794669036.1187952,
+    "time": 1794840929.6028106,
     "route": {
       "callsign": "LOG18D",
       "callsign_icao": "LOG18D",
@@ -27728,7 +27728,7 @@
     }
   },
   "BAW346": {
-    "time": 1794753935.4923089,
+    "time": 1794840929.6028106,
     "route": {
       "callsign": "BAW346",
       "callsign_icao": "BAW346",
@@ -61403,7 +61403,7 @@
     }
   },
   "RYR2PY": {
-    "time": 1794657930.2773561,
+    "time": 1794840929.6028106,
     "route": {
       "callsign": "RYR2PY",
       "callsign_icao": "RYR2PY",
@@ -76337,7 +76337,7 @@
     }
   },
   "VLG4CB": {
-    "time": 1794668455.7603977,
+    "time": 1794840929.6028106,
     "route": {
       "callsign": "VLG4CB",
       "callsign_icao": "VLG4CB",
@@ -78313,7 +78313,7 @@
     }
   },
   "BAW979": {
-    "time": 1794753935.4923089,
+    "time": 1794840929.6028106,
     "route": {
       "callsign": "BAW979",
       "callsign_icao": "BAW979",
@@ -95354,7 +95354,7 @@
     }
   },
   "RYR3HG": {
-    "time": 1794650456.4456227,
+    "time": 1794840929.6028106,
     "route": {
       "callsign": "RYR3HG",
       "callsign_icao": "RYR3HG",
@@ -113700,7 +113700,7 @@
     }
   },
   "RUK74VN": {
-    "time": 1794751255.859398,
+    "time": 1794840929.6028106,
     "route": {
       "callsign": "RUK74VN",
       "callsign_icao": "RUK74VN",
@@ -140319,7 +140319,7 @@
     }
   },
   "EJU73NF": {
-    "time": 1794581135.8435073,
+    "time": 1794840929.6028106,
     "route": {
       "callsign": "EJU73NF",
       "callsign_icao": "EJU73NF",
@@ -155642,37 +155642,6 @@
         "longitude": -118.408,
         "municipality": "Los Angeles",
         "name": "Los Angeles International Airport"
-      }
-    }
-  },
-  "GJI85U": {
-    "time": 1794236127.527172,
-    "route": {
-      "callsign": "GJI85U",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "HR",
-        "country_name": "Croatia",
-        "elevation": 79,
-        "iata_code": "SPU",
-        "icao_code": "LDSP",
-        "latitude": 43.5389,
-        "longitude": 16.298,
-        "municipality": "Split",
-        "name": "Split Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 306,
-        "iata_code": "EMA",
-        "icao_code": "EGNX",
-        "latitude": 52.8311,
-        "longitude": -1.32806,
-        "municipality": "Nottingham",
-        "name": "East Midlands Airport"
       }
     }
   },
@@ -206531,6 +206500,44 @@
         "longitude": -0.32583,
         "municipality": "Watford",
         "name": "Elstree Airfield"
+      }
+    }
+  },
+  "BA392": {
+    "time": 1794840929.6028106,
+    "route": {
+      "callsign": "BA392",
+      "callsign_icao": "BAW392",
+      "callsign_iata": "BA392",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 184,
+        "iata_code": "BRU",
+        "icao_code": "EBBR",
+        "latitude": 50.9014,
+        "longitude": 4.48444,
+        "municipality": "Brussels",
+        "name": "Brussels Airport"
       }
     }
   }
