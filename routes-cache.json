@@ -24657,7 +24657,7 @@
     }
   },
   "UAL16": {
-    "time": 1794637851.3143356,
+    "time": 1794807637.166556,
     "route": {
       "callsign": "UAL16",
       "callsign_icao": "UAL16",
@@ -28412,7 +28412,7 @@
     }
   },
   "BAW11J": {
-    "time": 1794661527.685201,
+    "time": 1794807637.166556,
     "route": {
       "callsign": "BAW11J",
       "callsign_icao": "BAW11J",
@@ -49174,7 +49174,7 @@
     }
   },
   "UAL950": {
-    "time": 1794720654.2732544,
+    "time": 1794807637.166556,
     "route": {
       "callsign": "UAL950",
       "callsign_icao": "UAL950",
@@ -90504,7 +90504,7 @@
     }
   },
   "BAW64M": {
-    "time": 1794641126.9670928,
+    "time": 1794807637.166556,
     "route": {
       "callsign": "BAW64M",
       "callsign_icao": "BAW64M",
@@ -155103,44 +155103,6 @@
       }
     }
   },
-  "ACA874": {
-    "time": 1794202835.2654047,
-    "route": {
-      "callsign": "ACA874",
-      "callsign_icao": "ACA874",
-      "callsign_iata": "AC874",
-      "airline": {
-        "name": "Air Canada",
-        "icao": "ACA",
-        "iata": "AC",
-        "country": "Canada",
-        "country_iso": "CA",
-        "callsign": "AIR CANADA"
-      },
-      "origin": {
-        "country_iso_name": "CA",
-        "country_name": "Canada",
-        "elevation": 118,
-        "iata_code": "YUL",
-        "icao_code": "CYUL",
-        "latitude": 45.4706,
-        "longitude": -73.7408,
-        "municipality": "Montr\u00e9al",
-        "name": "Montreal / Pierre Elliott Trudeau International Airport"
-      },
-      "destination": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 392,
-        "iata_code": "CDG",
-        "icao_code": "LFPG",
-        "latitude": 49.0128,
-        "longitude": 2.55,
-        "municipality": "Paris",
-        "name": "Charles de Gaulle International Airport"
-      }
-    }
-  },
   "ACA898": {
     "time": 1794203725.621735,
     "route": {
@@ -209195,6 +209157,37 @@
         "longitude": 11.3264,
         "municipality": "Bolzano",
         "name": "Bolzano Airport"
+      }
+    }
+  },
+  "VJT792": {
+    "time": 1794807637.166556,
+    "route": {
+      "callsign": "VJT792",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 24,
+        "iata_code": "FAO",
+        "icao_code": "LPFR",
+        "latitude": 37.0144,
+        "longitude": -7.96591,
+        "municipality": "Faro",
+        "name": "Faro Airport"
+      },
+      "destination": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 62,
+        "iata_code": "DXB",
+        "icao_code": "OMDB",
+        "latitude": 25.2528,
+        "longitude": 55.3644,
+        "municipality": "Dubai",
+        "name": "Dubai International Airport"
       }
     }
   }
