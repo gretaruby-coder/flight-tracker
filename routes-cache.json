@@ -6739,7 +6739,7 @@
     }
   },
   "SIA308": {
-    "time": 1794668727.0586681,
+    "time": 1794845441.3089294,
     "route": {
       "callsign": "SIA308",
       "callsign_icao": "SIA308",
@@ -7979,7 +7979,7 @@
     }
   },
   "SWR21M": {
-    "time": 1794757836.9840527,
+    "time": 1794845441.3089294,
     "route": {
       "callsign": "SWR21M",
       "callsign_icao": "SWR21M",
@@ -9378,7 +9378,7 @@
     }
   },
   "VIR355": {
-    "time": 1794754861.3110619,
+    "time": 1794845441.3089294,
     "route": {
       "callsign": "VIR355",
       "callsign_icao": "VIR355",
@@ -122076,44 +122076,6 @@
       }
     }
   },
-  "RYR52DN": {
-    "time": 1794240637.3741415,
-    "route": {
-      "callsign": "RYR52DN",
-      "callsign_icao": "RYR52DN",
-      "callsign_iata": "FR52DN",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 622,
-        "iata_code": "BRS",
-        "icao_code": "EGGD",
-        "latitude": 51.3827,
-        "longitude": -2.71909,
-        "municipality": "Bristol",
-        "name": "Bristol Airport"
-      },
-      "destination": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 782,
-        "iata_code": "BGY",
-        "icao_code": "LIME",
-        "latitude": 45.6739,
-        "longitude": 9.70417,
-        "municipality": "Milan",
-        "name": "Milan Bergamo Airport"
-      }
-    }
-  },
   "UBT79G": {
     "time": 1794843330.3761303,
     "route": {
@@ -155635,37 +155597,6 @@
         "longitude": 32.70001,
         "municipality": "Luxor",
         "name": "Luxor International Airport"
-      }
-    }
-  },
-  "HLE56": {
-    "time": 1794240637.3741415,
-    "route": {
-      "callsign": "HLE56",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 319,
-        "iata_code": null,
-        "icao_code": "EGHO",
-        "latitude": 51.2106,
-        "longitude": -1.6,
-        "municipality": "Andover",
-        "name": "Thruxton Aerodrome"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 319,
-        "iata_code": null,
-        "icao_code": "EGHO",
-        "latitude": 51.2106,
-        "longitude": -1.6,
-        "municipality": "Andover",
-        "name": "Thruxton Aerodrome"
       }
     }
   },
@@ -206514,6 +206445,44 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "LHX2504": {
+    "time": 1794845441.3089294,
+    "route": {
+      "callsign": "LHX2504",
+      "callsign_icao": "LHX2504",
+      "callsign_iata": "VL2504",
+      "airline": {
+        "name": "City Airlines",
+        "icao": "LHX",
+        "iata": "VL",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1487,
+        "iata_code": "MUC",
+        "icao_code": "EDDM",
+        "latitude": 48.3538,
+        "longitude": 11.7861,
+        "municipality": "Munich",
+        "name": "Munich Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
