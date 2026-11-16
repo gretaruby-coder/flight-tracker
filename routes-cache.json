@@ -34844,7 +34844,7 @@
     }
   },
   "EIN156": {
-    "time": 1794735636.0854802,
+    "time": 1794822334.9241266,
     "route": {
       "callsign": "EIN156",
       "callsign_icao": "EIN156",
@@ -36896,7 +36896,7 @@
     }
   },
   "SIA305": {
-    "time": 1794651335.4645786,
+    "time": 1794822334.9241266,
     "route": {
       "callsign": "SIA305",
       "callsign_icao": "SIA305",
@@ -37314,7 +37314,7 @@
     }
   },
   "BAW98T": {
-    "time": 1794650730.1338139,
+    "time": 1794822334.9241266,
     "route": {
       "callsign": "BAW98T",
       "callsign_icao": "BAW98T",
@@ -40112,7 +40112,7 @@
     }
   },
   "TAP1328": {
-    "time": 1794646526.9860744,
+    "time": 1794822334.9241266,
     "route": {
       "callsign": "TAP1328",
       "callsign_icao": "TAP1328",
@@ -92435,7 +92435,7 @@
     }
   },
   "BAW405": {
-    "time": 1794734435.9762352,
+    "time": 1794822334.9241266,
     "route": {
       "callsign": "BAW405",
       "callsign_icao": "BAW405",
@@ -169585,7 +169585,7 @@
     }
   },
   "VLG2DJ": {
-    "time": 1794561926.0110962,
+    "time": 1794822334.9241266,
     "route": {
       "callsign": "VLG2DJ",
       "callsign_icao": "VLG2DJ",
@@ -196473,7 +196473,7 @@
     }
   },
   "RYR52PP": {
-    "time": 1794723634.1009746,
+    "time": 1794822334.9241266,
     "route": {
       "callsign": "RYR52PP",
       "callsign_icao": "RYR52PP",
@@ -208808,6 +208808,44 @@
         "longitude": 2.07846,
         "municipality": "Barcelona",
         "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      }
+    }
+  },
+  "KLC982": {
+    "time": 1794822334.9241266,
+    "route": {
+      "callsign": "KLC982",
+      "callsign_icao": "KLC982",
+      "callsign_iata": "WA982",
+      "airline": {
+        "name": "KLM Cityhopper",
+        "icao": "KLC",
+        "iata": "WA",
+        "country": "Netherlands",
+        "country_iso": "NL",
+        "callsign": "CITY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 19,
+        "iata_code": "LCY",
+        "icao_code": "EGLC",
+        "latitude": 51.5053,
+        "longitude": 0.05528,
+        "municipality": "London",
+        "name": "London City Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
       }
     }
   }
