@@ -37618,7 +37618,7 @@
     }
   },
   "BAW53M": {
-    "time": 1794737733.2684436,
+    "time": 1794912041.9096112,
     "route": {
       "callsign": "BAW53M",
       "callsign_icao": "BAW53M",
@@ -40561,7 +40561,7 @@
     }
   },
   "VIR5C": {
-    "time": 1794738648.970263,
+    "time": 1794912041.9096112,
     "route": {
       "callsign": "VIR5C",
       "callsign_icao": "VIR5C",
@@ -40827,7 +40827,7 @@
     }
   },
   "UAL959": {
-    "time": 1794739834.609851,
+    "time": 1794912041.9096112,
     "route": {
       "callsign": "UAL959",
       "callsign_icao": "UAL959",
@@ -43218,7 +43218,7 @@
     }
   },
   "MAS3": {
-    "time": 1794740126.0432343,
+    "time": 1794912041.9096112,
     "route": {
       "callsign": "MAS3",
       "callsign_icao": "MAS3",
@@ -55928,7 +55928,7 @@
     }
   },
   "EXS1Y": {
-    "time": 1794726638.0164647,
+    "time": 1794912041.9096112,
     "route": {
       "callsign": "EXS1Y",
       "callsign_icao": "EXS1Y",
@@ -156059,82 +156059,6 @@
       }
     }
   },
-  "RYR90SF": {
-    "time": 1794307236.414042,
-    "route": {
-      "callsign": "RYR90SF",
-      "callsign_icao": "RYR90SF",
-      "callsign_iata": "FR90SF",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "IE",
-        "country_name": "Ireland",
-        "elevation": 242,
-        "iata_code": "DUB",
-        "icao_code": "EIDW",
-        "latitude": 53.4213,
-        "longitude": -6.27007,
-        "municipality": "Dublin",
-        "name": "Dublin Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 1998,
-        "iata_code": "MAD",
-        "icao_code": "LEMD",
-        "latitude": 40.47193,
-        "longitude": -3.56264,
-        "municipality": "Madrid",
-        "name": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport"
-      }
-    }
-  },
-  "LOT6522": {
-    "time": 1794307236.414042,
-    "route": {
-      "callsign": "LOT6522",
-      "callsign_icao": "LOT6522",
-      "callsign_iata": "LO6522",
-      "airline": {
-        "name": "LOT Polish Airlines",
-        "icao": "LOT",
-        "iata": "LO",
-        "country": "Poland",
-        "country_iso": "PL",
-        "callsign": "POLLOT"
-      },
-      "origin": {
-        "country_iso_name": "DO",
-        "country_name": "Dominican Republic",
-        "elevation": 15,
-        "iata_code": "POP",
-        "icao_code": "MDPP",
-        "latitude": 19.7579,
-        "longitude": -70.57,
-        "municipality": "Puerto Plata",
-        "name": "Gregorio Luperon International Airport"
-      },
-      "destination": {
-        "country_iso_name": "PL",
-        "country_name": "Poland",
-        "elevation": 362,
-        "iata_code": "WAW",
-        "icao_code": "EPWA",
-        "latitude": 52.1657,
-        "longitude": 20.9671,
-        "municipality": "Warsaw",
-        "name": "Warsaw Chopin Airport"
-      }
-    }
-  },
   "LOT6305": {
     "time": 1794307534.9698727,
     "route": {
@@ -206361,6 +206285,75 @@
         "longitude": 44.9547,
         "municipality": "Tbilisi",
         "name": "Tbilisi International Airport"
+      }
+    }
+  },
+  "VJT762": {
+    "time": 1794912041.9096112,
+    "route": {
+      "callsign": "VJT762",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "HK",
+        "country_name": "Hong Kong",
+        "elevation": 28,
+        "iata_code": "HKG",
+        "icao_code": "VHHH",
+        "latitude": 22.3089,
+        "longitude": 113.915,
+        "municipality": "Hong Kong",
+        "name": "Hong Kong International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "SFO",
+        "icao_code": "KSFO",
+        "latitude": 37.619,
+        "longitude": -122.375,
+        "municipality": "San Francisco",
+        "name": "San Francisco International Airport"
+      }
+    }
+  },
+  "EXS6546": {
+    "time": 1794912041.9096112,
+    "route": {
+      "callsign": "EXS6546",
+      "callsign_icao": "EXS6546",
+      "callsign_iata": "LS6546",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
       }
     }
   }
