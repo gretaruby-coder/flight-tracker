@@ -24885,7 +24885,7 @@
     }
   },
   "BAW216": {
-    "time": 1794808527.301311,
+    "time": 1794894934.6062505,
     "route": {
       "callsign": "BAW216",
       "callsign_icao": "BAW216",
@@ -25873,7 +25873,7 @@
     }
   },
   "JAL41": {
-    "time": 1794723036.4130037,
+    "time": 1794894934.6062505,
     "route": {
       "callsign": "JAL41",
       "callsign_icao": "JAL41",
@@ -206023,6 +206023,44 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "DAL48": {
+    "time": 1794894934.6062505,
+    "route": {
+      "callsign": "DAL48",
+      "callsign_icao": "DAL48",
+      "callsign_iata": "DL48",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
       }
     }
   }
