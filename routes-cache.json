@@ -48555,7 +48555,7 @@
     }
   },
   "BCS2696": {
-    "time": 1794546635.612433,
+    "time": 1794885928.7224324,
     "route": {
       "callsign": "BCS2696",
       "callsign_icao": "BCS2696",
@@ -205902,6 +205902,44 @@
         "longitude": -85.736,
         "municipality": "Louisville",
         "name": "Louisville Muhammad Ali International Airport"
+      }
+    }
+  },
+  "FDX5083": {
+    "time": 1794885928.7224324,
+    "route": {
+      "callsign": "FDX5083",
+      "callsign_icao": "FDX5083",
+      "callsign_iata": "FX5083",
+      "airline": {
+        "name": "FedEx Express",
+        "icao": "FDX",
+        "iata": "FX",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "FEDEX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 341,
+        "iata_code": "MEM",
+        "icao_code": "KMEM",
+        "latitude": 35.0424,
+        "longitude": -89.9767,
+        "municipality": "Memphis",
+        "name": "Memphis International Airport"
       }
     }
   }
