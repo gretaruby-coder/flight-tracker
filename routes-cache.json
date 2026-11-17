@@ -1347,7 +1347,7 @@
     }
   },
   "SHT5X": {
-    "time": 1794823844.7042117,
+    "time": 1794915053.3726845,
     "route": {
       "callsign": "SHT5X",
       "callsign_icao": null,
@@ -3174,7 +3174,7 @@
     }
   },
   "ASA100": {
-    "time": 1794744641.2694523,
+    "time": 1794915053.3726845,
     "route": {
       "callsign": "ASA100",
       "callsign_icao": "ASA100",
@@ -34920,7 +34920,7 @@
     }
   },
   "AAL729": {
-    "time": 1794826864.448657,
+    "time": 1794915053.3726845,
     "route": {
       "callsign": "AAL729",
       "callsign_icao": "AAL729",
@@ -36440,7 +36440,7 @@
     }
   },
   "SAS4697": {
-    "time": 1794823844.7042117,
+    "time": 1794915053.3726845,
     "route": {
       "callsign": "SAS4697",
       "callsign_icao": "SAS4697",
@@ -47643,7 +47643,7 @@
     }
   },
   "BAW19LX": {
-    "time": 1794826527.7164128,
+    "time": 1794915053.3726845,
     "route": {
       "callsign": "BAW19LX",
       "callsign_icao": "BAW19LX",
@@ -53389,7 +53389,7 @@
     }
   },
   "HVN50": {
-    "time": 1794656435.4700303,
+    "time": 1794915053.3726845,
     "route": {
       "callsign": "HVN50",
       "callsign_icao": "HVN50",
@@ -61935,7 +61935,7 @@
     }
   },
   "EXS3A": {
-    "time": 1794645047.5931494,
+    "time": 1794915053.3726845,
     "route": {
       "callsign": "EXS3A",
       "callsign_icao": "EXS3A",
@@ -66153,7 +66153,7 @@
     }
   },
   "EZY78JR": {
-    "time": 1794732035.3611624,
+    "time": 1794915053.3726845,
     "route": {
       "callsign": "EZY78JR",
       "callsign_icao": "EZY78JR",
@@ -69459,7 +69459,7 @@
     }
   },
   "LHX5LK": {
-    "time": 1794825941.6064062,
+    "time": 1794915053.3726845,
     "route": {
       "callsign": "LHX5LK",
       "callsign_icao": "LHX5LK",
@@ -71093,7 +71093,7 @@
     }
   },
   "PGT74BU": {
-    "time": 1794742249.5212972,
+    "time": 1794915053.3726845,
     "route": {
       "callsign": "PGT74BU",
       "callsign_icao": "PGT74BU",
@@ -89326,7 +89326,7 @@
     }
   },
   "RYR30RT": {
-    "time": 1794606927.9360304,
+    "time": 1794915053.3726845,
     "route": {
       "callsign": "RYR30RT",
       "callsign_icao": "RYR30RT",
@@ -155876,44 +155876,6 @@
       }
     }
   },
-  "LGL51": {
-    "time": 1794310251.1242104,
-    "route": {
-      "callsign": "LGL51",
-      "callsign_icao": "LGL51",
-      "callsign_iata": "LG51",
-      "airline": {
-        "name": "Luxair",
-        "icao": "LGL",
-        "iata": "LG",
-        "country": "Luxembourg",
-        "country_iso": "LU",
-        "callsign": "LUXAIR"
-      },
-      "origin": {
-        "country_iso_name": "LU",
-        "country_name": "Luxembourg",
-        "elevation": 1234,
-        "iata_code": "LUX",
-        "icao_code": "ELLX",
-        "latitude": 49.62333,
-        "longitude": 6.20444,
-        "municipality": "Luxembourg",
-        "name": "Luxembourg-Findel International Airport"
-      },
-      "destination": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 1300,
-        "iata_code": "LIG",
-        "icao_code": "LFBL",
-        "latitude": 45.8628,
-        "longitude": 1.17944,
-        "municipality": "Limoges/Bellegarde",
-        "name": "Limoges Airport"
-      }
-    }
-  },
   "NSZ3PQ": {
     "time": 1794914738.0438225,
     "route": {
@@ -205981,6 +205943,44 @@
         "longitude": 2.55,
         "municipality": "Paris",
         "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "EZY68PA": {
+    "time": 1794915053.3726845,
+    "route": {
+      "callsign": "EZY68PA",
+      "callsign_icao": "EZY68PA",
+      "callsign_iata": "U268PA",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 90,
+        "iata_code": "NTE",
+        "icao_code": "LFRS",
+        "latitude": 47.1532,
+        "longitude": -1.61073,
+        "municipality": "Nantes",
+        "name": "Nantes Atlantique Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
