@@ -42496,7 +42496,7 @@
     }
   },
   "ROU2081": {
-    "time": 1794820538.7198813,
+    "time": 1794906942.351242,
     "route": {
       "callsign": "ROU2081",
       "callsign_icao": "ROU2081",
@@ -49972,7 +49972,7 @@
     }
   },
   "BTI65T": {
-    "time": 1794735636.0854802,
+    "time": 1794906942.351242,
     "route": {
       "callsign": "BTI65T",
       "callsign_icao": "BTI65T",
@@ -65203,7 +65203,7 @@
     }
   },
   "SAS70Z": {
-    "time": 1794732926.6983788,
+    "time": 1794906942.351242,
     "route": {
       "callsign": "SAS70Z",
       "callsign_icao": "SAS70Z",
@@ -66267,7 +66267,7 @@
     }
   },
   "THY6YE": {
-    "time": 1794819928.4227612,
+    "time": 1794906942.351242,
     "route": {
       "callsign": "THY6YE",
       "callsign_icao": "THY6YE",
@@ -67787,7 +67787,7 @@
     }
   },
   "EJU56HX": {
-    "time": 1794734132.6560018,
+    "time": 1794906942.351242,
     "route": {
       "callsign": "EJU56HX",
       "callsign_icao": "EJU56HX",
@@ -206199,6 +206199,75 @@
         "longitude": 33.80729,
         "municipality": "Hurghada",
         "name": "Hurghada International Airport"
+      }
+    }
+  },
+  "VJT946": {
+    "time": 1794906942.351242,
+    "route": {
+      "callsign": "VJT946",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 8,
+        "iata_code": "OPF",
+        "icao_code": "KOPF",
+        "latitude": 25.907,
+        "longitude": -80.2784,
+        "municipality": "Miami",
+        "name": "Miami-Opa Locka Executive Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 9,
+        "iata_code": "TEB",
+        "icao_code": "KTEB",
+        "latitude": 40.8501,
+        "longitude": -74.0608,
+        "municipality": "Teterboro",
+        "name": "Teterboro Airport"
+      }
+    }
+  },
+  "BLX341": {
+    "time": 1794906942.351242,
+    "route": {
+      "callsign": "BLX341",
+      "callsign_icao": "BLX341",
+      "callsign_iata": "6B341",
+      "airline": {
+        "name": "TUIfly Nordic",
+        "icao": "BLX",
+        "iata": "6B",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": "BLUESCAN"
+      },
+      "origin": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 247,
+        "iata_code": "BLL",
+        "icao_code": "EKBI",
+        "latitude": 55.7403,
+        "longitude": 9.15178,
+        "municipality": "Billund",
+        "name": "Billund Airport"
+      },
+      "destination": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 17,
+        "iata_code": "RHO",
+        "icao_code": "LGRP",
+        "latitude": 36.4054,
+        "longitude": 28.0862,
+        "municipality": "Rhodes Island",
+        "name": "Diagoras Airport"
       }
     }
   }
