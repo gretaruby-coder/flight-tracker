@@ -5105,7 +5105,7 @@
     }
   },
   "LGL4595": {
-    "time": 1794496238.8266714,
+    "time": 1794926740.9002764,
     "route": {
       "callsign": "LGL4595",
       "callsign_icao": "LGL4595",
@@ -6207,7 +6207,7 @@
     }
   },
   "AAL735": {
-    "time": 1794753636.2355552,
+    "time": 1794926740.9002764,
     "route": {
       "callsign": "AAL735",
       "callsign_icao": "AAL735",
@@ -6625,7 +6625,7 @@
     }
   },
   "MSR778": {
-    "time": 1794839733.137605,
+    "time": 1794926740.9002764,
     "route": {
       "callsign": "MSR778",
       "callsign_icao": "MSR778",
@@ -13537,7 +13537,7 @@
     }
   },
   "BAW461": {
-    "time": 1794754861.3110619,
+    "time": 1794926740.9002764,
     "route": {
       "callsign": "BAW461",
       "callsign_icao": "BAW461",
@@ -42914,7 +42914,7 @@
     }
   },
   "BAW492": {
-    "time": 1794666042.3830137,
+    "time": 1794926740.9002764,
     "route": {
       "callsign": "BAW492",
       "callsign_icao": "BAW492",
@@ -60187,7 +60187,7 @@
     }
   },
   "RYR61FH": {
-    "time": 1794815726.5148869,
+    "time": 1794926740.9002764,
     "route": {
       "callsign": "RYR61FH",
       "callsign_icao": "RYR61FH",
@@ -78085,7 +78085,7 @@
     }
   },
   "THY7AH": {
-    "time": 1794839456.7298124,
+    "time": 1794926740.9002764,
     "route": {
       "callsign": "THY7AH",
       "callsign_icao": "THY7AH",
@@ -85001,7 +85001,7 @@
     }
   },
   "EZY767Q": {
-    "time": 1794838242.7702305,
+    "time": 1794926740.9002764,
     "route": {
       "callsign": "EZY767Q",
       "callsign_icao": "EZY767Q",
@@ -112612,7 +112612,7 @@
     }
   },
   "CFG6LM": {
-    "time": 1794754235.020079,
+    "time": 1794926740.9002764,
     "route": {
       "callsign": "CFG6LM",
       "callsign_icao": "CFG6LM",
@@ -143711,44 +143711,6 @@
         "longitude": 11.1004,
         "municipality": "Oslo",
         "name": "Oslo Airport, Gardermoen"
-      }
-    }
-  },
-  "RUK63FC": {
-    "time": 1794321936.0128527,
-    "route": {
-      "callsign": "RUK63FC",
-      "callsign_icao": "RUK63FC",
-      "callsign_iata": "RK63FC",
-      "airline": {
-        "name": "Ryanair UK",
-        "icao": "RUK",
-        "iata": "RK",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "MA",
-        "country_name": "Morocco",
-        "elevation": 276,
-        "iata_code": "RBA",
-        "icao_code": "GMME",
-        "latitude": 34.0515,
-        "longitude": -6.75152,
-        "municipality": "Rabat",
-        "name": "Rabat-Sal\u00e9 Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 257,
-        "iata_code": "MAN",
-        "icao_code": "EGCC",
-        "latitude": 53.34938,
-        "longitude": -2.27952,
-        "municipality": "Manchester",
-        "name": "Manchester Airport"
       }
     }
   },
@@ -205926,6 +205888,44 @@
         "longitude": -3.34333,
         "municipality": "Cardiff",
         "name": "Cardiff International Airport"
+      }
+    }
+  },
+  "AAL299": {
+    "time": 1794926740.9002764,
+    "route": {
+      "callsign": "AAL299",
+      "callsign_icao": "AAL299",
+      "callsign_iata": "AA299",
+      "airline": {
+        "name": "American Airlines",
+        "icao": "AAL",
+        "iata": "AA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "AMERICAN"
+      },
+      "origin": {
+        "country_iso_name": "VI",
+        "country_name": "United States Virgin Islands",
+        "elevation": 23,
+        "iata_code": "STT",
+        "icao_code": "TIST",
+        "latitude": 18.33709,
+        "longitude": -64.97725,
+        "municipality": "Charlotte Amalie",
+        "name": "Cyril E. King Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
       }
     }
   }
