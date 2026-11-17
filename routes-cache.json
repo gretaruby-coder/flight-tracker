@@ -12442,7 +12442,7 @@
     }
   },
   "DLH4H": {
-    "time": 1794769257.1660616,
+    "time": 1794940840.7099633,
     "route": {
       "callsign": "DLH4H",
       "callsign_icao": "DLH4H",
@@ -13081,7 +13081,7 @@
     }
   },
   "BAW63VP": {
-    "time": 1794763237.8228872,
+    "time": 1794940840.7099633,
     "route": {
       "callsign": "BAW63VP",
       "callsign_icao": "BAW63VP",
@@ -99458,7 +99458,7 @@
     }
   },
   "BCS263": {
-    "time": 1794683436.8452523,
+    "time": 1794940840.7099633,
     "route": {
       "callsign": "BCS263",
       "callsign_icao": "BCS263",
@@ -205798,6 +205798,44 @@
         "longitude": 21.6214,
         "municipality": "Skopje",
         "name": "Skopje International Airport"
+      }
+    }
+  },
+  "CLX51K": {
+    "time": 1794940840.7099633,
+    "route": {
+      "callsign": "CLX51K",
+      "callsign_icao": "CLX51K",
+      "callsign_iata": "CV51K",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
       }
     }
   }
