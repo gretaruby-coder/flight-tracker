@@ -23251,7 +23251,7 @@
     }
   },
   "SIA321": {
-    "time": 1794866464.8649664,
+    "time": 1794953138.6042159,
     "route": {
       "callsign": "SIA321",
       "callsign_icao": "SIA321",
@@ -205974,6 +205974,44 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "UPS249": {
+    "time": 1794953138.6042159,
+    "route": {
+      "callsign": "UPS249",
+      "callsign_icao": "UPS249",
+      "callsign_iata": "5X249",
+      "airline": {
+        "name": "United Parcel Service",
+        "icao": "UPS",
+        "iata": "5X",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UPS"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      },
+      "destination": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 46,
+        "iata_code": "SNN",
+        "icao_code": "EINN",
+        "latitude": 52.702,
+        "longitude": -8.92482,
+        "municipality": "Shannon",
+        "name": "Shannon Airport"
       }
     }
   }
