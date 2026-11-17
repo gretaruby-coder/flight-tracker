@@ -35338,7 +35338,7 @@
     }
   },
   "KLM743": {
-    "time": 1794747926.563398,
+    "time": 1794916529.4424345,
     "route": {
       "callsign": "KLM743",
       "callsign_icao": "KLM743",
@@ -37200,7 +37200,7 @@
     }
   },
   "BAW98T": {
-    "time": 1794822334.9241266,
+    "time": 1794916529.4424345,
     "route": {
       "callsign": "BAW98T",
       "callsign_icao": "BAW98T",
@@ -38378,7 +38378,7 @@
     }
   },
   "LOT282": {
-    "time": 1794828658.4884734,
+    "time": 1794916529.4424345,
     "route": {
       "callsign": "LOT282",
       "callsign_icao": "LOT282",
@@ -41435,7 +41435,7 @@
     }
   },
   "QFA10": {
-    "time": 1794829835.37527,
+    "time": 1794916529.4424345,
     "route": {
       "callsign": "QFA10",
       "callsign_icao": "QFA10",
@@ -41484,7 +41484,7 @@
     }
   },
   "AUR605Y": {
-    "time": 1794743135.3936205,
+    "time": 1794916529.4424345,
     "route": {
       "callsign": "AUR605Y",
       "callsign_icao": "AUR605Y",
@@ -42002,7 +42002,7 @@
     }
   },
   "BAW554R": {
-    "time": 1794828658.4884734,
+    "time": 1794916529.4424345,
     "route": {
       "callsign": "BAW554R",
       "callsign_icao": "BAW554R",
@@ -107015,37 +107015,6 @@
       }
     }
   },
-  "VJT750": {
-    "time": 1794311728.3262053,
-    "route": {
-      "callsign": "VJT750",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 487,
-        "iata_code": "DAL",
-        "icao_code": "KDAL",
-        "latitude": 32.8471,
-        "longitude": -96.8518,
-        "municipality": "Dallas",
-        "name": "Dallas Love Field"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 439,
-        "iata_code": "HPN",
-        "icao_code": "KHPN",
-        "latitude": 41.067,
-        "longitude": -73.7076,
-        "municipality": "White Plains",
-        "name": "Westchester County Airport"
-      }
-    }
-  },
   "IBE07TY": {
     "time": 1794771933.2748816,
     "route": {
@@ -155987,37 +155956,6 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
-      }
-    }
-  },
-  "GLOGI": {
-    "time": 1794311728.3262053,
-    "route": {
-      "callsign": "GLOGI",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 29,
-        "iata_code": null,
-        "icao_code": "EGCM",
-        "latitude": 53.8343,
-        "longitude": -1.1955,
-        "municipality": "Church Fenton",
-        "name": "Leeds East Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 397,
-        "iata_code": "PSL",
-        "icao_code": "EGPT",
-        "latitude": 56.4392,
-        "longitude": -3.37222,
-        "municipality": "Perth",
-        "name": "Perth/Scone Airport"
       }
     }
   },
@@ -205981,6 +205919,82 @@
         "longitude": -118.408,
         "municipality": "Los Angeles",
         "name": "Los Angeles International Airport"
+      }
+    }
+  },
+  "EZY36NY": {
+    "time": 1794916529.4424345,
+    "route": {
+      "callsign": "EZY36NY",
+      "callsign_icao": "EZY36NY",
+      "callsign_iata": "U236NY",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "HU",
+        "country_name": "Hungary",
+        "elevation": 495,
+        "iata_code": "BUD",
+        "icao_code": "LHBP",
+        "latitude": 47.42976,
+        "longitude": 19.26109,
+        "municipality": "Budapest",
+        "name": "Budapest Liszt Ferenc International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      }
+    }
+  },
+  "AWC942": {
+    "time": 1794916529.4424345,
+    "route": {
+      "callsign": "AWC942",
+      "callsign_icao": "AWC942",
+      "callsign_iata": "ZT942",
+      "airline": {
+        "name": "Titan Airways",
+        "icao": "AWC",
+        "iata": "ZT",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "ZAP"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
