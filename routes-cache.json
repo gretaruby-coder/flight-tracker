@@ -25379,7 +25379,7 @@
     }
   },
   "BAW40F": {
-    "time": 1794806725.813548,
+    "time": 1794894337.9985948,
     "route": {
       "callsign": "BAW40F",
       "callsign_icao": "BAW40F",
@@ -181376,7 +181376,7 @@
     }
   },
   "AUA42": {
-    "time": 1794806133.6395345,
+    "time": 1794894337.9985948,
     "route": {
       "callsign": "AUA42",
       "callsign_icao": "AUA42",
@@ -205985,6 +205985,44 @@
         "longitude": 4.76389,
         "municipality": "Amsterdam",
         "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "ETH500": {
+    "time": 1794894337.9985948,
+    "route": {
+      "callsign": "ETH500",
+      "callsign_icao": "ETH500",
+      "callsign_iata": "ET500",
+      "airline": {
+        "name": "Ethiopian Airlines",
+        "icao": "ETH",
+        "iata": "ET",
+        "country": "Ethiopia",
+        "country_iso": "ET",
+        "callsign": "ETHIOPIAN"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 312,
+        "iata_code": "IAD",
+        "icao_code": "KIAD",
+        "latitude": 38.9445,
+        "longitude": -77.4558,
+        "municipality": "Washington",
+        "name": "Washington Dulles International Airport"
       }
     }
   }
