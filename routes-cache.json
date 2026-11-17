@@ -110086,44 +110086,6 @@
       }
     }
   },
-  "RUK1UX": {
-    "time": 1794353125.950614,
-    "route": {
-      "callsign": "RUK1UX",
-      "callsign_icao": "RUK1UX",
-      "callsign_iata": "RK1UX",
-      "airline": {
-        "name": "Ryanair UK",
-        "icao": "RUK",
-        "iata": "RK",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 26,
-        "iata_code": "GLA",
-        "icao_code": "EGPF",
-        "latitude": 55.8719,
-        "longitude": -4.43306,
-        "municipality": "Paisley, Renfrewshire",
-        "name": "Glasgow International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 348,
-        "iata_code": "STN",
-        "icao_code": "EGSS",
-        "latitude": 51.885,
-        "longitude": 0.235,
-        "municipality": "London",
-        "name": "London Stansted Airport"
-      }
-    }
-  },
   "EZY2628": {
     "time": 1794945663.8212247,
     "route": {
@@ -127680,7 +127642,7 @@
     }
   },
   "WUK83GK": {
-    "time": 1794864041.00839,
+    "time": 1794957926.9813457,
     "route": {
       "callsign": "WUK83GK",
       "callsign_icao": "WUK83GK",
@@ -134934,7 +134896,7 @@
     }
   },
   "DHK528": {
-    "time": 1794528060.4212186,
+    "time": 1794957926.9813457,
     "route": {
       "callsign": "DHK528",
       "callsign_icao": "DHK528",
@@ -206043,6 +206005,44 @@
         "longitude": 2.07846,
         "municipality": "Barcelona",
         "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      }
+    }
+  },
+  "TOM259": {
+    "time": 1794957926.9813457,
+    "route": {
+      "callsign": "TOM259",
+      "callsign_icao": "TOM259",
+      "callsign_iata": "BY259",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "CV",
+        "country_name": "Cape Verde",
+        "elevation": 69,
+        "iata_code": "BVC",
+        "icao_code": "GVBA",
+        "latitude": 16.1365,
+        "longitude": -22.8889,
+        "municipality": "Rabil",
+        "name": "Rabil Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
