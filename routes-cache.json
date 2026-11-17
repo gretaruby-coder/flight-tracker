@@ -33635,7 +33635,7 @@
     }
   },
   "ITY202": {
-    "time": 1794821450.1958694,
+    "time": 1794910238.8858929,
     "route": {
       "callsign": "ITY202",
       "callsign_icao": "ITY202",
@@ -38910,7 +38910,7 @@
     }
   },
   "BAW552F": {
-    "time": 1794738328.7299602,
+    "time": 1794910238.8858929,
     "route": {
       "callsign": "BAW552F",
       "callsign_icao": "BAW552F",
@@ -57831,7 +57831,7 @@
     }
   },
   "NOZ14X": {
-    "time": 1794730839.6858406,
+    "time": 1794910238.8858929,
     "route": {
       "callsign": "NOZ14X",
       "callsign_icao": "NOZ14X",
@@ -58439,7 +58439,7 @@
     }
   },
   "BAW946": {
-    "time": 1794822933.5077531,
+    "time": 1794910238.8858929,
     "route": {
       "callsign": "BAW946",
       "callsign_icao": "BAW946",
@@ -67977,7 +67977,7 @@
     }
   },
   "SWR5DG": {
-    "time": 1794820847.1628063,
+    "time": 1794910238.8858929,
     "route": {
       "callsign": "SWR5DG",
       "callsign_icao": "SWR5DG",
@@ -126668,7 +126668,7 @@
     }
   },
   "GCMCZ": {
-    "time": 1794643529.796614,
+    "time": 1794910238.8858929,
     "route": {
       "callsign": "GCMCZ",
       "callsign_icao": null,
@@ -156433,7 +156433,7 @@
     }
   },
   "KLM760": {
-    "time": 1794395436.3593478,
+    "time": 1794910238.8858929,
     "route": {
       "callsign": "KLM760",
       "callsign_icao": "KLM760",
@@ -206247,6 +206247,82 @@
         "longitude": 13.49389,
         "municipality": "Berlin",
         "name": "Berlin Brandenburg Airport"
+      }
+    }
+  },
+  "SWR66C": {
+    "time": 1794910238.8858929,
+    "route": {
+      "callsign": "SWR66C",
+      "callsign_icao": "SWR66C",
+      "callsign_iata": "LX66C",
+      "airline": {
+        "name": "Swiss International Air Lines",
+        "icao": "SWR",
+        "iata": "LX",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": "SWISS"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 8,
+        "iata_code": "MIA",
+        "icao_code": "KMIA",
+        "latitude": 25.7932,
+        "longitude": -80.2906,
+        "municipality": "Miami",
+        "name": "Miami International Airport"
+      }
+    }
+  },
+  "EAL3110": {
+    "time": 1794910238.8858929,
+    "route": {
+      "callsign": "EAL3110",
+      "callsign_icao": "EAL3110",
+      "callsign_iata": "EA3110",
+      "airline": {
+        "name": "European Air Express",
+        "icao": "EAL",
+        "iata": "EA",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "STAR WING"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 3946,
+        "iata_code": "BIF",
+        "icao_code": "KBIF",
+        "latitude": 31.8495,
+        "longitude": -106.38,
+        "municipality": "Fort Bliss/El Paso",
+        "name": "Biggs Army Air Field (Fort Bliss)"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 776,
+        "iata_code": "RMS",
+        "icao_code": "ETAR",
+        "latitude": 49.4369,
+        "longitude": 7.60028,
+        "municipality": "Ramstein",
+        "name": "Ramstein Air Base"
       }
     }
   }
