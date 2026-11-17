@@ -48403,7 +48403,7 @@
     }
   },
   "BCS76P": {
-    "time": 1794447048.8481953,
+    "time": 1794879050.3488297,
     "route": {
       "callsign": "BCS76P",
       "callsign_icao": "BCS76P",
@@ -108301,7 +108301,7 @@
     }
   },
   "RYR22CG": {
-    "time": 1794693034.0835888,
+    "time": 1794879050.3488297,
     "route": {
       "callsign": "RYR22CG",
       "callsign_icao": "RYR22CG",
@@ -205750,6 +205750,82 @@
         "longitude": 5.44322,
         "municipality": "Li\u00e8ge",
         "name": "Li\u00e8ge Airport"
+      }
+    }
+  },
+  "BOX399": {
+    "time": 1794879050.3488297,
+    "route": {
+      "callsign": "BOX399",
+      "callsign_icao": "BOX399",
+      "callsign_iata": "3S399",
+      "airline": {
+        "name": "AeroLogic",
+        "icao": "BOX",
+        "iata": "3S",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "GERMAN CARGO"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 896,
+        "iata_code": "CVG",
+        "icao_code": "KCVG",
+        "latitude": 39.0488,
+        "longitude": -84.6678,
+        "municipality": "Cincinnati / Covington",
+        "name": "Cincinnati Northern Kentucky International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 465,
+        "iata_code": "LEJ",
+        "icao_code": "EDDP",
+        "latitude": 51.42389,
+        "longitude": 12.23639,
+        "municipality": "Leipzig",
+        "name": "Leipzig/Halle Airport"
+      }
+    }
+  },
+  "UAE242": {
+    "time": 1794879050.3488297,
+    "route": {
+      "callsign": "UAE242",
+      "callsign_icao": "UAE242",
+      "callsign_iata": "EK242",
+      "airline": {
+        "name": "Emirates",
+        "icao": "UAE",
+        "iata": "EK",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "EMIRATES"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
+      },
+      "destination": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 62,
+        "iata_code": "DXB",
+        "icao_code": "OMDB",
+        "latitude": 25.2528,
+        "longitude": 55.3644,
+        "municipality": "Dubai",
+        "name": "Dubai International Airport"
       }
     }
   }
