@@ -20370,7 +20370,7 @@
     }
   },
   "SAS1501": {
-    "time": 1794778247.29529,
+    "time": 1794949838.8374434,
     "route": {
       "callsign": "SAS1501",
       "callsign_icao": "SAS1501",
@@ -21586,7 +21586,7 @@
     }
   },
   "BEL4AH": {
-    "time": 1794777637.195677,
+    "time": 1794949838.8374434,
     "route": {
       "callsign": "BEL4AH",
       "callsign_icao": "BEL4AH",
@@ -22042,7 +22042,7 @@
     }
   },
   "BAW3XA": {
-    "time": 1794861339.2595448,
+    "time": 1794949838.8374434,
     "route": {
       "callsign": "BAW3XA",
       "callsign_icao": "BAW3XA",
@@ -79377,7 +79377,7 @@
     }
   },
   "RYR11HW": {
-    "time": 1794851730.2018533,
+    "time": 1794949838.8374434,
     "route": {
       "callsign": "RYR11HW",
       "callsign_icao": "RYR11HW",
@@ -88034,7 +88034,7 @@
     }
   },
   "RYR6VG": {
-    "time": 1794777926.6140168,
+    "time": 1794949838.8374434,
     "route": {
       "callsign": "RYR6VG",
       "callsign_icao": "RYR6VG",
@@ -127452,7 +127452,7 @@
     }
   },
   "EZY46JB": {
-    "time": 1794695126.3898277,
+    "time": 1794949838.8374434,
     "route": {
       "callsign": "EZY46JB",
       "callsign_icao": "EZY46JB",
@@ -127486,44 +127486,6 @@
         "longitude": -2.71909,
         "municipality": "Bristol",
         "name": "Bristol Airport"
-      }
-    }
-  },
-  "TOM479": {
-    "time": 1794345036.3920696,
-    "route": {
-      "callsign": "TOM479",
-      "callsign_icao": "TOM479",
-      "callsign_iata": "BY479",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 33,
-        "iata_code": "MLB",
-        "icao_code": "KMLB",
-        "latitude": 28.1028,
-        "longitude": -80.6453,
-        "municipality": "Melbourne",
-        "name": "Melbourne Orlando International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 135,
-        "iata_code": "EDI",
-        "icao_code": "EGPH",
-        "latitude": 55.95015,
-        "longitude": -3.37229,
-        "municipality": "Edinburgh",
-        "name": "Edinburgh Airport"
       }
     }
   },
@@ -205670,6 +205632,44 @@
         "longitude": -74.0608,
         "municipality": "Teterboro",
         "name": "Teterboro Airport"
+      }
+    }
+  },
+  "NOZ3PM": {
+    "time": 1794949838.8374434,
+    "route": {
+      "callsign": "NOZ3PM",
+      "callsign_icao": "NOZ3PM",
+      "callsign_iata": "3PM",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
       }
     }
   }
