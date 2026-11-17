@@ -4877,7 +4877,7 @@
     }
   },
   "BAW494": {
-    "time": 1794763848.5764534,
+    "time": 1794938464.0106485,
     "route": {
       "callsign": "BAW494",
       "callsign_icao": "BAW494",
@@ -12518,7 +12518,7 @@
     }
   },
   "SAS1507": {
-    "time": 1794766835.9983552,
+    "time": 1794938464.0106485,
     "route": {
       "callsign": "SAS1507",
       "callsign_icao": "SAS1507",
@@ -12815,7 +12815,7 @@
     }
   },
   "KLC993": {
-    "time": 1794768929.0691695,
+    "time": 1794938464.0106485,
     "route": {
       "callsign": "KLC993",
       "callsign_icao": "KLC993",
@@ -14677,7 +14677,7 @@
     }
   },
   "EIN173": {
-    "time": 1794765933.2250614,
+    "time": 1794938464.0106485,
     "route": {
       "callsign": "EIN173",
       "callsign_icao": "EIN173",
@@ -18090,7 +18090,7 @@
     }
   },
   "BAW719": {
-    "time": 1794768639.7059844,
+    "time": 1794938464.0106485,
     "route": {
       "callsign": "BAW719",
       "callsign_icao": "BAW719",
@@ -33255,7 +33255,7 @@
     }
   },
   "BAW600": {
-    "time": 1794768333.0494382,
+    "time": 1794938464.0106485,
     "route": {
       "callsign": "BAW600",
       "callsign_icao": "BAW600",
@@ -95696,7 +95696,7 @@
     }
   },
   "WMT78": {
-    "time": 1794678638.0003188,
+    "time": 1794938464.0106485,
     "route": {
       "callsign": "WMT78",
       "callsign_icao": "WMT78",
@@ -138066,44 +138066,6 @@
       }
     }
   },
-  "FDX10": {
-    "time": 1794333662.418139,
-    "route": {
-      "callsign": "FDX10",
-      "callsign_icao": "FDX10",
-      "callsign_iata": "FX10",
-      "airline": {
-        "name": "FedEx Express",
-        "icao": "FDX",
-        "iata": "FX",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "FEDEX"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 341,
-        "iata_code": "MEM",
-        "icao_code": "KMEM",
-        "latitude": 35.0424,
-        "longitude": -89.9767,
-        "municipality": "Memphis",
-        "name": "Memphis International Airport"
-      },
-      "destination": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 392,
-        "iata_code": "CDG",
-        "icao_code": "LFPG",
-        "latitude": 49.0128,
-        "longitude": 2.55,
-        "municipality": "Paris",
-        "name": "Charles de Gaulle International Airport"
-      }
-    }
-  },
   "EXS41P": {
     "time": 1794591636.8794634,
     "route": {
@@ -155814,37 +155776,6 @@
         "longitude": 11.1004,
         "municipality": "Oslo",
         "name": "Oslo Airport, Gardermoen"
-      }
-    }
-  },
-  "N117QS": {
-    "time": 1794333662.418139,
-    "route": {
-      "callsign": "N117QS",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 748,
-        "iata_code": "CLT",
-        "icao_code": "KCLT",
-        "latitude": 35.214,
-        "longitude": -80.9431,
-        "municipality": "Charlotte",
-        "name": "Charlotte Douglas International Airport"
-      },
-      "destination": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 218,
-        "iata_code": "LBG",
-        "icao_code": "LFPB",
-        "latitude": 48.9694,
-        "longitude": 2.44139,
-        "municipality": "Paris",
-        "name": "Paris-Le Bourget Airport"
       }
     }
   },
@@ -206012,6 +205943,44 @@
         "longitude": 13.0043,
         "municipality": "Salzburg",
         "name": "Salzburg Airport"
+      }
+    }
+  },
+  "WUK521": {
+    "time": 1794938464.0106485,
+    "route": {
+      "callsign": "WUK521",
+      "callsign_icao": "WUK521",
+      "callsign_iata": "W9521",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "MK",
+        "country_name": "North Macedonia",
+        "elevation": 781,
+        "iata_code": "SKP",
+        "icao_code": "LWSK",
+        "latitude": 41.9616,
+        "longitude": 21.6214,
+        "municipality": "Skopje",
+        "name": "Skopje International Airport"
       }
     }
   }
