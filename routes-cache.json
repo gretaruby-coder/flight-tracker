@@ -38,7 +38,7 @@
     }
   },
   "BAW521": {
-    "time": 1794749127.5091157,
+    "time": 1794921338.3852217,
     "route": {
       "callsign": "BAW521",
       "callsign_icao": "BAW521",
@@ -1012,7 +1012,7 @@
     }
   },
   "AAL137": {
-    "time": 1794746736.354339,
+    "time": 1794921338.3852217,
     "route": {
       "callsign": "AAL137",
       "callsign_icao": "AAL137",
@@ -5181,7 +5181,7 @@
     }
   },
   "EIN164": {
-    "time": 1794834643.5818005,
+    "time": 1794921338.3852217,
     "route": {
       "callsign": "EIN164",
       "callsign_icao": "EIN164",
@@ -8169,7 +8169,7 @@
     }
   },
   "BAW506": {
-    "time": 1794831936.2457154,
+    "time": 1794921338.3852217,
     "route": {
       "callsign": "BAW506",
       "callsign_icao": "BAW506",
@@ -20864,7 +20864,7 @@
     }
   },
   "BAW80W": {
-    "time": 1794749127.5091157,
+    "time": 1794921338.3852217,
     "route": {
       "callsign": "BAW80W",
       "callsign_icao": "BAW80W",
@@ -41017,7 +41017,7 @@
     }
   },
   "EIN159": {
-    "time": 1794832534.5636418,
+    "time": 1794921338.3852217,
     "route": {
       "callsign": "EIN159",
       "callsign_icao": "EIN159",
@@ -41321,7 +41321,7 @@
     }
   },
   "LHX2H": {
-    "time": 1794831341.4170332,
+    "time": 1794921338.3852217,
     "route": {
       "callsign": "LHX2H",
       "callsign_icao": "LHX2H",
@@ -74893,7 +74893,7 @@
     }
   },
   "RYR61WQ": {
-    "time": 1794747657.3836446,
+    "time": 1794921338.3852217,
     "route": {
       "callsign": "RYR61WQ",
       "callsign_icao": "RYR61WQ",
@@ -76793,7 +76793,7 @@
     }
   },
   "EZY38GR": {
-    "time": 1794752435.9131756,
+    "time": 1794921338.3852217,
     "route": {
       "callsign": "EZY38GR",
       "callsign_icao": "EZY38GR",
@@ -78921,7 +78921,7 @@
     }
   },
   "RYR40PN": {
-    "time": 1794753935.4923089,
+    "time": 1794921338.3852217,
     "route": {
       "callsign": "RYR40PN",
       "callsign_icao": "RYR40PN",
@@ -79035,7 +79035,7 @@
     }
   },
   "AFR37QW": {
-    "time": 1794834643.5818005,
+    "time": 1794921338.3852217,
     "route": {
       "callsign": "AFR37QW",
       "callsign_icao": "AFR37QW",
@@ -118899,7 +118899,7 @@
     }
   },
   "EZY925L": {
-    "time": 1794826238.0420878,
+    "time": 1794921338.3852217,
     "route": {
       "callsign": "EZY925L",
       "callsign_icao": "EZY925L",
@@ -205812,6 +205812,82 @@
         "longitude": -77.4558,
         "municipality": "Washington",
         "name": "Washington Dulles International Airport"
+      }
+    }
+  },
+  "EZY72FR": {
+    "time": 1794921338.3852217,
+    "route": {
+      "callsign": "EZY72FR",
+      "callsign_icao": "EZY72FR",
+      "callsign_iata": "U272FR",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 24,
+        "iata_code": "FAO",
+        "icao_code": "LPFR",
+        "latitude": 37.0144,
+        "longitude": -7.96591,
+        "municipality": "Faro",
+        "name": "Faro Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 268,
+        "iata_code": "BFS",
+        "icao_code": "EGAA",
+        "latitude": 54.6575,
+        "longitude": -6.21583,
+        "municipality": "Belfast",
+        "name": "Belfast International Airport"
+      }
+    }
+  },
+  "EZY92QH": {
+    "time": 1794921338.3852217,
+    "route": {
+      "callsign": "EZY92QH",
+      "callsign_icao": "EZY92QH",
+      "callsign_iata": "U292QH",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "HR",
+        "country_name": "Croatia",
+        "elevation": 79,
+        "iata_code": "SPU",
+        "icao_code": "LDSP",
+        "latitude": 43.5389,
+        "longitude": 16.298,
+        "municipality": "Split",
+        "name": "Split Airport"
       }
     }
   }
