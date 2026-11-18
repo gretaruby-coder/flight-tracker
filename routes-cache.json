@@ -2732,7 +2732,7 @@
     }
   },
   "BAW88C": {
-    "time": 1794841532.0765424,
+    "time": 1795008930.2299364,
     "route": {
       "callsign": "BAW88C",
       "callsign_icao": "BAW88C",
@@ -7948,7 +7948,7 @@
     }
   },
   "GBRDM": {
-    "time": 1794918653.4355824,
+    "time": 1795008930.2299364,
     "route": {
       "callsign": "GBRDM",
       "callsign_icao": null,
@@ -40713,7 +40713,7 @@
     }
   },
   "KLM46P": {
-    "time": 1794919545.0530982,
+    "time": 1795008930.2299364,
     "route": {
       "callsign": "KLM46P",
       "callsign_icao": "KLM46P",
@@ -73715,7 +73715,7 @@
     }
   },
   "RYR1EF": {
-    "time": 1794608134.8464808,
+    "time": 1795008930.2299364,
     "route": {
       "callsign": "RYR1EF",
       "callsign_icao": "RYR1EF",
@@ -123907,44 +123907,6 @@
       }
     }
   },
-  "ACA881": {
-    "time": 1794404127.300875,
-    "route": {
-      "callsign": "ACA881",
-      "callsign_icao": "ACA881",
-      "callsign_iata": "AC881",
-      "airline": {
-        "name": "Air Canada",
-        "icao": "ACA",
-        "iata": "AC",
-        "country": "Canada",
-        "country_iso": "CA",
-        "callsign": "AIR CANADA"
-      },
-      "origin": {
-        "country_iso_name": "CH",
-        "country_name": "Switzerland",
-        "elevation": 1417,
-        "iata_code": "ZRH",
-        "icao_code": "LSZH",
-        "latitude": 47.45806,
-        "longitude": 8.54806,
-        "municipality": "Zurich",
-        "name": "Z\u00fcrich Airport"
-      },
-      "destination": {
-        "country_iso_name": "CA",
-        "country_name": "Canada",
-        "elevation": 569,
-        "iata_code": "YYZ",
-        "icao_code": "CYYZ",
-        "latitude": 43.6772,
-        "longitude": -79.6306,
-        "municipality": "Toronto",
-        "name": "Lester B. Pearson International Airport"
-      }
-    }
-  },
   "SIA313": {
     "time": 1794921040.512495,
     "route": {
@@ -128284,44 +128246,6 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
-      }
-    }
-  },
-  "EZY95LC": {
-    "time": 1794404127.300875,
-    "route": {
-      "callsign": "EZY95LC",
-      "callsign_icao": "EZY95LC",
-      "callsign_iata": "U295LC",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 80,
-        "iata_code": "LPL",
-        "icao_code": "EGGP",
-        "latitude": 53.3336,
-        "longitude": -2.84972,
-        "municipality": "Liverpool",
-        "name": "Liverpool John Lennon Airport"
-      },
-      "destination": {
-        "country_iso_name": "TR",
-        "country_name": "Turkey",
-        "elevation": 177,
-        "iata_code": "AYT",
-        "icao_code": "LTAI",
-        "latitude": 36.8987,
-        "longitude": 30.8005,
-        "municipality": "Antalya",
-        "name": "Antalya International Airport"
       }
     }
   },
@@ -204015,6 +203939,82 @@
         "longitude": -1.07917,
         "municipality": "Nottingham",
         "name": "Nottingham Airport"
+      }
+    }
+  },
+  "BAW355": {
+    "time": 1795008930.2299364,
+    "route": {
+      "callsign": "BAW355",
+      "callsign_icao": "BAW355",
+      "callsign_iata": "BA355",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 12,
+        "iata_code": "NCE",
+        "icao_code": "LFMN",
+        "latitude": 43.6584,
+        "longitude": 7.21587,
+        "municipality": "Nice",
+        "name": "Nice-C\u00f4te d'Azur Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "THY6013": {
+    "time": 1795008930.2299364,
+    "route": {
+      "callsign": "THY6013",
+      "callsign_icao": "THY6013",
+      "callsign_iata": "TK6013",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
       }
     }
   }
