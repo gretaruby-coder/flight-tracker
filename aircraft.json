@@ -1,9 +1,81 @@
 {
-  "updated": "2026-11-18T04:10:36.450982+00:00",
+  "updated": "2026-11-18T04:15:39.020912+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": []
+  "aircraft": [
+    {
+      "hex": "485f82",
+      "type": "adsb_icao",
+      "flight": "KLM272  ",
+      "r": "PH-BKO",
+      "t": "B78X",
+      "desc": "BOEING 787-10 Dreamliner",
+      "alt_baro": 38975,
+      "alt_geom": 37975,
+      "gs": 556.4,
+      "ias": 269,
+      "tas": 502,
+      "mach": 0.86,
+      "wd": 271,
+      "ws": 57,
+      "oat": -49,
+      "tat": -16,
+      "track": 74.04,
+      "track_rate": 0.0,
+      "roll": -0.18,
+      "mag_heading": 70.84,
+      "true_heading": 71.97,
+      "baro_rate": -96,
+      "geom_rate": -64,
+      "squawk": "6251",
+      "emergency": "none",
+      "category": "A5",
+      "nav_qnh": 1012.8,
+      "nav_altitude_mcp": 39008,
+      "nav_heading": 70.31,
+      "nav_modes": [
+        "autopilot",
+        "vnav",
+        "lnav",
+        "tcas"
+      ],
+      "lat": 51.651718,
+      "lon": -0.323057,
+      "nic": 8,
+      "rc": 186,
+      "seen_pos": 0.346,
+      "version": 2,
+      "nic_baro": 1,
+      "nac_p": 9,
+      "nac_v": 2,
+      "sil": 3,
+      "sil_type": "perhour",
+      "gva": 2,
+      "sda": 2,
+      "alert": 0,
+      "spi": 0,
+      "mlat": [],
+      "tisb": [],
+      "messages": 162862,
+      "seen": 0.0,
+      "rssi": -10.2,
+      "dst": 12.563,
+      "dir": 14.8,
+      "origin": {
+        "iata": "AMS",
+        "icao": "EHAM",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "iata": "ATL",
+        "icao": "KATL",
+        "name": "Hartsfield Jackson Atlanta International Airport"
+      },
+      "airline_name": "KLM Royal Dutch Airlines",
+      "airline_iata": "KL"
+    }
+  ]
 }
