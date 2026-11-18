@@ -7454,7 +7454,7 @@
     }
   },
   "BAW5FC": {
-    "time": 1794756928.37195,
+    "time": 1795004729.3996205,
     "route": {
       "callsign": "BAW5FC",
       "callsign_icao": "BAW5FC",
@@ -27956,7 +27956,7 @@
     }
   },
   "BAW902N": {
-    "time": 1794830129.5809383,
+    "time": 1795004729.3996205,
     "route": {
       "callsign": "BAW902N",
       "callsign_icao": "BAW902N",
@@ -69915,7 +69915,7 @@
     }
   },
   "RYR23JQ": {
-    "time": 1794843639.5958195,
+    "time": 1795004729.3996205,
     "route": {
       "callsign": "RYR23JQ",
       "callsign_icao": "RYR23JQ",
@@ -71093,7 +71093,7 @@
     }
   },
   "QTR85M": {
-    "time": 1794917742.0382974,
+    "time": 1795004729.3996205,
     "route": {
       "callsign": "QTR85M",
       "callsign_icao": "QTR85M",
@@ -75273,7 +75273,7 @@
     }
   },
   "EZY46JD": {
-    "time": 1794748835.9297264,
+    "time": 1795004729.3996205,
     "route": {
       "callsign": "EZY46JD",
       "callsign_icao": "EZY46JD",
@@ -183004,7 +183004,7 @@
     }
   },
   "AAL719": {
-    "time": 1794744932.8708053,
+    "time": 1795004729.3996205,
     "route": {
       "callsign": "AAL719",
       "callsign_icao": "AAL719",
@@ -204219,6 +204219,113 @@
         "longitude": 18.1111,
         "municipality": "Ostrava",
         "name": "Ostrava Leos Jan\u00e1\u010dek Airport"
+      }
+    }
+  },
+  "IAM1439": {
+    "time": 1795004729.3996205,
+    "route": {
+      "callsign": "IAM1439",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "KW",
+        "country_name": "Kuwait",
+        "elevation": 206,
+        "iata_code": "KWI",
+        "icao_code": "OKBK",
+        "latitude": 29.2266,
+        "longitude": 47.9689,
+        "municipality": "Kuwait City",
+        "name": "Kuwait International Airport"
+      },
+      "destination": {
+        "country_iso_name": "KW",
+        "country_name": "Kuwait",
+        "elevation": 206,
+        "iata_code": "KWI",
+        "icao_code": "OKBK",
+        "latitude": 29.2266,
+        "longitude": 47.9689,
+        "municipality": "Kuwait City",
+        "name": "Kuwait International Airport"
+      }
+    }
+  },
+  "AIA251": {
+    "time": 1795004729.3996205,
+    "route": {
+      "callsign": "AIA251",
+      "callsign_icao": "AIA251",
+      "callsign_iata": "U3251",
+      "airline": {
+        "name": "Avies",
+        "icao": "AIA",
+        "iata": "U3",
+        "country": "Estonia",
+        "country_iso": "EE",
+        "callsign": "AVIES"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      }
+    }
+  },
+  "WUK7522": {
+    "time": 1795004729.3996205,
+    "route": {
+      "callsign": "WUK7522",
+      "callsign_icao": "WUK7522",
+      "callsign_iata": "W97522",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "LT",
+        "country_name": "Lithuania",
+        "elevation": 256,
+        "iata_code": "KUN",
+        "icao_code": "EYKA",
+        "latitude": 54.9639,
+        "longitude": 24.0848,
+        "municipality": "Kaunas",
+        "name": "Kaunas International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
