@@ -1157,7 +1157,7 @@
     }
   },
   "BAW180": {
-    "time": 1794891935.3499346,
+    "time": 1794979238.2619982,
     "route": {
       "callsign": "BAW180",
       "callsign_icao": "BAW180",
@@ -155361,44 +155361,6 @@
       }
     }
   },
-  "GTI8414": {
-    "time": 1794374434.7364752,
-    "route": {
-      "callsign": "GTI8414",
-      "callsign_icao": "GTI8414",
-      "callsign_iata": "5Y8414",
-      "airline": {
-        "name": "Atlas Air",
-        "icao": "GTI",
-        "iata": "5Y",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "GIANT"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 18,
-        "iata_code": "EWR",
-        "icao_code": "KEWR",
-        "latitude": 40.6925,
-        "longitude": -74.1687,
-        "municipality": "New York",
-        "name": "Newark Liberty International Airport"
-      },
-      "destination": {
-        "country_iso_name": "BE",
-        "country_name": "Belgium",
-        "elevation": 659,
-        "iata_code": "LGG",
-        "icao_code": "EBLG",
-        "latitude": 50.6374,
-        "longitude": 5.44322,
-        "municipality": "Li\u00e8ge",
-        "name": "Li\u00e8ge Airport"
-      }
-    }
-  },
   "LOT6307": {
     "time": 1794375049.7235098,
     "route": {
@@ -205880,6 +205842,44 @@
         "longitude": -74.1687,
         "municipality": "New York",
         "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 341,
+        "iata_code": "MEM",
+        "icao_code": "KMEM",
+        "latitude": 35.0424,
+        "longitude": -89.9767,
+        "municipality": "Memphis",
+        "name": "Memphis International Airport"
+      }
+    }
+  },
+  "FDX9154": {
+    "time": 1794979238.2619982,
+    "route": {
+      "callsign": "FDX9154",
+      "callsign_icao": "FDX9154",
+      "callsign_iata": "FX9154",
+      "airline": {
+        "name": "FedEx Express",
+        "icao": "FDX",
+        "iata": "FX",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "FEDEX"
+      },
+      "origin": {
+        "country_iso_name": "JP",
+        "country_name": "Japan",
+        "elevation": 26,
+        "iata_code": "KIX",
+        "icao_code": "RJBB",
+        "latitude": 34.4273,
+        "longitude": 135.244,
+        "municipality": "Osaka",
+        "name": "Kansai International Airport"
       },
       "destination": {
         "country_iso_name": "US",
