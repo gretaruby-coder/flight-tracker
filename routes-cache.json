@@ -3889,7 +3889,7 @@
     }
   },
   "BAW844": {
-    "time": 1794818742.1812043,
+    "time": 1794992470.2206852,
     "route": {
       "callsign": "BAW844",
       "callsign_icao": "BAW844",
@@ -24201,7 +24201,7 @@
     }
   },
   "VIR92MC": {
-    "time": 1794825327.9875636,
+    "time": 1794992470.2206852,
     "route": {
       "callsign": "VIR92MC",
       "callsign_icao": "VIR92MC",
@@ -32198,7 +32198,7 @@
     }
   },
   "BAW49N": {
-    "time": 1794905438.2361538,
+    "time": 1794992470.2206852,
     "route": {
       "callsign": "BAW49N",
       "callsign_icao": "BAW49N",
@@ -32799,7 +32799,7 @@
     }
   },
   "JBU7": {
-    "time": 1794906066.390494,
+    "time": 1794992470.2206852,
     "route": {
       "callsign": "JBU7",
       "callsign_icao": "JBU7",
@@ -34084,7 +34084,7 @@
     }
   },
   "KLC1070": {
-    "time": 1794819928.4227612,
+    "time": 1794992470.2206852,
     "route": {
       "callsign": "KLC1070",
       "callsign_icao": "KLC1070",
@@ -120798,44 +120798,6 @@
       }
     }
   },
-  "RYR9FX": {
-    "time": 1794387660.4932153,
-    "route": {
-      "callsign": "RYR9FX",
-      "callsign_icao": "RYR9FX",
-      "callsign_iata": "FR9FX",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 526,
-        "iata_code": "LTN",
-        "icao_code": "EGGW",
-        "latitude": 51.8747,
-        "longitude": -0.36833,
-        "municipality": "London",
-        "name": "London Luton Airport"
-      },
-      "destination": {
-        "country_iso_name": "IE",
-        "country_name": "Ireland",
-        "elevation": 242,
-        "iata_code": "DUB",
-        "icao_code": "EIDW",
-        "latitude": 53.4213,
-        "longitude": -6.27007,
-        "municipality": "Dublin",
-        "name": "Dublin Airport"
-      }
-    }
-  },
   "SXN25H": {
     "time": 1794389728.0801842,
     "route": {
@@ -133918,37 +133880,6 @@
         "longitude": 4.76389,
         "municipality": "Amsterdam",
         "name": "Amsterdam Airport Schiphol"
-      }
-    }
-  },
-  "VJT768": {
-    "time": 1794387660.4932153,
-    "route": {
-      "callsign": "VJT768",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 62,
-        "iata_code": "SJC",
-        "icao_code": "KSJC",
-        "latitude": 37.3626,
-        "longitude": -121.929,
-        "municipality": "San Jose",
-        "name": "Norman Y. Mineta San Jose International Airport"
-      },
-      "destination": {
-        "country_iso_name": "SE",
-        "country_name": "Sweden",
-        "elevation": 506,
-        "iata_code": "GOT",
-        "icao_code": "ESGG",
-        "latitude": 57.6628,
-        "longitude": 12.2798,
-        "municipality": "Gothenburg",
-        "name": "Gothenburg-Landvetter Airport"
       }
     }
   },
@@ -156108,7 +156039,7 @@
     }
   },
   "NOZ9066": {
-    "time": 1794660637.3347425,
+    "time": 1794992470.2206852,
     "route": {
       "callsign": "NOZ9066",
       "callsign_icao": "NOZ9066",
@@ -205490,6 +205421,44 @@
         "longitude": 4.46028,
         "municipality": "Antwerp",
         "name": "Antwerp International Airport (Deurne)"
+      }
+    }
+  },
+  "CND5997": {
+    "time": 1794992470.2206852,
+    "route": {
+      "callsign": "CND5997",
+      "callsign_icao": "CND5997",
+      "callsign_iata": "5997",
+      "airline": {
+        "name": "Aero Continente Dominicana",
+        "icao": "CND",
+        "iata": null,
+        "country": "Dominican Republic",
+        "country_iso": "DO",
+        "callsign": "CONDOMINICANA"
+      },
+      "origin": {
+        "country_iso_name": "BQ",
+        "country_name": "Bonaire, Sint Eustatius and Saba",
+        "elevation": 20,
+        "iata_code": "BON",
+        "icao_code": "TNCB",
+        "latitude": 12.131,
+        "longitude": -68.2685,
+        "municipality": "Kralendijk, Bonaire",
+        "name": "Flamingo International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
       }
     }
   }
