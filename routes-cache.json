@@ -22194,7 +22194,7 @@
     }
   },
   "BAW561L": {
-    "time": 1794868251.1149712,
+    "time": 1795038930.7130435,
     "route": {
       "callsign": "BAW561L",
       "callsign_icao": "BAW561L",
@@ -153869,44 +153869,6 @@
       }
     }
   },
-  "GTI8865": {
-    "time": 1794434125.7757652,
-    "route": {
-      "callsign": "GTI8865",
-      "callsign_icao": "GTI8865",
-      "callsign_iata": "5Y8865",
-      "airline": {
-        "name": "Atlas Air",
-        "icao": "GTI",
-        "iata": "5Y",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "GIANT"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 146,
-        "iata_code": "BWI",
-        "icao_code": "KBWI",
-        "latitude": 39.1754,
-        "longitude": -76.6683,
-        "municipality": "Baltimore",
-        "name": "Baltimore/Washington International Thurgood Marshall Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 97,
-        "iata_code": "IAH",
-        "icao_code": "KIAH",
-        "latitude": 29.9844,
-        "longitude": -95.3414,
-        "municipality": "Houston",
-        "name": "George Bush Intercontinental Houston Airport"
-      }
-    }
-  },
   "EZY12JA": {
     "time": 1794434458.5297513,
     "route": {
@@ -202989,6 +202951,44 @@
         "longitude": -1.74803,
         "municipality": "Birmingham",
         "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "BCS832": {
+    "time": 1795038930.7130435,
+    "route": {
+      "callsign": "BCS832",
+      "callsign_icao": "BCS832",
+      "callsign_iata": "QY832",
+      "airline": {
+        "name": "European Air Transport",
+        "icao": "BCS",
+        "iata": "QY",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "EUROTRANS"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 465,
+        "iata_code": "LEJ",
+        "icao_code": "EDDP",
+        "latitude": 51.42389,
+        "longitude": 12.23639,
+        "municipality": "Leipzig",
+        "name": "Leipzig/Halle Airport"
+      },
+      "destination": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 184,
+        "iata_code": "BRU",
+        "icao_code": "EBBR",
+        "latitude": 50.9014,
+        "longitude": 4.48444,
+        "municipality": "Brussels",
+        "name": "Brussels Airport"
       }
     }
   }
