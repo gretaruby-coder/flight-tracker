@@ -47719,7 +47719,7 @@
     }
   },
   "BCS39G": {
-    "time": 1794869438.0836072,
+    "time": 1795042864.701382,
     "route": {
       "callsign": "BCS39G",
       "callsign_icao": "BCS39G",
@@ -47833,7 +47833,7 @@
     }
   },
   "BCS2665": {
-    "time": 1794870063.9689035,
+    "time": 1795042864.701382,
     "route": {
       "callsign": "BCS2665",
       "callsign_icao": "BCS2665",
@@ -81429,7 +81429,7 @@
     }
   },
   "EZY24QZ": {
-    "time": 1794859839.7332315,
+    "time": 1795042864.701382,
     "route": {
       "callsign": "EZY24QZ",
       "callsign_icao": "EZY24QZ",
@@ -202806,6 +202806,44 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "AFR6730": {
+    "time": 1795042864.701382,
+    "route": {
+      "callsign": "AFR6730",
+      "callsign_icao": "AFR6730",
+      "callsign_iata": "AF6730",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
       }
     }
   }
