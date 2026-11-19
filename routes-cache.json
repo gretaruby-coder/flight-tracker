@@ -601,7 +601,7 @@
     }
   },
   "BAW484C": {
-    "time": 1794925531.3774126,
+    "time": 1795095939.5373297,
     "route": {
       "callsign": "BAW484C",
       "callsign_icao": "BAW484C",
@@ -58522,7 +58522,7 @@
     }
   },
   "BAW947L": {
-    "time": 1794924640.0284433,
+    "time": 1795095939.5373297,
     "route": {
       "callsign": "BAW947L",
       "callsign_icao": "BAW947L",
@@ -75280,7 +75280,7 @@
     }
   },
   "EWG2462": {
-    "time": 1795008661.9980588,
+    "time": 1795095939.5373297,
     "route": {
       "callsign": "EWG2462",
       "callsign_icao": "EWG2462",
@@ -75622,7 +75622,7 @@
     }
   },
   "DLH5U": {
-    "time": 1794925854.381467,
+    "time": 1795095939.5373297,
     "route": {
       "callsign": "DLH5U",
       "callsign_icao": "DLH5U",
@@ -92138,7 +92138,7 @@
     }
   },
   "RYR6FM": {
-    "time": 1794830736.8751078,
+    "time": 1795095939.5373297,
     "route": {
       "callsign": "RYR6FM",
       "callsign_icao": "RYR6FM",
@@ -110384,7 +110384,7 @@
     }
   },
   "EZY95FE": {
-    "time": 1794918041.0678453,
+    "time": 1795095939.5373297,
     "route": {
       "callsign": "EZY95FE",
       "callsign_icao": "EZY95FE",
@@ -115424,7 +115424,7 @@
     }
   },
   "EZY97AD": {
-    "time": 1794816061.4199336,
+    "time": 1795095939.5373297,
     "route": {
       "callsign": "EZY97AD",
       "callsign_icao": "EZY97AD",
@@ -116104,37 +116104,6 @@
         "longitude": 11.2887,
         "municipality": "Bologna",
         "name": "Bologna Guglielmo Marconi Airport"
-      }
-    }
-  },
-  "VJT850": {
-    "time": 1794491136.052572,
-    "route": {
-      "callsign": "VJT850",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 47,
-        "iata_code": "ACK",
-        "icao_code": "KACK",
-        "latitude": 41.2531,
-        "longitude": -70.0602,
-        "municipality": "Nantucket",
-        "name": "Nantucket Memorial Airport"
-      },
-      "destination": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 427,
-        "iata_code": "CIA",
-        "icao_code": "LIRA",
-        "latitude": 41.7994,
-        "longitude": 12.5949,
-        "municipality": "Rome",
-        "name": "Ciampino\u2013G. B. Pastine International Airport"
       }
     }
   },
@@ -122706,7 +122675,7 @@
     }
   },
   "CFE635": {
-    "time": 1794924063.9029322,
+    "time": 1795095939.5373297,
     "route": {
       "callsign": "CFE635",
       "callsign_icao": "CFE635",
@@ -189308,7 +189277,7 @@
     }
   },
   "EZY12JB": {
-    "time": 1794901539.708503,
+    "time": 1795095939.5373297,
     "route": {
       "callsign": "EZY12JB",
       "callsign_icao": "EZY12JB",
@@ -201977,6 +201946,82 @@
         "longitude": -84.4281,
         "municipality": "Atlanta",
         "name": "Hartsfield Jackson Atlanta International Airport"
+      }
+    }
+  },
+  "BAW9178": {
+    "time": 1795095939.5373297,
+    "route": {
+      "callsign": "BAW9178",
+      "callsign_icao": "BAW9178",
+      "callsign_iata": "BA9178",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 220,
+        "iata_code": "CWL",
+        "icao_code": "EGFF",
+        "latitude": 51.3967,
+        "longitude": -3.34333,
+        "municipality": "Cardiff",
+        "name": "Cardiff International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 220,
+        "iata_code": "CWL",
+        "icao_code": "EGFF",
+        "latitude": 51.3967,
+        "longitude": -3.34333,
+        "municipality": "Cardiff",
+        "name": "Cardiff International Airport"
+      }
+    }
+  },
+  "ACA881": {
+    "time": 1795095939.5373297,
+    "route": {
+      "callsign": "ACA881",
+      "callsign_icao": "ACA881",
+      "callsign_iata": "AC881",
+      "airline": {
+        "name": "Air Canada",
+        "icao": "ACA",
+        "iata": "AC",
+        "country": "Canada",
+        "country_iso": "CA",
+        "callsign": "AIR CANADA"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
+      },
+      "destination": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
       }
     }
   }
