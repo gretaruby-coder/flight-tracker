@@ -10663,7 +10663,7 @@
     }
   },
   "ITY207": {
-    "time": 1795022730.353685,
+    "time": 1795110041.427653,
     "route": {
       "callsign": "ITY207",
       "callsign_icao": "ITY207",
@@ -53168,7 +53168,7 @@
     }
   },
   "SHT3U": {
-    "time": 1794848136.4886084,
+    "time": 1795110041.427653,
     "route": {
       "callsign": "SHT3U",
       "callsign_icao": null,
@@ -94601,7 +94601,7 @@
     }
   },
   "EZY85DV": {
-    "time": 1794847241.1672008,
+    "time": 1795110041.427653,
     "route": {
       "callsign": "EZY85DV",
       "callsign_icao": "EZY85DV",
@@ -152822,44 +152822,6 @@
       }
     }
   },
-  "BAW9261": {
-    "time": 1794504933.8129504,
-    "route": {
-      "callsign": "BAW9261",
-      "callsign_icao": "BAW9261",
-      "callsign_iata": "BA9261",
-      "airline": {
-        "name": "British Airways",
-        "icao": "BAW",
-        "iata": "BA",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "SPEEDBIRD"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 65,
-        "iata_code": "PIK",
-        "icao_code": "EGPK",
-        "latitude": 55.502,
-        "longitude": -4.58702,
-        "municipality": "Prestwick, South Ayrshire",
-        "name": "Glasgow Prestwick Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 83,
-        "iata_code": "LHR",
-        "icao_code": "EGLL",
-        "latitude": 51.4706,
-        "longitude": -0.46194,
-        "municipality": "London",
-        "name": "London Heathrow Airport"
-      }
-    }
-  },
   "SIA7396": {
     "time": 1794505535.5669208,
     "route": {
@@ -195689,7 +195651,7 @@
     }
   },
   "OOACO": {
-    "time": 1795017040.8249536,
+    "time": 1795110041.427653,
     "route": {
       "callsign": "OOACO",
       "callsign_icao": null,
@@ -202696,6 +202658,44 @@
         "longitude": -80.2906,
         "municipality": "Miami",
         "name": "Miami International Airport"
+      }
+    }
+  },
+  "UBT902": {
+    "time": 1795110041.427653,
+    "route": {
+      "callsign": "UBT902",
+      "callsign_icao": "UBT902",
+      "callsign_iata": "Z0902",
+      "airline": {
+        "name": "Norse Atlantic UK",
+        "icao": "UBT",
+        "iata": "Z0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Longboat"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
