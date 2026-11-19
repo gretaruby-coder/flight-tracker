@@ -753,7 +753,7 @@
     }
   },
   "BAW308": {
-    "time": 1794924063.9029322,
+    "time": 1795089931.0732057,
     "route": {
       "callsign": "BAW308",
       "callsign_icao": "BAW308",
@@ -24163,7 +24163,7 @@
     }
   },
   "VIR92MC": {
-    "time": 1794992470.2206852,
+    "time": 1795089931.0732057,
     "route": {
       "callsign": "VIR92MC",
       "callsign_icao": "VIR92MC",
@@ -70986,7 +70986,7 @@
     }
   },
   "ASL32Y": {
-    "time": 1794918328.8934999,
+    "time": 1795089931.0732057,
     "route": {
       "callsign": "ASL32Y",
       "callsign_icao": "ASL32Y",
@@ -71062,7 +71062,7 @@
     }
   },
   "THY3MQ": {
-    "time": 1795002640.1415265,
+    "time": 1795089931.0732057,
     "route": {
       "callsign": "THY3MQ",
       "callsign_icao": "THY3MQ",
@@ -71594,7 +71594,7 @@
     }
   },
   "EXS7CU": {
-    "time": 1794743725.1810977,
+    "time": 1795089931.0732057,
     "route": {
       "callsign": "EXS7CU",
       "callsign_icao": "EXS7CU",
@@ -113714,7 +113714,7 @@
     }
   },
   "EZY38CM": {
-    "time": 1794933939.6137674,
+    "time": 1795089931.0732057,
     "route": {
       "callsign": "EZY38CM",
       "callsign_icao": "EZY38CM",
@@ -175271,7 +175271,7 @@
     }
   },
   "AFR70K": {
-    "time": 1794919545.0530982,
+    "time": 1795089931.0732057,
     "route": {
       "callsign": "AFR70K",
       "callsign_icao": "AFR70K",
@@ -202181,6 +202181,75 @@
         "longitude": 5.44322,
         "municipality": "Li\u00e8ge",
         "name": "Li\u00e8ge Airport"
+      }
+    }
+  },
+  "BAW325": {
+    "time": 1795089931.0732057,
+    "route": {
+      "callsign": "BAW325",
+      "callsign_icao": "BAW325",
+      "callsign_iata": "BA325",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "VJT884": {
+    "time": 1795089931.0732057,
+    "route": {
+      "callsign": "VJT884",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 9,
+        "iata_code": "TEB",
+        "icao_code": "KTEB",
+        "latitude": 40.8501,
+        "longitude": -74.0608,
+        "municipality": "Teterboro",
+        "name": "Teterboro Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1674,
+        "iata_code": "BRN",
+        "icao_code": "LSZB",
+        "latitude": 46.9141,
+        "longitude": 7.49715,
+        "municipality": "Bern",
+        "name": "Bern Belp Airport"
       }
     }
   }
