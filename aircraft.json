@@ -1,9 +1,79 @@
 {
-  "updated": "2026-11-19T01:10:40.061141+00:00",
+  "updated": "2026-11-19T01:15:41.222174+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": []
+  "aircraft": [
+    {
+      "hex": "440409",
+      "type": "adsb_icao",
+      "flight": "BCS76P  ",
+      "r": "OE-LNG",
+      "t": "B752",
+      "desc": "BOEING 757-200",
+      "alt_baro": 20000,
+      "alt_geom": 19200,
+      "gs": 383.6,
+      "ias": 288,
+      "tas": 384,
+      "mach": 0.628,
+      "wd": 235,
+      "ws": 16,
+      "oat": -27,
+      "tat": -7,
+      "track": 325.19,
+      "track_rate": 0.03,
+      "roll": 0.53,
+      "mag_heading": 321.5,
+      "true_heading": 322.79,
+      "baro_rate": 0,
+      "geom_rate": 32,
+      "squawk": "5731",
+      "emergency": "none",
+      "category": "A4",
+      "nav_qnh": 1013.6,
+      "nav_altitude_mcp": 20000,
+      "nav_heading": 322.03,
+      "nav_modes": [
+        "vnav",
+        "tcas"
+      ],
+      "lat": 51.106676,
+      "lon": 0.016708,
+      "nic": 8,
+      "rc": 186,
+      "seen_pos": 0.041,
+      "version": 2,
+      "nic_baro": 1,
+      "nac_p": 9,
+      "nac_v": 1,
+      "sil": 3,
+      "sil_type": "perhour",
+      "gva": 2,
+      "sda": 2,
+      "alert": 0,
+      "spi": 0,
+      "mlat": [],
+      "tisb": [],
+      "messages": 280234,
+      "seen": 0.0,
+      "rssi": -13.0,
+      "dst": 26.062,
+      "dir": 142.0,
+      "origin": {
+        "iata": "MXP",
+        "icao": "LIMC",
+        "name": "Malpensa International Airport"
+      },
+      "destination": {
+        "iata": "BLQ",
+        "icao": "LIPE",
+        "name": "Bologna Guglielmo Marconi Airport"
+      },
+      "airline_name": "European Air Transport",
+      "airline_iata": "QY"
+    }
+  ]
 }
