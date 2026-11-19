@@ -1309,7 +1309,7 @@
     }
   },
   "BAW41R": {
-    "time": 1794913531.4666276,
+    "time": 1795082730.471437,
     "route": {
       "callsign": "BAW41R",
       "callsign_icao": "BAW41R",
@@ -36440,7 +36440,7 @@
     }
   },
   "ETD81C": {
-    "time": 1794994843.7855966,
+    "time": 1795082730.471437,
     "route": {
       "callsign": "ETD81C",
       "callsign_icao": "ETD81C",
@@ -37010,7 +37010,7 @@
     }
   },
   "EIN52X": {
-    "time": 1794736236.4917154,
+    "time": 1795082730.471437,
     "route": {
       "callsign": "EIN52X",
       "callsign_icao": "EIN52X",
@@ -56149,7 +56149,7 @@
     }
   },
   "UAL932": {
-    "time": 1794995729.4755192,
+    "time": 1795082730.471437,
     "route": {
       "callsign": "UAL932",
       "callsign_icao": "UAL932",
@@ -56439,7 +56439,7 @@
     }
   },
   "CSN690": {
-    "time": 1794996060.8386374,
+    "time": 1795082730.471437,
     "route": {
       "callsign": "CSN690",
       "callsign_icao": "CSN690",
@@ -71587,7 +71587,7 @@
     }
   },
   "WZZ1MT": {
-    "time": 1794995439.6143005,
+    "time": 1795082730.471437,
     "route": {
       "callsign": "WZZ1MT",
       "callsign_icao": "WZZ1MT",
@@ -90611,7 +90611,7 @@
     }
   },
   "AFR81K": {
-    "time": 1794821731.9013026,
+    "time": 1795082730.471437,
     "route": {
       "callsign": "AFR81K",
       "callsign_icao": "AFR81K",
@@ -91447,7 +91447,7 @@
     }
   },
   "EZY295D": {
-    "time": 1794991239.2777708,
+    "time": 1795082730.471437,
     "route": {
       "callsign": "EZY295D",
       "callsign_icao": "EZY295D",
@@ -116550,7 +116550,7 @@
     }
   },
   "EWG49A": {
-    "time": 1794996060.8386374,
+    "time": 1795082730.471437,
     "route": {
       "callsign": "EWG49A",
       "callsign_icao": "EWG49A",
@@ -153493,37 +153493,6 @@
         "longitude": -16.5725,
         "municipality": "Tenerife",
         "name": "Tenerife Sur Airport"
-      }
-    }
-  },
-  "HAF352B": {
-    "time": 1794477928.6644711,
-    "route": {
-      "callsign": "HAF352B",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "GR",
-        "country_name": "Greece",
-        "elevation": 490,
-        "iata_code": "CHQ",
-        "icao_code": "LGSA",
-        "latitude": 35.5317,
-        "longitude": 24.1497,
-        "municipality": "Souda",
-        "name": "Chania International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GR",
-        "country_name": "Greece",
-        "elevation": 143,
-        "iata_code": null,
-        "icao_code": "LGEL",
-        "latitude": 38.0638,
-        "longitude": 23.556,
-        "municipality": "Elefsina",
-        "name": "Elefsis Airport"
       }
     }
   },
@@ -202222,6 +202191,120 @@
         "longitude": -1.69167,
         "municipality": "Newcastle",
         "name": "Newcastle Airport"
+      }
+    }
+  },
+  "GTI5528": {
+    "time": 1795082730.471437,
+    "route": {
+      "callsign": "GTI5528",
+      "callsign_icao": "GTI5528",
+      "callsign_iata": "5Y5528",
+      "airline": {
+        "name": "Atlas Air",
+        "icao": "GTI",
+        "iata": "5Y",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "GIANT"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 46,
+        "iata_code": "SNN",
+        "icao_code": "EINN",
+        "latitude": 52.702,
+        "longitude": -8.92482,
+        "municipality": "Shannon",
+        "name": "Shannon Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "RCH716": {
+    "time": 1795082730.471437,
+    "route": {
+      "callsign": "RCH716",
+      "callsign_icao": "RCH716",
+      "callsign_iata": "MC716",
+      "airline": {
+        "name": "Air Mobility Command",
+        "icao": "RCH",
+        "iata": "MC",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "REACH"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 24,
+        "iata_code": "DOV",
+        "icao_code": "KDOV",
+        "latitude": 39.1295,
+        "longitude": -75.466,
+        "municipality": "Dover",
+        "name": "Dover Air Force Base"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 565,
+        "iata_code": "MRB",
+        "icao_code": "KMRB",
+        "latitude": 39.4019,
+        "longitude": -77.9846,
+        "municipality": "Martinsburg",
+        "name": "Eastern WV Regional Airport/Shepherd Field"
+      }
+    }
+  },
+  "TOM840": {
+    "time": 1795082730.471437,
+    "route": {
+      "callsign": "TOM840",
+      "callsign_icao": "TOM840",
+      "callsign_iata": "BY840",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 94,
+        "iata_code": "MUH",
+        "icao_code": "HEMM",
+        "latitude": 31.3254,
+        "longitude": 27.2217,
+        "municipality": "Marsa Matruh",
+        "name": "Marsa Matruh Airport"
       }
     }
   }
