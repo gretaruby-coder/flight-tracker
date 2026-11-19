@@ -1,9 +1,81 @@
 {
-  "updated": "2026-11-19T01:55:28.478017+00:00",
+  "updated": "2026-11-19T02:01:07.297260+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": []
+  "aircraft": [
+    {
+      "hex": "440bcf",
+      "type": "adsb_icao",
+      "flight": "BCS92L  ",
+      "r": "OE-LNZ",
+      "t": "B752",
+      "desc": "BOEING 757-200",
+      "alt_baro": 9725,
+      "alt_geom": 8875,
+      "gs": 259.5,
+      "ias": 250,
+      "tas": 286,
+      "mach": 0.448,
+      "wd": 235,
+      "ws": 27,
+      "oat": -5,
+      "tat": 6,
+      "track": 234.41,
+      "track_rate": -1.78,
+      "roll": -23.91,
+      "mag_heading": 233.44,
+      "true_heading": 234.5,
+      "baro_rate": 3904,
+      "geom_rate": 3936,
+      "squawk": "6302",
+      "emergency": "none",
+      "category": "A4",
+      "nav_qnh": 1013.6,
+      "nav_altitude_mcp": 20992,
+      "nav_heading": 194.77,
+      "nav_modes": [
+        "vnav",
+        "tcas"
+      ],
+      "lat": 51.791245,
+      "lon": -0.566612,
+      "nic": 8,
+      "rc": 186,
+      "seen_pos": 0.11,
+      "version": 2,
+      "nic_baro": 1,
+      "nac_p": 9,
+      "nac_v": 1,
+      "sil": 3,
+      "sil_type": "perhour",
+      "gva": 2,
+      "sda": 2,
+      "alert": 0,
+      "spi": 0,
+      "mlat": [],
+      "tisb": [],
+      "messages": 13108,
+      "seen": 0.0,
+      "rssi": -9.2,
+      "dst": 21.357,
+      "dir": 344.1,
+      "registered_owner": "DHL Air Austria",
+      "registered_owner_operator_flag_code": "DHA",
+      "origin": {
+        "iata": "LTN",
+        "icao": "EGGW",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "iata": "CDG",
+        "icao": "LFPG",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "airline_name": "European Air Transport",
+      "airline_iata": "QY"
+    }
+  ]
 }
