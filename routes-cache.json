@@ -66837,7 +66837,7 @@
     }
   },
   "RYR42NV": {
-    "time": 1794830736.8751078,
+    "time": 1795081842.4727242,
     "route": {
       "callsign": "RYR42NV",
       "callsign_icao": "RYR42NV",
@@ -90687,7 +90687,7 @@
     }
   },
   "EZY608P": {
-    "time": 1794819326.6447313,
+    "time": 1795081842.4727242,
     "route": {
       "callsign": "EZY608P",
       "callsign_icao": "EZY608P",
@@ -192060,7 +192060,7 @@
     }
   },
   "EZY23TA": {
-    "time": 1794909663.7037585,
+    "time": 1795081842.4727242,
     "route": {
       "callsign": "EZY23TA",
       "callsign_icao": "EZY23TA",
@@ -202184,6 +202184,82 @@
         "longitude": -86.8771,
         "municipality": "Canc\u00fan",
         "name": "Canc\u00fan International Airport"
+      }
+    }
+  },
+  "CHH730": {
+    "time": 1795081842.4727242,
+    "route": {
+      "callsign": "CHH730",
+      "callsign_icao": "CHH730",
+      "callsign_iata": "HU730",
+      "airline": {
+        "name": "Hainan Airlines",
+        "icao": "CHH",
+        "iata": "HU",
+        "country": "China",
+        "country_iso": "CN",
+        "callsign": "HAINAN"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 20,
+        "iata_code": "BOS",
+        "icao_code": "KBOS",
+        "latitude": 42.3643,
+        "longitude": -71.0052,
+        "municipality": "Boston",
+        "name": "Logan International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 433,
+        "iata_code": "SEA",
+        "icao_code": "KSEA",
+        "latitude": 47.449,
+        "longitude": -122.309,
+        "municipality": "Seattle",
+        "name": "Seattle Tacoma International Airport"
+      }
+    }
+  },
+  "WUK9YV": {
+    "time": 1795081842.4727242,
+    "route": {
+      "callsign": "WUK9YV",
+      "callsign_icao": "WUK9YV",
+      "callsign_iata": "W99YV",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "AM",
+        "country_name": "Armenia",
+        "elevation": 2838,
+        "iata_code": "EVN",
+        "icao_code": "UDYZ",
+        "latitude": 40.1473,
+        "longitude": 44.3959,
+        "municipality": "Yerevan",
+        "name": "Zvartnots International Airport"
       }
     }
   }
