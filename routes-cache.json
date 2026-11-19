@@ -50321,7 +50321,7 @@
     }
   },
   "CFE89W": {
-    "time": 1795000240.9358044,
+    "time": 1795087530.5425851,
     "route": {
       "callsign": "CFE89W",
       "callsign_icao": "CFE89W",
@@ -65590,7 +65590,7 @@
     }
   },
   "UAL904": {
-    "time": 1794991239.2777708,
+    "time": 1795087530.5425851,
     "route": {
       "callsign": "UAL904",
       "callsign_icao": "UAL904",
@@ -69922,7 +69922,7 @@
     }
   },
   "IBE07FG": {
-    "time": 1794914738.0438225,
+    "time": 1795087530.5425851,
     "route": {
       "callsign": "IBE07FG",
       "callsign_icao": "IBE07FG",
@@ -74558,7 +74558,7 @@
     }
   },
   "RYR42CL": {
-    "time": 1794947450.9902837,
+    "time": 1795087530.5425851,
     "route": {
       "callsign": "RYR42CL",
       "callsign_icao": "RYR42CL",
@@ -74786,7 +74786,7 @@
     }
   },
   "EZY809B": {
-    "time": 1794747926.563398,
+    "time": 1795087530.5425851,
     "route": {
       "callsign": "EZY809B",
       "callsign_icao": "EZY809B",
@@ -91226,7 +91226,7 @@
     }
   },
   "AIC13V": {
-    "time": 1794999337.2403138,
+    "time": 1795087530.5425851,
     "route": {
       "callsign": "AIC13V",
       "callsign_icao": "AIC13V",
@@ -98211,7 +98211,7 @@
     }
   },
   "AEE6LW": {
-    "time": 1794999935.132076,
+    "time": 1795087530.5425851,
     "route": {
       "callsign": "AEE6LW",
       "callsign_icao": "AEE6LW",
@@ -149110,44 +149110,6 @@
       }
     }
   },
-  "AAL71": {
-    "time": 1794482727.6332817,
-    "route": {
-      "callsign": "AAL71",
-      "callsign_icao": "AAL71",
-      "callsign_iata": "AA71",
-      "airline": {
-        "name": "American Airlines",
-        "icao": "AAL",
-        "iata": "AA",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "AMERICAN"
-      },
-      "origin": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 364,
-        "iata_code": "FRA",
-        "icao_code": "EDDF",
-        "latitude": 50.03333,
-        "longitude": 8.57056,
-        "municipality": "Frankfurt am Main",
-        "name": "Frankfurt am Main Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 607,
-        "iata_code": "DFW",
-        "icao_code": "KDFW",
-        "latitude": 32.8968,
-        "longitude": -97.038,
-        "municipality": "Dallas-Fort Worth",
-        "name": "Dallas Fort Worth International Airport"
-      }
-    }
-  },
   "TOM49H": {
     "time": 1794911453.7480805,
     "route": {
@@ -153666,7 +153628,7 @@
     }
   },
   "JTD805": {
-    "time": 1794484527.5555706,
+    "time": 1795087530.5425851,
     "route": {
       "callsign": "JTD805",
       "callsign_icao": "JTD805",
@@ -202357,6 +202319,82 @@
         "longitude": 19.9117,
         "municipality": "Kerkyra Island",
         "name": "Ioannis Kapodistrias International Airport"
+      }
+    }
+  },
+  "SVA123": {
+    "time": 1795087530.5425851,
+    "route": {
+      "callsign": "SVA123",
+      "callsign_icao": "SVA123",
+      "callsign_iata": "SV123",
+      "airline": {
+        "name": "Saudi Arabian Airlines",
+        "icao": "SVA",
+        "iata": "SV",
+        "country": "Saudi Arabia",
+        "country_iso": "SA",
+        "callsign": "SAUDIA"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      }
+    }
+  },
+  "EZY46TV": {
+    "time": 1795087530.5425851,
+    "route": {
+      "callsign": "EZY46TV",
+      "callsign_icao": "EZY46TV",
+      "callsign_iata": "U246TV",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 276,
+        "iata_code": "LXR",
+        "icao_code": "HELX",
+        "latitude": 25.67463,
+        "longitude": 32.70001,
+        "municipality": "Luxor",
+        "name": "Luxor International Airport"
       }
     }
   }
