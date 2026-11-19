@@ -31818,7 +31818,7 @@
     }
   },
   "KLM81E": {
-    "time": 1794907529.6399682,
+    "time": 1795077333.024722,
     "route": {
       "callsign": "KLM81E",
       "callsign_icao": "KLM81E",
@@ -32685,7 +32685,7 @@
     }
   },
   "ABY265": {
-    "time": 1794903337.5230956,
+    "time": 1795077333.024722,
     "route": {
       "callsign": "ABY265",
       "callsign_icao": "ABY265",
@@ -42230,7 +42230,7 @@
     }
   },
   "BAW547": {
-    "time": 1794904528.3227758,
+    "time": 1795077333.024722,
     "route": {
       "callsign": "BAW547",
       "callsign_icao": "BAW547",
@@ -65469,7 +65469,7 @@
     }
   },
   "WZZ15RF": {
-    "time": 1794904839.6324558,
+    "time": 1795077333.024722,
     "route": {
       "callsign": "WZZ15RF",
       "callsign_icao": "WZZ15RF",
@@ -146310,7 +146310,7 @@
     }
   },
   "AUR401": {
-    "time": 1794818128.926127,
+    "time": 1795077333.024722,
     "route": {
       "callsign": "AUR401",
       "callsign_icao": "AUR401",
@@ -149449,44 +149449,6 @@
         "longitude": 28.7925,
         "municipality": "Dalaman",
         "name": "Dalaman International Airport"
-      }
-    }
-  },
-  "FDX5183": {
-    "time": 1794472530.0015485,
-    "route": {
-      "callsign": "FDX5183",
-      "callsign_icao": "FDX5183",
-      "callsign_iata": "FX5183",
-      "airline": {
-        "name": "FedEx Express",
-        "icao": "FDX",
-        "iata": "FX",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "FEDEX"
-      },
-      "origin": {
-        "country_iso_name": "BE",
-        "country_name": "Belgium",
-        "elevation": 659,
-        "iata_code": "LGG",
-        "icao_code": "EBLG",
-        "latitude": 50.6374,
-        "longitude": 5.44322,
-        "municipality": "Li\u00e8ge",
-        "name": "Li\u00e8ge Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 9,
-        "iata_code": "OAK",
-        "icao_code": "KOAK",
-        "latitude": 37.7213,
-        "longitude": -122.221,
-        "municipality": "Oakland",
-        "name": "Metropolitan Oakland International Airport"
       }
     }
   },
@@ -160842,7 +160804,7 @@
     }
   },
   "EZS78CX": {
-    "time": 1794817850.3663251,
+    "time": 1795077333.024722,
     "route": {
       "callsign": "EZS78CX",
       "callsign_icao": "EZS78CX",
@@ -202015,6 +201977,82 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "TFL47A": {
+    "time": 1795077333.024722,
+    "route": {
+      "callsign": "TFL47A",
+      "callsign_icao": "TFL47A",
+      "callsign_iata": "OR47A",
+      "airline": {
+        "name": "Arkefly",
+        "icao": "TFL",
+        "iata": "OR",
+        "country": "Netherlands",
+        "country_iso": "NL",
+        "callsign": "ARKEFLY"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "CV",
+        "country_name": "Cape Verde",
+        "elevation": 66,
+        "iata_code": "VXE",
+        "icao_code": "GVSV",
+        "latitude": 16.8332,
+        "longitude": -25.0553,
+        "municipality": "S\u00e3o Pedro",
+        "name": "S\u00e3o Pedro Airport"
+      }
+    }
+  },
+  "TOM925P": {
+    "time": 1795077333.024722,
+    "route": {
+      "callsign": "TOM925P",
+      "callsign_icao": "TOM925P",
+      "callsign_iata": "BY925P",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
