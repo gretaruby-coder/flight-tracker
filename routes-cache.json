@@ -9302,7 +9302,7 @@
     }
   },
   "VIR355": {
-    "time": 1795015854.562368,
+    "time": 1795188041.2024124,
     "route": {
       "callsign": "VIR355",
       "callsign_icao": "VIR355",
@@ -11043,7 +11043,7 @@
     }
   },
   "ASA101": {
-    "time": 1795023329.4338923,
+    "time": 1795188041.2024124,
     "route": {
       "callsign": "ASA101",
       "callsign_icao": "ASA101",
@@ -43871,7 +43871,7 @@
     }
   },
   "BAW571": {
-    "time": 1795014938.1509764,
+    "time": 1795188041.2024124,
     "route": {
       "callsign": "BAW571",
       "callsign_icao": "BAW571",
@@ -66187,7 +66187,7 @@
     }
   },
   "EZY97WF": {
-    "time": 1795083641.3543837,
+    "time": 1795188041.2024124,
     "route": {
       "callsign": "EZY97WF",
       "callsign_icao": "EZY97WF",
@@ -77929,7 +77929,7 @@
     }
   },
   "EZY64FX": {
-    "time": 1794928843.3606362,
+    "time": 1795188041.2024124,
     "route": {
       "callsign": "EZY64FX",
       "callsign_icao": "EZY64FX",
@@ -203276,6 +203276,44 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "EJU14LU": {
+    "time": 1795188041.2024124,
+    "route": {
+      "callsign": "EJU14LU",
+      "callsign_icao": "EJU14LU",
+      "callsign_iata": "EC14LU",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 157,
+        "iata_code": "BER",
+        "icao_code": "EDDB",
+        "latitude": 52.35139,
+        "longitude": 13.49389,
+        "municipality": "Berlin",
+        "name": "Berlin Brandenburg Airport"
       }
     }
   }
