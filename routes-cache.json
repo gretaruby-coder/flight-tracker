@@ -411,7 +411,7 @@
     }
   },
   "ITY204": {
-    "time": 1795016738.1388154,
+    "time": 1795189239.60623,
     "route": {
       "callsign": "ITY204",
       "callsign_icao": "ITY204",
@@ -4079,7 +4079,7 @@
     }
   },
   "BAW6RB": {
-    "time": 1795009839.8795211,
+    "time": 1795189239.60623,
     "route": {
       "callsign": "BAW6RB",
       "callsign_icao": "BAW6RB",
@@ -7264,7 +7264,7 @@
     }
   },
   "EIN168": {
-    "time": 1795102255.8474145,
+    "time": 1795189239.60623,
     "route": {
       "callsign": "EIN168",
       "callsign_icao": "EIN168",
@@ -7416,7 +7416,7 @@
     }
   },
   "BBC201": {
-    "time": 1795017330.8675478,
+    "time": 1795189239.60623,
     "route": {
       "callsign": "BBC201",
       "callsign_icao": "BBC201",
@@ -8587,7 +8587,7 @@
     }
   },
   "BAW5E": {
-    "time": 1795101041.244047,
+    "time": 1795189239.60623,
     "route": {
       "callsign": "BAW5E",
       "callsign_icao": "BAW5E",
@@ -11651,7 +11651,7 @@
     }
   },
   "BAW343E": {
-    "time": 1795013729.1569834,
+    "time": 1795189239.60623,
     "route": {
       "callsign": "BAW343E",
       "callsign_icao": "BAW343E",
@@ -40682,7 +40682,7 @@
     }
   },
   "CFE53NR": {
-    "time": 1795016439.833898,
+    "time": 1795189239.60623,
     "route": {
       "callsign": "CFE53NR",
       "callsign_icao": "CFE53NR",
@@ -50701,7 +50701,7 @@
     }
   },
   "MAC102": {
-    "time": 1794759036.473956,
+    "time": 1795189239.60623,
     "route": {
       "callsign": "MAC102",
       "callsign_icao": "MAC102",
@@ -152551,44 +152551,6 @@
       }
     }
   },
-  "DLH980": {
-    "time": 1794584438.728966,
-    "route": {
-      "callsign": "DLH980",
-      "callsign_icao": "DLH980",
-      "callsign_iata": "LH980",
-      "airline": {
-        "name": "Lufthansa",
-        "icao": "DLH",
-        "iata": "LH",
-        "country": "Germany",
-        "country_iso": "DE",
-        "callsign": "LUFTHANSA"
-      },
-      "origin": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 364,
-        "iata_code": "FRA",
-        "icao_code": "EDDF",
-        "latitude": 50.03333,
-        "longitude": 8.57056,
-        "municipality": "Frankfurt am Main",
-        "name": "Frankfurt am Main Airport"
-      },
-      "destination": {
-        "country_iso_name": "IE",
-        "country_name": "Ireland",
-        "elevation": 242,
-        "iata_code": "DUB",
-        "icao_code": "EIDW",
-        "latitude": 53.4213,
-        "longitude": -6.27007,
-        "municipality": "Dublin",
-        "name": "Dublin Airport"
-      }
-    }
-  },
   "THY1": {
     "time": 1794585328.808781,
     "route": {
@@ -203238,6 +203200,44 @@
         "longitude": 11.07806,
         "municipality": "Nuremberg",
         "name": "Nuremberg Airport"
+      }
+    }
+  },
+  "EZY51UZ": {
+    "time": 1795189239.60623,
+    "route": {
+      "callsign": "EZY51UZ",
+      "callsign_icao": "EZY51UZ",
+      "callsign_iata": "U251UZ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
       }
     }
   }
