@@ -8207,7 +8207,7 @@
     }
   },
   "KZR663": {
-    "time": 1794757237.1068916,
+    "time": 1795184736.1121938,
     "route": {
       "callsign": "KZR663",
       "callsign_icao": "KZR663",
@@ -45605,7 +45605,7 @@
     }
   },
   "BAW437Z": {
-    "time": 1795098051.3262832,
+    "time": 1795184736.1121938,
     "route": {
       "callsign": "BAW437Z",
       "callsign_icao": "BAW437Z",
@@ -51910,7 +51910,7 @@
     }
   },
   "EFW12LS": {
-    "time": 1795021530.660351,
+    "time": 1795184736.1121938,
     "route": {
       "callsign": "EFW12LS",
       "callsign_icao": "EFW12LS",
@@ -75839,7 +75839,7 @@
     }
   },
   "EZY38GR": {
-    "time": 1794921338.3852217,
+    "time": 1795184736.1121938,
     "route": {
       "callsign": "EZY38GR",
       "callsign_icao": "EZY38GR",
@@ -76637,7 +76637,7 @@
     }
   },
   "BAW127": {
-    "time": 1794842441.967524,
+    "time": 1795184736.1121938,
     "route": {
       "callsign": "BAW127",
       "callsign_icao": "BAW127",
@@ -79677,7 +79677,7 @@
     }
   },
   "RYR21ZC": {
-    "time": 1794753636.2355552,
+    "time": 1795184736.1121938,
     "route": {
       "callsign": "RYR21ZC",
       "callsign_icao": "RYR21ZC",
@@ -81729,7 +81729,7 @@
     }
   },
   "RYR5AJ": {
-    "time": 1794766835.9983552,
+    "time": 1795184736.1121938,
     "route": {
       "callsign": "RYR5AJ",
       "callsign_icao": "RYR5AJ",
@@ -96186,7 +96186,7 @@
     }
   },
   "RYR24LH": {
-    "time": 1794868839.0649211,
+    "time": 1795184736.1121938,
     "route": {
       "callsign": "RYR24LH",
       "callsign_icao": "RYR24LH",
@@ -99744,7 +99744,7 @@
     }
   },
   "BAW740H": {
-    "time": 1795098331.3237178,
+    "time": 1795184736.1121938,
     "route": {
       "callsign": "BAW740H",
       "callsign_icao": "BAW740H",
@@ -125362,7 +125362,7 @@
     }
   },
   "SWR1HQ": {
-    "time": 1795097441.2439537,
+    "time": 1795184736.1121938,
     "route": {
       "callsign": "SWR1HQ",
       "callsign_icao": "SWR1HQ",
@@ -169604,7 +169604,7 @@
     }
   },
   "EZY32AB": {
-    "time": 1795097739.3978171,
+    "time": 1795184736.1121938,
     "route": {
       "callsign": "EZY32AB",
       "callsign_icao": "EZY32AB",
@@ -177141,7 +177141,7 @@
     }
   },
   "UAE98P": {
-    "time": 1795011652.2449615,
+    "time": 1795184736.1121938,
     "route": {
       "callsign": "UAE98P",
       "callsign_icao": "UAE98P",
@@ -203138,6 +203138,75 @@
         "longitude": -1.76111,
         "municipality": "Burton upon Trent",
         "name": "Tatenhill Airfield"
+      }
+    }
+  },
+  "VSB10": {
+    "time": 1795184736.1121938,
+    "route": {
+      "callsign": "VSB10",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 173,
+        "iata_code": "BWF",
+        "icao_code": "EGNL",
+        "latitude": 54.12861,
+        "longitude": -3.2675,
+        "municipality": "Barrow-in-Furness",
+        "name": "Barrow Walney Island Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 173,
+        "iata_code": "BWF",
+        "icao_code": "EGNL",
+        "latitude": 54.12861,
+        "longitude": -3.2675,
+        "municipality": "Barrow-in-Furness",
+        "name": "Barrow Walney Island Airport"
+      }
+    }
+  },
+  "EZS95PR": {
+    "time": 1795184736.1121938,
+    "route": {
+      "callsign": "EZS95PR",
+      "callsign_icao": "EZS95PR",
+      "callsign_iata": "DS95PR",
+      "airline": {
+        "name": "Easyjet Switzerland",
+        "icao": "EZS",
+        "iata": "DS",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
