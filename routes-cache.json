@@ -22377,7 +22377,7 @@
     }
   },
   "BAW590": {
-    "time": 1794812460.9033585,
+    "time": 1795161929.7988496,
     "route": {
       "callsign": "BAW590",
       "callsign_icao": "BAW590",
@@ -31400,7 +31400,7 @@
     }
   },
   "AAL20": {
-    "time": 1795073730.0039387,
+    "time": 1795161929.7988496,
     "route": {
       "callsign": "AAL20",
       "callsign_icao": "AAL20",
@@ -101319,7 +101319,7 @@
     }
   },
   "EZY43LC": {
-    "time": 1795071331.8031838,
+    "time": 1795161929.7988496,
     "route": {
       "callsign": "EZY43LC",
       "callsign_icao": "EZY43LC",
@@ -114919,7 +114919,7 @@
     }
   },
   "EZY74LF": {
-    "time": 1794986441.4933214,
+    "time": 1795161929.7988496,
     "route": {
       "callsign": "EZY74LF",
       "callsign_icao": "EZY74LF",
@@ -189952,7 +189952,7 @@
     }
   },
   "SON005": {
-    "time": 1794993645.4336054,
+    "time": 1795161929.7988496,
     "route": {
       "callsign": "SON005",
       "callsign_icao": null,
@@ -201925,6 +201925,82 @@
         "longitude": -15.3866,
         "municipality": "Gran Canaria Island",
         "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "SAS7529": {
+    "time": 1795161929.7988496,
+    "route": {
+      "callsign": "SAS7529",
+      "callsign_icao": "SAS7529",
+      "callsign_iata": "SK7529",
+      "airline": {
+        "name": "Scandinavian Airlines System",
+        "icao": "SAS",
+        "iata": "SK",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": "SCANDINAVIAN"
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 57,
+        "iata_code": "KRS",
+        "icao_code": "ENCN",
+        "latitude": 58.2042,
+        "longitude": 8.08537,
+        "municipality": "Kjevik",
+        "name": "Kristiansand Airport, Kjevik"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "RYR8JL": {
+    "time": 1795161929.7988496,
+    "route": {
+      "callsign": "RYR8JL",
+      "callsign_icao": "RYR8JL",
+      "callsign_iata": "FR8JL",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 22,
+        "iata_code": "SKG",
+        "icao_code": "LGTS",
+        "latitude": 40.5197,
+        "longitude": 22.9709,
+        "municipality": "Thessaloniki",
+        "name": "Thessaloniki Macedonia International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 359,
+        "iata_code": "BVA",
+        "icao_code": "LFOB",
+        "latitude": 49.4544,
+        "longitude": 2.11278,
+        "municipality": "Beauvais",
+        "name": "Paris Beauvais Till\u00e9 Airport"
       }
     }
   }
