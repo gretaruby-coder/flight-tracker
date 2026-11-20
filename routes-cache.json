@@ -152562,44 +152562,6 @@
       }
     }
   },
-  "ACA51": {
-    "time": 1794545133.931993,
-    "route": {
-      "callsign": "ACA51",
-      "callsign_icao": "ACA51",
-      "callsign_iata": "AC51",
-      "airline": {
-        "name": "Air Canada",
-        "icao": "ACA",
-        "iata": "AC",
-        "country": "Canada",
-        "country_iso": "CA",
-        "callsign": "AIR CANADA"
-      },
-      "origin": {
-        "country_iso_name": "IN",
-        "country_name": "India",
-        "elevation": 777,
-        "iata_code": "DEL",
-        "icao_code": "VIDP",
-        "latitude": 28.5665,
-        "longitude": 77.1031,
-        "municipality": "New Delhi",
-        "name": "Indira Gandhi International Airport"
-      },
-      "destination": {
-        "country_iso_name": "CA",
-        "country_name": "Canada",
-        "elevation": 118,
-        "iata_code": "YUL",
-        "icao_code": "CYUL",
-        "latitude": 45.4706,
-        "longitude": -73.7408,
-        "municipality": "Montr\u00e9al",
-        "name": "Montreal / Pierre Elliott Trudeau International Airport"
-      }
-    }
-  },
   "AZG393": {
     "time": 1794551127.01119,
     "route": {
@@ -201738,6 +201700,82 @@
         "longitude": -87.9048,
         "municipality": "Chicago",
         "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
+      }
+    }
+  },
+  "BCS942": {
+    "time": 1795149939.324365,
+    "route": {
+      "callsign": "BCS942",
+      "callsign_icao": "BCS942",
+      "callsign_iata": "QY942",
+      "airline": {
+        "name": "European Air Transport",
+        "icao": "BCS",
+        "iata": "QY",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "EUROTRANS"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
+      }
+    }
+  },
+  "CLX56R": {
+    "time": 1795149939.324365,
+    "route": {
+      "callsign": "CLX56R",
+      "callsign_icao": "CLX56R",
+      "callsign_iata": "CV56R",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 125,
+        "iata_code": "LAX",
+        "icao_code": "KLAX",
+        "latitude": 33.9425,
+        "longitude": -118.408,
+        "municipality": "Los Angeles",
+        "name": "Los Angeles International Airport"
       },
       "destination": {
         "country_iso_name": "LU",
