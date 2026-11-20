@@ -104738,44 +104738,6 @@
       }
     }
   },
-  "RYR922": {
-    "time": 1794613532.965114,
-    "route": {
-      "callsign": "RYR922",
-      "callsign_icao": "RYR922",
-      "callsign_iata": "FR922",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 27,
-        "iata_code": "PMI",
-        "icao_code": "LEPA",
-        "latitude": 39.5517,
-        "longitude": 2.73881,
-        "municipality": "Palma De Mallorca",
-        "name": "Palma de Mallorca Airport"
-      },
-      "destination": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 53,
-        "iata_code": "HAM",
-        "icao_code": "EDDH",
-        "latitude": 53.6304,
-        "longitude": 9.98823,
-        "municipality": "Hamburg",
-        "name": "Hamburg Helmut Schmidt Airport"
-      }
-    }
-  },
   "EXS3HC": {
     "time": 1794944739.0225406,
     "route": {
@@ -118778,7 +118740,7 @@
     }
   },
   "EZY96KV": {
-    "time": 1795047930.522216,
+    "time": 1795218333.8215196,
     "route": {
       "callsign": "EZY96KV",
       "callsign_icao": "EZY96KV",
@@ -203228,6 +203190,82 @@
         "longitude": 13.49389,
         "municipality": "Berlin",
         "name": "Berlin Brandenburg Airport"
+      }
+    }
+  },
+  "UPS238": {
+    "time": 1795218333.8215196,
+    "route": {
+      "callsign": "UPS238",
+      "callsign_icao": "UPS238",
+      "callsign_iata": "5X238",
+      "airline": {
+        "name": "United Parcel Service",
+        "icao": "UPS",
+        "iata": "5X",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UPS"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 501,
+        "iata_code": "SDF",
+        "icao_code": "KSDF",
+        "latitude": 38.1744,
+        "longitude": -85.736,
+        "municipality": "Louisville",
+        "name": "Louisville Muhammad Ali International Airport"
+      }
+    }
+  },
+  "RYR65SU": {
+    "time": 1795218333.8215196,
+    "route": {
+      "callsign": "RYR65SU",
+      "callsign_icao": "RYR65SU",
+      "callsign_iata": "FR65SU",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "MT",
+        "country_name": "Malta",
+        "elevation": 300,
+        "iata_code": "MLA",
+        "icao_code": "LMML",
+        "latitude": 35.8575,
+        "longitude": 14.4775,
+        "municipality": "Valletta",
+        "name": "Malta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 80,
+        "iata_code": "LPL",
+        "icao_code": "EGGP",
+        "latitude": 53.3336,
+        "longitude": -2.84972,
+        "municipality": "Liverpool",
+        "name": "Liverpool John Lennon Airport"
       }
     }
   }
