@@ -16532,7 +16532,7 @@
     }
   },
   "NOZ31F": {
-    "time": 1795117839.229816,
+    "time": 1795213850.1520019,
     "route": {
       "callsign": "NOZ31F",
       "callsign_icao": "NOZ31F",
@@ -23403,7 +23403,7 @@
     }
   },
   "MSR780": {
-    "time": 1795042529.851624,
+    "time": 1795213850.1520019,
     "route": {
       "callsign": "MSR780",
       "callsign_icao": "MSR780",
@@ -23631,7 +23631,7 @@
     }
   },
   "CPA254": {
-    "time": 1795041331.8553953,
+    "time": 1795213850.1520019,
     "route": {
       "callsign": "CPA254",
       "callsign_icao": "CPA254",
@@ -95654,7 +95654,7 @@
     }
   },
   "EZY25KJ": {
-    "time": 1795124739.3833098,
+    "time": 1795213850.1520019,
     "route": {
       "callsign": "EZY25KJ",
       "callsign_icao": "EZY25KJ",
@@ -104321,7 +104321,7 @@
     }
   },
   "WUK85AS": {
-    "time": 1794785448.618142,
+    "time": 1795213850.1520019,
     "route": {
       "callsign": "WUK85AS",
       "callsign_icao": "WUK85AS",
@@ -104359,7 +104359,7 @@
     }
   },
   "RYR10RY": {
-    "time": 1795102529.8812835,
+    "time": 1795213850.1520019,
     "route": {
       "callsign": "RYR10RY",
       "callsign_icao": "RYR10RY",
@@ -112166,7 +112166,7 @@
     }
   },
   "DLH1CM": {
-    "time": 1795126841.0553358,
+    "time": 1795213850.1520019,
     "route": {
       "callsign": "DLH1CM",
       "callsign_icao": "DLH1CM",
@@ -117980,7 +117980,7 @@
     }
   },
   "EZY13NF": {
-    "time": 1794862238.5101576,
+    "time": 1795213850.1520019,
     "route": {
       "callsign": "EZY13NF",
       "callsign_icao": "EZY13NF",
@@ -118550,7 +118550,7 @@
     }
   },
   "DLH5LT": {
-    "time": 1795041649.4232013,
+    "time": 1795213850.1520019,
     "route": {
       "callsign": "DLH5LT",
       "callsign_icao": "DLH5LT",
@@ -130484,44 +130484,6 @@
       }
     }
   },
-  "TOM5ND": {
-    "time": 1794609049.6310318,
-    "route": {
-      "callsign": "TOM5ND",
-      "callsign_icao": "TOM5ND",
-      "callsign_iata": "BY5ND",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "CV",
-        "country_name": "Cape Verde",
-        "elevation": 69,
-        "iata_code": "BVC",
-        "icao_code": "GVBA",
-        "latitude": 16.1365,
-        "longitude": -22.8889,
-        "municipality": "Rabil",
-        "name": "Rabil Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      }
-    }
-  },
   "THY1YV": {
     "time": 1795213528.1258478,
     "route": {
@@ -137121,7 +137083,7 @@
     }
   },
   "RYR9ZG": {
-    "time": 1794741332.4027083,
+    "time": 1795213850.1520019,
     "route": {
       "callsign": "RYR9ZG",
       "callsign_icao": "RYR9ZG",
@@ -143242,7 +143204,7 @@
     }
   },
   "RYR35JF": {
-    "time": 1794869438.0836072,
+    "time": 1795213850.1520019,
     "route": {
       "callsign": "RYR35JF",
       "callsign_icao": "RYR35JF",
@@ -203114,6 +203076,44 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "EZY58YH": {
+    "time": 1795213850.1520019,
+    "route": {
+      "callsign": "EZY58YH",
+      "callsign_icao": "EZY58YH",
+      "callsign_iata": "U258YH",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 26,
+        "iata_code": "GLA",
+        "icao_code": "EGPF",
+        "latitude": 55.8719,
+        "longitude": -4.43306,
+        "municipality": "Paisley, Renfrewshire",
+        "name": "Glasgow International Airport"
       }
     }
   }
