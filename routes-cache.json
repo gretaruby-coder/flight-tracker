@@ -753,7 +753,7 @@
     }
   },
   "BAW308": {
-    "time": 1795089931.0732057,
+    "time": 1795179660.782799,
     "route": {
       "callsign": "BAW308",
       "callsign_icao": "BAW308",
@@ -2131,7 +2131,7 @@
     }
   },
   "BAW7W": {
-    "time": 1795006530.571104,
+    "time": 1795179660.782799,
     "route": {
       "callsign": "BAW7W",
       "callsign_icao": "BAW7W",
@@ -2656,7 +2656,7 @@
     }
   },
   "BAW45EM": {
-    "time": 1795008330.1269066,
+    "time": 1795179660.782799,
     "route": {
       "callsign": "BAW45EM",
       "callsign_icao": "BAW45EM",
@@ -5181,7 +5181,7 @@
     }
   },
   "EIN164": {
-    "time": 1795092930.881545,
+    "time": 1795179660.782799,
     "route": {
       "callsign": "EIN164",
       "callsign_icao": "EIN164",
@@ -23517,7 +23517,7 @@
     }
   },
   "BAW777C": {
-    "time": 1795092930.881545,
+    "time": 1795179660.782799,
     "route": {
       "callsign": "BAW777C",
       "callsign_icao": "BAW777C",
@@ -42009,7 +42009,7 @@
     }
   },
   "UAL919": {
-    "time": 1795014331.6605182,
+    "time": 1795179660.782799,
     "route": {
       "callsign": "UAL919",
       "callsign_icao": "UAL919",
@@ -115047,7 +115047,7 @@
     }
   },
   "CFE2GH": {
-    "time": 1794824137.82434,
+    "time": 1795179660.782799,
     "route": {
       "callsign": "CFE2GH",
       "callsign_icao": "CFE2GH",
@@ -136885,44 +136885,6 @@
       }
     }
   },
-  "RYR82LB": {
-    "time": 1794574529.0332098,
-    "route": {
-      "callsign": "RYR82LB",
-      "callsign_icao": "RYR82LB",
-      "callsign_iata": "FR82LB",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "MT",
-        "country_name": "Malta",
-        "elevation": 300,
-        "iata_code": "MLA",
-        "icao_code": "LMML",
-        "latitude": 35.8575,
-        "longitude": 14.4775,
-        "municipality": "Valletta",
-        "name": "Malta International Airport"
-      },
-      "destination": {
-        "country_iso_name": "IE",
-        "country_name": "Ireland",
-        "elevation": 242,
-        "iata_code": "DUB",
-        "icao_code": "EIDW",
-        "latitude": 53.4213,
-        "longitude": -6.27007,
-        "municipality": "Dublin",
-        "name": "Dublin Airport"
-      }
-    }
-  },
   "EZY34HB": {
     "time": 1794729655.054639,
     "route": {
@@ -143549,44 +143511,6 @@
         "longitude": -1.66057,
         "municipality": "Leeds",
         "name": "Leeds Bradford Airport"
-      }
-    }
-  },
-  "DLH452": {
-    "time": 1794574529.0332098,
-    "route": {
-      "callsign": "DLH452",
-      "callsign_icao": "DLH452",
-      "callsign_iata": "LH452",
-      "airline": {
-        "name": "Lufthansa",
-        "icao": "DLH",
-        "iata": "LH",
-        "country": "Germany",
-        "country_iso": "DE",
-        "callsign": "LUFTHANSA"
-      },
-      "origin": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 1487,
-        "iata_code": "MUC",
-        "icao_code": "EDDM",
-        "latitude": 48.3538,
-        "longitude": 11.7861,
-        "municipality": "Munich",
-        "name": "Munich Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 125,
-        "iata_code": "LAX",
-        "icao_code": "KLAX",
-        "latitude": 33.9425,
-        "longitude": -118.408,
-        "municipality": "Los Angeles",
-        "name": "Los Angeles International Airport"
       }
     }
   },
@@ -202917,6 +202841,44 @@
         "longitude": -2.77167,
         "municipality": "Shrewsbury",
         "name": "Sleap Airport"
+      }
+    }
+  },
+  "RJA271": {
+    "time": 1795179660.782799,
+    "route": {
+      "callsign": "RJA271",
+      "callsign_icao": "RJA271",
+      "callsign_iata": "RJ271",
+      "airline": {
+        "name": "Royal Jordanian",
+        "icao": "RJA",
+        "iata": "RJ",
+        "country": "Jordan",
+        "country_iso": "JO",
+        "callsign": "JORDANIAN"
+      },
+      "origin": {
+        "country_iso_name": "JO",
+        "country_name": "Jordan",
+        "elevation": 2395,
+        "iata_code": "AMM",
+        "icao_code": "OJAI",
+        "latitude": 31.7226,
+        "longitude": 35.9932,
+        "municipality": "Amman",
+        "name": "Queen Alia International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 645,
+        "iata_code": "DTW",
+        "icao_code": "KDTW",
+        "latitude": 42.2124,
+        "longitude": -83.3534,
+        "municipality": "Detroit",
+        "name": "Detroit Metropolitan Wayne County Airport"
       }
     }
   }
