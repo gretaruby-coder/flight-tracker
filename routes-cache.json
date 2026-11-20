@@ -24201,7 +24201,7 @@
     }
   },
   "BAW56": {
-    "time": 1795062652.5833178,
+    "time": 1795149054.727644,
     "route": {
       "callsign": "BAW56",
       "callsign_icao": "BAW56",
@@ -24239,7 +24239,7 @@
     }
   },
   "BAW58L": {
-    "time": 1794977136.5795572,
+    "time": 1795149054.727644,
     "route": {
       "callsign": "BAW58L",
       "callsign_icao": "BAW58L",
@@ -26443,7 +26443,7 @@
     }
   },
   "BAW2156": {
-    "time": 1794985533.2321968,
+    "time": 1795149054.727644,
     "route": {
       "callsign": "BAW2156",
       "callsign_icao": "BAW2156",
@@ -201711,6 +201711,44 @@
         "longitude": 8.57056,
         "municipality": "Frankfurt am Main",
         "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "CLX74T": {
+    "time": 1795149054.727644,
+    "route": {
+      "callsign": "CLX74T",
+      "callsign_icao": "CLX74T",
+      "callsign_iata": "CV74T",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 797,
+        "iata_code": "IND",
+        "icao_code": "KIND",
+        "latitude": 39.7173,
+        "longitude": -86.2944,
+        "municipality": "Indianapolis",
+        "name": "Indianapolis International Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
       }
     }
   }
