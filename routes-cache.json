@@ -30374,7 +30374,7 @@
     }
   },
   "EIN52A": {
-    "time": 1795073730.0039387,
+    "time": 1795160130.300055,
     "route": {
       "callsign": "EIN52A",
       "callsign_icao": "EIN52A",
@@ -30944,7 +30944,7 @@
     }
   },
   "AAL38": {
-    "time": 1794647734.678788,
+    "time": 1795160130.300055,
     "route": {
       "callsign": "AAL38",
       "callsign_icao": "AAL38",
@@ -41453,7 +41453,7 @@
     }
   },
   "UAL920": {
-    "time": 1795073454.6806333,
+    "time": 1795160130.300055,
     "route": {
       "callsign": "UAL920",
       "callsign_icao": "UAL920",
@@ -62197,7 +62197,7 @@
     }
   },
   "EZY96MD": {
-    "time": 1794986441.4933214,
+    "time": 1795160130.300055,
     "route": {
       "callsign": "EZY96MD",
       "callsign_icao": "EZY96MD",
@@ -89581,7 +89581,7 @@
     }
   },
   "WZZ90LG": {
-    "time": 1795073730.0039387,
+    "time": 1795160130.300055,
     "route": {
       "callsign": "WZZ90LG",
       "callsign_icao": "WZZ90LG",
@@ -202008,6 +202008,44 @@
         "longitude": 11.7861,
         "municipality": "Munich",
         "name": "Munich Airport"
+      }
+    }
+  },
+  "DAL230": {
+    "time": 1795160130.300055,
+    "route": {
+      "callsign": "DAL230",
+      "callsign_icao": "DAL230",
+      "callsign_iata": "DL230",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 435,
+        "iata_code": "RDU",
+        "icao_code": "KRDU",
+        "latitude": 35.8776,
+        "longitude": -78.7875,
+        "municipality": "Raleigh/Durham",
+        "name": "Raleigh Durham International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
       }
     }
   }
