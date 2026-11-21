@@ -12739,7 +12739,7 @@
     }
   },
   "CSN303": {
-    "time": 1795198835.973019,
+    "time": 1795285239.0294862,
     "route": {
       "callsign": "CSN303",
       "callsign_icao": "CSN303",
@@ -13727,7 +13727,7 @@
     }
   },
   "TAP13HL": {
-    "time": 1795114247.5207055,
+    "time": 1795285239.0294862,
     "route": {
       "callsign": "TAP13HL",
       "callsign_icao": "TAP13HL",
@@ -18128,7 +18128,7 @@
     }
   },
   "BAW352": {
-    "time": 1795123853.8836644,
+    "time": 1795285239.0294862,
     "route": {
       "callsign": "BAW352",
       "callsign_icao": "BAW352",
@@ -116239,7 +116239,7 @@
     }
   },
   "EZY98CD": {
-    "time": 1795030530.3620791,
+    "time": 1795285239.0294862,
     "route": {
       "callsign": "EZY98CD",
       "callsign_icao": "EZY98CD",
@@ -120740,7 +120740,7 @@
     }
   },
   "AFR94RR": {
-    "time": 1795112140.8695538,
+    "time": 1795285239.0294862,
     "route": {
       "callsign": "AFR94RR",
       "callsign_icao": "AFR94RR",
@@ -151142,46 +151142,8 @@
       }
     }
   },
-  "EXS8R": {
-    "time": 1794680436.1334147,
-    "route": {
-      "callsign": "EXS8R",
-      "callsign_icao": "EXS8R",
-      "callsign_iata": "LS8R",
-      "airline": {
-        "name": "Jet2.com",
-        "icao": "EXS",
-        "iata": "LS",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "CHANNEX"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 622,
-        "iata_code": "BRS",
-        "icao_code": "EGGD",
-        "latitude": 51.3827,
-        "longitude": -2.71909,
-        "municipality": "Bristol",
-        "name": "Bristol Airport"
-      },
-      "destination": {
-        "country_iso_name": "TR",
-        "country_name": "Turkey",
-        "elevation": 21,
-        "iata_code": "BJV",
-        "icao_code": "LTFE",
-        "latitude": 37.2506,
-        "longitude": 27.6643,
-        "municipality": "Bodrum",
-        "name": "Milas Bodrum International Airport"
-      }
-    }
-  },
   "BLX214": {
-    "time": 1794681048.6090698,
+    "time": 1795285239.0294862,
     "route": {
       "callsign": "BLX214",
       "callsign_icao": "BLX214",
@@ -202078,6 +202040,44 @@
         "longitude": -2.71909,
         "municipality": "Bristol",
         "name": "Bristol Airport"
+      }
+    }
+  },
+  "RYR14TJ": {
+    "time": 1795285239.0294862,
+    "route": {
+      "callsign": "RYR14TJ",
+      "callsign_icao": "RYR14TJ",
+      "callsign_iata": "FR14TJ",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "PL",
+        "country_name": "Poland",
+        "elevation": 404,
+        "iata_code": "WRO",
+        "icao_code": "EPWR",
+        "latitude": 51.1027,
+        "longitude": 16.8858,
+        "municipality": "Wroc\u0142aw",
+        "name": "Copernicus Wroc\u0142aw Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
