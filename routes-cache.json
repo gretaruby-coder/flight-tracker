@@ -1903,7 +1903,7 @@
     }
   },
   "BAW23T": {
-    "time": 1795086641.4084957,
+    "time": 1795259737.8080733,
     "route": {
       "callsign": "BAW23T",
       "callsign_icao": "BAW23T",
@@ -4725,7 +4725,7 @@
     }
   },
   "BAW473D": {
-    "time": 1794915641.8334303,
+    "time": 1795259737.8080733,
     "route": {
       "callsign": "BAW473D",
       "callsign_icao": "BAW473D",
@@ -43301,7 +43301,7 @@
     }
   },
   "BAW830D": {
-    "time": 1795088742.5369992,
+    "time": 1795259737.8080733,
     "route": {
       "callsign": "BAW830D",
       "callsign_icao": "BAW830D",
@@ -43985,7 +43985,7 @@
     }
   },
   "EIN34J": {
-    "time": 1795001129.7394469,
+    "time": 1795259737.8080733,
     "route": {
       "callsign": "EIN34J",
       "callsign_icao": "EIN34J",
@@ -52777,7 +52777,7 @@
     }
   },
   "HVN50": {
-    "time": 1795086641.4084957,
+    "time": 1795259737.8080733,
     "route": {
       "callsign": "HVN50",
       "callsign_icao": "HVN50",
@@ -61589,7 +61589,7 @@
     }
   },
   "BAW380A": {
-    "time": 1794991239.2777708,
+    "time": 1795259737.8080733,
     "route": {
       "callsign": "BAW380A",
       "callsign_icao": "BAW380A",
@@ -74357,7 +74357,7 @@
     }
   },
   "EZY608C": {
-    "time": 1795092339.685812,
+    "time": 1795259737.8080733,
     "route": {
       "callsign": "EZY608C",
       "callsign_icao": "EZY608C",
@@ -91162,44 +91162,6 @@
         "longitude": 8.54806,
         "municipality": "Zurich",
         "name": "Z\u00fcrich Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 312,
-        "iata_code": "IAD",
-        "icao_code": "KIAD",
-        "latitude": 38.9445,
-        "longitude": -77.4558,
-        "municipality": "Washington",
-        "name": "Washington Dulles International Airport"
-      }
-    }
-  },
-  "AUA41": {
-    "time": 1794654935.6075814,
-    "route": {
-      "callsign": "AUA41",
-      "callsign_icao": "AUA41",
-      "callsign_iata": "OS41",
-      "airline": {
-        "name": "Austrian Airlines",
-        "icao": "AUA",
-        "iata": "OS",
-        "country": "Austria",
-        "country_iso": "AT",
-        "callsign": "AUSTRIAN"
-      },
-      "origin": {
-        "country_iso_name": "AT",
-        "country_name": "Austria",
-        "elevation": 600,
-        "iata_code": "VIE",
-        "icao_code": "LOWW",
-        "latitude": 48.1103,
-        "longitude": 16.5697,
-        "municipality": "Vienna",
-        "name": "Vienna International Airport"
       },
       "destination": {
         "country_iso_name": "US",
@@ -202382,6 +202344,44 @@
         "longitude": -0.30385,
         "municipality": "Henlow",
         "name": "RAF Henlow"
+      }
+    }
+  },
+  "CFG114": {
+    "time": 1795259737.8080733,
+    "route": {
+      "callsign": "CFG114",
+      "callsign_icao": "CFG114",
+      "callsign_iata": "DE114",
+      "airline": {
+        "name": "Condor Flugdienst",
+        "icao": "CFG",
+        "iata": "DE",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "CONDOR"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "MX",
+        "country_name": "Mexico",
+        "elevation": 22,
+        "iata_code": "CUN",
+        "icao_code": "MMUN",
+        "latitude": 21.0365,
+        "longitude": -86.8771,
+        "municipality": "Canc\u00fan",
+        "name": "Canc\u00fan International Airport"
       }
     }
   }
