@@ -178429,7 +178429,7 @@
     }
   },
   "VJT946": {
-    "time": 1794906942.351242,
+    "time": 1795222857.0023813,
     "route": {
       "callsign": "VJT946",
       "callsign_icao": null,
@@ -203570,6 +203570,82 @@
         "longitude": 9.70417,
         "municipality": "Milan",
         "name": "Milan Bergamo Airport"
+      }
+    }
+  },
+  "GTI8694": {
+    "time": 1795222857.0023813,
+    "route": {
+      "callsign": "GTI8694",
+      "callsign_icao": "GTI8694",
+      "callsign_iata": "5Y8694",
+      "airline": {
+        "name": "Atlas Air",
+        "icao": "GTI",
+        "iata": "5Y",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "GIANT"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 217,
+        "iata_code": "POB",
+        "icao_code": "KPOB",
+        "latitude": 35.1709,
+        "longitude": -79.0145,
+        "municipality": "Fayetteville",
+        "name": "Pope Field"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1649,
+        "iata_code": "HHN",
+        "icao_code": "EDFH",
+        "latitude": 49.9487,
+        "longitude": 7.26389,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt-Hahn Airport"
+      }
+    }
+  },
+  "EZY32VR": {
+    "time": 1795222857.0023813,
+    "route": {
+      "callsign": "EZY32VR",
+      "callsign_icao": "EZY32VR",
+      "callsign_iata": "U232VR",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "JE",
+        "country_name": "Jersey",
+        "elevation": 277,
+        "iata_code": "JER",
+        "icao_code": "EGJJ",
+        "latitude": 49.2079,
+        "longitude": -2.19551,
+        "municipality": "Saint Helier",
+        "name": "Jersey Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
