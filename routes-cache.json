@@ -35110,7 +35110,7 @@
     }
   },
   "BAW18A": {
-    "time": 1795089666.432942,
+    "time": 1795257935.9238331,
     "route": {
       "callsign": "BAW18A",
       "callsign_icao": "BAW18A",
@@ -35870,7 +35870,7 @@
     }
   },
   "KLC70Y": {
-    "time": 1795171237.5185616,
+    "time": 1795257935.9238331,
     "route": {
       "callsign": "KLC70Y",
       "callsign_icao": "KLC70Y",
@@ -67327,7 +67327,7 @@
     }
   },
   "EZY81BF": {
-    "time": 1795171237.5185616,
+    "time": 1795257935.9238331,
     "route": {
       "callsign": "EZY81BF",
       "callsign_icao": "EZY81BF",
@@ -148921,37 +148921,6 @@
       }
     }
   },
-  "GTIPR": {
-    "time": 1794653133.473926,
-    "route": {
-      "callsign": "GTIPR",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 24,
-        "iata_code": null,
-        "icao_code": "EGLD",
-        "latitude": 51.5883,
-        "longitude": -0.51306,
-        "municipality": "Gerrards Cross",
-        "name": "Denham Aerodrome"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 24,
-        "iata_code": null,
-        "icao_code": "EGLD",
-        "latitude": 51.5883,
-        "longitude": -0.51306,
-        "municipality": "Gerrards Cross",
-        "name": "Denham Aerodrome"
-      }
-    }
-  },
   "LOT6544": {
     "time": 1795168859.2225852,
     "route": {
@@ -202337,6 +202306,120 @@
         "longitude": 28.0862,
         "municipality": "Rhodes Island",
         "name": "Diagoras Airport"
+      }
+    }
+  },
+  "BAW973E": {
+    "time": 1795257935.9238331,
+    "route": {
+      "callsign": "BAW973E",
+      "callsign_icao": "BAW973E",
+      "callsign_iata": "BA973E",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 157,
+        "iata_code": "BER",
+        "icao_code": "EDDB",
+        "latitude": 52.35139,
+        "longitude": 13.49389,
+        "municipality": "Berlin",
+        "name": "Berlin Brandenburg Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "LOT6306": {
+    "time": 1795257935.9238331,
+    "route": {
+      "callsign": "LOT6306",
+      "callsign_icao": "LOT6306",
+      "callsign_iata": "LO6306",
+      "airline": {
+        "name": "LOT Polish Airlines",
+        "icao": "LOT",
+        "iata": "LO",
+        "country": "Poland",
+        "country_iso": "PL",
+        "callsign": "POLLOT"
+      },
+      "origin": {
+        "country_iso_name": "DO",
+        "country_name": "Dominican Republic",
+        "elevation": 47,
+        "iata_code": "PUJ",
+        "icao_code": "MDPC",
+        "latitude": 18.5674,
+        "longitude": -68.3634,
+        "municipality": "Punta Cana",
+        "name": "Punta Cana International Airport"
+      },
+      "destination": {
+        "country_iso_name": "PL",
+        "country_name": "Poland",
+        "elevation": 362,
+        "iata_code": "WAW",
+        "icao_code": "EPWA",
+        "latitude": 52.1657,
+        "longitude": 20.9671,
+        "municipality": "Warsaw",
+        "name": "Warsaw Chopin Airport"
+      }
+    }
+  },
+  "TOM1TD": {
+    "time": 1795257935.9238331,
+    "route": {
+      "callsign": "TOM1TD",
+      "callsign_icao": "TOM1TD",
+      "callsign_iata": "BY1TD",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 32,
+        "iata_code": "HRG",
+        "icao_code": "HEGN",
+        "latitude": 27.18033,
+        "longitude": 33.80729,
+        "municipality": "Hurghada",
+        "name": "Hurghada International Airport"
+      },
+      "destination": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 32,
+        "iata_code": "HRG",
+        "icao_code": "HEGN",
+        "latitude": 27.18033,
+        "longitude": 33.80729,
+        "municipality": "Hurghada",
+        "name": "Hurghada International Airport"
       }
     }
   }
