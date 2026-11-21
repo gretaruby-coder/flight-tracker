@@ -23593,7 +23593,7 @@
     }
   },
   "BAW57K": {
-    "time": 1795124739.3833098,
+    "time": 1795299634.8284047,
     "route": {
       "callsign": "BAW57K",
       "callsign_icao": "BAW57K",
@@ -47194,7 +47194,7 @@
     }
   },
   "KLC1131": {
-    "time": 1795040728.5948455,
+    "time": 1795299634.8284047,
     "route": {
       "callsign": "KLC1131",
       "callsign_icao": "KLC1131",
@@ -201992,6 +201992,44 @@
         "longitude": 11.1004,
         "municipality": "Oslo",
         "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "RUK2815": {
+    "time": 1795299634.8284047,
+    "route": {
+      "callsign": "RUK2815",
+      "callsign_icao": "RUK2815",
+      "callsign_iata": "RK2815",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 302,
+        "iata_code": "CGN",
+        "icao_code": "EDDK",
+        "latitude": 50.8659,
+        "longitude": 7.14274,
+        "municipality": "Cologne",
+        "name": "Cologne Bonn Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
