@@ -3623,7 +3623,7 @@
     }
   },
   "SAS532": {
-    "time": 1795098931.8626788,
+    "time": 1795270842.188995,
     "route": {
       "callsign": "SAS532",
       "callsign_icao": "SAS532",
@@ -42617,7 +42617,7 @@
     }
   },
   "BAW492": {
-    "time": 1795181461.1901221,
+    "time": 1795270842.188995,
     "route": {
       "callsign": "BAW492",
       "callsign_icao": "BAW492",
@@ -75117,7 +75117,7 @@
     }
   },
   "BAW84E": {
-    "time": 1795182928.390603,
+    "time": 1795270842.188995,
     "route": {
       "callsign": "BAW84E",
       "callsign_icao": "BAW84E",
@@ -104974,7 +104974,7 @@
     }
   },
   "EXS1412": {
-    "time": 1795102529.8812835,
+    "time": 1795270842.188995,
     "route": {
       "callsign": "EXS1412",
       "callsign_icao": "EXS1412",
@@ -112401,7 +112401,7 @@
     }
   },
   "EZY97AD": {
-    "time": 1795095939.5373297,
+    "time": 1795270842.188995,
     "route": {
       "callsign": "EZY97AD",
       "callsign_icao": "EZY97AD",
@@ -201950,6 +201950,75 @@
         "longitude": -95.3414,
         "municipality": "Houston",
         "name": "George Bush Intercontinental Houston Airport"
+      }
+    }
+  },
+  "VJT437": {
+    "time": 1795270842.188995,
+    "route": {
+      "callsign": "VJT437",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 218,
+        "iata_code": "LBG",
+        "icao_code": "LFPB",
+        "latitude": 48.9694,
+        "longitude": 2.44139,
+        "municipality": "Paris",
+        "name": "Paris-Le Bourget Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 353,
+        "iata_code": "LIN",
+        "icao_code": "LIML",
+        "latitude": 45.4451,
+        "longitude": 9.27674,
+        "municipality": "Milan",
+        "name": "Milano Linate Airport"
+      }
+    }
+  },
+  "EXS4RW": {
+    "time": 1795270842.188995,
+    "route": {
+      "callsign": "EXS4RW",
+      "callsign_icao": "EXS4RW",
+      "callsign_iata": "LS4RW",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 177,
+        "iata_code": "AYT",
+        "icao_code": "LTAI",
+        "latitude": 36.8987,
+        "longitude": 30.8005,
+        "municipality": "Antalya",
+        "name": "Antalya International Airport"
       }
     }
   }
