@@ -4497,7 +4497,7 @@
     }
   },
   "ACA857": {
-    "time": 1795102255.8474145,
+    "time": 1795275936.022407,
     "route": {
       "callsign": "ACA857",
       "callsign_icao": "ACA857",
@@ -12891,7 +12891,7 @@
     }
   },
   "BAW135": {
-    "time": 1795108538.4126415,
+    "time": 1795275936.022407,
     "route": {
       "callsign": "BAW135",
       "callsign_icao": "BAW135",
@@ -44662,7 +44662,7 @@
     }
   },
   "KLC85F": {
-    "time": 1795103442.7419763,
+    "time": 1795275936.022407,
     "route": {
       "callsign": "KLC85F",
       "callsign_icao": "KLC85F",
@@ -92652,7 +92652,7 @@
     }
   },
   "BAW677": {
-    "time": 1795106441.5133352,
+    "time": 1795275936.022407,
     "route": {
       "callsign": "BAW677",
       "callsign_icao": "BAW677",
@@ -119386,7 +119386,7 @@
     }
   },
   "EZY61JC": {
-    "time": 1795104332.3386576,
+    "time": 1795275936.022407,
     "route": {
       "callsign": "EZY61JC",
       "callsign_icao": "EZY61JC",
@@ -147405,37 +147405,6 @@
       }
     }
   },
-  "GBEMW": {
-    "time": 1794671133.8258219,
-    "route": {
-      "callsign": "GBEMW",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 163,
-        "iata_code": null,
-        "icao_code": "EGSY",
-        "latitude": 51.4048,
-        "longitude": -3.43575,
-        "municipality": "St. Athan",
-        "name": "St. Athan Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 433,
-        "iata_code": "GBA",
-        "icao_code": "EGBP",
-        "latitude": 51.6681,
-        "longitude": -2.05694,
-        "municipality": "Kemble",
-        "name": "Cotswold Airport"
-      }
-    }
-  },
   "TOM528": {
     "time": 1795169739.1505194,
     "route": {
@@ -151567,44 +151536,6 @@
         "longitude": -1.8425,
         "municipality": "Bournemouth",
         "name": "Bournemouth Airport"
-      }
-    }
-  },
-  "RJA116": {
-    "time": 1794671133.8258219,
-    "route": {
-      "callsign": "RJA116",
-      "callsign_icao": "RJA116",
-      "callsign_iata": "RJ116",
-      "airline": {
-        "name": "Royal Jordanian",
-        "icao": "RJA",
-        "iata": "RJ",
-        "country": "Jordan",
-        "country_iso": "JO",
-        "callsign": "JORDANIAN"
-      },
-      "origin": {
-        "country_iso_name": "DK",
-        "country_name": "Denmark",
-        "elevation": 17,
-        "iata_code": "CPH",
-        "icao_code": "EKCH",
-        "latitude": 55.6179,
-        "longitude": 12.656,
-        "municipality": "Copenhagen",
-        "name": "Copenhagen Kastrup Airport"
-      },
-      "destination": {
-        "country_iso_name": "JO",
-        "country_name": "Jordan",
-        "elevation": 2395,
-        "iata_code": "AMM",
-        "icao_code": "OJAI",
-        "latitude": 31.7226,
-        "longitude": 35.9932,
-        "municipality": "Amman",
-        "name": "Queen Alia International Airport"
       }
     }
   },
@@ -168334,7 +168265,7 @@
     }
   },
   "UAL415": {
-    "time": 1795102529.8812835,
+    "time": 1795275936.022407,
     "route": {
       "callsign": "UAL415",
       "callsign_icao": "UAL415",
@@ -201964,6 +201895,44 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "NOZ85W": {
+    "time": 1795275936.022407,
+    "route": {
+      "callsign": "NOZ85W",
+      "callsign_icao": "NOZ85W",
+      "callsign_iata": "85W",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 192,
+        "iata_code": "FNC",
+        "icao_code": "LPMA",
+        "latitude": 32.6979,
+        "longitude": -16.7745,
+        "municipality": "Funchal",
+        "name": "Madeira International Airport Cristiano Ronaldo"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
       }
     }
   }
