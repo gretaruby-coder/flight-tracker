@@ -25075,7 +25075,7 @@
     }
   },
   "DAL30": {
-    "time": 1795074039.4762273,
+    "time": 1795245927.2362437,
     "route": {
       "callsign": "DAL30",
       "callsign_icao": "DAL30",
@@ -32571,7 +32571,7 @@
     }
   },
   "ABY265": {
-    "time": 1795077333.024722,
+    "time": 1795245927.2362437,
     "route": {
       "callsign": "ABY265",
       "callsign_icao": "ABY265",
@@ -64705,7 +64705,7 @@
     }
   },
   "EFW66MB": {
-    "time": 1795003532.57824,
+    "time": 1795245927.2362437,
     "route": {
       "callsign": "EFW66MB",
       "callsign_icao": "EFW66MB",
@@ -89239,7 +89239,7 @@
     }
   },
   "EZY46RC": {
-    "time": 1795075265.2683027,
+    "time": 1795245927.2362437,
     "route": {
       "callsign": "EZY46RC",
       "callsign_icao": "EZY46RC",
@@ -89277,7 +89277,7 @@
     }
   },
   "BAW676": {
-    "time": 1795073454.6806333,
+    "time": 1795245927.2362437,
     "route": {
       "callsign": "BAW676",
       "callsign_icao": "BAW676",
@@ -152506,82 +152506,6 @@
       }
     }
   },
-  "NOZ1758": {
-    "time": 1794640837.6836855,
-    "route": {
-      "callsign": "NOZ1758",
-      "callsign_icao": "NOZ1758",
-      "callsign_iata": "1758",
-      "airline": {
-        "name": "Norwegian Air Shuttle AOC AS",
-        "icao": "NOZ",
-        "iata": null,
-        "country": "Norway",
-        "country_iso": "NO",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "NO",
-        "country_name": "Norway",
-        "elevation": 29,
-        "iata_code": "SVG",
-        "icao_code": "ENZV",
-        "latitude": 58.8767,
-        "longitude": 5.63778,
-        "municipality": "Stavanger",
-        "name": "Stavanger Airport, Sola"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 209,
-        "iata_code": "TFS",
-        "icao_code": "GCTS",
-        "latitude": 28.0445,
-        "longitude": -16.5725,
-        "municipality": "Tenerife",
-        "name": "Tenerife Sur Airport"
-      }
-    }
-  },
-  "EXS8KH": {
-    "time": 1794640837.6836855,
-    "route": {
-      "callsign": "EXS8KH",
-      "callsign_icao": "EXS8KH",
-      "callsign_iata": "LS8KH",
-      "airline": {
-        "name": "Jet2.com",
-        "icao": "EXS",
-        "iata": "LS",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "CHANNEX"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 135,
-        "iata_code": "EDI",
-        "icao_code": "EGPH",
-        "latitude": 55.95015,
-        "longitude": -3.37229,
-        "municipality": "Edinburgh",
-        "name": "Edinburgh Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 142,
-        "iata_code": "ALC",
-        "icao_code": "LEAL",
-        "latitude": 38.2822,
-        "longitude": -0.55816,
-        "municipality": "Alicante",
-        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
-      }
-    }
-  },
   "KLM628": {
     "time": 1795154731.0865345,
     "route": {
@@ -153519,7 +153443,7 @@
     }
   },
   "QTR8176": {
-    "time": 1794647127.7870874,
+    "time": 1795245927.2362437,
     "route": {
       "callsign": "QTR8176",
       "callsign_icao": "QTR8176",
@@ -202993,6 +202917,44 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "TFL393": {
+    "time": 1795245927.2362437,
+    "route": {
+      "callsign": "TFL393",
+      "callsign_icao": "TFL393",
+      "callsign_iata": "OR393",
+      "airline": {
+        "name": "Arkefly",
+        "icao": "TFL",
+        "iata": "OR",
+        "country": "Netherlands",
+        "country_iso": "NL",
+        "callsign": "ARKEFLY"
+      },
+      "origin": {
+        "country_iso_name": "CW",
+        "country_name": "Cura\u00e7ao",
+        "elevation": 29,
+        "iata_code": "CUR",
+        "icao_code": "TNCC",
+        "latitude": 12.1889,
+        "longitude": -68.9598,
+        "municipality": "Willemstad",
+        "name": "Hato International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
       }
     }
   }
