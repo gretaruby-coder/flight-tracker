@@ -23517,7 +23517,7 @@
     }
   },
   "VIR411Y": {
-    "time": 1795214435.3537078,
+    "time": 1795301434.1051066,
     "route": {
       "callsign": "VIR411Y",
       "callsign_icao": "VIR411Y",
@@ -49599,7 +49599,7 @@
     }
   },
   "BCS6756": {
-    "time": 1795081249.2278185,
+    "time": 1795301434.1051066,
     "route": {
       "callsign": "BCS6756",
       "callsign_icao": "BCS6756",
@@ -87612,7 +87612,7 @@
     }
   },
   "RYR935Q": {
-    "time": 1794858040.0541403,
+    "time": 1795301434.1051066,
     "route": {
       "callsign": "RYR935Q",
       "callsign_icao": "RYR935Q",
@@ -105692,44 +105692,6 @@
         "longitude": -2.71909,
         "municipality": "Bristol",
         "name": "Bristol Airport"
-      }
-    }
-  },
-  "RYR3889": {
-    "time": 1794696335.668275,
-    "route": {
-      "callsign": "RYR3889",
-      "callsign_icao": "RYR3889",
-      "callsign_iata": "FR3889",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "MT",
-        "country_name": "Malta",
-        "elevation": 300,
-        "iata_code": "MLA",
-        "icao_code": "LMML",
-        "latitude": 35.8575,
-        "longitude": 14.4775,
-        "municipality": "Valletta",
-        "name": "Malta International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 327,
-        "iata_code": "BHX",
-        "icao_code": "EGBB",
-        "latitude": 52.4539,
-        "longitude": -1.74803,
-        "municipality": "Birmingham",
-        "name": "Birmingham International Airport"
       }
     }
   },
@@ -202068,6 +202030,44 @@
         "longitude": 8.72811,
         "municipality": "Milan",
         "name": "Malpensa International Airport"
+      }
+    }
+  },
+  "WUK848": {
+    "time": 1795301434.1051066,
+    "route": {
+      "callsign": "WUK848",
+      "callsign_icao": "WUK848",
+      "callsign_iata": "W9848",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "AL",
+        "country_name": "Albania",
+        "elevation": 126,
+        "iata_code": "TIA",
+        "icao_code": "LATI",
+        "latitude": 41.4147,
+        "longitude": 19.7206,
+        "municipality": "Tirana",
+        "name": "Tirana International Airport Mother Teresa"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
       }
     }
   }
