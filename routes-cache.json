@@ -411,7 +411,7 @@
     }
   },
   "ITY204": {
-    "time": 1795189239.60623,
+    "time": 1795275641.0055268,
     "route": {
       "callsign": "ITY204",
       "callsign_icao": "ITY204",
@@ -9340,7 +9340,7 @@
     }
   },
   "EIN16T": {
-    "time": 1795103442.7419763,
+    "time": 1795275641.0055268,
     "route": {
       "callsign": "EIN16T",
       "callsign_icao": "EIN16T",
@@ -10093,7 +10093,7 @@
     }
   },
   "BAW137": {
-    "time": 1795106441.5133352,
+    "time": 1795275641.0055268,
     "route": {
       "callsign": "BAW137",
       "callsign_icao": "BAW137",
@@ -11613,7 +11613,7 @@
     }
   },
   "BAW343E": {
-    "time": 1795189239.60623,
+    "time": 1795275641.0055268,
     "route": {
       "callsign": "BAW343E",
       "callsign_icao": "BAW343E",
@@ -16114,7 +16114,7 @@
     }
   },
   "BAW505": {
-    "time": 1795188657.5395832,
+    "time": 1795275641.0055268,
     "route": {
       "callsign": "BAW505",
       "callsign_icao": "BAW505",
@@ -56231,7 +56231,7 @@
     }
   },
   "BAW588L": {
-    "time": 1795112140.8695538,
+    "time": 1795275641.0055268,
     "route": {
       "callsign": "BAW588L",
       "callsign_icao": "BAW588L",
@@ -115289,7 +115289,7 @@
     }
   },
   "LHX7H": {
-    "time": 1795105539.6229572,
+    "time": 1795275641.0055268,
     "route": {
       "callsign": "LHX7H",
       "callsign_icao": "LHX7H",
@@ -145306,44 +145306,6 @@
         "longitude": 31.4056,
         "municipality": "Cairo",
         "name": "Cairo International Airport"
-      }
-    }
-  },
-  "UAL125": {
-    "time": 1794670834.8360996,
-    "route": {
-      "callsign": "UAL125",
-      "callsign_icao": "UAL125",
-      "callsign_iata": "UA125",
-      "airline": {
-        "name": "United Airlines",
-        "icao": "UAL",
-        "iata": "UA",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "UNITED"
-      },
-      "origin": {
-        "country_iso_name": "GR",
-        "country_name": "Greece",
-        "elevation": 308,
-        "iata_code": "ATH",
-        "icao_code": "LGAV",
-        "latitude": 37.9364,
-        "longitude": 23.9445,
-        "municipality": "Athens",
-        "name": "Athens Eleftherios Venizelos International Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 18,
-        "iata_code": "EWR",
-        "icao_code": "KEWR",
-        "latitude": 40.6925,
-        "longitude": -74.1687,
-        "municipality": "New York",
-        "name": "Newark Liberty International Airport"
       }
     }
   },
@@ -201964,6 +201926,44 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "KAC107": {
+    "time": 1795275641.0055268,
+    "route": {
+      "callsign": "KAC107",
+      "callsign_icao": "KAC107",
+      "callsign_iata": "KU107",
+      "airline": {
+        "name": "Kuwait Airways",
+        "icao": "KAC",
+        "iata": "KU",
+        "country": "Kuwait",
+        "country_iso": "KW",
+        "callsign": "KUWAITI"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
       }
     }
   }
