@@ -12670,7 +12670,7 @@
     }
   },
   "SHT9P": {
-    "time": 1795203636.0656013,
+    "time": 1795290037.946199,
     "route": {
       "callsign": "SHT9P",
       "callsign_icao": null,
@@ -14221,7 +14221,7 @@
     }
   },
   "BAW178": {
-    "time": 1795116931.1820655,
+    "time": 1795290037.946199,
     "route": {
       "callsign": "BAW178",
       "callsign_icao": "BAW178",
@@ -18014,7 +18014,7 @@
     }
   },
   "AUR611Y": {
-    "time": 1795118129.7801912,
+    "time": 1795290037.946199,
     "route": {
       "callsign": "AUR611Y",
       "callsign_icao": "AUR611Y",
@@ -72115,7 +72115,7 @@
     }
   },
   "EZY86LR": {
-    "time": 1794947128.05022,
+    "time": 1795290037.946199,
     "route": {
       "callsign": "EZY86LR",
       "callsign_icao": "EZY86LR",
@@ -86434,7 +86434,7 @@
     }
   },
   "EZY763D": {
-    "time": 1795203636.0656013,
+    "time": 1795290037.946199,
     "route": {
       "callsign": "EZY763D",
       "callsign_icao": "EZY763D",
@@ -86510,7 +86510,7 @@
     }
   },
   "BAW679": {
-    "time": 1795120840.1456194,
+    "time": 1795290037.946199,
     "route": {
       "callsign": "BAW679",
       "callsign_icao": "BAW679",
@@ -201860,6 +201860,120 @@
         "longitude": -3.37229,
         "municipality": "Edinburgh",
         "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "EJU9676": {
+    "time": 1795290037.946199,
+    "route": {
+      "callsign": "EJU9676",
+      "callsign_icao": "EJU9676",
+      "callsign_iata": "EC9676",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 26,
+        "iata_code": "GLA",
+        "icao_code": "EGPF",
+        "latitude": 55.8719,
+        "longitude": -4.43306,
+        "municipality": "Paisley, Renfrewshire",
+        "name": "Glasgow International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "RYR1CG": {
+    "time": 1795290037.946199,
+    "route": {
+      "callsign": "RYR1CG",
+      "callsign_icao": "RYR1CG",
+      "callsign_iata": "FR1CG",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 359,
+        "iata_code": "BVA",
+        "icao_code": "LFOB",
+        "latitude": 49.4544,
+        "longitude": 2.11278,
+        "municipality": "Beauvais",
+        "name": "Paris Beauvais Till\u00e9 Airport"
+      },
+      "destination": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      }
+    }
+  },
+  "RYR68CF": {
+    "time": 1795290037.946199,
+    "route": {
+      "callsign": "RYR68CF",
+      "callsign_icao": "RYR68CF",
+      "callsign_iata": "FR68CF",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "MT",
+        "country_name": "Malta",
+        "elevation": 300,
+        "iata_code": "MLA",
+        "icao_code": "LMML",
+        "latitude": 35.8575,
+        "longitude": 14.4775,
+        "municipality": "Valletta",
+        "name": "Malta International Airport"
       },
       "destination": {
         "country_iso_name": "GB",
