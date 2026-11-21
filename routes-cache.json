@@ -14601,7 +14601,7 @@
     }
   },
   "BBC202": {
-    "time": 1795200638.5710495,
+    "time": 1795287927.8756285,
     "route": {
       "callsign": "BBC202",
       "callsign_icao": "BBC202",
@@ -201757,6 +201757,82 @@
         "longitude": 11.1004,
         "municipality": "Oslo",
         "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "RYR96QC": {
+    "time": 1795287927.8756285,
+    "route": {
+      "callsign": "RYR96QC",
+      "callsign_icao": "RYR96QC",
+      "callsign_iata": "FR96QC",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 302,
+        "iata_code": "MAH",
+        "icao_code": "LEMH",
+        "latitude": 39.8626,
+        "longitude": 4.21865,
+        "municipality": "Menorca Island",
+        "name": "Menorca Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      }
+    }
+  },
+  "RYR420K": {
+    "time": 1795287927.8756285,
+    "route": {
+      "callsign": "RYR420K",
+      "callsign_icao": "RYR420K",
+      "callsign_iata": "FR420K",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": 74,
+        "iata_code": "EIN",
+        "icao_code": "EHEH",
+        "latitude": 51.4501,
+        "longitude": 5.37453,
+        "municipality": "Eindhoven",
+        "name": "Eindhoven Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
