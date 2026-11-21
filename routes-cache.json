@@ -7378,7 +7378,7 @@
     }
   },
   "BBC201": {
-    "time": 1795189239.60623,
+    "time": 1795277740.8225355,
     "route": {
       "callsign": "BBC201",
       "callsign_icao": "BBC201",
@@ -15437,7 +15437,7 @@
     }
   },
   "BAW695": {
-    "time": 1795188930.5668237,
+    "time": 1795277740.8225355,
     "route": {
       "callsign": "BAW695",
       "callsign_icao": "BAW695",
@@ -43225,7 +43225,7 @@
     }
   },
   "BAW988G": {
-    "time": 1795107328.8140936,
+    "time": 1795277740.8225355,
     "route": {
       "callsign": "BAW988G",
       "callsign_icao": "BAW988G",
@@ -44814,7 +44814,7 @@
     }
   },
   "BAW744": {
-    "time": 1794762636.9440424,
+    "time": 1795277740.8225355,
     "route": {
       "callsign": "BAW744",
       "callsign_icao": "BAW744",
@@ -52625,7 +52625,7 @@
     }
   },
   "BAW311": {
-    "time": 1794933329.5152242,
+    "time": 1795277740.8225355,
     "route": {
       "callsign": "BAW311",
       "callsign_icao": "BAW311",
@@ -130979,7 +130979,7 @@
     }
   },
   "THY4UB": {
-    "time": 1795103730.9655473,
+    "time": 1795277740.8225355,
     "route": {
       "callsign": "THY4UB",
       "callsign_icao": "THY4UB",
@@ -151432,44 +151432,6 @@
       }
     }
   },
-  "AFR6722": {
-    "time": 1794672935.4400012,
-    "route": {
-      "callsign": "AFR6722",
-      "callsign_icao": "AFR6722",
-      "callsign_iata": "AF6722",
-      "airline": {
-        "name": "Air France",
-        "icao": "AFR",
-        "iata": "AF",
-        "country": "France",
-        "country_iso": "FR",
-        "callsign": "AIRFRANS"
-      },
-      "origin": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 392,
-        "iata_code": "CDG",
-        "icao_code": "LFPG",
-        "latitude": 49.0128,
-        "longitude": 2.55,
-        "municipality": "Paris",
-        "name": "Charles de Gaulle International Airport"
-      },
-      "destination": {
-        "country_iso_name": "MX",
-        "country_name": "Mexico",
-        "elevation": 7316,
-        "iata_code": "MEX",
-        "icao_code": "MMMX",
-        "latitude": 19.4363,
-        "longitude": -99.0721,
-        "municipality": "Mexico City",
-        "name": "Licenciado Benito Juarez International Airport"
-      }
-    }
-  },
   "AWC71": {
     "time": 1794673236.3590028,
     "route": {
@@ -151585,7 +151547,7 @@
     }
   },
   "RYR7QW": {
-    "time": 1794674735.5897324,
+    "time": 1795277740.8225355,
     "route": {
       "callsign": "RYR7QW",
       "callsign_icao": "RYR7QW",
@@ -175182,7 +175144,7 @@
     }
   },
   "EFW41CT": {
-    "time": 1794934528.7184005,
+    "time": 1795277740.8225355,
     "route": {
       "callsign": "EFW41CT",
       "callsign_icao": "EFW41CT",
@@ -179384,7 +179346,7 @@
     }
   },
   "TAP13CT": {
-    "time": 1795015854.562368,
+    "time": 1795277740.8225355,
     "route": {
       "callsign": "TAP13CT",
       "callsign_icao": "TAP13CT",
@@ -201971,6 +201933,82 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "QAF3": {
+    "time": 1795277740.8225355,
+    "route": {
+      "callsign": "QAF3",
+      "callsign_icao": "QAF3",
+      "callsign_iata": "3",
+      "airline": {
+        "name": "Qatar Amiri Flight",
+        "icao": "QAF",
+        "iata": null,
+        "country": "Qatar",
+        "country_iso": "QA",
+        "callsign": "AMIRI"
+      },
+      "origin": {
+        "country_iso_name": "QA",
+        "country_name": "Qatar",
+        "elevation": 13,
+        "iata_code": "DOH",
+        "icao_code": "OTHH",
+        "latitude": 25.27306,
+        "longitude": 51.60806,
+        "municipality": "Doha",
+        "name": "Hamad International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "VKG514": {
+    "time": 1795277740.8225355,
+    "route": {
+      "callsign": "VKG514",
+      "callsign_icao": "VKG514",
+      "callsign_iata": "514",
+      "airline": {
+        "name": "SunClass Airlines",
+        "icao": "VKG",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": "VIKING"
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 56,
+        "iata_code": "TRD",
+        "icao_code": "ENVA",
+        "latitude": 63.4578,
+        "longitude": 10.924,
+        "municipality": "Trondheim",
+        "name": "Trondheim Airport, V\u00e6rnes"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
       }
     }
   }
