@@ -51834,7 +51834,7 @@
     }
   },
   "TAP1337": {
-    "time": 1795194063.0979528,
+    "time": 1795282528.5911205,
     "route": {
       "callsign": "TAP1337",
       "callsign_icao": "TAP1337",
@@ -122792,7 +122792,7 @@
     }
   },
   "RYR87JZ": {
-    "time": 1795173049.608753,
+    "time": 1795282528.5911205,
     "route": {
       "callsign": "RYR87JZ",
       "callsign_icao": "RYR87JZ",
@@ -128288,7 +128288,7 @@
     }
   },
   "IBE07DW": {
-    "time": 1795112443.2712967,
+    "time": 1795282528.5911205,
     "route": {
       "callsign": "IBE07DW",
       "callsign_icao": "IBE07DW",
@@ -130975,44 +130975,6 @@
         "longitude": 12.23639,
         "municipality": "Leipzig",
         "name": "Leipzig/Halle Airport"
-      }
-    }
-  },
-  "SAS2902": {
-    "time": 1794677726.7800832,
-    "route": {
-      "callsign": "SAS2902",
-      "callsign_icao": "SAS2902",
-      "callsign_iata": "SK2902",
-      "airline": {
-        "name": "Scandinavian Airlines System",
-        "icao": "SAS",
-        "iata": "SK",
-        "country": "Sweden",
-        "country_iso": "SE",
-        "callsign": "SCANDINAVIAN"
-      },
-      "origin": {
-        "country_iso_name": "PT",
-        "country_name": "Portugal",
-        "elevation": 192,
-        "iata_code": "FNC",
-        "icao_code": "LPMA",
-        "latitude": 32.6979,
-        "longitude": -16.7745,
-        "municipality": "Funchal",
-        "name": "Madeira International Airport Cristiano Ronaldo"
-      },
-      "destination": {
-        "country_iso_name": "SE",
-        "country_name": "Sweden",
-        "elevation": 137,
-        "iata_code": "ARN",
-        "icao_code": "ESSA",
-        "latitude": 59.6519,
-        "longitude": 17.9186,
-        "municipality": "Stockholm",
-        "name": "Stockholm-Arlanda Airport"
       }
     }
   },
@@ -202147,6 +202109,113 @@
         "longitude": 5.63778,
         "municipality": "Stavanger",
         "name": "Stavanger Airport, Sola"
+      }
+    }
+  },
+  "RYR66YL": {
+    "time": 1795282528.5911205,
+    "route": {
+      "callsign": "RYR66YL",
+      "callsign_icao": "RYR66YL",
+      "callsign_iata": "FR66YL",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
+      }
+    }
+  },
+  "NJE6QY": {
+    "time": 1795282528.5911205,
+    "route": {
+      "callsign": "NJE6QY",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 502,
+        "iata_code": "ORK",
+        "icao_code": "EICK",
+        "latitude": 51.8413,
+        "longitude": -8.49111,
+        "municipality": "Cork",
+        "name": "Cork Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1299,
+        "iata_code": null,
+        "icao_code": "EDTY",
+        "latitude": 49.11833,
+        "longitude": 9.78389,
+        "municipality": "Schw\u00e4bisch Hall",
+        "name": "Adolf W\u00fcrth Airport"
+      }
+    }
+  },
+  "LOG841": {
+    "time": 1795282528.5911205,
+    "route": {
+      "callsign": "LOG841",
+      "callsign_icao": "LOG841",
+      "callsign_iata": "LC841",
+      "airline": {
+        "name": "Loganair",
+        "icao": "LOG",
+        "iata": "LC",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "LOGAN"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 220,
+        "iata_code": "CWL",
+        "icao_code": "EGFF",
+        "latitude": 51.3967,
+        "longitude": -3.34333,
+        "municipality": "Cardiff",
+        "name": "Cardiff International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
       }
     }
   }
