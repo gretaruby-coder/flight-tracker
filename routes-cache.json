@@ -93640,7 +93640,7 @@
     }
   },
   "RYR5WK": {
-    "time": 1794852070.4940503,
+    "time": 1795257051.8457963,
     "route": {
       "callsign": "RYR5WK",
       "callsign_icao": "RYR5WK",
@@ -95122,7 +95122,7 @@
     }
   },
   "RYR39WB": {
-    "time": 1794864929.3127015,
+    "time": 1795257051.8457963,
     "route": {
       "callsign": "RYR39WB",
       "callsign_icao": "RYR39WB",
@@ -96642,7 +96642,7 @@
     }
   },
   "KLM781": {
-    "time": 1795082130.0664816,
+    "time": 1795257051.8457963,
     "route": {
       "callsign": "KLM781",
       "callsign_icao": "KLM781",
@@ -142734,7 +142734,7 @@
     }
   },
   "SAS2901": {
-    "time": 1794915330.6691856,
+    "time": 1795257051.8457963,
     "route": {
       "callsign": "SAS2901",
       "callsign_icao": "SAS2901",
@@ -146408,37 +146408,6 @@
         "longitude": -0.36833,
         "municipality": "London",
         "name": "London Luton Airport"
-      }
-    }
-  },
-  "GNWFC": {
-    "time": 1794651928.924618,
-    "route": {
-      "callsign": "GNWFC",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 159,
-        "iata_code": "HAW",
-        "icao_code": "EGFE",
-        "latitude": 51.8331,
-        "longitude": -4.96111,
-        "municipality": "Haverfordwest",
-        "name": "Haverfordwest Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 1,
-        "iata_code": null,
-        "icao_code": "EGCK",
-        "latitude": 53.10182,
-        "longitude": -4.33761,
-        "municipality": "Caernarfon",
-        "name": "Caernarfon Airport"
       }
     }
   },
@@ -202254,6 +202223,151 @@
         "longitude": -74.1469,
         "municipality": "Bogota",
         "name": "El Dorado International Airport"
+      }
+    }
+  },
+  "NSZ1RP": {
+    "time": 1795257051.8457963,
+    "route": {
+      "callsign": "NSZ1RP",
+      "callsign_icao": "NSZ1RP",
+      "callsign_iata": "D81RP",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "GWACY": {
+    "time": 1795257051.8457963,
+    "route": {
+      "callsign": "GWACY",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 24,
+        "iata_code": null,
+        "icao_code": "EGLD",
+        "latitude": 51.5883,
+        "longitude": -0.51306,
+        "municipality": "Gerrards Cross",
+        "name": "Denham Aerodrome"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 24,
+        "iata_code": null,
+        "icao_code": "EGLD",
+        "latitude": 51.5883,
+        "longitude": -0.51306,
+        "municipality": "Gerrards Cross",
+        "name": "Denham Aerodrome"
+      }
+    }
+  },
+  "TOM010": {
+    "time": 1795257051.8457963,
+    "route": {
+      "callsign": "TOM10",
+      "callsign_icao": "TOM10",
+      "callsign_iata": "BY10",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "BB",
+        "country_name": "Barbados",
+        "elevation": 169,
+        "iata_code": "BGI",
+        "icao_code": "TBPB",
+        "latitude": 13.0746,
+        "longitude": -59.4925,
+        "municipality": "Bridgetown",
+        "name": "Grantley Adams International Airport"
+      }
+    }
+  },
+  "EFW5JM": {
+    "time": 1795257051.8457963,
+    "route": {
+      "callsign": "EFW5JM",
+      "callsign_icao": "EFW5JM",
+      "callsign_iata": "A05JM",
+      "airline": {
+        "name": "BA Euroflyer",
+        "icao": "EFW",
+        "iata": "A0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Griffin"
+      },
+      "origin": {
+        "country_iso_name": "JE",
+        "country_name": "Jersey",
+        "elevation": 277,
+        "iata_code": "JER",
+        "icao_code": "EGJJ",
+        "latitude": 49.2079,
+        "longitude": -2.19551,
+        "municipality": "Saint Helier",
+        "name": "Jersey Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
