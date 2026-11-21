@@ -52998,7 +52998,7 @@
     }
   },
   "BAW2231": {
-    "time": 1795123853.8836644,
+    "time": 1795299333.6271954,
     "route": {
       "callsign": "BAW2231",
       "callsign_icao": "BAW2231",
@@ -75459,7 +75459,7 @@
     }
   },
   "RYR74CE": {
-    "time": 1795180846.5836618,
+    "time": 1795299333.6271954,
     "route": {
       "callsign": "RYR74CE",
       "callsign_icao": "RYR74CE",
@@ -75611,7 +75611,7 @@
     }
   },
   "RYR40UC": {
-    "time": 1795201260.3614695,
+    "time": 1795299333.6271954,
     "route": {
       "callsign": "RYR40UC",
       "callsign_icao": "RYR40UC",
@@ -201954,6 +201954,44 @@
         "longitude": -89.9767,
         "municipality": "Memphis",
         "name": "Memphis International Airport"
+      }
+    }
+  },
+  "NOZ5RY": {
+    "time": 1795299333.6271954,
+    "route": {
+      "callsign": "NOZ5RY",
+      "callsign_icao": "NOZ5RY",
+      "callsign_iata": "5RY",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
       }
     }
   }
