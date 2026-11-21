@@ -1675,7 +1675,7 @@
     }
   },
   "TAP52TP": {
-    "time": 1795177529.0141516,
+    "time": 1795264251.0670693,
     "route": {
       "callsign": "TAP52TP",
       "callsign_icao": "TAP52TP",
@@ -3699,7 +3699,7 @@
     }
   },
   "BAW549": {
-    "time": 1795091456.4916384,
+    "time": 1795264251.0670693,
     "route": {
       "callsign": "BAW549",
       "callsign_icao": "BAW549",
@@ -7043,7 +7043,7 @@
     }
   },
   "SHT9B": {
-    "time": 1795177529.0141516,
+    "time": 1795264251.0670693,
     "route": {
       "callsign": "SHT9B",
       "callsign_icao": null,
@@ -52207,7 +52207,7 @@
     }
   },
   "BAW769": {
-    "time": 1795093840.631552,
+    "time": 1795264251.0670693,
     "route": {
       "callsign": "BAW769",
       "callsign_icao": "BAW769",
@@ -91633,7 +91633,7 @@
     }
   },
   "AFR17AQ": {
-    "time": 1795091456.4916384,
+    "time": 1795264251.0670693,
     "route": {
       "callsign": "AFR17AQ",
       "callsign_icao": "AFR17AQ",
@@ -110501,7 +110501,7 @@
     }
   },
   "RUK44BE": {
-    "time": 1795149330.693935,
+    "time": 1795264251.0670693,
     "route": {
       "callsign": "RUK44BE",
       "callsign_icao": "RUK44BE",
@@ -130560,44 +130560,6 @@
       }
     }
   },
-  "NOZ8BU": {
-    "time": 1794659446.906777,
-    "route": {
-      "callsign": "NOZ8BU",
-      "callsign_icao": "NOZ8BU",
-      "callsign_iata": "8BU",
-      "airline": {
-        "name": "Norwegian Air Shuttle AOC AS",
-        "icao": "NOZ",
-        "iata": null,
-        "country": "Norway",
-        "country_iso": "NO",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "NO",
-        "country_name": "Norway",
-        "elevation": 681,
-        "iata_code": "OSL",
-        "icao_code": "ENGM",
-        "latitude": 60.1939,
-        "longitude": 11.1004,
-        "municipality": "Oslo",
-        "name": "Oslo Airport, Gardermoen"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 46,
-        "iata_code": "ACE",
-        "icao_code": "GCRR",
-        "latitude": 28.9455,
-        "longitude": -13.6052,
-        "municipality": "Lanzarote Island",
-        "name": "C\u00e9sar Manrique-Lanzarote Airport"
-      }
-    }
-  },
   "WUK8181": {
     "time": 1795092642.1378505,
     "route": {
@@ -141843,7 +141805,7 @@
     }
   },
   "NSZ75Z": {
-    "time": 1794903038.9599516,
+    "time": 1795264251.0670693,
     "route": {
       "callsign": "NSZ75Z",
       "callsign_icao": "NSZ75Z",
@@ -202458,6 +202420,44 @@
         "longitude": -68.9598,
         "municipality": "Willemstad",
         "name": "Hato International Airport"
+      }
+    }
+  },
+  "DLH460": {
+    "time": 1795264251.0670693,
+    "route": {
+      "callsign": "DLH460",
+      "callsign_icao": "DLH460",
+      "callsign_iata": "LH460",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1487,
+        "iata_code": "MUC",
+        "icao_code": "EDDM",
+        "latitude": 48.3538,
+        "longitude": 11.7861,
+        "municipality": "Munich",
+        "name": "Munich Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 8,
+        "iata_code": "MIA",
+        "icao_code": "KMIA",
+        "latitude": 25.7932,
+        "longitude": -80.2906,
+        "municipality": "Miami",
+        "name": "Miami International Airport"
       }
     }
   }
