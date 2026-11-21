@@ -2321,7 +2321,7 @@
     }
   },
   "VIR45W": {
-    "time": 1795176061.768064,
+    "time": 1795262463.269028,
     "route": {
       "callsign": "VIR45W",
       "callsign_icao": "VIR45W",
@@ -3136,7 +3136,7 @@
     }
   },
   "ASA100": {
-    "time": 1795176061.768064,
+    "time": 1795262463.269028,
     "route": {
       "callsign": "ASA100",
       "callsign_icao": "ASA100",
@@ -20332,7 +20332,7 @@
     }
   },
   "BAW755": {
-    "time": 1795174835.961151,
+    "time": 1795262463.269028,
     "route": {
       "callsign": "BAW755",
       "callsign_icao": "BAW755",
@@ -39929,7 +39929,7 @@
     }
   },
   "AAL136": {
-    "time": 1795091738.1280632,
+    "time": 1795262463.269028,
     "route": {
       "callsign": "AAL136",
       "callsign_icao": "AAL136",
@@ -43985,7 +43985,7 @@
     }
   },
   "CFE72JF": {
-    "time": 1794657930.2773561,
+    "time": 1795262463.269028,
     "route": {
       "callsign": "CFE72JF",
       "callsign_icao": "CFE72JF",
@@ -50245,7 +50245,7 @@
     }
   },
   "DAL51": {
-    "time": 1795086074.712184,
+    "time": 1795262463.269028,
     "route": {
       "callsign": "DAL51",
       "callsign_icao": "DAL51",
@@ -70063,7 +70063,7 @@
     }
   },
   "QTR85M": {
-    "time": 1795092040.8463287,
+    "time": 1795262463.269028,
     "route": {
       "callsign": "QTR85M",
       "callsign_icao": "QTR85M",
@@ -71203,7 +71203,7 @@
     }
   },
   "EWG6K": {
-    "time": 1795090245.2167947,
+    "time": 1795262463.269028,
     "route": {
       "callsign": "EWG6K",
       "callsign_icao": "EWG6K",
@@ -90835,7 +90835,7 @@
     }
   },
   "RYR26GP": {
-    "time": 1795112729.0718377,
+    "time": 1795262463.269028,
     "route": {
       "callsign": "RYR26GP",
       "callsign_icao": "RYR26GP",
@@ -202261,6 +202261,120 @@
         "longitude": 4.76389,
         "municipality": "Amsterdam",
         "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "SAS7527": {
+    "time": 1795262463.269028,
+    "route": {
+      "callsign": "SAS7527",
+      "callsign_icao": "SAS7527",
+      "callsign_iata": "SK7527",
+      "airline": {
+        "name": "Scandinavian Airlines System",
+        "icao": "SAS",
+        "iata": "SK",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": "SCANDINAVIAN"
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 29,
+        "iata_code": "SVG",
+        "icao_code": "ENZV",
+        "latitude": 58.8767,
+        "longitude": 5.63778,
+        "municipality": "Stavanger",
+        "name": "Stavanger Airport, Sola"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "UAL986": {
+    "time": 1795262463.269028,
+    "route": {
+      "callsign": "UAL986",
+      "callsign_icao": "UAL986",
+      "callsign_iata": "UA986",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      }
+    }
+  },
+  "PGT92JL": {
+    "time": 1795262463.269028,
+    "route": {
+      "callsign": "PGT92JL",
+      "callsign_icao": "PGT92JL",
+      "callsign_iata": "H992JL",
+      "airline": {
+        "name": "Pegasus Airlines",
+        "icao": "PGT",
+        "iata": "H9",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "SUNTURK"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 312,
+        "iata_code": "SAW",
+        "icao_code": "LTFJ",
+        "latitude": 40.8986,
+        "longitude": 29.3092,
+        "municipality": "Pendik, Istanbul",
+        "name": "Istanbul Sabiha G\u00f6k\u00e7en International Airport"
       }
     }
   }
