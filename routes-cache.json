@@ -24011,7 +24011,7 @@
     }
   },
   "QFA219": {
-    "time": 1795151739.684482,
+    "time": 1795239048.6919618,
     "route": {
       "callsign": "QFA219",
       "callsign_icao": "QFA219",
@@ -25417,7 +25417,7 @@
     }
   },
   "BAW2064": {
-    "time": 1795065338.4809275,
+    "time": 1795239048.6919618,
     "route": {
       "callsign": "BAW2064",
       "callsign_icao": "BAW2064",
@@ -203487,6 +203487,44 @@
         "longitude": -0.77633,
         "municipality": "Farnborough",
         "name": "Farnborough Airport"
+      }
+    }
+  },
+  "DAL152": {
+    "time": 1795239048.6919618,
+    "route": {
+      "callsign": "DAL152",
+      "callsign_icao": "DAL152",
+      "callsign_iata": "DL152",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
       }
     }
   }
