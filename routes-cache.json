@@ -202191,5 +202191,43 @@
         "name": "London Gatwick Airport"
       }
     }
+  },
+  "AWC672L": {
+    "time": 1795311047.3180816,
+    "route": {
+      "callsign": "AWC672L",
+      "callsign_icao": "AWC672L",
+      "callsign_iata": "ZT672L",
+      "airline": {
+        "name": "Titan Airways",
+        "icao": "AWC",
+        "iata": "ZT",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "ZAP"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 8,
+        "iata_code": "MIA",
+        "icao_code": "KMIA",
+        "latitude": 25.7932,
+        "longitude": -80.2906,
+        "municipality": "Miami",
+        "name": "Miami International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
   }
 }
