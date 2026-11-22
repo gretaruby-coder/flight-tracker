@@ -27994,7 +27994,7 @@
     }
   },
   "AAL86": {
-    "time": 1795247134.9398344,
+    "time": 1795333537.0638595,
     "route": {
       "callsign": "AAL86",
       "callsign_icao": "AAL86",
@@ -29386,7 +29386,7 @@
     }
   },
   "EIN63N": {
-    "time": 1795247134.9398344,
+    "time": 1795333537.0638595,
     "route": {
       "callsign": "EIN63N",
       "callsign_icao": "EIN63N",
@@ -30260,7 +30260,7 @@
     }
   },
   "EIN52A": {
-    "time": 1795246841.2142901,
+    "time": 1795333537.0638595,
     "route": {
       "callsign": "EIN52A",
       "callsign_icao": "EIN52A",
@@ -32989,7 +32989,7 @@
     }
   },
   "BAW302": {
-    "time": 1795244729.209849,
+    "time": 1795333537.0638595,
     "route": {
       "callsign": "BAW302",
       "callsign_icao": "BAW302",
@@ -55574,44 +55574,6 @@
       }
     }
   },
-  "UAL82": {
-    "time": 1794728735.3426309,
-    "route": {
-      "callsign": "UAL82",
-      "callsign_icao": "UAL82",
-      "callsign_iata": "UA82",
-      "airline": {
-        "name": "United Airlines",
-        "icao": "UAL",
-        "iata": "UA",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "UNITED"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 18,
-        "iata_code": "EWR",
-        "icao_code": "KEWR",
-        "latitude": 40.6925,
-        "longitude": -74.1687,
-        "municipality": "New York",
-        "name": "Newark Liberty International Airport"
-      },
-      "destination": {
-        "country_iso_name": "IN",
-        "country_name": "India",
-        "elevation": 777,
-        "iata_code": "DEL",
-        "icao_code": "VIDP",
-        "latitude": 28.5665,
-        "longitude": 77.1031,
-        "municipality": "New Delhi",
-        "name": "Indira Gandhi International Airport"
-      }
-    }
-  },
   "EZY39RG": {
     "time": 1795110339.73609,
     "route": {
@@ -61133,7 +61095,7 @@
     }
   },
   "QTR31Q": {
-    "time": 1795246841.2142901,
+    "time": 1795333537.0638595,
     "route": {
       "callsign": "QTR31Q",
       "callsign_icao": "QTR31Q",
@@ -62919,7 +62881,7 @@
     }
   },
   "EFW39MS": {
-    "time": 1795244729.209849,
+    "time": 1795333537.0638595,
     "route": {
       "callsign": "EFW39MS",
       "callsign_icao": "EFW39MS",
@@ -111641,7 +111603,7 @@
     }
   },
   "EZY28VM": {
-    "time": 1795162242.4638977,
+    "time": 1795333537.0638595,
     "route": {
       "callsign": "EZY28VM",
       "callsign_icao": "EZY28VM",
@@ -130713,7 +130675,7 @@
     }
   },
   "EZY34HB": {
-    "time": 1794729655.054639,
+    "time": 1795333537.0638595,
     "route": {
       "callsign": "EZY34HB",
       "callsign_icao": "EZY34HB",
@@ -201757,6 +201719,82 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "CLX81T": {
+    "time": 1795333537.0638595,
+    "route": {
+      "callsign": "CLX81T",
+      "callsign_icao": "CLX81T",
+      "callsign_iata": "CV81T",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 8,
+        "iata_code": "MIA",
+        "icao_code": "KMIA",
+        "latitude": 25.7932,
+        "longitude": -80.2906,
+        "municipality": "Miami",
+        "name": "Miami International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "UAL909": {
+    "time": 1795333537.0638595,
+    "route": {
+      "callsign": "UAL909",
+      "callsign_icao": "UAL909",
+      "callsign_iata": "UA909",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
       }
     }
   }
