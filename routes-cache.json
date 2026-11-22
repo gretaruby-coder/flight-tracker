@@ -22840,7 +22840,7 @@
     }
   },
   "EIN725": {
-    "time": 1795127128.906961,
+    "time": 1795385733.669889,
     "route": {
       "callsign": "EIN725",
       "callsign_icao": "EIN725",
@@ -85757,7 +85757,7 @@
     }
   },
   "EZY18NP": {
-    "time": 1795211134.1143434,
+    "time": 1795385733.669889,
     "route": {
       "callsign": "EZY18NP",
       "callsign_icao": "EZY18NP",
@@ -86441,7 +86441,7 @@
     }
   },
   "WMT705": {
-    "time": 1795297535.7489474,
+    "time": 1795385733.669889,
     "route": {
       "callsign": "WMT705",
       "callsign_icao": "WMT705",
@@ -102245,7 +102245,7 @@
     }
   },
   "EZY24PA": {
-    "time": 1794781525.846415,
+    "time": 1795385733.669889,
     "route": {
       "callsign": "EZY24PA",
       "callsign_icao": "EZY24PA",
@@ -108722,7 +108722,7 @@
     }
   },
   "EZY53TD": {
-    "time": 1795124129.1345203,
+    "time": 1795385733.669889,
     "route": {
       "callsign": "EZY53TD",
       "callsign_icao": "EZY53TD",
@@ -108798,7 +108798,7 @@
     }
   },
   "EZY78FQ": {
-    "time": 1795213237.1160245,
+    "time": 1795385733.669889,
     "route": {
       "callsign": "EZY78FQ",
       "callsign_icao": "EZY78FQ",
@@ -149975,44 +149975,6 @@
       }
     }
   },
-  "RJA282": {
-    "time": 1794780636.1342945,
-    "route": {
-      "callsign": "RJA282",
-      "callsign_icao": "RJA282",
-      "callsign_iata": "RJ282",
-      "airline": {
-        "name": "Royal Jordanian",
-        "icao": "RJA",
-        "iata": "RJ",
-        "country": "Jordan",
-        "country_iso": "JO",
-        "callsign": "JORDANIAN"
-      },
-      "origin": {
-        "country_iso_name": "JO",
-        "country_name": "Jordan",
-        "elevation": 2395,
-        "iata_code": "AMM",
-        "icao_code": "OJAI",
-        "latitude": 31.7226,
-        "longitude": 35.9932,
-        "municipality": "Amman",
-        "name": "Queen Alia International Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 312,
-        "iata_code": "IAD",
-        "icao_code": "KIAD",
-        "latitude": 38.9445,
-        "longitude": -77.4558,
-        "municipality": "Washington",
-        "name": "Washington Dulles International Airport"
-      }
-    }
-  },
   "CLX95U": {
     "time": 1795234836.9303346,
     "route": {
@@ -150052,7 +150014,7 @@
     }
   },
   "EFW8HZ": {
-    "time": 1794782437.061197,
+    "time": 1795385733.669889,
     "route": {
       "callsign": "EFW8HZ",
       "callsign_icao": "EFW8HZ",
@@ -150242,7 +150204,7 @@
     }
   },
   "EZY75EA": {
-    "time": 1794783927.8234766,
+    "time": 1795385733.669889,
     "route": {
       "callsign": "EZY75EA",
       "callsign_icao": "EZY75EA",
@@ -199553,6 +199515,82 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "RYR97CZ": {
+    "time": 1795385733.669889,
+    "route": {
+      "callsign": "RYR97CZ",
+      "callsign_icao": "RYR97CZ",
+      "callsign_iata": "FR97CZ",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "HR",
+        "country_name": "Croatia",
+        "elevation": 527,
+        "iata_code": "DBV",
+        "icao_code": "LDDU",
+        "latitude": 42.5614,
+        "longitude": 18.2682,
+        "municipality": "Dubrovnik",
+        "name": "Dubrovnik Airport"
+      },
+      "destination": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      }
+    }
+  },
+  "RYR7HY": {
+    "time": 1795385733.669889,
+    "route": {
+      "callsign": "RYR7HY",
+      "callsign_icao": "RYR7HY",
+      "callsign_iata": "FR7HY",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 506,
+        "iata_code": "GOT",
+        "icao_code": "ESGG",
+        "latitude": 57.6628,
+        "longitude": 12.2798,
+        "municipality": "Gothenburg",
+        "name": "Gothenburg-Landvetter Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
       }
     }
   }
