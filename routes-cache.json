@@ -4801,7 +4801,7 @@
     }
   },
   "BAW494": {
-    "time": 1795280466.9760206,
+    "time": 1795368926.7446022,
     "route": {
       "callsign": "BAW494",
       "callsign_icao": "BAW494",
@@ -11620,7 +11620,7 @@
     }
   },
   "SWR5GM": {
-    "time": 1795196131.9212725,
+    "time": 1795368926.7446022,
     "route": {
       "callsign": "SWR5GM",
       "callsign_icao": "SWR5GM",
@@ -11810,7 +11810,7 @@
     }
   },
   "BAW5VY": {
-    "time": 1795197662.3954613,
+    "time": 1795368926.7446022,
     "route": {
       "callsign": "BAW5VY",
       "callsign_icao": "BAW5VY",
@@ -12860,7 +12860,7 @@
     }
   },
   "BAW63VP": {
-    "time": 1795194638.8012922,
+    "time": 1795368926.7446022,
     "route": {
       "callsign": "BAW63VP",
       "callsign_icao": "BAW63VP",
@@ -15741,7 +15741,7 @@
     }
   },
   "EFW56R": {
-    "time": 1795198835.973019,
+    "time": 1795368926.7446022,
     "route": {
       "callsign": "EFW56R",
       "callsign_icao": "EFW56R",
@@ -79418,7 +79418,7 @@
     }
   },
   "EZY27BC": {
-    "time": 1795196738.2462037,
+    "time": 1795368926.7446022,
     "route": {
       "callsign": "EZY27BC",
       "callsign_icao": "EZY27BC",
@@ -79912,7 +79912,7 @@
     }
   },
   "EZY69BG": {
-    "time": 1795243837.409378,
+    "time": 1795368926.7446022,
     "route": {
       "callsign": "EZY69BG",
       "callsign_icao": "EZY69BG",
@@ -94483,7 +94483,7 @@
     }
   },
   "EZY62EU": {
-    "time": 1794867932.9976668,
+    "time": 1795368926.7446022,
     "route": {
       "callsign": "EZY62EU",
       "callsign_icao": "EZY62EU",
@@ -123210,7 +123210,7 @@
     }
   },
   "EZY57WQ": {
-    "time": 1795196738.2462037,
+    "time": 1795368926.7446022,
     "route": {
       "callsign": "EZY57WQ",
       "callsign_icao": "EZY57WQ",
@@ -123362,7 +123362,7 @@
     }
   },
   "EZY59JX": {
-    "time": 1795111838.7202897,
+    "time": 1795368926.7446022,
     "route": {
       "callsign": "EZY59JX",
       "callsign_icao": "EZY59JX",
@@ -149976,7 +149976,7 @@
     }
   },
   "SAS7408": {
-    "time": 1794765327.20776,
+    "time": 1795368926.7446022,
     "route": {
       "callsign": "SAS7408",
       "callsign_icao": "SAS7408",
@@ -200123,6 +200123,82 @@
         "longitude": -90.0283,
         "municipality": "New Orleans",
         "name": "Lakefront Airport"
+      }
+    }
+  },
+  "GEC8220": {
+    "time": 1795368926.7446022,
+    "route": {
+      "callsign": "GEC8220",
+      "callsign_icao": "GEC8220",
+      "callsign_iata": "LH8220",
+      "airline": {
+        "name": "Lufthansa Cargo",
+        "icao": "GEC",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA CARGO"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "MX",
+        "country_name": "Mexico",
+        "elevation": 7316,
+        "iata_code": "MEX",
+        "icao_code": "MMMX",
+        "latitude": 19.4363,
+        "longitude": -99.0721,
+        "municipality": "Mexico City",
+        "name": "Licenciado Benito Juarez International Airport"
+      }
+    }
+  },
+  "ACA843": {
+    "time": 1795368926.7446022,
+    "route": {
+      "callsign": "ACA843",
+      "callsign_icao": "ACA843",
+      "callsign_iata": "AC843",
+      "airline": {
+        "name": "Air Canada",
+        "icao": "ACA",
+        "iata": "AC",
+        "country": "Canada",
+        "country_iso": "CA",
+        "callsign": "AIR CANADA"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
       }
     }
   }
