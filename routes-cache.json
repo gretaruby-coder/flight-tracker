@@ -130902,44 +130902,6 @@
       }
     }
   },
-  "FDX5303": {
-    "time": 1794703836.4088686,
-    "route": {
-      "callsign": "FDX5303",
-      "callsign_icao": "FDX5303",
-      "callsign_iata": "FX5303",
-      "airline": {
-        "name": "FedEx Express",
-        "icao": "FDX",
-        "iata": "FX",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "FEDEX"
-      },
-      "origin": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 392,
-        "iata_code": "CDG",
-        "icao_code": "LFPG",
-        "latitude": 49.0128,
-        "longitude": 2.55,
-        "municipality": "Paris",
-        "name": "Charles de Gaulle International Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 341,
-        "iata_code": "MEM",
-        "icao_code": "KMEM",
-        "latitude": 35.0424,
-        "longitude": -89.9767,
-        "municipality": "Memphis",
-        "name": "Memphis International Airport"
-      }
-    }
-  },
   "FDX6174": {
     "time": 1794862864.421587,
     "route": {
@@ -150272,44 +150234,6 @@
         "longitude": 5.77014,
         "municipality": "Maastricht",
         "name": "Maastricht Aachen Airport"
-      }
-    }
-  },
-  "AFR6736": {
-    "time": 1794703836.4088686,
-    "route": {
-      "callsign": "AFR6736",
-      "callsign_icao": "AFR6736",
-      "callsign_iata": "AF6736",
-      "airline": {
-        "name": "Air France",
-        "icao": "AFR",
-        "iata": "AF",
-        "country": "France",
-        "country_iso": "FR",
-        "callsign": "AIRFRANS"
-      },
-      "origin": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 392,
-        "iata_code": "CDG",
-        "icao_code": "LFPG",
-        "latitude": 49.0128,
-        "longitude": 2.55,
-        "municipality": "Paris",
-        "name": "Charles de Gaulle International Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 672,
-        "iata_code": "ORD",
-        "icao_code": "KORD",
-        "latitude": 41.9786,
-        "longitude": -87.9048,
-        "municipality": "Chicago",
-        "name": "Chicago O'Hare International Airport"
       }
     }
   },
@@ -202227,6 +202151,44 @@
         "longitude": -1.32806,
         "municipality": "Nottingham",
         "name": "East Midlands Airport"
+      }
+    }
+  },
+  "EZY8054": {
+    "time": 1795308926.3348138,
+    "route": {
+      "callsign": "EZY8054",
+      "callsign_icao": "EZY8054",
+      "callsign_iata": "U28054",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
