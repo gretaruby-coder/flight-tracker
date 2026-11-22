@@ -228,7 +228,7 @@
     }
   },
   "BAW256": {
-    "time": 1795273841.8539846,
+    "time": 1795360533.873593,
     "route": {
       "callsign": "BAW256",
       "callsign_icao": "BAW256",
@@ -5637,7 +5637,7 @@
     }
   },
   "LOG18D": {
-    "time": 1795187443.133201,
+    "time": 1795360533.873593,
     "route": {
       "callsign": "LOG18D",
       "callsign_icao": "LOG18D",
@@ -6435,7 +6435,7 @@
     }
   },
   "MSR778": {
-    "time": 1795189546.4691265,
+    "time": 1795360533.873593,
     "route": {
       "callsign": "MSR778",
       "callsign_icao": "MSR778",
@@ -75580,7 +75580,7 @@
     }
   },
   "QTR4E": {
-    "time": 1795273841.8539846,
+    "time": 1795360533.873593,
     "route": {
       "callsign": "QTR4E",
       "callsign_icao": "QTR4E",
@@ -122222,7 +122222,7 @@
     }
   },
   "RYR57MH": {
-    "time": 1795068940.0124614,
+    "time": 1795360533.873593,
     "route": {
       "callsign": "RYR57MH",
       "callsign_icao": "RYR57MH",
@@ -149509,44 +149509,6 @@
         "longitude": 19.7206,
         "municipality": "Tirana",
         "name": "Tirana International Airport Mother Teresa"
-      }
-    }
-  },
-  "EXS47G": {
-    "time": 1794755435.8511565,
-    "route": {
-      "callsign": "EXS47G",
-      "callsign_icao": "EXS47G",
-      "callsign_iata": "LS47G",
-      "airline": {
-        "name": "Jet2.com",
-        "icao": "EXS",
-        "iata": "LS",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "CHANNEX"
-      },
-      "origin": {
-        "country_iso_name": "PT",
-        "country_name": "Portugal",
-        "elevation": 192,
-        "iata_code": "FNC",
-        "icao_code": "LPMA",
-        "latitude": 32.6979,
-        "longitude": -16.7745,
-        "municipality": "Funchal",
-        "name": "Madeira International Airport Cristiano Ronaldo"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 681,
-        "iata_code": "LBA",
-        "icao_code": "EGNM",
-        "latitude": 53.8659,
-        "longitude": -1.66057,
-        "municipality": "Leeds",
-        "name": "Leeds Bradford Airport"
       }
     }
   },
@@ -200144,6 +200106,82 @@
         "longitude": 6.20444,
         "municipality": "Luxembourg",
         "name": "Luxembourg-Findel International Airport"
+      }
+    }
+  },
+  "RJA267": {
+    "time": 1795360533.873593,
+    "route": {
+      "callsign": "RJA267",
+      "callsign_icao": "RJA267",
+      "callsign_iata": "RJ267",
+      "airline": {
+        "name": "Royal Jordanian",
+        "icao": "RJA",
+        "iata": "RJ",
+        "country": "Jordan",
+        "country_iso": "JO",
+        "callsign": "JORDANIAN"
+      },
+      "origin": {
+        "country_iso_name": "JO",
+        "country_name": "Jordan",
+        "elevation": 2395,
+        "iata_code": "AMM",
+        "icao_code": "OJAI",
+        "latitude": 31.7226,
+        "longitude": 35.9932,
+        "municipality": "Amman",
+        "name": "Queen Alia International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 645,
+        "iata_code": "DTW",
+        "icao_code": "KDTW",
+        "latitude": 42.2124,
+        "longitude": -83.3534,
+        "municipality": "Detroit",
+        "name": "Detroit Metropolitan Wayne County Airport"
+      }
+    }
+  },
+  "CFG116": {
+    "time": 1795360533.873593,
+    "route": {
+      "callsign": "CFG116",
+      "callsign_icao": "CFG116",
+      "callsign_iata": "DE116",
+      "airline": {
+        "name": "Condor Flugdienst",
+        "icao": "CFG",
+        "iata": "DE",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "CONDOR"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "MX",
+        "country_name": "Mexico",
+        "elevation": 22,
+        "iata_code": "CUN",
+        "icao_code": "MMUN",
+        "latitude": 21.0365,
+        "longitude": -86.8771,
+        "municipality": "Canc\u00fan",
+        "name": "Canc\u00fan International Airport"
       }
     }
   }
