@@ -26823,7 +26823,7 @@
     }
   },
   "SHT7B": {
-    "time": 1795249528.6312773,
+    "time": 1795335929.7042208,
     "route": {
       "callsign": "SHT7B",
       "callsign_icao": null,
@@ -30108,7 +30108,7 @@
     }
   },
   "AUA33RP": {
-    "time": 1795249528.6312773,
+    "time": 1795335929.7042208,
     "route": {
       "callsign": "AUA33RP",
       "callsign_icao": "AUA33RP",
@@ -30336,7 +30336,7 @@
     }
   },
   "EIN71K": {
-    "time": 1795168236.804199,
+    "time": 1795335929.7042208,
     "route": {
       "callsign": "EIN71K",
       "callsign_icao": "EIN71K",
@@ -31210,7 +31210,7 @@
     }
   },
   "BAW130": {
-    "time": 1795248332.4307027,
+    "time": 1795335929.7042208,
     "route": {
       "callsign": "BAW130",
       "callsign_icao": "BAW130",
@@ -62349,7 +62349,7 @@
     }
   },
   "BAW806": {
-    "time": 1795245042.39043,
+    "time": 1795335929.7042208,
     "route": {
       "callsign": "BAW806",
       "callsign_icao": "BAW806",
@@ -64211,7 +64211,7 @@
     }
   },
   "AEA32MM": {
-    "time": 1795165266.0839353,
+    "time": 1795335929.7042208,
     "route": {
       "callsign": "AEA32MM",
       "callsign_icao": "AEA32MM",
@@ -64325,7 +64325,7 @@
     }
   },
   "EZY78YH": {
-    "time": 1794902129.0634787,
+    "time": 1795335929.7042208,
     "route": {
       "callsign": "EZY78YH",
       "callsign_icao": "EZY78YH",
@@ -135569,44 +135569,6 @@
       }
     }
   },
-  "ITY6KC": {
-    "time": 1794731126.024991,
-    "route": {
-      "callsign": "ITY6KC",
-      "callsign_icao": "ITY6KC",
-      "callsign_iata": "AZ6KC",
-      "airline": {
-        "name": "ITA Airways",
-        "icao": "ITY",
-        "iata": "AZ",
-        "country": "Italy",
-        "country_iso": "IT",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 13,
-        "iata_code": "JFK",
-        "icao_code": "KJFK",
-        "latitude": 40.6398,
-        "longitude": -73.7789,
-        "municipality": "New York",
-        "name": "John F Kennedy International Airport"
-      },
-      "destination": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 13,
-        "iata_code": "FCO",
-        "icao_code": "LIRF",
-        "latitude": 41.80453,
-        "longitude": 12.252,
-        "municipality": "Rome",
-        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
-      }
-    }
-  },
   "ACA872": {
     "time": 1794825052.1931581,
     "route": {
@@ -150915,7 +150877,7 @@
     }
   },
   "CLX84L": {
-    "time": 1794739537.6758568,
+    "time": 1795335929.7042208,
     "route": {
       "callsign": "CLX84L",
       "callsign_icao": "CLX84L",
@@ -201871,6 +201833,120 @@
         "longitude": -3.37229,
         "municipality": "Edinburgh",
         "name": "Edinburgh Airport"
+      }
+    }
+  },
+  "BAW62N": {
+    "time": 1795335929.7042208,
+    "route": {
+      "callsign": "BAW62N",
+      "callsign_icao": "BAW62N",
+      "callsign_iata": "BA62N",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 31,
+        "iata_code": "TOS",
+        "icao_code": "ENTC",
+        "latitude": 69.6833,
+        "longitude": 18.9189,
+        "municipality": "Troms\u00f8",
+        "name": "Troms\u00f8 Airport, Langnes"
+      }
+    }
+  },
+  "VKG094": {
+    "time": 1795335929.7042208,
+    "route": {
+      "callsign": "VKG94",
+      "callsign_icao": "VKG94",
+      "callsign_iata": "94",
+      "airline": {
+        "name": "SunClass Airlines",
+        "icao": "VKG",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": "VIKING"
+      },
+      "origin": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 10,
+        "iata_code": "AAL",
+        "icao_code": "EKYT",
+        "latitude": 57.09276,
+        "longitude": 9.84924,
+        "municipality": "Aalborg",
+        "name": "Aalborg Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      }
+    }
+  },
+  "RYR10EP": {
+    "time": 1795335929.7042208,
+    "route": {
+      "callsign": "RYR10EP",
+      "callsign_icao": "RYR10EP",
+      "callsign_iata": "FR10EP",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
