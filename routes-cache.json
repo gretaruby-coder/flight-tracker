@@ -1599,7 +1599,7 @@
     }
   },
   "SVA119": {
-    "time": 1795176938.2392306,
+    "time": 1795348526.6050026,
     "route": {
       "callsign": "SVA119",
       "callsign_icao": "SVA119",
@@ -2984,7 +2984,7 @@
     }
   },
   "DAH2054": {
-    "time": 1795178738.5466588,
+    "time": 1795348526.6050026,
     "route": {
       "callsign": "DAH2054",
       "callsign_icao": "DAH2054",
@@ -53796,7 +53796,7 @@
     }
   },
   "AHY108": {
-    "time": 1795174528.938931,
+    "time": 1795348526.6050026,
     "route": {
       "callsign": "AHY108",
       "callsign_icao": "AHY108",
@@ -69683,7 +69683,7 @@
     }
   },
   "EZY92XR": {
-    "time": 1795253731.5260754,
+    "time": 1795348526.6050026,
     "route": {
       "callsign": "EZY92XR",
       "callsign_icao": "EZY92XR",
@@ -70405,7 +70405,7 @@
     }
   },
   "AAL56": {
-    "time": 1795260326.0956492,
+    "time": 1795348526.6050026,
     "route": {
       "callsign": "AAL56",
       "callsign_icao": "AAL56",
@@ -70633,7 +70633,7 @@
     }
   },
   "RYR6MV": {
-    "time": 1795121440.3854654,
+    "time": 1795348526.6050026,
     "route": {
       "callsign": "RYR6MV",
       "callsign_icao": "RYR6MV",
@@ -73901,7 +73901,7 @@
     }
   },
   "EZY74LA": {
-    "time": 1795175726.7282393,
+    "time": 1795348526.6050026,
     "route": {
       "callsign": "EZY74LA",
       "callsign_icao": "EZY74LA",
@@ -97813,7 +97813,7 @@
     }
   },
   "GCDEF": {
-    "time": 1795084843.3172383,
+    "time": 1795348526.6050026,
     "route": {
       "callsign": "GCDEF",
       "callsign_icao": null,
@@ -99729,44 +99729,6 @@
       }
     }
   },
-  "THY12": {
-    "time": 1794743725.1810977,
-    "route": {
-      "callsign": "THY12",
-      "callsign_icao": "THY12",
-      "callsign_iata": "TK12",
-      "airline": {
-        "name": "Turkish Airlines",
-        "icao": "THY",
-        "iata": "TK",
-        "country": "Turkey",
-        "country_iso": "TR",
-        "callsign": "TURKAIR"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 13,
-        "iata_code": "JFK",
-        "icao_code": "KJFK",
-        "latitude": 40.6398,
-        "longitude": -73.7789,
-        "municipality": "New York",
-        "name": "John F Kennedy International Airport"
-      },
-      "destination": {
-        "country_iso_name": "TR",
-        "country_name": "Turkey",
-        "elevation": 325,
-        "iata_code": "IST",
-        "icao_code": "LTFM",
-        "latitude": 41.2613,
-        "longitude": 28.74195,
-        "municipality": "Arnavutk\u00f6y, Istanbul",
-        "name": "\u0130stanbul Airport"
-      }
-    }
-  },
   "THY54R": {
     "time": 1795269928.7679958,
     "route": {
@@ -101364,7 +101326,7 @@
     }
   },
   "AFR80E": {
-    "time": 1795169437.7058482,
+    "time": 1795348526.6050026,
     "route": {
       "callsign": "AFR80E",
       "callsign_icao": "AFR80E",
@@ -105689,7 +105651,7 @@
     }
   },
   "SWU1932": {
-    "time": 1795019734.569426,
+    "time": 1795348526.6050026,
     "route": {
       "callsign": "SWU1932",
       "callsign_icao": "SWU1932",
@@ -201339,6 +201301,82 @@
         "longitude": 11.1004,
         "municipality": "Oslo",
         "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "VIR842P": {
+    "time": 1795348526.6050026,
+    "route": {
+      "callsign": "VIR842P",
+      "callsign_icao": "VIR842P",
+      "callsign_iata": "VS842P",
+      "airline": {
+        "name": "Virgin Atlantic Airways",
+        "icao": "VIR",
+        "iata": "VS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "VIRGIN"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 125,
+        "iata_code": "LAX",
+        "icao_code": "KLAX",
+        "latitude": 33.9425,
+        "longitude": -118.408,
+        "municipality": "Los Angeles",
+        "name": "Los Angeles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "OCN2004": {
+    "time": 1795348526.6050026,
+    "route": {
+      "callsign": "OCN2004",
+      "callsign_icao": "OCN2004",
+      "callsign_iata": "2004",
+      "airline": {
+        "name": "O Air",
+        "icao": "OCN",
+        "iata": null,
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "O-BIRD"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "JM",
+        "country_name": "Jamaica",
+        "elevation": 4,
+        "iata_code": "MBJ",
+        "icao_code": "MKJS",
+        "latitude": 18.5037,
+        "longitude": -77.9134,
+        "municipality": "Montego Bay",
+        "name": "Sangster International Airport"
       }
     }
   }
