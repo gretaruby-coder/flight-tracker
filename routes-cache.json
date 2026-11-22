@@ -3623,7 +3623,7 @@
     }
   },
   "SAS532": {
-    "time": 1795270842.188995,
+    "time": 1795357530.8504157,
     "route": {
       "callsign": "SAS532",
       "callsign_icao": "SAS532",
@@ -4459,7 +4459,7 @@
     }
   },
   "BAW4E": {
-    "time": 1795271127.2846286,
+    "time": 1795357530.8504157,
     "route": {
       "callsign": "BAW4E",
       "callsign_icao": "BAW4E",
@@ -13886,7 +13886,7 @@
     }
   },
   "BAW551G": {
-    "time": 1795183530.0604947,
+    "time": 1795357530.8504157,
     "route": {
       "callsign": "BAW551G",
       "callsign_icao": "BAW551G",
@@ -74288,7 +74288,7 @@
     }
   },
   "BAW84E": {
-    "time": 1795270842.188995,
+    "time": 1795357530.8504157,
     "route": {
       "callsign": "BAW84E",
       "callsign_icao": "BAW84E",
@@ -78278,7 +78278,7 @@
     }
   },
   "RYR21ZC": {
-    "time": 1795184736.1121938,
+    "time": 1795357530.8504157,
     "route": {
       "callsign": "RYR21ZC",
       "callsign_icao": "RYR21ZC",
@@ -101105,7 +101105,7 @@
     }
   },
   "AAL151": {
-    "time": 1795269036.6656313,
+    "time": 1795357530.8504157,
     "route": {
       "callsign": "AAL151",
       "callsign_icao": "AAL151",
@@ -112750,7 +112750,7 @@
     }
   },
   "EZY261P": {
-    "time": 1795185054.2964172,
+    "time": 1795357530.8504157,
     "route": {
       "callsign": "EZY261P",
       "callsign_icao": "EZY261P",
@@ -149436,44 +149436,6 @@
       }
     }
   },
-  "EZY48QN": {
-    "time": 1794752726.8802502,
-    "route": {
-      "callsign": "EZY48QN",
-      "callsign_icao": "EZY48QN",
-      "callsign_iata": "U248QN",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 526,
-        "iata_code": "LTN",
-        "icao_code": "EGGW",
-        "latitude": 51.8747,
-        "longitude": -0.36833,
-        "municipality": "London",
-        "name": "London Luton Airport"
-      },
-      "destination": {
-        "country_iso_name": "NL",
-        "country_name": "Netherlands",
-        "elevation": -11,
-        "iata_code": "AMS",
-        "icao_code": "EHAM",
-        "latitude": 52.3086,
-        "longitude": 4.76389,
-        "municipality": "Amsterdam",
-        "name": "Amsterdam Airport Schiphol"
-      }
-    }
-  },
   "EIN68R": {
     "time": 1795357236.6015472,
     "route": {
@@ -149703,7 +149665,7 @@
     }
   },
   "RYR8364": {
-    "time": 1794753636.2355552,
+    "time": 1795357530.8504157,
     "route": {
       "callsign": "RYR8364",
       "callsign_icao": "RYR8364",
@@ -200213,6 +200175,82 @@
         "longitude": 1.37312,
         "municipality": "Ibiza",
         "name": "Ibiza Airport"
+      }
+    }
+  },
+  "UAL85": {
+    "time": 1795357530.8504157,
+    "route": {
+      "callsign": "UAL85",
+      "callsign_icao": "UAL85",
+      "callsign_iata": "UA85",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "IL",
+        "country_name": "Israel",
+        "elevation": 135,
+        "iata_code": "TLV",
+        "icao_code": "LLBG",
+        "latitude": 32.0114,
+        "longitude": 34.8867,
+        "municipality": "Tel Aviv",
+        "name": "Ben Gurion International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      }
+    }
+  },
+  "WUK582": {
+    "time": 1795357530.8504157,
+    "route": {
+      "callsign": "WUK582",
+      "callsign_icao": "WUK582",
+      "callsign_iata": "W9582",
+      "airline": {
+        "name": "Wizz Air UK",
+        "icao": "WUK",
+        "iata": "W9",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "IL",
+        "country_name": "Israel",
+        "elevation": 135,
+        "iata_code": "TLV",
+        "icao_code": "LLBG",
+        "latitude": 32.0114,
+        "longitude": 34.8867,
+        "municipality": "Tel Aviv",
+        "name": "Ben Gurion International Airport"
       }
     }
   }
