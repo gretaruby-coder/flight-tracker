@@ -1157,7 +1157,7 @@
     }
   },
   "BAW180": {
-    "time": 1795152655.9876761,
+    "time": 1795324838.5550494,
     "route": {
       "callsign": "BAW180",
       "callsign_icao": "BAW180",
@@ -23897,7 +23897,7 @@
     }
   },
   "DLH445": {
-    "time": 1795155930.2595382,
+    "time": 1795324838.5550494,
     "route": {
       "callsign": "DLH445",
       "callsign_icao": "DLH445",
@@ -201764,6 +201764,44 @@
         "longitude": 4.48444,
         "municipality": "Brussels",
         "name": "Brussels Airport"
+      }
+    }
+  },
+  "UAL70": {
+    "time": 1795324838.5550494,
+    "route": {
+      "callsign": "UAL70",
+      "callsign_icao": "UAL70",
+      "callsign_iata": "UA70",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
       }
     }
   }
