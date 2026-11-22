@@ -17907,7 +17907,7 @@
     }
   },
   "AUR611Y": {
-    "time": 1795290037.946199,
+    "time": 1795379447.54916,
     "route": {
       "callsign": "AUR611Y",
       "callsign_icao": "AUR611Y",
@@ -18249,7 +18249,7 @@
     }
   },
   "SWR39L": {
-    "time": 1795206328.6483412,
+    "time": 1795379447.54916,
     "route": {
       "callsign": "SWR39L",
       "callsign_icao": "SWR39L",
@@ -19275,7 +19275,7 @@
     }
   },
   "KLM61T": {
-    "time": 1795207534.441618,
+    "time": 1795379447.54916,
     "route": {
       "callsign": "KLM61T",
       "callsign_icao": "KLM61T",
@@ -21593,7 +21593,7 @@
     }
   },
   "EIN34Y": {
-    "time": 1795207236.336198,
+    "time": 1795379447.54916,
     "route": {
       "callsign": "EIN34Y",
       "callsign_icao": "EIN34Y",
@@ -21821,7 +21821,7 @@
     }
   },
   "BAW3XA": {
-    "time": 1795208459.3358078,
+    "time": 1795379447.54916,
     "route": {
       "callsign": "BAW3XA",
       "callsign_icao": "BAW3XA",
@@ -30039,7 +30039,7 @@
     }
   },
   "BAW5GU": {
-    "time": 1795211134.1143434,
+    "time": 1795379447.54916,
     "route": {
       "callsign": "BAW5GU",
       "callsign_icao": "BAW5GU",
@@ -33604,7 +33604,7 @@
     }
   },
   "BAW512": {
-    "time": 1795291835.285184,
+    "time": 1795379447.54916,
     "route": {
       "callsign": "BAW512",
       "callsign_icao": "BAW512",
@@ -47201,7 +47201,7 @@
     }
   },
   "EZY82GA": {
-    "time": 1795098931.8626788,
+    "time": 1795379447.54916,
     "route": {
       "callsign": "EZY82GA",
       "callsign_icao": "EZY82GA",
@@ -65282,7 +65282,7 @@
     }
   },
   "EZY14MK": {
-    "time": 1795195528.031911,
+    "time": 1795379447.54916,
     "route": {
       "callsign": "EZY14MK",
       "callsign_icao": "EZY14MK",
@@ -83674,7 +83674,7 @@
     }
   },
   "BAW48YA": {
-    "time": 1795204860.4398804,
+    "time": 1795379447.54916,
     "route": {
       "callsign": "BAW48YA",
       "callsign_icao": "BAW48YA",
@@ -107734,7 +107734,7 @@
     }
   },
   "EJU43LD": {
-    "time": 1795119340.6313612,
+    "time": 1795379447.54916,
     "route": {
       "callsign": "EJU43LD",
       "callsign_icao": "EJU43LD",
@@ -173691,7 +173691,7 @@
     }
   },
   "RYR72SA": {
-    "time": 1795107042.0907533,
+    "time": 1795379447.54916,
     "route": {
       "callsign": "RYR72SA",
       "callsign_icao": "RYR72SA",
@@ -200123,6 +200123,82 @@
         "longitude": 7.61224,
         "municipality": "Dortmund",
         "name": "Dortmund Airport"
+      }
+    }
+  },
+  "AJT8320": {
+    "time": 1795379447.54916,
+    "route": {
+      "callsign": "AJT8320",
+      "callsign_icao": "AJT8320",
+      "callsign_iata": "M68320",
+      "airline": {
+        "name": "Amerijet International",
+        "icao": "AJT",
+        "iata": "M6",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "AMERIJET"
+      },
+      "origin": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 184,
+        "iata_code": "BRU",
+        "icao_code": "EBBR",
+        "latitude": 50.9014,
+        "longitude": 4.48444,
+        "municipality": "Brussels",
+        "name": "Brussels Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 8,
+        "iata_code": "MIA",
+        "icao_code": "KMIA",
+        "latitude": 25.7932,
+        "longitude": -80.2906,
+        "municipality": "Miami",
+        "name": "Miami International Airport"
+      }
+    }
+  },
+  "RYR27QM": {
+    "time": 1795379447.54916,
+    "route": {
+      "callsign": "RYR27QM",
+      "callsign_icao": "RYR27QM",
+      "callsign_iata": "FR27QM",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 157,
+        "iata_code": "BER",
+        "icao_code": "EDDB",
+        "latitude": 52.35139,
+        "longitude": 13.49389,
+        "municipality": "Berlin",
+        "name": "Berlin Brandenburg Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
       }
     }
   }
