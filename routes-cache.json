@@ -829,7 +829,7 @@
     }
   },
   "KLM63T": {
-    "time": 1795190129.8496814,
+    "time": 1795362333.71509,
     "route": {
       "callsign": "KLM63T",
       "callsign_icao": "KLM63T",
@@ -6093,7 +6093,7 @@
     }
   },
   "ITY238": {
-    "time": 1795191930.338854,
+    "time": 1795362333.71509,
     "route": {
       "callsign": "ITY238",
       "callsign_icao": "ITY238",
@@ -9986,7 +9986,7 @@
     }
   },
   "BAW137": {
-    "time": 1795275641.0055268,
+    "time": 1795362333.71509,
     "route": {
       "callsign": "BAW137",
       "callsign_icao": "BAW137",
@@ -14266,7 +14266,7 @@
     }
   },
   "BAW85U": {
-    "time": 1795275330.6444528,
+    "time": 1795362333.71509,
     "route": {
       "callsign": "BAW85U",
       "callsign_icao": "BAW85U",
@@ -15817,7 +15817,7 @@
     }
   },
   "BAW309": {
-    "time": 1795188657.5395832,
+    "time": 1795362333.71509,
     "route": {
       "callsign": "BAW309",
       "callsign_icao": "BAW309",
@@ -46714,7 +46714,7 @@
     }
   },
   "CFE35K": {
-    "time": 1795023640.4389625,
+    "time": 1795362333.71509,
     "route": {
       "callsign": "CFE35K",
       "callsign_icao": "CFE35K",
@@ -52556,7 +52556,7 @@
     }
   },
   "UPS203": {
-    "time": 1795120539.726013,
+    "time": 1795362333.71509,
     "route": {
       "callsign": "UPS203",
       "callsign_icao": "UPS203",
@@ -55544,7 +55544,7 @@
     }
   },
   "GCMAH": {
-    "time": 1795275330.6444528,
+    "time": 1795362333.71509,
     "route": {
       "callsign": "GCMAH",
       "callsign_icao": null,
@@ -76644,7 +76644,7 @@
     }
   },
   "EZY58XV": {
-    "time": 1795194944.41464,
+    "time": 1795362333.71509,
     "route": {
       "callsign": "EZY58XV",
       "callsign_icao": "EZY58XV",
@@ -120633,7 +120633,7 @@
     }
   },
   "NOZ1802": {
-    "time": 1794757237.1068916,
+    "time": 1795362333.71509,
     "route": {
       "callsign": "NOZ1802",
       "callsign_icao": "NOZ1802",
@@ -149550,44 +149550,6 @@
       }
     }
   },
-  "AFR92M": {
-    "time": 1794757237.1068916,
-    "route": {
-      "callsign": "AFR92M",
-      "callsign_icao": "AFR92M",
-      "callsign_iata": "AF92M",
-      "airline": {
-        "name": "Air France",
-        "icao": "AFR",
-        "iata": "AF",
-        "country": "France",
-        "country_iso": "FR",
-        "callsign": "AIRFRANS"
-      },
-      "origin": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 392,
-        "iata_code": "CDG",
-        "icao_code": "LFPG",
-        "latitude": 49.0128,
-        "longitude": 2.55,
-        "municipality": "Paris",
-        "name": "Charles de Gaulle International Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 8,
-        "iata_code": "MIA",
-        "icao_code": "KMIA",
-        "latitude": 25.7932,
-        "longitude": -80.2906,
-        "municipality": "Miami",
-        "name": "Miami International Airport"
-      }
-    }
-  },
   "WMT3GX": {
     "time": 1795104063.9106073,
     "route": {
@@ -149627,7 +149589,7 @@
     }
   },
   "EIN6EP": {
-    "time": 1794757535.7242506,
+    "time": 1795362333.71509,
     "route": {
       "callsign": "EIN6EP",
       "callsign_icao": "EIN6EP",
@@ -200175,6 +200137,44 @@
         "longitude": -97.038,
         "municipality": "Dallas-Fort Worth",
         "name": "Dallas Fort Worth International Airport"
+      }
+    }
+  },
+  "ACA7297": {
+    "time": 1795362333.71509,
+    "route": {
+      "callsign": "ACA7297",
+      "callsign_icao": "ACA7297",
+      "callsign_iata": "AC7297",
+      "airline": {
+        "name": "Air Canada",
+        "icao": "ACA",
+        "iata": "AC",
+        "country": "Canada",
+        "country_iso": "CA",
+        "callsign": "AIR CANADA"
+      },
+      "origin": {
+        "country_iso_name": "MX",
+        "country_name": "Mexico",
+        "elevation": 5016,
+        "iata_code": "GDL",
+        "icao_code": "MMGL",
+        "latitude": 20.5218,
+        "longitude": -103.311,
+        "municipality": "Guadalajara",
+        "name": "Don Miguel Hidalgo Y Costilla International Airport"
+      },
+      "destination": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
       }
     }
   }
