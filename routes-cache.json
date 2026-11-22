@@ -6131,7 +6131,7 @@
     }
   },
   "LGL452C": {
-    "time": 1795170928.1438935,
+    "time": 1795359326.2078173,
     "route": {
       "callsign": "LGL452C",
       "callsign_icao": "LGL452C",
@@ -6853,7 +6853,7 @@
     }
   },
   "ELY316": {
-    "time": 1795100129.2896714,
+    "time": 1795359326.2078173,
     "route": {
       "callsign": "ELY316",
       "callsign_icao": "ELY316",
@@ -42586,7 +42586,7 @@
     }
   },
   "BAW35": {
-    "time": 1795272338.6322465,
+    "time": 1795359326.2078173,
     "route": {
       "callsign": "BAW35",
       "callsign_icao": "BAW35",
@@ -44555,7 +44555,7 @@
     }
   },
   "ANA215": {
-    "time": 1795269928.7679958,
+    "time": 1795359326.2078173,
     "route": {
       "callsign": "ANA215",
       "callsign_icao": "ANA215",
@@ -75428,7 +75428,7 @@
     }
   },
   "EZY92RC": {
-    "time": 1795184440.29844,
+    "time": 1795359326.2078173,
     "route": {
       "callsign": "EZY92RC",
       "callsign_icao": "EZY92RC",
@@ -75808,7 +75808,7 @@
     }
   },
   "THY7AH": {
-    "time": 1795187130.7170875,
+    "time": 1795359326.2078173,
     "route": {
       "callsign": "THY7AH",
       "callsign_icao": "THY7AH",
@@ -75884,7 +75884,7 @@
     }
   },
   "RYR4EK": {
-    "time": 1795223126.965399,
+    "time": 1795359326.2078173,
     "route": {
       "callsign": "RYR4EK",
       "callsign_icao": "RYR4EK",
@@ -139780,7 +139780,7 @@
     }
   },
   "MSR770": {
-    "time": 1795099243.264928,
+    "time": 1795359326.2078173,
     "route": {
       "callsign": "MSR770",
       "callsign_icao": "MSR770",
@@ -149547,75 +149547,6 @@
         "longitude": 4.48444,
         "municipality": "Brussels",
         "name": "Brussels Airport"
-      }
-    }
-  },
-  "AUR12LG": {
-    "time": 1794754235.020079,
-    "route": {
-      "callsign": "AUR12LG",
-      "callsign_icao": "AUR12LG",
-      "callsign_iata": "GR12LG",
-      "airline": {
-        "name": "Aurigny Air Services",
-        "icao": "AUR",
-        "iata": "GR",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "AYLINE"
-      },
-      "origin": {
-        "country_iso_name": "GG",
-        "country_name": "Guernsey",
-        "elevation": 336,
-        "iata_code": "GCI",
-        "icao_code": "EGJB",
-        "latitude": 49.435,
-        "longitude": -2.60197,
-        "municipality": "Saint Peter Port",
-        "name": "Guernsey Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      }
-    }
-  },
-  "PHWPB": {
-    "time": 1794754235.020079,
-    "route": {
-      "callsign": "PHWPB",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 53,
-        "iata_code": "AGP",
-        "icao_code": "LEMG",
-        "latitude": 36.6749,
-        "longitude": -4.49911,
-        "municipality": "M\u00e1laga",
-        "name": "M\u00e1laga-Costa del Sol Airport"
-      },
-      "destination": {
-        "country_iso_name": "NL",
-        "country_name": "Netherlands",
-        "elevation": 114,
-        "iata_code": null,
-        "icao_code": "EHBD",
-        "latitude": 51.2553,
-        "longitude": 5.60139,
-        "municipality": "Weert",
-        "name": "Budel Airfield Kempen"
       }
     }
   },
@@ -200213,6 +200144,82 @@
         "longitude": -68.3634,
         "municipality": "Punta Cana",
         "name": "Punta Cana International Airport"
+      }
+    }
+  },
+  "BAW271": {
+    "time": 1795359326.2078173,
+    "route": {
+      "callsign": "BAW271",
+      "callsign_icao": "BAW271",
+      "callsign_iata": "BA271",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 2181,
+        "iata_code": "LAS",
+        "icao_code": "KLAS",
+        "latitude": 36.0801,
+        "longitude": -115.152,
+        "municipality": "Las Vegas",
+        "name": "McCarran International Airport"
+      }
+    }
+  },
+  "FXT42V": {
+    "time": 1795359326.2078173,
+    "route": {
+      "callsign": "FXT42V",
+      "callsign_icao": "FXT42V",
+      "callsign_iata": "42V",
+      "airline": {
+        "name": "Flexflight",
+        "icao": "FXT",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 146,
+        "iata_code": "RKE",
+        "icao_code": "EKRK",
+        "latitude": 55.5856,
+        "longitude": 12.1314,
+        "municipality": "Copenhagen",
+        "name": "Copenhagen Roskilde Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 53,
+        "iata_code": "HAM",
+        "icao_code": "EDDH",
+        "latitude": 53.6304,
+        "longitude": 9.98823,
+        "municipality": "Hamburg",
+        "name": "Hamburg Helmut Schmidt Airport"
       }
     }
   }
