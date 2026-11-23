@@ -7036,7 +7036,7 @@
     }
   },
   "BAW480N": {
-    "time": 1795259441.363462,
+    "time": 1795432536.0251334,
     "route": {
       "callsign": "BAW480N",
       "callsign_icao": "BAW480N",
@@ -30457,7 +30457,7 @@
     }
   },
   "BAW591": {
-    "time": 1795178437.1709805,
+    "time": 1795432536.0251334,
     "route": {
       "callsign": "BAW591",
       "callsign_icao": "BAW591",
@@ -39518,7 +39518,7 @@
     }
   },
   "TAP1335": {
-    "time": 1795345525.8612237,
+    "time": 1795432536.0251334,
     "route": {
       "callsign": "TAP1335",
       "callsign_icao": "TAP1335",
@@ -40803,7 +40803,7 @@
     }
   },
   "UAE1": {
-    "time": 1795261841.6556435,
+    "time": 1795432536.0251334,
     "route": {
       "callsign": "UAE1",
       "callsign_icao": "UAE1",
@@ -49758,7 +49758,7 @@
     }
   },
   "AUR604A": {
-    "time": 1795344334.5786986,
+    "time": 1795432536.0251334,
     "route": {
       "callsign": "AUR604A",
       "callsign_icao": "AUR604A",
@@ -120671,7 +120671,7 @@
     }
   },
   "RYR43DP": {
-    "time": 1795330233.7674856,
+    "time": 1795432536.0251334,
     "route": {
       "callsign": "RYR43DP",
       "callsign_icao": "RYR43DP",
@@ -135034,7 +135034,7 @@
     }
   },
   "EZY49JE": {
-    "time": 1794999935.132076,
+    "time": 1795432536.0251334,
     "route": {
       "callsign": "EZY49JE",
       "callsign_icao": "EZY49JE",
@@ -150469,44 +150469,6 @@
       }
     }
   },
-  "JTD801": {
-    "time": 1794827446.2959216,
-    "route": {
-      "callsign": "JTD801",
-      "callsign_icao": "JTD801",
-      "callsign_iata": "801",
-      "airline": {
-        "name": "Jet Time",
-        "icao": "JTD",
-        "iata": null,
-        "country": "Denmark",
-        "country_iso": "DK",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 78,
-        "iata_code": "LPA",
-        "icao_code": "GCLP",
-        "latitude": 27.9319,
-        "longitude": -15.3866,
-        "municipality": "Gran Canaria Island",
-        "name": "Gran Canaria Airport"
-      },
-      "destination": {
-        "country_iso_name": "FI",
-        "country_name": "Finland",
-        "elevation": 47,
-        "iata_code": "OUL",
-        "icao_code": "EFOU",
-        "latitude": 64.9301,
-        "longitude": 25.3546,
-        "municipality": "Oulu / Oulunsalo",
-        "name": "Oulu Airport"
-      }
-    }
-  },
   "PGT1196": {
     "time": 1795431662.5912144,
     "route": {
@@ -155626,7 +155588,7 @@
     }
   },
   "TFL381": {
-    "time": 1794899738.8673122,
+    "time": 1795432536.0251334,
     "route": {
       "callsign": "TFL381",
       "callsign_icao": "TFL381",
@@ -175656,7 +175618,7 @@
     }
   },
   "RYR80TV": {
-    "time": 1795174835.961151,
+    "time": 1795432536.0251334,
     "route": {
       "callsign": "RYR80TV",
       "callsign_icao": "RYR80TV",
@@ -200251,6 +200213,75 @@
         "longitude": 13.3374,
         "municipality": "Karlstad",
         "name": "Karlstad Airport"
+      }
+    }
+  },
+  "AVA120A": {
+    "time": 1795432536.0251334,
+    "route": {
+      "callsign": "AVA120A",
+      "callsign_icao": "AVA120A",
+      "callsign_iata": "AV120A",
+      "airline": {
+        "name": "Avianca - Aerovias Nacionales de Colombia, S.A.",
+        "icao": "AVA",
+        "iata": "AV",
+        "country": "Colombia",
+        "country_iso": "CO",
+        "callsign": "AVIANCA"
+      },
+      "origin": {
+        "country_iso_name": "CO",
+        "country_name": "Colombia",
+        "elevation": 8361,
+        "iata_code": "BOG",
+        "icao_code": "SKBO",
+        "latitude": 4.70159,
+        "longitude": -74.1469,
+        "municipality": "Bogota",
+        "name": "El Dorado International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "VJT467": {
+    "time": 1795432536.0251334,
+    "route": {
+      "callsign": "VJT467",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 427,
+        "iata_code": "CIA",
+        "icao_code": "LIRA",
+        "latitude": 41.7994,
+        "longitude": 12.5949,
+        "municipality": "Rome",
+        "name": "Ciampino\u2013G. B. Pastine International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 353,
+        "iata_code": "LIN",
+        "icao_code": "LIML",
+        "latitude": 45.4451,
+        "longitude": 9.27674,
+        "municipality": "Milan",
+        "name": "Milano Linate Airport"
       }
     }
   }
