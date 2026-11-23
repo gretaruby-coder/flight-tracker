@@ -1751,7 +1751,7 @@
     }
   },
   "SWR3CT": {
-    "time": 1795265438.8661065,
+    "time": 1795437326.7256653,
     "route": {
       "callsign": "SWR3CT",
       "callsign_icao": "SWR3CT",
@@ -3060,7 +3060,7 @@
     }
   },
   "BAW8ER": {
-    "time": 1795350326.5823386,
+    "time": 1795437326.7256653,
     "route": {
       "callsign": "BAW8ER",
       "callsign_icao": "BAW8ER",
@@ -3927,7 +3927,7 @@
     }
   },
   "BAW219V": {
-    "time": 1795266642.4894779,
+    "time": 1795437326.7256653,
     "route": {
       "callsign": "BAW219V",
       "callsign_icao": "BAW219V",
@@ -31141,7 +31141,7 @@
     }
   },
   "BAW729": {
-    "time": 1795265728.0077293,
+    "time": 1795437326.7256653,
     "route": {
       "callsign": "BAW729",
       "callsign_icao": "BAW729",
@@ -48504,7 +48504,7 @@
     }
   },
   "EFW93E": {
-    "time": 1795245636.61645,
+    "time": 1795437326.7256653,
     "route": {
       "callsign": "EFW93E",
       "callsign_icao": "EFW93E",
@@ -65092,7 +65092,7 @@
     }
   },
   "RYR60ZP": {
-    "time": 1795338328.140764,
+    "time": 1795437326.7256653,
     "route": {
       "callsign": "RYR60ZP",
       "callsign_icao": "RYR60ZP",
@@ -72616,7 +72616,7 @@
     }
   },
   "BAW791G": {
-    "time": 1795178738.5466588,
+    "time": 1795437326.7256653,
     "route": {
       "callsign": "BAW791G",
       "callsign_icao": "BAW791G",
@@ -115783,7 +115783,7 @@
     }
   },
   "WUK94JQ": {
-    "time": 1795350926.551474,
+    "time": 1795437326.7256653,
     "route": {
       "callsign": "WUK94JQ",
       "callsign_icao": "WUK94JQ",
@@ -162207,7 +162207,7 @@
     }
   },
   "WUK2CA": {
-    "time": 1795350648.302758,
+    "time": 1795437326.7256653,
     "route": {
       "callsign": "WUK2CA",
       "callsign_icao": "WUK2CA",
@@ -200610,6 +200610,120 @@
         "longitude": -79.6306,
         "municipality": "Toronto",
         "name": "Lester B. Pearson International Airport"
+      }
+    }
+  },
+  "NOZ8BU": {
+    "time": 1795437326.7256653,
+    "route": {
+      "callsign": "NOZ8BU",
+      "callsign_icao": "NOZ8BU",
+      "callsign_iata": "8BU",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 681,
+        "iata_code": "OSL",
+        "icao_code": "ENGM",
+        "latitude": 60.1939,
+        "longitude": 11.1004,
+        "municipality": "Oslo",
+        "name": "Oslo Airport, Gardermoen"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 46,
+        "iata_code": "ACE",
+        "icao_code": "GCRR",
+        "latitude": 28.9455,
+        "longitude": -13.6052,
+        "municipality": "Lanzarote Island",
+        "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      }
+    }
+  },
+  "ANE7340": {
+    "time": 1795437326.7256653,
+    "route": {
+      "callsign": "ANE7340",
+      "callsign_icao": "ANE7340",
+      "callsign_iata": "YW7340",
+      "airline": {
+        "name": "Air Nostrum",
+        "icao": "ANE",
+        "iata": "YW",
+        "country": "Spain",
+        "country_iso": "ES",
+        "callsign": "AIR NOSTRUM"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 240,
+        "iata_code": "VLC",
+        "icao_code": "LEVC",
+        "latitude": 39.4893,
+        "longitude": -0.48163,
+        "municipality": "Valencia",
+        "name": "Valencia Airport"
+      },
+      "destination": {
+        "country_iso_name": "IS",
+        "country_name": "Iceland",
+        "elevation": 171,
+        "iata_code": "KEF",
+        "icao_code": "BIKF",
+        "latitude": 63.985,
+        "longitude": -22.6056,
+        "municipality": "Reykjav\u00edk",
+        "name": "Keflavik International Airport"
+      }
+    }
+  },
+  "TFL757": {
+    "time": 1795437326.7256653,
+    "route": {
+      "callsign": "TFL757",
+      "callsign_icao": "TFL757",
+      "callsign_iata": "OR757",
+      "airline": {
+        "name": "Arkefly",
+        "icao": "TFL",
+        "iata": "OR",
+        "country": "Netherlands",
+        "country_iso": "NL",
+        "callsign": "ARKEFLY"
+      },
+      "origin": {
+        "country_iso_name": "CW",
+        "country_name": "Cura\u00e7ao",
+        "elevation": 29,
+        "iata_code": "CUR",
+        "icao_code": "TNCC",
+        "latitude": 12.1889,
+        "longitude": -68.9598,
+        "municipality": "Willemstad",
+        "name": "Hato International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
       }
     }
   }
