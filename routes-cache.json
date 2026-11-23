@@ -677,7 +677,7 @@
     }
   },
   "SWR59K": {
-    "time": 1795364725.1974673,
+    "time": 1795452334.2026868,
     "route": {
       "callsign": "SWR59K",
       "callsign_icao": "SWR59K",
@@ -68208,7 +68208,7 @@
     }
   },
   "EZY62JL": {
-    "time": 1795364435.2209396,
+    "time": 1795452334.2026868,
     "route": {
       "callsign": "EZY62JL",
       "callsign_icao": "EZY62JL",
@@ -68588,7 +68588,7 @@
     }
   },
   "EZY39VL": {
-    "time": 1795279535.4455364,
+    "time": 1795452334.2026868,
     "route": {
       "callsign": "EZY39VL",
       "callsign_icao": "EZY39VL",
@@ -77138,7 +77138,7 @@
     }
   },
   "THY8SF": {
-    "time": 1795365635.5382352,
+    "time": 1795452334.2026868,
     "route": {
       "callsign": "THY8SF",
       "callsign_icao": "THY8SF",
@@ -77252,7 +77252,7 @@
     }
   },
   "RYR24NY": {
-    "time": 1795363835.4842765,
+    "time": 1795452334.2026868,
     "route": {
       "callsign": "RYR24NY",
       "callsign_icao": "RYR24NY",
@@ -80824,7 +80824,7 @@
     }
   },
   "RYR8UG": {
-    "time": 1795291255.8819377,
+    "time": 1795452334.2026868,
     "route": {
       "callsign": "RYR8UG",
       "callsign_icao": "RYR8UG",
@@ -91139,7 +91139,7 @@
     }
   },
   "BAW677": {
-    "time": 1795275936.022407,
+    "time": 1795452334.2026868,
     "route": {
       "callsign": "BAW677",
       "callsign_icao": "BAW677",
@@ -115410,7 +115410,7 @@
     }
   },
   "PYN01": {
-    "time": 1795254335.9674525,
+    "time": 1795452334.2026868,
     "route": {
       "callsign": "PYN01",
       "callsign_icao": null,
@@ -150725,44 +150725,6 @@
         "longitude": 11.1004,
         "municipality": "Oslo",
         "name": "Oslo Airport, Gardermoen"
-      }
-    }
-  },
-  "GEC8221": {
-    "time": 1794847241.1672008,
-    "route": {
-      "callsign": "GEC8221",
-      "callsign_icao": "GEC8221",
-      "callsign_iata": "LH8221",
-      "airline": {
-        "name": "Lufthansa Cargo",
-        "icao": "GEC",
-        "iata": "LH",
-        "country": "Germany",
-        "country_iso": "DE",
-        "callsign": "LUFTHANSA CARGO"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 607,
-        "iata_code": "DFW",
-        "icao_code": "KDFW",
-        "latitude": 32.8968,
-        "longitude": -97.038,
-        "municipality": "Dallas-Fort Worth",
-        "name": "Dallas Fort Worth International Airport"
-      },
-      "destination": {
-        "country_iso_name": "DE",
-        "country_name": "Germany",
-        "elevation": 364,
-        "iata_code": "FRA",
-        "icao_code": "EDDF",
-        "latitude": 50.03333,
-        "longitude": 8.57056,
-        "municipality": "Frankfurt am Main",
-        "name": "Frankfurt am Main Airport"
       }
     }
   },
@@ -200990,6 +200952,82 @@
         "longitude": 5.21814,
         "municipality": "Bergen",
         "name": "Bergen Airport, Flesland"
+      }
+    }
+  },
+  "RYR139E": {
+    "time": 1795452334.2026868,
+    "route": {
+      "callsign": "RYR139E",
+      "callsign_icao": "RYR139E",
+      "callsign_iata": "FR139E",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 24,
+        "iata_code": "FAO",
+        "icao_code": "LPFR",
+        "latitude": 37.0144,
+        "longitude": -7.96591,
+        "municipality": "Faro",
+        "name": "Faro Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": 74,
+        "iata_code": "EIN",
+        "icao_code": "EHEH",
+        "latitude": 51.4501,
+        "longitude": 5.37453,
+        "municipality": "Eindhoven",
+        "name": "Eindhoven Airport"
+      }
+    }
+  },
+  "WMT6302": {
+    "time": 1795452334.2026868,
+    "route": {
+      "callsign": "WMT6302",
+      "callsign_icao": "WMT6302",
+      "callsign_iata": "W46302",
+      "airline": {
+        "name": "Wizz Air Malta",
+        "icao": "WMT",
+        "iata": "W4",
+        "country": "Malta",
+        "country_iso": "MT",
+        "callsign": "Wizzairmalta"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
       }
     }
   }
