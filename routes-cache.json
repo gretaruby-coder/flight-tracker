@@ -84807,7 +84807,7 @@
     }
   },
   "AFR57UD": {
-    "time": 1795298125.3110745,
+    "time": 1795471256.5462654,
     "route": {
       "callsign": "AFR57UD",
       "callsign_icao": "AFR57UD",
@@ -93153,7 +93153,7 @@
     }
   },
   "EZY93ND": {
-    "time": 1795205436.7559166,
+    "time": 1795471256.5462654,
     "route": {
       "callsign": "EZY93ND",
       "callsign_icao": "EZY93ND",
@@ -93837,7 +93837,7 @@
     }
   },
   "EZY62EU": {
-    "time": 1795368926.7446022,
+    "time": 1795471256.5462654,
     "route": {
       "callsign": "EZY62EU",
       "callsign_icao": "EZY62EU",
@@ -150752,44 +150752,6 @@
       }
     }
   },
-  "EZY37AF": {
-    "time": 1794866136.0775642,
-    "route": {
-      "callsign": "EZY37AF",
-      "callsign_icao": "EZY37AF",
-      "callsign_iata": "U237AF",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "CY",
-        "country_name": "Cyprus",
-        "elevation": 41,
-        "iata_code": "PFO",
-        "icao_code": "LCPH",
-        "latitude": 34.718,
-        "longitude": 32.4857,
-        "municipality": "Paphos",
-        "name": "Paphos International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 257,
-        "iata_code": "MAN",
-        "icao_code": "EGCC",
-        "latitude": 53.34938,
-        "longitude": -2.27952,
-        "municipality": "Manchester",
-        "name": "Manchester Airport"
-      }
-    }
-  },
   "RYR48YB": {
     "time": 1795102255.8474145,
     "route": {
@@ -200997,6 +200959,82 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "EZY58GB": {
+    "time": 1795471256.5462654,
+    "route": {
+      "callsign": "EZY58GB",
+      "callsign_icao": "EZY58GB",
+      "callsign_iata": "U258GB",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 177,
+        "iata_code": "AYT",
+        "icao_code": "LTAI",
+        "latitude": 36.8987,
+        "longitude": 30.8005,
+        "municipality": "Antalya",
+        "name": "Antalya International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "EXS8YZ": {
+    "time": 1795471256.5462654,
+    "route": {
+      "callsign": "EXS8YZ",
+      "callsign_icao": "EXS8YZ",
+      "callsign_iata": "LS8YZ",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "PL",
+        "country_name": "Poland",
+        "elevation": 791,
+        "iata_code": "KRK",
+        "icao_code": "EPKK",
+        "latitude": 50.0777,
+        "longitude": 19.7848,
+        "municipality": "Krak\u00f3w",
+        "name": "Krak\u00f3w John Paul II International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
       }
     }
   }
