@@ -4877,7 +4877,7 @@
     }
   },
   "DAH2056": {
-    "time": 1795187443.133201,
+    "time": 1795431327.0398562,
     "route": {
       "callsign": "DAH2056",
       "callsign_icao": "DAH2056",
@@ -38119,7 +38119,7 @@
     }
   },
   "SAS804": {
-    "time": 1795344927.016132,
+    "time": 1795431327.0398562,
     "route": {
       "callsign": "SAS804",
       "callsign_icao": "SAS804",
@@ -38385,7 +38385,7 @@
     }
   },
   "SWR8PZ": {
-    "time": 1795343448.2927985,
+    "time": 1795431327.0398562,
     "route": {
       "callsign": "SWR8PZ",
       "callsign_icao": "SWR8PZ",
@@ -43308,7 +43308,7 @@
     }
   },
   "VIR94": {
-    "time": 1795260650.842492,
+    "time": 1795431327.0398562,
     "route": {
       "callsign": "VIR94",
       "callsign_icao": "VIR94",
@@ -102815,7 +102815,7 @@
     }
   },
   "EXS45E": {
-    "time": 1795251662.914788,
+    "time": 1795431327.0398562,
     "route": {
       "callsign": "EXS45E",
       "callsign_icao": "EXS45E",
@@ -110508,7 +110508,7 @@
     }
   },
   "EWG49A": {
-    "time": 1795176328.361109,
+    "time": 1795431327.0398562,
     "route": {
       "callsign": "EWG49A",
       "callsign_icao": "EWG49A",
@@ -110698,7 +110698,7 @@
     }
   },
   "EZY75HZ": {
-    "time": 1795254931.9970942,
+    "time": 1795431327.0398562,
     "route": {
       "callsign": "EZY75HZ",
       "callsign_icao": "EZY75HZ",
@@ -200213,6 +200213,82 @@
         "longitude": -3.56264,
         "municipality": "Madrid",
         "name": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport"
+      }
+    }
+  },
+  "BOX441": {
+    "time": 1795431327.0398562,
+    "route": {
+      "callsign": "BOX441",
+      "callsign_icao": "BOX441",
+      "callsign_iata": "3S441",
+      "airline": {
+        "name": "AeroLogic",
+        "icao": "BOX",
+        "iata": "3S",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "GERMAN CARGO"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 607,
+        "iata_code": "DFW",
+        "icao_code": "KDFW",
+        "latitude": 32.8968,
+        "longitude": -97.038,
+        "municipality": "Dallas-Fort Worth",
+        "name": "Dallas Fort Worth International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "EZY97VL": {
+    "time": 1795431327.0398562,
+    "route": {
+      "callsign": "EZY97VL",
+      "callsign_icao": "EZY97VL",
+      "callsign_iata": "U297VL",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1487,
+        "iata_code": "MUC",
+        "icao_code": "EDDM",
+        "latitude": 48.3538,
+        "longitude": 11.7861,
+        "municipality": "Munich",
+        "name": "Munich Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
