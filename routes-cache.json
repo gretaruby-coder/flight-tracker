@@ -4003,7 +4003,7 @@
     }
   },
   "VIR317": {
-    "time": 1795259130.945592,
+    "time": 1795429236.9845088,
     "route": {
       "callsign": "VIR317",
       "callsign_icao": "VIR317",
@@ -37131,7 +37131,7 @@
     }
   },
   "BAW7NY": {
-    "time": 1795255257.3528042,
+    "time": 1795429236.9845088,
     "route": {
       "callsign": "BAW7NY",
       "callsign_icao": "BAW7NY",
@@ -89436,7 +89436,7 @@
     }
   },
   "NSZ3512": {
-    "time": 1795171540.3570392,
+    "time": 1795429236.9845088,
     "route": {
       "callsign": "NSZ3512",
       "callsign_icao": "NSZ3512",
@@ -123666,7 +123666,7 @@
     }
   },
   "AFR27SZ": {
-    "time": 1795342537.085604,
+    "time": 1795429236.9845088,
     "route": {
       "callsign": "AFR27SZ",
       "callsign_icao": "AFR27SZ",
@@ -200092,6 +200092,75 @@
         "longitude": -13.6052,
         "municipality": "Lanzarote Island",
         "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      }
+    }
+  },
+  "VJT683": {
+    "time": 1795429236.9845088,
+    "route": {
+      "callsign": "VJT683",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 502,
+        "iata_code": "ORK",
+        "icao_code": "EICK",
+        "latitude": 51.8413,
+        "longitude": -8.49111,
+        "municipality": "Cork",
+        "name": "Cork Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 238,
+        "iata_code": "FAB",
+        "icao_code": "EGLF",
+        "latitude": 51.2758,
+        "longitude": -0.77633,
+        "municipality": "Farnborough",
+        "name": "Farnborough Airport"
+      }
+    }
+  },
+  "CFE8AP": {
+    "time": 1795429236.9845088,
+    "route": {
+      "callsign": "CFE8AP",
+      "callsign_icao": "CFE8AP",
+      "callsign_iata": "CJ8AP",
+      "airline": {
+        "name": "BA CityFlyer",
+        "icao": "CFE",
+        "iata": "CJ",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "FLYER"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 19,
+        "iata_code": "LCY",
+        "icao_code": "EGLC",
+        "latitude": 51.5053,
+        "longitude": 0.05528,
+        "municipality": "London",
+        "name": "London City Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
       }
     }
   }
