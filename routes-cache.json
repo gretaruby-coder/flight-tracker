@@ -113852,7 +113852,7 @@
     }
   },
   "EZY68AM": {
-    "time": 1795387537.6711292,
+    "time": 1795475128.2190638,
     "route": {
       "callsign": "EZY68AM",
       "callsign_icao": "EZY68AM",
@@ -200731,6 +200731,82 @@
         "longitude": -7.58997,
         "municipality": "Casablanca",
         "name": "Mohammed V International Airport"
+      }
+    }
+  },
+  "RYR4283": {
+    "time": 1795475128.2190638,
+    "route": {
+      "callsign": "RYR4283",
+      "callsign_icao": "RYR4283",
+      "callsign_iata": "FR4283",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 74,
+        "iata_code": "MRS",
+        "icao_code": "LFML",
+        "latitude": 43.43927,
+        "longitude": 5.22142,
+        "municipality": "Marseille",
+        "name": "Marseille Provence Airport"
+      },
+      "destination": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
+      }
+    }
+  },
+  "EZY2274": {
+    "time": 1795475128.2190638,
+    "route": {
+      "callsign": "EZY2274",
+      "callsign_icao": "EZY2274",
+      "callsign_iata": "U22274",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "MT",
+        "country_name": "Malta",
+        "elevation": 300,
+        "iata_code": "MLA",
+        "icao_code": "LMML",
+        "latitude": 35.8575,
+        "longitude": 14.4775,
+        "municipality": "Valletta",
+        "name": "Malta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
