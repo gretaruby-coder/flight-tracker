@@ -1637,7 +1637,7 @@
     }
   },
   "JBU20": {
-    "time": 1795351235.876048,
+    "time": 1795437636.409958,
     "route": {
       "callsign": "JBU20",
       "callsign_icao": "JBU20",
@@ -16615,7 +16615,7 @@
     }
   },
   "DAL21": {
-    "time": 1795265728.0077293,
+    "time": 1795437636.409958,
     "route": {
       "callsign": "DAL21",
       "callsign_icao": "DAL21",
@@ -70526,7 +70526,7 @@
     }
   },
   "DLH3KV": {
-    "time": 1795266058.3324687,
+    "time": 1795437636.409958,
     "route": {
       "callsign": "DLH3KV",
       "callsign_icao": "DLH3KV",
@@ -70792,7 +70792,7 @@
     }
   },
   "LHX2474": {
-    "time": 1795266642.4894779,
+    "time": 1795437636.409958,
     "route": {
       "callsign": "LHX2474",
       "callsign_icao": "LHX2474",
@@ -74212,7 +74212,7 @@
     }
   },
   "EFW43BE": {
-    "time": 1795094442.3571668,
+    "time": 1795437636.409958,
     "route": {
       "callsign": "EFW43BE",
       "callsign_icao": "EFW43BE",
@@ -140263,7 +140263,7 @@
     }
   },
   "EZY2910": {
-    "time": 1795212058.0974095,
+    "time": 1795437636.409958,
     "route": {
       "callsign": "EZY2910",
       "callsign_icao": "EZY2910",
@@ -200724,6 +200724,82 @@
         "longitude": 4.76389,
         "municipality": "Amsterdam",
         "name": "Amsterdam Airport Schiphol"
+      }
+    }
+  },
+  "CFG3748": {
+    "time": 1795437636.409958,
+    "route": {
+      "callsign": "CFG3748",
+      "callsign_icao": "CFG3748",
+      "callsign_iata": "DE3748",
+      "airline": {
+        "name": "Condor Flugdienst",
+        "icao": "CFG",
+        "iata": "DE",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "CONDOR"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      },
+      "destination": {
+        "country_iso_name": "JM",
+        "country_name": "Jamaica",
+        "elevation": 4,
+        "iata_code": "MBJ",
+        "icao_code": "MKJS",
+        "latitude": 18.5037,
+        "longitude": -77.9134,
+        "municipality": "Montego Bay",
+        "name": "Sangster International Airport"
+      }
+    }
+  },
+  "VLG65TP": {
+    "time": 1795437636.409958,
+    "route": {
+      "callsign": "VLG65TP",
+      "callsign_icao": "VLG65TP",
+      "callsign_iata": "VY65TP",
+      "airline": {
+        "name": "Vueling Airlines",
+        "icao": "VLG",
+        "iata": "VY",
+        "country": "Spain",
+        "country_iso": "ES",
+        "callsign": "VUELING"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
       }
     }
   }
