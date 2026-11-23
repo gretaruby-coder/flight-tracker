@@ -12632,7 +12632,7 @@
     }
   },
   "CSN303": {
-    "time": 1795285239.0294862,
+    "time": 1795456236.8040936,
     "route": {
       "callsign": "CSN303",
       "callsign_icao": "CSN303",
@@ -14456,7 +14456,7 @@
     }
   },
   "EIN173": {
-    "time": 1795369834.276637,
+    "time": 1795456236.8040936,
     "route": {
       "callsign": "EIN173",
       "callsign_icao": "EIN173",
@@ -76340,7 +76340,7 @@
     }
   },
   "BAW410V": {
-    "time": 1795276238.6444764,
+    "time": 1795456236.8040936,
     "route": {
       "callsign": "BAW410V",
       "callsign_icao": "BAW410V",
@@ -117365,7 +117365,7 @@
     }
   },
   "AFR94RR": {
-    "time": 1795285239.0294862,
+    "time": 1795456236.8040936,
     "route": {
       "callsign": "AFR94RR",
       "callsign_icao": "AFR94RR",
@@ -157228,7 +157228,7 @@
     }
   },
   "THY2YX": {
-    "time": 1795282838.0665393,
+    "time": 1795456236.8040936,
     "route": {
       "callsign": "THY2YX",
       "callsign_icao": "THY2YX",
@@ -201142,6 +201142,82 @@
         "longitude": -4.49911,
         "municipality": "M\u00e1laga",
         "name": "M\u00e1laga-Costa del Sol Airport"
+      }
+    }
+  },
+  "EXS9BZ": {
+    "time": 1795456236.8040936,
+    "route": {
+      "callsign": "EXS9BZ",
+      "callsign_icao": "EXS9BZ",
+      "callsign_iata": "LS9BZ",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 192,
+        "iata_code": "FNC",
+        "icao_code": "LPMA",
+        "latitude": 32.6979,
+        "longitude": -16.7745,
+        "municipality": "Funchal",
+        "name": "Madeira International Airport Cristiano Ronaldo"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      }
+    }
+  },
+  "NOS9070": {
+    "time": 1795456236.8040936,
+    "route": {
+      "callsign": "NOS9070",
+      "callsign_icao": "NOS9070",
+      "callsign_iata": "NO9070",
+      "airline": {
+        "name": "Neos",
+        "icao": "NOS",
+        "iata": "NO",
+        "country": "Italy",
+        "country_iso": "IT",
+        "callsign": "MOONFLOWER"
+      },
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 374,
+        "iata_code": "LIS",
+        "icao_code": "LPPT",
+        "latitude": 38.7813,
+        "longitude": -9.13592,
+        "municipality": "Lisbon",
+        "name": "Humberto Delgado Airport (Lisbon Portela Airport)"
+      },
+      "destination": {
+        "country_iso_name": "IL",
+        "country_name": "Israel",
+        "elevation": 135,
+        "iata_code": "TLV",
+        "icao_code": "LLBG",
+        "latitude": 32.0114,
+        "longitude": 34.8867,
+        "municipality": "Tel Aviv",
+        "name": "Ben Gurion International Airport"
       }
     }
   }
