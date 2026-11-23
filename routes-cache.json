@@ -1347,7 +1347,7 @@
     }
   },
   "SHT5X": {
-    "time": 1794915053.3726845,
+    "time": 1795428641.5361233,
     "route": {
       "callsign": "SHT5X",
       "callsign_icao": null,
@@ -35459,7 +35459,7 @@
     }
   },
   "DLH9U": {
-    "time": 1795341655.1760774,
+    "time": 1795428641.5361233,
     "route": {
       "callsign": "DLH9U",
       "callsign_icao": "DLH9U",
@@ -38461,7 +38461,7 @@
     }
   },
   "BAW552F": {
-    "time": 1795341929.7397962,
+    "time": 1795428641.5361233,
     "route": {
       "callsign": "BAW552F",
       "callsign_icao": "BAW552F",
@@ -49606,7 +49606,7 @@
     }
   },
   "AUR2LG": {
-    "time": 1795169135.3882143,
+    "time": 1795428641.5361233,
     "route": {
       "callsign": "AUR2LG",
       "callsign_icao": "AUR2LG",
@@ -110432,7 +110432,7 @@
     }
   },
   "CFE2GH": {
-    "time": 1795179660.782799,
+    "time": 1795428641.5361233,
     "route": {
       "callsign": "CFE2GH",
       "callsign_icao": "CFE2GH",
@@ -110470,7 +110470,7 @@
     }
   },
   "EZY38WE": {
-    "time": 1795165531.4125652,
+    "time": 1795428641.5361233,
     "route": {
       "callsign": "EZY38WE",
       "callsign_icao": "EZY38WE",
@@ -111914,7 +111914,7 @@
     }
   },
   "TOM5KA": {
-    "time": 1794824137.82434,
+    "time": 1795428641.5361233,
     "route": {
       "callsign": "TOM5KA",
       "callsign_icao": "TOM5KA",
@@ -200054,6 +200054,82 @@
         "longitude": -22.9494,
         "municipality": "Espargos",
         "name": "Am\u00edlcar Cabral International Airport"
+      }
+    }
+  },
+  "DAL9903": {
+    "time": 1795428641.5361233,
+    "route": {
+      "callsign": "DAL9903",
+      "callsign_icao": "DAL9903",
+      "callsign_iata": "DL9903",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "BLX283": {
+    "time": 1795428641.5361233,
+    "route": {
+      "callsign": "BLX283",
+      "callsign_icao": "BLX283",
+      "callsign_iata": "6B283",
+      "airline": {
+        "name": "TUIfly Nordic",
+        "icao": "BLX",
+        "iata": "6B",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": "BLUESCAN"
+      },
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 506,
+        "iata_code": "GOT",
+        "icao_code": "ESGG",
+        "latitude": 57.6628,
+        "longitude": 12.2798,
+        "municipality": "Gothenburg",
+        "name": "Gothenburg-Landvetter Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 46,
+        "iata_code": "ACE",
+        "icao_code": "GCRR",
+        "latitude": 28.9455,
+        "longitude": -13.6052,
+        "municipality": "Lanzarote Island",
+        "name": "C\u00e9sar Manrique-Lanzarote Airport"
       }
     }
   }
