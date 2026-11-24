@@ -30153,7 +30153,7 @@
     }
   },
   "EIN71K": {
-    "time": 1795424464.6221213,
+    "time": 1795511127.8632507,
     "route": {
       "callsign": "EIN71K",
       "callsign_icao": "EIN71K",
@@ -32015,7 +32015,7 @@
     }
   },
   "BAW785": {
-    "time": 1795424464.6221213,
+    "time": 1795511127.8632507,
     "route": {
       "callsign": "BAW785",
       "callsign_icao": "BAW785",
@@ -32958,7 +32958,7 @@
     }
   },
   "BAW14K": {
-    "time": 1795339527.0957804,
+    "time": 1795511127.8632507,
     "route": {
       "callsign": "BAW14K",
       "callsign_icao": "BAW14K",
@@ -36105,7 +36105,7 @@
     }
   },
   "ETD81C": {
-    "time": 1795339850.5858035,
+    "time": 1795511127.8632507,
     "route": {
       "callsign": "ETD81C",
       "callsign_icao": "ETD81C",
@@ -36181,7 +36181,7 @@
     }
   },
   "VIR48WE": {
-    "time": 1795338934.2156317,
+    "time": 1795511127.8632507,
     "route": {
       "callsign": "VIR48WE",
       "callsign_icao": "VIR48WE",
@@ -40575,7 +40575,7 @@
     }
   },
   "BAW432": {
-    "time": 1795338062.637386,
+    "time": 1795511127.8632507,
     "route": {
       "callsign": "BAW432",
       "callsign_icao": "BAW432",
@@ -64142,7 +64142,7 @@
     }
   },
   "THY6YE": {
-    "time": 1795339237.7461588,
+    "time": 1795511127.8632507,
     "route": {
       "callsign": "THY6YE",
       "callsign_icao": "THY6YE",
@@ -108646,7 +108646,7 @@
     }
   },
   "RYR66KC": {
-    "time": 1795416334.324908,
+    "time": 1795511127.8632507,
     "route": {
       "callsign": "RYR66KC",
       "callsign_icao": "RYR66KC",
@@ -140757,7 +140757,7 @@
     }
   },
   "VJT938": {
-    "time": 1795283436.2549348,
+    "time": 1795511127.8632507,
     "route": {
       "callsign": "VJT938",
       "callsign_icao": null,
@@ -200648,6 +200648,82 @@
         "longitude": 19.9117,
         "municipality": "Kerkyra Island",
         "name": "Ioannis Kapodistrias International Airport"
+      }
+    }
+  },
+  "LWG17J": {
+    "time": 1795511127.8632507,
+    "route": {
+      "callsign": "LWG17J",
+      "callsign_icao": "LWG17J",
+      "callsign_iata": "BN17J",
+      "airline": {
+        "name": "Luxwing",
+        "icao": "LWG",
+        "iata": "BN",
+        "country": "Malta",
+        "country_iso": "MT",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 295,
+        "iata_code": "BWE",
+        "icao_code": "EDVE",
+        "latitude": 52.3192,
+        "longitude": 10.5561,
+        "municipality": "Braunschweig",
+        "name": "Braunschweig-Wolfsburg Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1367,
+        "iata_code": "FDH",
+        "icao_code": "EDNY",
+        "latitude": 47.6713,
+        "longitude": 9.51149,
+        "municipality": "Friedrichshafen",
+        "name": "Friedrichshafen Airport"
+      }
+    }
+  },
+  "JBU1407": {
+    "time": 1795511127.8632507,
+    "route": {
+      "callsign": "JBU1407",
+      "callsign_icao": "JBU1407",
+      "callsign_iata": "B61407",
+      "airline": {
+        "name": "JetBlue Airways",
+        "icao": "JBU",
+        "iata": "B6",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "JETBLUE"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
       }
     }
   }
