@@ -28564,7 +28564,7 @@
     }
   },
   "AAL174": {
-    "time": 1795339237.7461588,
+    "time": 1795507528.52798,
     "route": {
       "callsign": "AAL174",
       "callsign_icao": "AAL174",
@@ -29925,7 +29925,7 @@
     }
   },
   "AUA33RP": {
-    "time": 1795335929.7042208,
+    "time": 1795507528.52798,
     "route": {
       "callsign": "AUA33RP",
       "callsign_icao": "AUA33RP",
@@ -51309,7 +51309,7 @@
     }
   },
   "BAW550": {
-    "time": 1795337438.3820539,
+    "time": 1795507528.52798,
     "route": {
       "callsign": "BAW550",
       "callsign_icao": "BAW550",
@@ -54221,7 +54221,7 @@
     }
   },
   "BAW90F": {
-    "time": 1795420867.637614,
+    "time": 1795507528.52798,
     "route": {
       "callsign": "BAW90F",
       "callsign_icao": "BAW90F",
@@ -61368,7 +61368,7 @@
     }
   },
   "EZY92NW": {
-    "time": 1795341326.5129871,
+    "time": 1795507528.52798,
     "route": {
       "callsign": "EZY92NW",
       "callsign_icao": "EZY92NW",
@@ -71628,7 +71628,7 @@
     }
   },
   "RYR1XD": {
-    "time": 1795352733.398087,
+    "time": 1795507528.52798,
     "route": {
       "callsign": "RYR1XD",
       "callsign_icao": "RYR1XD",
@@ -79494,7 +79494,7 @@
     }
   },
   "EZY42ZL": {
-    "time": 1795367434.6515522,
+    "time": 1795507528.52798,
     "route": {
       "callsign": "EZY42ZL",
       "callsign_icao": "EZY42ZL",
@@ -87049,7 +87049,7 @@
     }
   },
   "SHT9N": {
-    "time": 1795417259.9025738,
+    "time": 1795507528.52798,
     "route": {
       "callsign": "SHT9N",
       "callsign_icao": null,
@@ -87840,7 +87840,7 @@
     }
   },
   "EWG471": {
-    "time": 1795341655.1760774,
+    "time": 1795507528.52798,
     "route": {
       "callsign": "EWG471",
       "callsign_icao": "EWG471",
@@ -151056,44 +151056,6 @@
       }
     }
   },
-  "EXS8FX": {
-    "time": 1794902465.7825243,
-    "route": {
-      "callsign": "EXS8FX",
-      "callsign_icao": "EXS8FX",
-      "callsign_iata": "LS8FX",
-      "airline": {
-        "name": "Jet2.com",
-        "icao": "EXS",
-        "iata": "LS",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "CHANNEX"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 80,
-        "iata_code": "LPL",
-        "icao_code": "EGGP",
-        "latitude": 53.3336,
-        "longitude": -2.84972,
-        "municipality": "Liverpool",
-        "name": "Liverpool John Lennon Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 142,
-        "iata_code": "ALC",
-        "icao_code": "LEAL",
-        "latitude": 38.2822,
-        "longitude": -0.55816,
-        "municipality": "Alicante",
-        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
-      }
-    }
-  },
   "ECA2XA": {
     "time": 1794993338.1238825,
     "route": {
@@ -200631,6 +200593,82 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "CFG229": {
+    "time": 1795507528.52798,
+    "route": {
+      "callsign": "CFG229",
+      "callsign_icao": "CFG229",
+      "callsign_iata": "DE229",
+      "airline": {
+        "name": "Condor Flugdienst",
+        "icao": "CFG",
+        "iata": "DE",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "CONDOR"
+      },
+      "origin": {
+        "country_iso_name": "DO",
+        "country_name": "Dominican Republic",
+        "elevation": 47,
+        "iata_code": "PUJ",
+        "icao_code": "MDPC",
+        "latitude": 18.5674,
+        "longitude": -68.3634,
+        "municipality": "Punta Cana",
+        "name": "Punta Cana International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "CFG3807": {
+    "time": 1795507528.52798,
+    "route": {
+      "callsign": "CFG3807",
+      "callsign_icao": "CFG3807",
+      "callsign_iata": "DE3807",
+      "airline": {
+        "name": "Condor Flugdienst",
+        "icao": "CFG",
+        "iata": "DE",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "CONDOR"
+      },
+      "origin": {
+        "country_iso_name": "JM",
+        "country_name": "Jamaica",
+        "elevation": 4,
+        "iata_code": "MBJ",
+        "icao_code": "MKJS",
+        "latitude": 18.5037,
+        "longitude": -77.9134,
+        "municipality": "Montego Bay",
+        "name": "Sangster International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
       }
     }
   }
