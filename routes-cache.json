@@ -24322,7 +24322,7 @@
     }
   },
   "BAW2066": {
-    "time": 1795318530.6173155,
+    "time": 1795497036.2820098,
     "route": {
       "callsign": "BAW2066",
       "callsign_icao": "BAW2066",
@@ -48162,7 +48162,7 @@
     }
   },
   "AAL70": {
-    "time": 1795408833.7004285,
+    "time": 1795497036.2820098,
     "route": {
       "callsign": "AAL70",
       "callsign_icao": "AAL70",
@@ -113890,7 +113890,7 @@
     }
   },
   "WUK1YY": {
-    "time": 1795331435.2277257,
+    "time": 1795497036.2820098,
     "route": {
       "callsign": "WUK1YY",
       "callsign_icao": "WUK1YY",
@@ -200541,6 +200541,82 @@
         "longitude": 11.7861,
         "municipality": "Munich",
         "name": "Munich Airport"
+      }
+    }
+  },
+  "SIA7973": {
+    "time": 1795497036.2820098,
+    "route": {
+      "callsign": "SIA7973",
+      "callsign_icao": "SIA7973",
+      "callsign_iata": "SQ7973",
+      "airline": {
+        "name": "Singapore Airlines",
+        "icao": "SIA",
+        "iata": "SQ",
+        "country": "Singapore",
+        "country_iso": "SG",
+        "callsign": "SINGAPORE"
+      },
+      "origin": {
+        "country_iso_name": "IN",
+        "country_name": "India",
+        "elevation": 39,
+        "iata_code": "BOM",
+        "icao_code": "VABB",
+        "latitude": 19.0887,
+        "longitude": 72.8679,
+        "municipality": "Mumbai",
+        "name": "Chhatrapati Shivaji International Airport"
+      },
+      "destination": {
+        "country_iso_name": "SG",
+        "country_name": "Singapore",
+        "elevation": 22,
+        "iata_code": "SIN",
+        "icao_code": "WSSS",
+        "latitude": 1.35019,
+        "longitude": 103.994,
+        "municipality": "Singapore",
+        "name": "Singapore Changi Airport"
+      }
+    }
+  },
+  "LCO3601": {
+    "time": 1795497036.2820098,
+    "route": {
+      "callsign": "LCO3601",
+      "callsign_icao": "LCO3601",
+      "callsign_iata": "UC3601",
+      "airline": {
+        "name": "LAN Cargo",
+        "icao": "LCO",
+        "iata": "UC",
+        "country": "Chile",
+        "country_iso": "CL",
+        "callsign": "LAN CARGO"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 8,
+        "iata_code": "MIA",
+        "icao_code": "KMIA",
+        "latitude": 25.7932,
+        "longitude": -80.2906,
+        "municipality": "Miami",
+        "name": "Miami International Airport"
+      },
+      "destination": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 184,
+        "iata_code": "BRU",
+        "icao_code": "EBBR",
+        "latitude": 50.9014,
+        "longitude": 4.48444,
+        "municipality": "Brussels",
+        "name": "Brussels Airport"
       }
     }
   }
