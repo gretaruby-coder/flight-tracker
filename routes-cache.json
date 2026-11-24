@@ -1865,7 +1865,7 @@
     }
   },
   "ELY315": {
-    "time": 1795350036.1596272,
+    "time": 1795521928.2915626,
     "route": {
       "callsign": "ELY315",
       "callsign_icao": "ELY315",
@@ -5979,7 +5979,7 @@
     }
   },
   "BAW5": {
-    "time": 1795353333.5838377,
+    "time": 1795521928.2915626,
     "route": {
       "callsign": "BAW5",
       "callsign_icao": "BAW5",
@@ -25500,7 +25500,7 @@
     }
   },
   "JAL41": {
-    "time": 1795413658.7242508,
+    "time": 1795521928.2915626,
     "route": {
       "callsign": "JAL41",
       "callsign_icao": "JAL41",
@@ -96490,7 +96490,7 @@
     }
   },
   "NSZ6BG": {
-    "time": 1795260326.0956492,
+    "time": 1795521928.2915626,
     "route": {
       "callsign": "NSZ6BG",
       "callsign_icao": "NSZ6BG",
@@ -102397,7 +102397,7 @@
     }
   },
   "HOP51BV": {
-    "time": 1795350326.5823386,
+    "time": 1795521928.2915626,
     "route": {
       "callsign": "HOP51BV",
       "callsign_icao": "HOP51BV",
@@ -151253,37 +151253,6 @@
         "longitude": -2.71909,
         "municipality": "Bristol",
         "name": "Bristol Airport"
-      }
-    }
-  },
-  "VJT405": {
-    "time": 1794916870.1451573,
-    "route": {
-      "callsign": "VJT405",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "IE",
-        "country_name": "Ireland",
-        "elevation": 46,
-        "iata_code": "SNN",
-        "icao_code": "EINN",
-        "latitude": 52.702,
-        "longitude": -8.92482,
-        "municipality": "Shannon",
-        "name": "Shannon Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 124,
-        "iata_code": "NHT",
-        "icao_code": "EGWU",
-        "latitude": 51.553,
-        "longitude": -0.41817,
-        "municipality": "London",
-        "name": "RAF Northolt"
       }
     }
   },
@@ -200997,6 +200966,82 @@
         "longitude": 8.57056,
         "municipality": "Frankfurt am Main",
         "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "TOM68J": {
+    "time": 1795521928.2915626,
+    "route": {
+      "callsign": "TOM68J",
+      "callsign_icao": "TOM68J",
+      "callsign_iata": "BY68J",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 20,
+        "iata_code": "DLM",
+        "icao_code": "LTBS",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "name": "Dalaman International Airport"
+      }
+    }
+  },
+  "EXS26AD": {
+    "time": 1795521928.2915626,
+    "route": {
+      "callsign": "EXS26AD",
+      "callsign_icao": "EXS26AD",
+      "callsign_iata": "LS26AD",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IS",
+        "country_name": "Iceland",
+        "elevation": 171,
+        "iata_code": "KEF",
+        "icao_code": "BIKF",
+        "latitude": 63.985,
+        "longitude": -22.6056,
+        "municipality": "Reykjav\u00edk",
+        "name": "Keflavik International Airport"
       }
     }
   }
