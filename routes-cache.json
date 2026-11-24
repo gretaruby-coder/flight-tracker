@@ -47505,7 +47505,7 @@
     }
   },
   "BCS23V": {
-    "time": 1795218034.965937,
+    "time": 1795478726.7140326,
     "route": {
       "callsign": "BCS23V",
       "callsign_icao": "BCS23V",
@@ -200807,6 +200807,82 @@
         "longitude": -3.56264,
         "municipality": "Madrid",
         "name": "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport"
+      }
+    }
+  },
+  "BCS524": {
+    "time": 1795478726.7140326,
+    "route": {
+      "callsign": "BCS524",
+      "callsign_icao": "BCS524",
+      "callsign_iata": "QY524",
+      "airline": {
+        "name": "European Air Transport",
+        "icao": "BCS",
+        "iata": "QY",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "EUROTRANS"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 1682,
+        "iata_code": "VIT",
+        "icao_code": "LEVT",
+        "latitude": 42.8828,
+        "longitude": -2.72447,
+        "municipality": "Alava",
+        "name": "Vitoria Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      }
+    }
+  },
+  "EZY2070": {
+    "time": 1795478726.7140326,
+    "route": {
+      "callsign": "EZY2070",
+      "callsign_icao": "EZY2070",
+      "callsign_iata": "U22070",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GR",
+        "country_name": "Greece",
+        "elevation": 308,
+        "iata_code": "ATH",
+        "icao_code": "LGAV",
+        "latitude": 37.9364,
+        "longitude": 23.9445,
+        "municipality": "Athens",
+        "name": "Athens Eleftherios Venizelos International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
