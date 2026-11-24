@@ -3402,7 +3402,7 @@
     }
   },
   "EIN9AL": {
-    "time": 1795442461.1285417,
+    "time": 1795528861.792691,
     "route": {
       "callsign": "EIN9AL",
       "callsign_icao": "EIN9AL",
@@ -3965,7 +3965,7 @@
     }
   },
   "SAS52C": {
-    "time": 1795442129.2460415,
+    "time": 1795528861.792691,
     "route": {
       "callsign": "SAS52C",
       "callsign_icao": "SAS52C",
@@ -70792,7 +70792,7 @@
     }
   },
   "AUA3NX": {
-    "time": 1795441537.7036955,
+    "time": 1795528861.792691,
     "route": {
       "callsign": "AUA3NX",
       "callsign_icao": "AUA3NX",
@@ -73908,7 +73908,7 @@
     }
   },
   "AFR34UN": {
-    "time": 1795353635.4876428,
+    "time": 1795528861.792691,
     "route": {
       "callsign": "AFR34UN",
       "callsign_icao": "AFR34UN",
@@ -74288,7 +74288,7 @@
     }
   },
   "VLG4PJ": {
-    "time": 1795356634.6615367,
+    "time": 1795528861.792691,
     "route": {
       "callsign": "VLG4PJ",
       "callsign_icao": "VLG4PJ",
@@ -80254,7 +80254,7 @@
     }
   },
   "RYR3CP": {
-    "time": 1795372527.3718512,
+    "time": 1795528861.792691,
     "route": {
       "callsign": "RYR3CP",
       "callsign_icao": "RYR3CP",
@@ -104290,7 +104290,7 @@
     }
   },
   "EZY904Y": {
-    "time": 1795355135.2275405,
+    "time": 1795528861.792691,
     "route": {
       "callsign": "EZY904Y",
       "callsign_icao": "EZY904Y",
@@ -110504,44 +110504,6 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
-      }
-    }
-  },
-  "KLM61M": {
-    "time": 1794923734.9141784,
-    "route": {
-      "callsign": "KLM61M",
-      "callsign_icao": "KLM61M",
-      "callsign_iata": "KL61M",
-      "airline": {
-        "name": "KLM Royal Dutch Airlines",
-        "icao": "KLM",
-        "iata": "KL",
-        "country": "Netherlands",
-        "country_iso": "NL",
-        "callsign": "KLM"
-      },
-      "origin": {
-        "country_iso_name": "NL",
-        "country_name": "Netherlands",
-        "elevation": -11,
-        "iata_code": "AMS",
-        "icao_code": "EHAM",
-        "latitude": 52.3086,
-        "longitude": 4.76389,
-        "municipality": "Amsterdam",
-        "name": "Amsterdam Airport Schiphol"
-      },
-      "destination": {
-        "country_iso_name": "PT",
-        "country_name": "Portugal",
-        "elevation": 228,
-        "iata_code": "OPO",
-        "icao_code": "LPPR",
-        "latitude": 41.2481,
-        "longitude": -8.68139,
-        "municipality": "Porto",
-        "name": "Francisco de S\u00e1 Carneiro Airport"
       }
     }
   },
@@ -133141,7 +133103,7 @@
     }
   },
   "WUK715": {
-    "time": 1795098331.3237178,
+    "time": 1795528861.792691,
     "route": {
       "callsign": "WUK715",
       "callsign_icao": "WUK715",
@@ -134281,7 +134243,7 @@
     }
   },
   "BTI27N": {
-    "time": 1795077058.0407257,
+    "time": 1795528861.792691,
     "route": {
       "callsign": "BTI27N",
       "callsign_icao": "BTI27N",
@@ -151433,7 +151395,7 @@
     }
   },
   "ACA871": {
-    "time": 1795441837.2175612,
+    "time": 1795528861.792691,
     "route": {
       "callsign": "ACA871",
       "callsign_icao": "ACA871",
@@ -170196,7 +170158,7 @@
     }
   },
   "ACA895": {
-    "time": 1795354527.4470296,
+    "time": 1795528861.792691,
     "route": {
       "callsign": "ACA895",
       "callsign_icao": "ACA895",
@@ -201318,6 +201280,44 @@
         "longitude": 8.57056,
         "municipality": "Frankfurt am Main",
         "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "CLX82W": {
+    "time": 1795528861.792691,
+    "route": {
+      "callsign": "CLX82W",
+      "callsign_icao": "CLX82W",
+      "callsign_iata": "CV82W",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 152,
+        "iata_code": "ANC",
+        "icao_code": "PANC",
+        "latitude": 61.1744,
+        "longitude": -149.996,
+        "municipality": "Anchorage",
+        "name": "Ted Stevens Anchorage International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
       }
     }
   }
