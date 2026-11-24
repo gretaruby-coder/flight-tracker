@@ -10670,7 +10670,7 @@
     }
   },
   "CSN673": {
-    "time": 1795455638.2079132,
+    "time": 1795542926.9606776,
     "route": {
       "callsign": "CSN673",
       "callsign_icao": "CSN673",
@@ -11772,7 +11772,7 @@
     }
   },
   "BAW198": {
-    "time": 1795456525.94615,
+    "time": 1795542926.9606776,
     "route": {
       "callsign": "BAW198",
       "callsign_icao": "BAW198",
@@ -18743,7 +18743,7 @@
     }
   },
   "IBE07HA": {
-    "time": 1795375528.7408059,
+    "time": 1795542926.9606776,
     "route": {
       "callsign": "IBE07HA",
       "callsign_icao": "IBE07HA",
@@ -50853,7 +50853,7 @@
     }
   },
   "EFW8AK": {
-    "time": 1795356327.9502447,
+    "time": 1795542926.9606776,
     "route": {
       "callsign": "EFW8AK",
       "callsign_icao": "EFW8AK",
@@ -79038,7 +79038,7 @@
     }
   },
   "AFR31BE": {
-    "time": 1795371040.2078507,
+    "time": 1795542926.9606776,
     "route": {
       "callsign": "AFR31BE",
       "callsign_icao": "AFR31BE",
@@ -79798,7 +79798,7 @@
     }
   },
   "DLH1U": {
-    "time": 1795371335.1081178,
+    "time": 1795542926.9606776,
     "route": {
       "callsign": "DLH1U",
       "callsign_icao": "DLH1U",
@@ -131718,7 +131718,7 @@
     }
   },
   "RUK4NF": {
-    "time": 1794938730.8487747,
+    "time": 1795542926.9606776,
     "route": {
       "callsign": "RUK4NF",
       "callsign_icao": "RUK4NF",
@@ -151360,68 +151360,6 @@
         "longitude": -13.8638,
         "municipality": "Fuerteventura Island",
         "name": "Fuerteventura Airport"
-      }
-    }
-  },
-  "OOMMT": {
-    "time": 1794937839.7922897,
-    "route": {
-      "callsign": "OOMMT",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "NL",
-        "country_name": "Netherlands",
-        "elevation": 375,
-        "iata_code": "MST",
-        "icao_code": "EHBK",
-        "latitude": 50.9117,
-        "longitude": 5.77014,
-        "municipality": "Maastricht",
-        "name": "Maastricht Aachen Airport"
-      },
-      "destination": {
-        "country_iso_name": "NL",
-        "country_name": "Netherlands",
-        "elevation": 375,
-        "iata_code": "MST",
-        "icao_code": "EHBK",
-        "latitude": 50.9117,
-        "longitude": 5.77014,
-        "municipality": "Maastricht",
-        "name": "Maastricht Aachen Airport"
-      }
-    }
-  },
-  "NJE6PM": {
-    "time": 1794937839.7922897,
-    "route": {
-      "callsign": "NJE6PM",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 439,
-        "iata_code": "HPN",
-        "icao_code": "KHPN",
-        "latitude": 41.067,
-        "longitude": -73.7076,
-        "municipality": "White Plains",
-        "name": "Westchester County Airport"
-      },
-      "destination": {
-        "country_iso_name": "AT",
-        "country_name": "Austria",
-        "elevation": 1411,
-        "iata_code": "SZG",
-        "icao_code": "LOWS",
-        "latitude": 47.7933,
-        "longitude": 13.0043,
-        "municipality": "Salzburg",
-        "name": "Salzburg Airport"
       }
     }
   },
@@ -200952,6 +200890,44 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "THY6076": {
+    "time": 1795542926.9606776,
+    "route": {
+      "callsign": "THY6076",
+      "callsign_icao": "THY6076",
+      "callsign_iata": "TK6076",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
       }
     }
   }
