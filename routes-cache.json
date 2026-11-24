@@ -114,7 +114,7 @@
     }
   },
   "BAW5DW": {
-    "time": 1795340128.9492075,
+    "time": 1795512036.1854024,
     "route": {
       "callsign": "BAW5DW",
       "callsign_icao": "BAW5DW",
@@ -31483,7 +31483,7 @@
     }
   },
   "KLM81E": {
-    "time": 1795422655.3316422,
+    "time": 1795512036.1854024,
     "route": {
       "callsign": "KLM81E",
       "callsign_icao": "KLM81E",
@@ -32053,7 +32053,7 @@
     }
   },
   "BAW19W": {
-    "time": 1795341929.7397962,
+    "time": 1795512036.1854024,
     "route": {
       "callsign": "BAW19W",
       "callsign_icao": "BAW19W",
@@ -33148,7 +33148,7 @@
     }
   },
   "CFE909": {
-    "time": 1795425340.9640684,
+    "time": 1795512036.1854024,
     "route": {
       "callsign": "CFE909",
       "callsign_icao": "CFE909",
@@ -33673,7 +33673,7 @@
     }
   },
   "KLC1070": {
-    "time": 1795424464.6221213,
+    "time": 1795512036.1854024,
     "route": {
       "callsign": "KLC1070",
       "callsign_icao": "KLC1070",
@@ -41902,7 +41902,7 @@
     }
   },
   "ROU2081": {
-    "time": 1795341036.5440323,
+    "time": 1795512036.1854024,
     "route": {
       "callsign": "ROU2081",
       "callsign_icao": "ROU2081",
@@ -156053,7 +156053,7 @@
     }
   },
   "EZY9094": {
-    "time": 1795080042.1492555,
+    "time": 1795512036.1854024,
     "route": {
       "callsign": "EZY9094",
       "callsign_icao": "EZY9094",
@@ -200686,6 +200686,158 @@
         "longitude": 25.8304,
         "municipality": "Rovaniemi",
         "name": "Rovaniemi Airport"
+      }
+    }
+  },
+  "THY900": {
+    "time": 1795512036.1854024,
+    "route": {
+      "callsign": "THY900",
+      "callsign_icao": "THY900",
+      "callsign_iata": "TK900",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "PA",
+        "country_name": "Panama",
+        "elevation": 135,
+        "iata_code": "PTY",
+        "icao_code": "MPTO",
+        "latitude": 9.07136,
+        "longitude": -79.3835,
+        "municipality": "Tocumen",
+        "name": "Tocumen International Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
+      }
+    }
+  },
+  "BOX459": {
+    "time": 1795512036.1854024,
+    "route": {
+      "callsign": "BOX459",
+      "callsign_icao": "BOX459",
+      "callsign_iata": "3S459",
+      "airline": {
+        "name": "AeroLogic",
+        "icao": "BOX",
+        "iata": "3S",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "GERMAN CARGO"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 1026,
+        "iata_code": "ATL",
+        "icao_code": "KATL",
+        "latitude": 33.6367,
+        "longitude": -84.4281,
+        "municipality": "Atlanta",
+        "name": "Hartsfield Jackson Atlanta International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "BAW9751": {
+    "time": 1795512036.1854024,
+    "route": {
+      "callsign": "BAW9751",
+      "callsign_icao": "BAW9751",
+      "callsign_iata": "BA9751",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "AFR359T": {
+    "time": 1795512036.1854024,
+    "route": {
+      "callsign": "AFR359T",
+      "callsign_icao": "AFR359T",
+      "callsign_iata": "AF359T",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
       }
     }
   }
