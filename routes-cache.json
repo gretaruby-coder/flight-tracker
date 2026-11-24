@@ -200505,5 +200505,43 @@
         "name": "John F Kennedy International Airport"
       }
     }
+  },
+  "BCS360": {
+    "time": 1795492860.7869287,
+    "route": {
+      "callsign": "BCS360",
+      "callsign_icao": "BCS360",
+      "callsign_iata": "QY360",
+      "airline": {
+        "name": "European Air Transport",
+        "icao": "BCS",
+        "iata": "QY",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "EUROTRANS"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 465,
+        "iata_code": "LEJ",
+        "icao_code": "EDDP",
+        "latitude": 51.42389,
+        "longitude": 12.23639,
+        "municipality": "Leipzig",
+        "name": "Leipzig/Halle Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      }
+    }
   }
 }
