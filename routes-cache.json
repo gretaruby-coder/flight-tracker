@@ -411,7 +411,7 @@
     }
   },
   "ITY204": {
-    "time": 1795446937.6097631,
+    "time": 1795533639.5093532,
     "route": {
       "callsign": "ITY204",
       "callsign_icao": "ITY204",
@@ -75884,7 +75884,7 @@
     }
   },
   "EZY64FX": {
-    "time": 1795276238.6444764,
+    "time": 1795533639.5093532,
     "route": {
       "callsign": "EZY64FX",
       "callsign_icao": "EZY64FX",
@@ -107202,7 +107202,7 @@
     }
   },
   "RYR91RL": {
-    "time": 1795376128.5738618,
+    "time": 1795533639.5093532,
     "route": {
       "callsign": "RYR91RL",
       "callsign_icao": "RYR91RL",
@@ -151436,37 +151436,6 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
-      }
-    }
-  },
-  "FHLFE": {
-    "time": 1794928538.370877,
-    "route": {
-      "callsign": "FHLFE",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 194,
-        "iata_code": "LME",
-        "icao_code": "LFRM",
-        "latitude": 47.9486,
-        "longitude": 0.20167,
-        "municipality": "Le Mans/Arnage",
-        "name": "Le Mans-Arnage Airport"
-      },
-      "destination": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 330,
-        "iata_code": "LVA",
-        "icao_code": "LFOV",
-        "latitude": 48.0314,
-        "longitude": -0.74299,
-        "municipality": "Laval/Entrammes",
-        "name": "Laval-Entrammes Airport"
       }
     }
   },
@@ -201204,6 +201173,44 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "DLH459": {
+    "time": 1795533639.5093532,
+    "route": {
+      "callsign": "DLH459",
+      "callsign_icao": "DLH459",
+      "callsign_iata": "LH459",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "SFO",
+        "icao_code": "KSFO",
+        "latitude": 37.619,
+        "longitude": -122.375,
+        "municipality": "San Francisco",
+        "name": "San Francisco International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1487,
+        "iata_code": "MUC",
+        "icao_code": "EDDM",
+        "latitude": 48.3538,
+        "longitude": 11.7861,
+        "municipality": "Munich",
+        "name": "Munich Airport"
       }
     }
   }
