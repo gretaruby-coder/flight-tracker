@@ -36903,7 +36903,7 @@
     }
   },
   "VIR7B": {
-    "time": 1795433452.8640506,
+    "time": 1795520126.6761024,
     "route": {
       "callsign": "VIR7B",
       "callsign_icao": "VIR7B",
@@ -41408,7 +41408,7 @@
     }
   },
   "BAW554R": {
-    "time": 1795432838.7735176,
+    "time": 1795520126.6761024,
     "route": {
       "callsign": "BAW554R",
       "callsign_icao": "BAW554R",
@@ -53689,7 +53689,7 @@
     }
   },
   "CFE03C": {
-    "time": 1795089330.6117613,
+    "time": 1795520126.6761024,
     "route": {
       "callsign": "CFE03C",
       "callsign_icao": "CFE03C",
@@ -109254,7 +109254,7 @@
     }
   },
   "EZY51UP": {
-    "time": 1795426836.7885218,
+    "time": 1795520126.6761024,
     "route": {
       "callsign": "EZY51UP",
       "callsign_icao": "EZY51UP",
@@ -151142,44 +151142,6 @@
       }
     }
   },
-  "EZY68PA": {
-    "time": 1794915053.3726845,
-    "route": {
-      "callsign": "EZY68PA",
-      "callsign_icao": "EZY68PA",
-      "callsign_iata": "U268PA",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 90,
-        "iata_code": "NTE",
-        "icao_code": "LFRS",
-        "latitude": 47.1532,
-        "longitude": -1.61073,
-        "municipality": "Nantes",
-        "name": "Nantes Atlantique Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      }
-    }
-  },
   "GWPDD": {
     "time": 1794915330.6691856,
     "route": {
@@ -161271,7 +161233,7 @@
     }
   },
   "AEE638": {
-    "time": 1795258235.9809527,
+    "time": 1795520126.6761024,
     "route": {
       "callsign": "AEE638",
       "callsign_icao": "AEE638",
@@ -201028,6 +200990,82 @@
         "longitude": 9.98823,
         "municipality": "Hamburg",
         "name": "Hamburg Helmut Schmidt Airport"
+      }
+    }
+  },
+  "DLH521": {
+    "time": 1795520126.6761024,
+    "route": {
+      "callsign": "DLH521",
+      "callsign_icao": "DLH521",
+      "callsign_iata": "LH521",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "MX",
+        "country_name": "Mexico",
+        "elevation": 7316,
+        "iata_code": "MEX",
+        "icao_code": "MMMX",
+        "latitude": 19.4363,
+        "longitude": -99.0721,
+        "municipality": "Mexico City",
+        "name": "Licenciado Benito Juarez International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1487,
+        "iata_code": "MUC",
+        "icao_code": "EDDM",
+        "latitude": 48.3538,
+        "longitude": 11.7861,
+        "municipality": "Munich",
+        "name": "Munich Airport"
+      }
+    }
+  },
+  "EZY96CM": {
+    "time": 1795520126.6761024,
+    "route": {
+      "callsign": "EZY96CM",
+      "callsign_icao": "EZY96CM",
+      "callsign_iata": "U296CM",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "SI",
+        "country_name": "Slovenia",
+        "elevation": 1273,
+        "iata_code": "LJU",
+        "icao_code": "LJLJ",
+        "latitude": 46.2237,
+        "longitude": 14.4576,
+        "municipality": "Ljubljana",
+        "name": "Ljubljana Jo\u017ee Pu\u010dnik Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
