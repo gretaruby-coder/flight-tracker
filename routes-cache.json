@@ -3250,7 +3250,7 @@
     }
   },
   "LOG39D": {
-    "time": 1795540237.0748715,
+    "time": 1795628737.161227,
     "route": {
       "callsign": "LOG39D",
       "callsign_icao": "LOG39D",
@@ -9036,7 +9036,7 @@
     }
   },
   "BAW7TG": {
-    "time": 1795536938.739807,
+    "time": 1795628737.161227,
     "route": {
       "callsign": "BAW7TG",
       "callsign_icao": "BAW7TG",
@@ -15703,7 +15703,7 @@
     }
   },
   "CSN608": {
-    "time": 1795369535.748304,
+    "time": 1795628737.161227,
     "route": {
       "callsign": "CSN608",
       "callsign_icao": "CSN608",
@@ -64788,7 +64788,7 @@
     }
   },
   "RYR58PU": {
-    "time": 1795466128.1914196,
+    "time": 1795628737.161227,
     "route": {
       "callsign": "RYR58PU",
       "callsign_icao": "RYR58PU",
@@ -91747,7 +91747,7 @@
     }
   },
   "BAW5KY": {
-    "time": 1795542335.4402263,
+    "time": 1795628737.161227,
     "route": {
       "callsign": "BAW5KY",
       "callsign_icao": "BAW5KY",
@@ -113130,7 +113130,7 @@
     }
   },
   "EZY93TV": {
-    "time": 1795476927.0205007,
+    "time": 1795628737.161227,
     "route": {
       "callsign": "EZY93TV",
       "callsign_icao": "EZY93TV",
@@ -118277,7 +118277,7 @@
     }
   },
   "HOP45JQ": {
-    "time": 1795372250.680901,
+    "time": 1795628737.161227,
     "route": {
       "callsign": "HOP45JQ",
       "callsign_icao": "HOP45JQ",
@@ -201568,6 +201568,75 @@
         "longitude": -0.46194,
         "municipality": "London",
         "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "WMT2KE": {
+    "time": 1795628737.161227,
+    "route": {
+      "callsign": "WMT2KE",
+      "callsign_icao": "WMT2KE",
+      "callsign_iata": "W42KE",
+      "airline": {
+        "name": "Wizz Air Malta",
+        "icao": "WMT",
+        "iata": "W4",
+        "country": "Malta",
+        "country_iso": "MT",
+        "callsign": "Wizzairmalta"
+      },
+      "origin": {
+        "country_iso_name": "RO",
+        "country_name": "Romania",
+        "elevation": 626,
+        "iata_code": "CRA",
+        "icao_code": "LRCV",
+        "latitude": 44.3181,
+        "longitude": 23.8886,
+        "municipality": "Craiova",
+        "name": "Craiova Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      }
+    }
+  },
+  "CAZ301": {
+    "time": 1795628737.161227,
+    "route": {
+      "callsign": "CAZ301",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 218,
+        "iata_code": "LBG",
+        "icao_code": "LFPB",
+        "latitude": 48.9694,
+        "longitude": 2.44139,
+        "municipality": "Paris",
+        "name": "Paris-Le Bourget Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
       }
     }
   }
