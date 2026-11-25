@@ -22650,7 +22650,7 @@
     }
   },
   "ELY318": {
-    "time": 1795559450.1094584,
+    "time": 1795645850.5092485,
     "route": {
       "callsign": "ELY318",
       "callsign_icao": "ELY318",
@@ -84047,7 +84047,7 @@
     }
   },
   "WZZ38CT": {
-    "time": 1795385433.4473603,
+    "time": 1795645850.5092485,
     "route": {
       "callsign": "WZZ38CT",
       "callsign_icao": "WZZ38CT",
@@ -131673,7 +131673,7 @@
     }
   },
   "KLM701": {
-    "time": 1795470334.8564565,
+    "time": 1795645850.5092485,
     "route": {
       "callsign": "KLM701",
       "callsign_icao": "KLM701",
@@ -201948,6 +201948,44 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "EZY29YT": {
+    "time": 1795645850.5092485,
+    "route": {
+      "callsign": "EZY29YT",
+      "callsign_icao": "EZY29YT",
+      "callsign_iata": "U229YT",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
