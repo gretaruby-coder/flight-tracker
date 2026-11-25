@@ -14038,7 +14038,7 @@
     }
   },
   "EIN723": {
-    "time": 1795463438.2981951,
+    "time": 1795635328.551302,
     "route": {
       "callsign": "EIN723",
       "callsign_icao": "EIN723",
@@ -16957,7 +16957,7 @@
     }
   },
   "ICE454": {
-    "time": 1795546861.6376824,
+    "time": 1795635328.551302,
     "route": {
       "callsign": "ICE454",
       "callsign_icao": "ICE454",
@@ -17033,7 +17033,7 @@
     }
   },
   "CFE8495": {
-    "time": 1795545328.0702653,
+    "time": 1795635328.551302,
     "route": {
       "callsign": "CFE8495",
       "callsign_icao": "CFE8495",
@@ -17223,7 +17223,7 @@
     }
   },
   "UAL934": {
-    "time": 1795547736.3971205,
+    "time": 1795635328.551302,
     "route": {
       "callsign": "UAL934",
       "callsign_icao": "UAL934",
@@ -35345,7 +35345,7 @@
     }
   },
   "BAW721": {
-    "time": 1795464062.676902,
+    "time": 1795635328.551302,
     "route": {
       "callsign": "BAW721",
       "callsign_icao": "BAW721",
@@ -50442,7 +50442,7 @@
     }
   },
   "BAW929": {
-    "time": 1795548326.2053359,
+    "time": 1795635328.551302,
     "route": {
       "callsign": "BAW929",
       "callsign_icao": "BAW929",
@@ -80140,7 +80140,7 @@
     }
   },
   "EWG8465": {
-    "time": 1795546861.6376824,
+    "time": 1795635328.551302,
     "route": {
       "callsign": "EWG8465",
       "callsign_icao": "EWG8465",
@@ -100307,7 +100307,7 @@
     }
   },
   "IBE07TY": {
-    "time": 1795462254.8546164,
+    "time": 1795635328.551302,
     "route": {
       "callsign": "IBE07TY",
       "callsign_icao": "IBE07TY",
@@ -147547,44 +147547,6 @@
       }
     }
   },
-  "TOM924P": {
-    "time": 1795030256.5376558,
-    "route": {
-      "callsign": "TOM924P",
-      "callsign_icao": "TOM924P",
-      "callsign_iata": "BY924P",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 622,
-        "iata_code": "BRS",
-        "icao_code": "EGGD",
-        "latitude": 51.3827,
-        "longitude": -2.71909,
-        "municipality": "Bristol",
-        "name": "Bristol Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 257,
-        "iata_code": "MAN",
-        "icao_code": "EGCC",
-        "latitude": 53.34938,
-        "longitude": -2.27952,
-        "municipality": "Manchester",
-        "name": "Manchester Airport"
-      }
-    }
-  },
   "EZY12JB": {
     "time": 1795506336.4530385,
     "route": {
@@ -166678,7 +166640,7 @@
     }
   },
   "EJU68FX": {
-    "time": 1795375237.8105574,
+    "time": 1795635328.551302,
     "route": {
       "callsign": "EJU68FX",
       "callsign_icao": "EJU68FX",
@@ -201841,6 +201803,44 @@
         "longitude": 14.4775,
         "municipality": "Valletta",
         "name": "Malta International Airport"
+      }
+    }
+  },
+  "EZS9075": {
+    "time": 1795635328.551302,
+    "route": {
+      "callsign": "EZS9075",
+      "callsign_icao": "EZS9075",
+      "callsign_iata": "DS9075",
+      "airline": {
+        "name": "Easyjet Switzerland",
+        "icao": "EZS",
+        "iata": "DS",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 245,
+        "iata_code": "BIQ",
+        "icao_code": "LFBZ",
+        "latitude": 43.46833,
+        "longitude": -1.53111,
+        "municipality": "Biarritz/Anglet/Bayonne",
+        "name": "Biarritz-Anglet-Bayonne Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 885,
+        "iata_code": "BSL",
+        "icao_code": "LFSB",
+        "latitude": 47.59,
+        "longitude": 7.52917,
+        "municipality": "B\u00e2le/Mulhouse",
+        "name": "EuroAirport Basel-Mulhouse-Freiburg Airport"
       }
     }
   }
