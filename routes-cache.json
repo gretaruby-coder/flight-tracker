@@ -47277,7 +47277,7 @@
     }
   },
   "BCS2665": {
-    "time": 1795561261.535043,
+    "time": 1795647928.440758,
     "route": {
       "callsign": "BCS2665",
       "callsign_icao": "BCS2665",
@@ -78506,7 +78506,7 @@
     }
   },
   "EZY24QZ": {
-    "time": 1795392327.627639,
+    "time": 1795647928.440758,
     "route": {
       "callsign": "EZY24QZ",
       "callsign_icao": "EZY24QZ",
@@ -151463,44 +151463,6 @@
       }
     }
   },
-  "AFR6730": {
-    "time": 1795042864.701382,
-    "route": {
-      "callsign": "AFR6730",
-      "callsign_icao": "AFR6730",
-      "callsign_iata": "AF6730",
-      "airline": {
-        "name": "Air France",
-        "icao": "AFR",
-        "iata": "AF",
-        "country": "France",
-        "country_iso": "FR",
-        "callsign": "AIRFRANS"
-      },
-      "origin": {
-        "country_iso_name": "FR",
-        "country_name": "France",
-        "elevation": 392,
-        "iata_code": "CDG",
-        "icao_code": "LFPG",
-        "latitude": 49.0128,
-        "longitude": 2.55,
-        "municipality": "Paris",
-        "name": "Charles de Gaulle International Airport"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 672,
-        "iata_code": "ORD",
-        "icao_code": "KORD",
-        "latitude": 41.9786,
-        "longitude": -87.9048,
-        "municipality": "Chicago",
-        "name": "Chicago O'Hare International Airport"
-      }
-    }
-  },
   "DHK851": {
     "time": 1795044931.5292387,
     "route": {
@@ -202024,6 +201986,44 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "TOM034": {
+    "time": 1795647928.440758,
+    "route": {
+      "callsign": "TOM34",
+      "callsign_icao": "TOM34",
+      "callsign_iata": "BY34",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "IN",
+        "country_name": "India",
+        "elevation": 552,
+        "iata_code": "GOX",
+        "icao_code": "VOGA",
+        "latitude": 15.74426,
+        "longitude": 73.86063,
+        "municipality": "Mopa",
+        "name": "Mopa International Airport"
       }
     }
   }
