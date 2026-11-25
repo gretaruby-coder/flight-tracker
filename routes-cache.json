@@ -201238,5 +201238,43 @@
         "name": "London Luton Airport"
       }
     }
+  },
+  "RYR159": {
+    "time": 1795566649.0382674,
+    "route": {
+      "callsign": "RYR159",
+      "callsign_icao": "RYR159",
+      "callsign_iata": "FR159",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 268,
+        "iata_code": "BFS",
+        "icao_code": "EGAA",
+        "latitude": 54.6575,
+        "longitude": -6.21583,
+        "municipality": "Belfast",
+        "name": "Belfast International Airport"
+      }
+    }
   }
 }
