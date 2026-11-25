@@ -974,7 +974,7 @@
     }
   },
   "BAW171": {
-    "time": 1795452037.0290022,
+    "time": 1795627531.7895594,
     "route": {
       "callsign": "BAW171",
       "callsign_icao": "BAW171",
@@ -8853,7 +8853,7 @@
     }
   },
   "AUR8LG": {
-    "time": 1795541128.2707675,
+    "time": 1795627531.7895594,
     "route": {
       "callsign": "AUR8LG",
       "callsign_icao": "AUR8LG",
@@ -12708,7 +12708,7 @@
     }
   },
   "BAW50G": {
-    "time": 1795541128.2707675,
+    "time": 1795627531.7895594,
     "route": {
       "callsign": "BAW50G",
       "callsign_icao": "BAW50G",
@@ -45270,7 +45270,7 @@
     }
   },
   "KLC98G": {
-    "time": 1795454437.465712,
+    "time": 1795627531.7895594,
     "route": {
       "callsign": "KLC98G",
       "callsign_icao": "KLC98G",
@@ -75276,7 +75276,7 @@
     }
   },
   "VIR131": {
-    "time": 1795534250.822142,
+    "time": 1795627531.7895594,
     "route": {
       "callsign": "VIR131",
       "callsign_icao": "VIR131",
@@ -78316,7 +78316,7 @@
     }
   },
   "DLH1CK": {
-    "time": 1795541128.2707675,
+    "time": 1795627531.7895594,
     "route": {
       "callsign": "DLH1CK",
       "callsign_icao": "DLH1CK",
@@ -151678,7 +151678,7 @@
     }
   },
   "BCS261": {
-    "time": 1795196131.9212725,
+    "time": 1795627531.7895594,
     "route": {
       "callsign": "BCS261",
       "callsign_icao": "BCS261",
@@ -201454,6 +201454,82 @@
         "longitude": -2.27952,
         "municipality": "Manchester",
         "name": "Manchester Airport"
+      }
+    }
+  },
+  "EZY89WN": {
+    "time": 1795627531.7895594,
+    "route": {
+      "callsign": "EZY89WN",
+      "callsign_icao": "EZY89WN",
+      "callsign_iata": "U289WN",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1411,
+        "iata_code": "GVA",
+        "icao_code": "LSGG",
+        "latitude": 46.2381,
+        "longitude": 6.10895,
+        "municipality": "Geneva",
+        "name": "Geneva Cointrin International Airport"
+      }
+    }
+  },
+  "RYR12XM": {
+    "time": 1795627531.7895594,
+    "route": {
+      "callsign": "RYR12XM",
+      "callsign_icao": "RYR12XM",
+      "callsign_iata": "FR12XM",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 782,
+        "iata_code": "BGY",
+        "icao_code": "LIME",
+        "latitude": 45.6739,
+        "longitude": 9.70417,
+        "municipality": "Milan",
+        "name": "Milan Bergamo Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 39,
+        "iata_code": "SUF",
+        "icao_code": "LICA",
+        "latitude": 38.9054,
+        "longitude": 16.2423,
+        "municipality": "Lamezia Terme (CZ)",
+        "name": "Lamezia Terme Airport"
       }
     }
   }
