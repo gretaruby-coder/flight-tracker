@@ -1,77 +1,9 @@
 {
-  "updated": "2026-11-25T03:15:35.329621+00:00",
+  "updated": "2026-11-25T03:20:34.313205+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": [
-    {
-      "hex": "440409",
-      "type": "adsb_icao",
-      "flight": "BCS2696 ",
-      "r": "OE-LNG",
-      "t": "B752",
-      "desc": "BOEING 757-200",
-      "alt_baro": 1750,
-      "alt_geom": 1850,
-      "gs": 105.8,
-      "ias": 127,
-      "tas": 128,
-      "mach": 0.2,
-      "wd": 105,
-      "ws": 25,
-      "track": 74.65,
-      "track_rate": 0.09,
-      "roll": -0.18,
-      "mag_heading": 79.28,
-      "true_heading": 80.37,
-      "baro_rate": -576,
-      "geom_rate": -608,
-      "squawk": "4426",
-      "emergency": "none",
-      "category": "A4",
-      "nav_qnh": 1012.0,
-      "nav_altitude_mcp": 3008,
-      "nav_heading": 73.12,
-      "nav_modes": [
-        "approach",
-        "tcas"
-      ],
-      "lat": 51.856522,
-      "lon": -0.473377,
-      "nic": 7,
-      "rc": 371,
-      "seen_pos": 0.306,
-      "version": 2,
-      "nic_baro": 1,
-      "nac_p": 9,
-      "nac_v": 1,
-      "sil": 3,
-      "sil_type": "perhour",
-      "gva": 1,
-      "sda": 2,
-      "alert": 0,
-      "spi": 0,
-      "mlat": [],
-      "tisb": [],
-      "messages": 184318,
-      "seen": 0.0,
-      "rssi": -8.8,
-      "dst": 24.576,
-      "dir": 354.4,
-      "origin": {
-        "iata": "LTN",
-        "icao": "EGGW",
-        "name": "London Luton Airport"
-      },
-      "destination": {
-        "iata": "BRU",
-        "icao": "EBBR",
-        "name": "Brussels Airport"
-      },
-      "airline_name": "European Air Transport",
-      "airline_iata": "QY"
-    }
-  ]
+  "aircraft": []
 }
