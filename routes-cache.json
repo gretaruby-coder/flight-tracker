@@ -4383,7 +4383,7 @@
     }
   },
   "DAL20": {
-    "time": 1795433127.549678,
+    "time": 1795600239.3293533,
     "route": {
       "callsign": "DAL20",
       "callsign_icao": "DAL20",
@@ -38879,7 +38879,7 @@
     }
   },
   "SHT9A": {
-    "time": 1795513535.002053,
+    "time": 1795600239.3293533,
     "route": {
       "callsign": "SHT9A",
       "callsign_icao": null,
@@ -53043,7 +53043,7 @@
     }
   },
   "FDX5184": {
-    "time": 1795468539.5775905,
+    "time": 1795600239.3293533,
     "route": {
       "callsign": "FDX5184",
       "callsign_icao": "FDX5184",
@@ -56732,7 +56732,7 @@
     }
   },
   "BAW61AP": {
-    "time": 1795428064.348847,
+    "time": 1795600239.3293533,
     "route": {
       "callsign": "BAW61AP",
       "callsign_icao": "BAW61AP",
@@ -65700,7 +65700,7 @@
     }
   },
   "QTR30C": {
-    "time": 1795427727.9883692,
+    "time": 1795600239.3293533,
     "route": {
       "callsign": "QTR30C",
       "callsign_icao": "QTR30C",
@@ -88334,7 +88334,7 @@
     }
   },
   "KLM1077": {
-    "time": 1795428064.348847,
+    "time": 1795600239.3293533,
     "route": {
       "callsign": "KLM1077",
       "callsign_icao": "KLM1077",
@@ -100307,7 +100307,7 @@
     }
   },
   "EZY939F": {
-    "time": 1795457436.388822,
+    "time": 1795600239.3293533,
     "route": {
       "callsign": "EZY939F",
       "callsign_icao": "EZY939F",
@@ -103613,7 +103613,7 @@
     }
   },
   "NOZ1322": {
-    "time": 1795341326.5129871,
+    "time": 1795600239.3293533,
     "route": {
       "callsign": "NOZ1322",
       "callsign_icao": "NOZ1322",
@@ -202017,6 +202017,82 @@
         "longitude": 2.55,
         "municipality": "Paris",
         "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "NSZ2986": {
+    "time": 1795600239.3293533,
+    "route": {
+      "callsign": "NSZ2986",
+      "callsign_icao": "NSZ2986",
+      "callsign_iata": "D82986",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "FI",
+        "country_name": "Finland",
+        "elevation": 179,
+        "iata_code": "HEL",
+        "icao_code": "EFHK",
+        "latitude": 60.3172,
+        "longitude": 24.9633,
+        "municipality": "Helsinki",
+        "name": "Helsinki Vantaa Airport"
+      },
+      "destination": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 1545,
+        "iata_code": "RAK",
+        "icao_code": "GMMX",
+        "latitude": 31.6069,
+        "longitude": -8.0363,
+        "municipality": "Marrakech",
+        "name": "Menara Airport"
+      }
+    }
+  },
+  "NOS374": {
+    "time": 1795600239.3293533,
+    "route": {
+      "callsign": "NOS374",
+      "callsign_icao": "NOS374",
+      "callsign_iata": "NO374",
+      "airline": {
+        "name": "Neos",
+        "icao": "NOS",
+        "iata": "NO",
+        "country": "Italy",
+        "country_iso": "IT",
+        "callsign": "MOONFLOWER"
+      },
+      "origin": {
+        "country_iso_name": "PL",
+        "country_name": "Poland",
+        "elevation": 362,
+        "iata_code": "WAW",
+        "icao_code": "EPWA",
+        "latitude": 52.1657,
+        "longitude": 20.9671,
+        "municipality": "Warsaw",
+        "name": "Warsaw Chopin Airport"
+      },
+      "destination": {
+        "country_iso_name": "DO",
+        "country_name": "Dominican Republic",
+        "elevation": 47,
+        "iata_code": "PUJ",
+        "icao_code": "MDPC",
+        "latitude": 18.5674,
+        "longitude": -68.3634,
+        "municipality": "Punta Cana",
+        "name": "Punta Cana International Airport"
       }
     }
   }
