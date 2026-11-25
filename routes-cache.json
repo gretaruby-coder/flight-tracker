@@ -11354,7 +11354,7 @@
     }
   },
   "VIR155M": {
-    "time": 1795544438.518292,
+    "time": 1795631128.2700384,
     "route": {
       "callsign": "VIR155M",
       "callsign_icao": "VIR155M",
@@ -12297,7 +12297,7 @@
     }
   },
   "SAS1507": {
-    "time": 1795544438.518292,
+    "time": 1795631128.2700384,
     "route": {
       "callsign": "SAS1507",
       "callsign_icao": "SAS1507",
@@ -54373,7 +54373,7 @@
     }
   },
   "GCR7965": {
-    "time": 1795285857.236732,
+    "time": 1795631128.2700384,
     "route": {
       "callsign": "GCR7965",
       "callsign_icao": "GCR7965",
@@ -91861,7 +91861,7 @@
     }
   },
   "BAW953": {
-    "time": 1795458326.8793013,
+    "time": 1795631128.2700384,
     "route": {
       "callsign": "BAW953",
       "callsign_icao": "BAW953",
@@ -96666,7 +96666,7 @@
     }
   },
   "CFE72AN": {
-    "time": 1795544438.518292,
+    "time": 1795631128.2700384,
     "route": {
       "callsign": "CFE72AN",
       "callsign_icao": "CFE72AN",
@@ -96894,7 +96894,7 @@
     }
   },
   "RYR65HP": {
-    "time": 1795534528.8802416,
+    "time": 1795631128.2700384,
     "route": {
       "callsign": "RYR65HP",
       "callsign_icao": "RYR65HP",
@@ -201644,6 +201644,44 @@
         "longitude": 11.1004,
         "municipality": "Oslo",
         "name": "Oslo Airport, Gardermoen"
+      }
+    }
+  },
+  "CLX5933": {
+    "time": 1795631128.2700384,
+    "route": {
+      "callsign": "CLX5933",
+      "callsign_icao": "CLX5933",
+      "callsign_iata": "CV5933",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "MX",
+        "country_name": "Mexico",
+        "elevation": 7369,
+        "iata_code": "NLU",
+        "icao_code": "MMSM",
+        "latitude": 19.7458,
+        "longitude": -99.0145,
+        "municipality": "Mexico City (Santa Luc\u00eda)",
+        "name": "Santa Luc\u00eda Air Force Base / General Felipe \u00c1ngeles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
       }
     }
   }
