@@ -24550,7 +24550,7 @@
     }
   },
   "DLH423": {
-    "time": 1795488634.5219622,
+    "time": 1795575324.3692486,
     "route": {
       "callsign": "DLH423",
       "callsign_icao": "DLH423",
@@ -201388,6 +201388,82 @@
         "longitude": 28.74195,
         "municipality": "Arnavutk\u00f6y, Istanbul",
         "name": "\u0130stanbul Airport"
+      }
+    }
+  },
+  "ELY025": {
+    "time": 1795575324.3692486,
+    "route": {
+      "callsign": "ELY25",
+      "callsign_icao": "ELY25",
+      "callsign_iata": "LY25",
+      "airline": {
+        "name": "El Al Israel Airlines",
+        "icao": "ELY",
+        "iata": "LY",
+        "country": "Israel",
+        "country_iso": "IL",
+        "callsign": "ELAL"
+      },
+      "origin": {
+        "country_iso_name": "IL",
+        "country_name": "Israel",
+        "elevation": 135,
+        "iata_code": "TLV",
+        "icao_code": "LLBG",
+        "latitude": 32.0114,
+        "longitude": 34.8867,
+        "municipality": "Tel Aviv",
+        "name": "Ben Gurion International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      }
+    }
+  },
+  "BCS2204": {
+    "time": 1795575324.3692486,
+    "route": {
+      "callsign": "BCS2204",
+      "callsign_icao": "BCS2204",
+      "callsign_iata": "QY2204",
+      "airline": {
+        "name": "European Air Transport",
+        "icao": "BCS",
+        "iata": "QY",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "EUROTRANS"
+      },
+      "origin": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 768,
+        "iata_code": "MXP",
+        "icao_code": "LIMC",
+        "latitude": 45.6306,
+        "longitude": 8.72811,
+        "municipality": "Milan",
+        "name": "Malpensa International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
