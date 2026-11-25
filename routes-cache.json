@@ -23866,7 +23866,7 @@
     }
   },
   "VIR92MC": {
-    "time": 1795430736.5606441,
+    "time": 1795598438.3136675,
     "route": {
       "callsign": "VIR92MC",
       "callsign_icao": "VIR92MC",
@@ -31825,7 +31825,7 @@
     }
   },
   "BAW49N": {
-    "time": 1795424128.438596,
+    "time": 1795598438.3136675,
     "route": {
       "callsign": "BAW49N",
       "callsign_icao": "BAW49N",
@@ -32015,7 +32015,7 @@
     }
   },
   "BAW785": {
-    "time": 1795511127.8632507,
+    "time": 1795598438.3136675,
     "route": {
       "callsign": "BAW785",
       "callsign_icao": "BAW785",
@@ -32091,7 +32091,7 @@
     }
   },
   "KLC69Y": {
-    "time": 1795510869.1133568,
+    "time": 1795598438.3136675,
     "route": {
       "callsign": "KLC69Y",
       "callsign_icao": "KLC69Y",
@@ -41902,7 +41902,7 @@
     }
   },
   "ROU2081": {
-    "time": 1795512036.1854024,
+    "time": 1795598438.3136675,
     "route": {
       "callsign": "ROU2081",
       "callsign_icao": "ROU2081",
@@ -49530,7 +49530,7 @@
     }
   },
   "KLM758": {
-    "time": 1795511734.220967,
+    "time": 1795598438.3136675,
     "route": {
       "callsign": "KLM758",
       "callsign_icao": "KLM758",
@@ -63268,7 +63268,7 @@
     }
   },
   "WZZ9AZ": {
-    "time": 1795336837.398303,
+    "time": 1795598438.3136675,
     "route": {
       "callsign": "WZZ9AZ",
       "callsign_icao": "WZZ9AZ",
@@ -111572,7 +111572,7 @@
     }
   },
   "RYR157P": {
-    "time": 1795458929.0734658,
+    "time": 1795598438.3136675,
     "route": {
       "callsign": "RYR157P",
       "callsign_icao": "RYR157P",
@@ -149060,37 +149060,6 @@
         "longitude": 15.0664,
         "municipality": "Catania",
         "name": "Catania-Fontanarossa Airport"
-      }
-    }
-  },
-  "ECA2XA": {
-    "time": 1794993338.1238825,
-    "route": {
-      "callsign": "ECA2XA",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 220,
-        "iata_code": "CWL",
-        "icao_code": "EGFF",
-        "latitude": 51.3967,
-        "longitude": -3.34333,
-        "municipality": "Cardiff",
-        "name": "Cardiff International Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 27,
-        "iata_code": "PMI",
-        "icao_code": "LEPA",
-        "latitude": 39.5517,
-        "longitude": 2.73881,
-        "municipality": "Palma De Mallorca",
-        "name": "Palma de Mallorca Airport"
       }
     }
   },
@@ -202117,6 +202086,44 @@
         "longitude": -5.1775,
         "municipality": "Perranporth",
         "name": "Perranporth Airfield"
+      }
+    }
+  },
+  "CLX12V": {
+    "time": 1795598438.3136675,
+    "route": {
+      "callsign": "CLX12V",
+      "callsign_icao": "CLX12V",
+      "callsign_iata": "CV12V",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 152,
+        "iata_code": "ANC",
+        "icao_code": "PANC",
+        "latitude": 61.1744,
+        "longitude": -149.996,
+        "municipality": "Anchorage",
+        "name": "Ted Stevens Anchorage International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
       }
     }
   }
