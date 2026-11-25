@@ -24474,7 +24474,7 @@
     }
   },
   "SIA322": {
-    "time": 1795498527.0270944,
+    "time": 1795584928.0543516,
     "route": {
       "callsign": "SIA322",
       "callsign_icao": "SIA322",
@@ -24664,7 +24664,7 @@
     }
   },
   "BAW32": {
-    "time": 1795497927.778471,
+    "time": 1795584928.0543516,
     "route": {
       "callsign": "BAW32",
       "callsign_icao": "BAW32",
@@ -24816,7 +24816,7 @@
     }
   },
   "MAS2": {
-    "time": 1795412435.8618312,
+    "time": 1795584928.0543516,
     "route": {
       "callsign": "MAS2",
       "callsign_icao": "MAS2",
@@ -25462,7 +25462,7 @@
     }
   },
   "UAL929": {
-    "time": 1795498527.0270944,
+    "time": 1795584928.0543516,
     "route": {
       "callsign": "UAL929",
       "callsign_icao": "UAL929",
@@ -25614,7 +25614,7 @@
     }
   },
   "ACA854": {
-    "time": 1795413658.7242508,
+    "time": 1795584928.0543516,
     "route": {
       "callsign": "ACA854",
       "callsign_icao": "ACA854",
@@ -201540,6 +201540,44 @@
         "longitude": -80.2906,
         "municipality": "Miami",
         "name": "Miami International Airport"
+      }
+    }
+  },
+  "ETD72W": {
+    "time": 1795584928.0543516,
+    "route": {
+      "callsign": "ETD72W",
+      "callsign_icao": "ETD72W",
+      "callsign_iata": "EY72W",
+      "airline": {
+        "name": "Etihad Airways",
+        "icao": "ETD",
+        "iata": "EY",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "ETIHAD"
+      },
+      "origin": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 88,
+        "iata_code": "AUH",
+        "icao_code": "OMAA",
+        "latitude": 24.44376,
+        "longitude": 54.65172,
+        "municipality": "Abu Dhabi",
+        "name": "Abu Dhabi International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 242,
+        "iata_code": "DUB",
+        "icao_code": "EIDW",
+        "latitude": 53.4213,
+        "longitude": -6.27007,
+        "municipality": "Dublin",
+        "name": "Dublin Airport"
       }
     }
   }
