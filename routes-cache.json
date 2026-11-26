@@ -35383,7 +35383,7 @@
     }
   },
   "AAL87": {
-    "time": 1795524929.4278407,
+    "time": 1795697135.4943078,
     "route": {
       "callsign": "AAL87",
       "callsign_icao": "AAL87",
@@ -41484,7 +41484,7 @@
     }
   },
   "ITY226": {
-    "time": 1795524929.4278407,
+    "time": 1795697135.4943078,
     "route": {
       "callsign": "ITY226",
       "callsign_icao": "ITY226",
@@ -41978,7 +41978,7 @@
     }
   },
   "DLH499": {
-    "time": 1795437937.3330433,
+    "time": 1795697135.4943078,
     "route": {
       "callsign": "DLH499",
       "callsign_icao": "DLH499",
@@ -69614,7 +69614,7 @@
     }
   },
   "IBE09AL": {
-    "time": 1795608935.684986,
+    "time": 1795697135.4943078,
     "route": {
       "callsign": "IBE09AL",
       "callsign_icao": "IBE09AL",
@@ -88068,7 +88068,7 @@
     }
   },
   "EZY295D": {
-    "time": 1795596038.9039092,
+    "time": 1795697135.4943078,
     "route": {
       "callsign": "EZY295D",
       "callsign_icao": "EZY295D",
@@ -95388,7 +95388,7 @@
     }
   },
   "RUK52PC": {
-    "time": 1795557928.5653713,
+    "time": 1795697135.4943078,
     "route": {
       "callsign": "RUK52PC",
       "callsign_icao": "RUK52PC",
@@ -100003,7 +100003,7 @@
     }
   },
   "RYR7XU": {
-    "time": 1795470635.0664046,
+    "time": 1795697135.4943078,
     "route": {
       "callsign": "RYR7XU",
       "callsign_icao": "RYR7XU",
@@ -151439,82 +151439,6 @@
       }
     }
   },
-  "TOM4BD": {
-    "time": 1795092040.8463287,
-    "route": {
-      "callsign": "TOM4BD",
-      "callsign_icao": "TOM4BD",
-      "callsign_iata": "BY4BD",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      },
-      "destination": {
-        "country_iso_name": "IT",
-        "country_name": "Italy",
-        "elevation": 37,
-        "iata_code": "OLB",
-        "icao_code": "LIEO",
-        "latitude": 40.8987,
-        "longitude": 9.51763,
-        "municipality": "Olbia (SS)",
-        "name": "Olbia Costa Smeralda Airport"
-      }
-    }
-  },
-  "EZY37RH": {
-    "time": 1795092040.8463287,
-    "route": {
-      "callsign": "EZY37RH",
-      "callsign_icao": "EZY37RH",
-      "callsign_iata": "U237RH",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "MA",
-        "country_name": "Morocco",
-        "elevation": 1545,
-        "iata_code": "RAK",
-        "icao_code": "GMMX",
-        "latitude": 31.6069,
-        "longitude": -8.0363,
-        "municipality": "Marrakech",
-        "name": "Menara Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 526,
-        "iata_code": "LTN",
-        "icao_code": "EGGW",
-        "latitude": 51.8747,
-        "longitude": -0.36833,
-        "municipality": "London",
-        "name": "London Luton Airport"
-      }
-    }
-  },
   "TOM8WT": {
     "time": 1795092339.685812,
     "route": {
@@ -202176,6 +202100,44 @@
         "longitude": 23.5037,
         "municipality": "Skiathos",
         "name": "Skiathos Island National Airport"
+      }
+    }
+  },
+  "EXS95JL": {
+    "time": 1795697135.4943078,
+    "route": {
+      "callsign": "EXS95JL",
+      "callsign_icao": "EXS95JL",
+      "callsign_iata": "LS95JL",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 157,
+        "iata_code": "BER",
+        "icao_code": "EDDB",
+        "latitude": 52.35139,
+        "longitude": 13.49389,
+        "municipality": "Berlin",
+        "name": "Berlin Brandenburg Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
       }
     }
   }
