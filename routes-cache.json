@@ -10290,7 +10290,7 @@
     }
   },
   "BAW35R": {
-    "time": 1795629929.678472,
+    "time": 1795716330.037763,
     "route": {
       "callsign": "BAW35R",
       "callsign_icao": "BAW35R",
@@ -10594,7 +10594,7 @@
     }
   },
   "AEE604": {
-    "time": 1795544728.3751209,
+    "time": 1795716330.037763,
     "route": {
       "callsign": "AEE604",
       "callsign_icao": "AEE604",
@@ -12632,7 +12632,7 @@
     }
   },
   "CSN303": {
-    "time": 1795629929.678472,
+    "time": 1795716330.037763,
     "route": {
       "callsign": "CSN303",
       "callsign_icao": "CSN303",
@@ -55478,7 +55478,7 @@
     }
   },
   "KAL503": {
-    "time": 1795282249.6806455,
+    "time": 1795716330.037763,
     "route": {
       "callsign": "KAL503",
       "callsign_icao": "KAL503",
@@ -59354,7 +59354,7 @@
     }
   },
   "RYR1SW": {
-    "time": 1795414235.3004425,
+    "time": 1795716330.037763,
     "route": {
       "callsign": "RYR1SW",
       "callsign_icao": "RYR1SW",
@@ -79494,7 +79494,7 @@
     }
   },
   "BAW318": {
-    "time": 1795542037.0489378,
+    "time": 1795716330.037763,
     "route": {
       "callsign": "BAW318",
       "callsign_icao": "BAW318",
@@ -96103,7 +96103,7 @@
     }
   },
   "DLH3Y": {
-    "time": 1795542037.0489378,
+    "time": 1795716330.037763,
     "route": {
       "callsign": "DLH3Y",
       "callsign_icao": "DLH3Y",
@@ -201164,6 +201164,82 @@
         "longitude": 17.9186,
         "municipality": "Stockholm",
         "name": "Stockholm-Arlanda Airport"
+      }
+    }
+  },
+  "EZY94CQ": {
+    "time": 1795716330.037763,
+    "route": {
+      "callsign": "EZY94CQ",
+      "callsign_icao": "EZY94CQ",
+      "callsign_iata": "U294CQ",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "CY",
+        "country_name": "Cyprus",
+        "elevation": 41,
+        "iata_code": "PFO",
+        "icao_code": "LCPH",
+        "latitude": 34.718,
+        "longitude": 32.4857,
+        "municipality": "Paphos",
+        "name": "Paphos International Airport"
+      }
+    }
+  },
+  "ICE988": {
+    "time": 1795716330.037763,
+    "route": {
+      "callsign": "ICE988",
+      "callsign_icao": "ICE988",
+      "callsign_iata": "FI988",
+      "airline": {
+        "name": "Icelandair",
+        "icao": "ICE",
+        "iata": "FI",
+        "country": "Iceland",
+        "country_iso": "IS",
+        "callsign": "ICEAIR"
+      },
+      "origin": {
+        "country_iso_name": "IS",
+        "country_name": "Iceland",
+        "elevation": 171,
+        "iata_code": "KEF",
+        "icao_code": "BIKF",
+        "latitude": 63.985,
+        "longitude": -22.6056,
+        "municipality": "Reykjav\u00edk",
+        "name": "Keflavik International Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
       }
     }
   }
