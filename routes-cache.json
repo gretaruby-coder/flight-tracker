@@ -106062,7 +106062,7 @@
     }
   },
   "FPO7NN": {
-    "time": 1795578334.7669907,
+    "time": 1795665035.9652352,
     "route": {
       "callsign": "FPO7NN",
       "callsign_icao": "FPO7NN",
@@ -202283,6 +202283,82 @@
         "longitude": -99.0721,
         "municipality": "Mexico City",
         "name": "Licenciado Benito Juarez International Airport"
+      }
+    }
+  },
+  "UAE9988": {
+    "time": 1795665035.9652352,
+    "route": {
+      "callsign": "UAE9988",
+      "callsign_icao": "UAE9988",
+      "callsign_iata": "EK9988",
+      "airline": {
+        "name": "Emirates",
+        "icao": "UAE",
+        "iata": "EK",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "EMIRATES"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 114,
+        "iata_code": "DWC",
+        "icao_code": "OMDW",
+        "latitude": 24.89636,
+        "longitude": 55.16139,
+        "municipality": "Jebel Ali",
+        "name": "Al Maktoum International Airport"
+      }
+    }
+  },
+  "UAE242": {
+    "time": 1795665035.9652352,
+    "route": {
+      "callsign": "UAE242",
+      "callsign_icao": "UAE242",
+      "callsign_iata": "EK242",
+      "airline": {
+        "name": "Emirates",
+        "icao": "UAE",
+        "iata": "EK",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "EMIRATES"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
+      },
+      "destination": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 62,
+        "iata_code": "DXB",
+        "icao_code": "OMDB",
+        "latitude": 25.2528,
+        "longitude": 55.3644,
+        "municipality": "Dubai",
+        "name": "Dubai International Airport"
       }
     }
   }
