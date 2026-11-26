@@ -677,7 +677,7 @@
     }
   },
   "SWR59K": {
-    "time": 1795623342.463839,
+    "time": 1795710328.260958,
     "route": {
       "callsign": "SWR59K",
       "callsign_icao": "SWR59K",
@@ -8321,7 +8321,7 @@
     }
   },
   "FIN1336": {
-    "time": 1795538437.256744,
+    "time": 1795710328.260958,
     "route": {
       "callsign": "FIN1336",
       "callsign_icao": "FIN1336",
@@ -9074,7 +9074,7 @@
     }
   },
   "LOG4MU": {
-    "time": 1795538128.3054504,
+    "time": 1795710328.260958,
     "route": {
       "callsign": "LOG4MU",
       "callsign_icao": "LOG4MU",
@@ -32464,7 +32464,7 @@
     }
   },
   "BAW779C": {
-    "time": 1795539664.3972735,
+    "time": 1795710328.260958,
     "route": {
       "callsign": "BAW779C",
       "callsign_icao": "BAW779C",
@@ -66156,7 +66156,7 @@
     }
   },
   "RYR43SH": {
-    "time": 1795550458.4875274,
+    "time": 1795710328.260958,
     "route": {
       "callsign": "RYR43SH",
       "callsign_icao": "RYR43SH",
@@ -78848,7 +78848,7 @@
     }
   },
   "EZY95GN": {
-    "time": 1795543263.3360631,
+    "time": 1795710328.260958,
     "route": {
       "callsign": "EZY95GN",
       "callsign_icao": "EZY95GN",
@@ -84617,7 +84617,7 @@
     }
   },
   "EZY63BN": {
-    "time": 1795526727.6326284,
+    "time": 1795710328.260958,
     "route": {
       "callsign": "EZY63BN",
       "callsign_icao": "EZY63BN",
@@ -89809,7 +89809,7 @@
     }
   },
   "BAW359": {
-    "time": 1795530037.384704,
+    "time": 1795710328.260958,
     "route": {
       "callsign": "BAW359",
       "callsign_icao": "BAW359",
@@ -151180,44 +151180,6 @@
       }
     }
   },
-  "CND096P": {
-    "time": 1795105254.0227356,
-    "route": {
-      "callsign": "CND096P",
-      "callsign_icao": "CND096P",
-      "callsign_iata": "096P",
-      "airline": {
-        "name": "Aero Continente Dominicana",
-        "icao": "CND",
-        "iata": null,
-        "country": "Dominican Republic",
-        "country_iso": "DO",
-        "callsign": "CONDOMINICANA"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 348,
-        "iata_code": "STN",
-        "icao_code": "EGSS",
-        "latitude": 51.885,
-        "longitude": 0.235,
-        "municipality": "London",
-        "name": "London Stansted Airport"
-      },
-      "destination": {
-        "country_iso_name": "NL",
-        "country_name": "Netherlands",
-        "elevation": -11,
-        "iata_code": "AMS",
-        "icao_code": "EHAM",
-        "latitude": 52.3086,
-        "longitude": 4.76389,
-        "municipality": "Amsterdam",
-        "name": "Amsterdam Airport Schiphol"
-      }
-    }
-  },
   "BAW9259": {
     "time": 1795106132.9921782,
     "route": {
@@ -201216,6 +201178,82 @@
         "longitude": -2.84972,
         "municipality": "Liverpool",
         "name": "Liverpool John Lennon Airport"
+      }
+    }
+  },
+  "EXS73LP": {
+    "time": 1795710328.260958,
+    "route": {
+      "callsign": "EXS73LP",
+      "callsign_icao": "EXS73LP",
+      "callsign_iata": "LS73LP",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "MT",
+        "country_name": "Malta",
+        "elevation": 300,
+        "iata_code": "MLA",
+        "icao_code": "LMML",
+        "latitude": 35.8575,
+        "longitude": 14.4775,
+        "municipality": "Valletta",
+        "name": "Malta International Airport"
+      }
+    }
+  },
+  "TOM680": {
+    "time": 1795710328.260958,
+    "route": {
+      "callsign": "TOM680",
+      "callsign_icao": "TOM680",
+      "callsign_iata": "BY680",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 250,
+        "iata_code": "AGA",
+        "icao_code": "GMAD",
+        "latitude": 30.32248,
+        "longitude": -9.412,
+        "municipality": "Agadir (Temsia)",
+        "name": "Al Massira Airport"
       }
     }
   }
