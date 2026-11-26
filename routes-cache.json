@@ -13050,7 +13050,7 @@
     }
   },
   "BAW808": {
-    "time": 1795511734.220967,
+    "time": 1795680936.2627037,
     "route": {
       "callsign": "BAW808",
       "callsign_icao": "BAW808",
@@ -28830,7 +28830,7 @@
     }
   },
   "KLC21F": {
-    "time": 1795593928.9655337,
+    "time": 1795680936.2627037,
     "route": {
       "callsign": "KLC21F",
       "callsign_icao": "KLC21F",
@@ -30305,7 +30305,7 @@
     }
   },
   "MSR783": {
-    "time": 1795511437.1454754,
+    "time": 1795680936.2627037,
     "route": {
       "callsign": "MSR783",
       "callsign_icao": "MSR783",
@@ -31027,7 +31027,7 @@
     }
   },
   "BAW130": {
-    "time": 1795593660.9971194,
+    "time": 1795680936.2627037,
     "route": {
       "callsign": "BAW130",
       "callsign_icao": "BAW130",
@@ -31787,7 +31787,7 @@
     }
   },
   "CFE78X": {
-    "time": 1795594237.4561203,
+    "time": 1795680936.2627037,
     "route": {
       "callsign": "CFE78X",
       "callsign_icao": "CFE78X",
@@ -41978,7 +41978,7 @@
     }
   },
   "BAW630": {
-    "time": 1795506927.9973133,
+    "time": 1795680936.2627037,
     "route": {
       "callsign": "BAW630",
       "callsign_icao": "BAW630",
@@ -131825,7 +131825,7 @@
     }
   },
   "BTI27N": {
-    "time": 1795528861.792691,
+    "time": 1795680936.2627037,
     "route": {
       "callsign": "BTI27N",
       "callsign_icao": "BTI27N",
@@ -144840,7 +144840,7 @@
     }
   },
   "DAL80": {
-    "time": 1795426836.7885218,
+    "time": 1795680936.2627037,
     "route": {
       "callsign": "DAL80",
       "callsign_icao": "DAL80",
@@ -151094,44 +151094,6 @@
         "longitude": 77.1031,
         "municipality": "New Delhi",
         "name": "Indira Gandhi International Airport"
-      }
-    }
-  },
-  "NSZ5024": {
-    "time": 1795075839.6577399,
-    "route": {
-      "callsign": "NSZ5024",
-      "callsign_icao": "NSZ5024",
-      "callsign_iata": "D85024",
-      "airline": {
-        "name": "Norwegian Air Sweden AOC",
-        "icao": "NSZ",
-        "iata": "D8",
-        "country": "Sweden",
-        "country_iso": "SE",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 53,
-        "iata_code": "AGP",
-        "icao_code": "LEMG",
-        "latitude": 36.6749,
-        "longitude": -4.49911,
-        "municipality": "M\u00e1laga",
-        "name": "M\u00e1laga-Costa del Sol Airport"
-      },
-      "destination": {
-        "country_iso_name": "NO",
-        "country_name": "Norway",
-        "elevation": 681,
-        "iata_code": "OSL",
-        "icao_code": "ENGM",
-        "latitude": 60.1939,
-        "longitude": 11.1004,
-        "municipality": "Oslo",
-        "name": "Oslo Airport, Gardermoen"
       }
     }
   },
@@ -202580,6 +202542,82 @@
         "longitude": -2.16722,
         "municipality": "Staverton",
         "name": "Gloucestershire Airport"
+      }
+    }
+  },
+  "RJA272": {
+    "time": 1795680936.2627037,
+    "route": {
+      "callsign": "RJA272",
+      "callsign_icao": "RJA272",
+      "callsign_iata": "RJ272",
+      "airline": {
+        "name": "Royal Jordanian",
+        "icao": "RJA",
+        "iata": "RJ",
+        "country": "Jordan",
+        "country_iso": "JO",
+        "callsign": "JORDANIAN"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 645,
+        "iata_code": "DTW",
+        "icao_code": "KDTW",
+        "latitude": 42.2124,
+        "longitude": -83.3534,
+        "municipality": "Detroit",
+        "name": "Detroit Metropolitan Wayne County Airport"
+      },
+      "destination": {
+        "country_iso_name": "JO",
+        "country_name": "Jordan",
+        "elevation": 2395,
+        "iata_code": "AMM",
+        "icao_code": "OJAI",
+        "latitude": 31.7226,
+        "longitude": 35.9932,
+        "municipality": "Amman",
+        "name": "Queen Alia International Airport"
+      }
+    }
+  },
+  "RUK49EH": {
+    "time": 1795680936.2627037,
+    "route": {
+      "callsign": "RUK49EH",
+      "callsign_icao": "RUK49EH",
+      "callsign_iata": "RK49EH",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
