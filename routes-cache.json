@@ -26260,7 +26260,7 @@
     }
   },
   "BAW246": {
-    "time": 1795588529.832837,
+    "time": 1795675235.638664,
     "route": {
       "callsign": "BAW246",
       "callsign_icao": "BAW246",
@@ -27127,7 +27127,7 @@
     }
   },
   "THA910": {
-    "time": 1795588252.3118992,
+    "time": 1795675235.638664,
     "route": {
       "callsign": "THA910",
       "callsign_icao": "THA910",
@@ -30001,7 +30001,7 @@
     }
   },
   "DLH475": {
-    "time": 1795503661.5189595,
+    "time": 1795675235.638664,
     "route": {
       "callsign": "DLH475",
       "callsign_icao": "DLH475",
@@ -107962,7 +107962,7 @@
     }
   },
   "HOP97SM": {
-    "time": 1795415725.4721417,
+    "time": 1795675235.638664,
     "route": {
       "callsign": "HOP97SM",
       "callsign_icao": "HOP97SM",
@@ -113206,7 +113206,7 @@
     }
   },
   "RYR37MN": {
-    "time": 1795415725.4721417,
+    "time": 1795675235.638664,
     "route": {
       "callsign": "RYR37MN",
       "callsign_icao": "RYR37MN",
@@ -118802,7 +118802,7 @@
     }
   },
   "RYR17PX": {
-    "time": 1795194638.8012922,
+    "time": 1795675235.638664,
     "route": {
       "callsign": "RYR17PX",
       "callsign_icao": "RYR17PX",
@@ -126954,44 +126954,6 @@
         "longitude": -0.55816,
         "municipality": "Alicante",
         "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
-      }
-    }
-  },
-  "EXS9G": {
-    "time": 1795070135.954442,
-    "route": {
-      "callsign": "EXS9G",
-      "callsign_icao": "EXS9G",
-      "callsign_iata": "LS9G",
-      "airline": {
-        "name": "Jet2.com",
-        "icao": "EXS",
-        "iata": "LS",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "CHANNEX"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 135,
-        "iata_code": "EDI",
-        "icao_code": "EGPH",
-        "latitude": 55.95015,
-        "longitude": -3.37229,
-        "municipality": "Edinburgh",
-        "name": "Edinburgh Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 348,
-        "iata_code": "STN",
-        "icao_code": "EGSS",
-        "latitude": 51.885,
-        "longitude": 0.235,
-        "municipality": "London",
-        "name": "London Stansted Airport"
       }
     }
   },
@@ -202435,6 +202397,75 @@
         "longitude": 8.57056,
         "municipality": "Frankfurt am Main",
         "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "LJC5": {
+    "time": 1795675235.638664,
+    "route": {
+      "callsign": "LJC5",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "PT",
+        "country_name": "Portugal",
+        "elevation": 24,
+        "iata_code": "FAO",
+        "icao_code": "LPFR",
+        "latitude": 37.0144,
+        "longitude": -7.96591,
+        "municipality": "Faro",
+        "name": "Faro Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 101,
+        "iata_code": "GLO",
+        "icao_code": "EGBJ",
+        "latitude": 51.8942,
+        "longitude": -2.16722,
+        "municipality": "Staverton",
+        "name": "Gloucestershire Airport"
+      }
+    }
+  },
+  "RYR75BJ": {
+    "time": 1795675235.638664,
+    "route": {
+      "callsign": "RYR75BJ",
+      "callsign_icao": "RYR75BJ",
+      "callsign_iata": "FR75BJ",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 247,
+        "iata_code": "BLL",
+        "icao_code": "EKBI",
+        "latitude": 55.7403,
+        "longitude": 9.15178,
+        "municipality": "Billund",
+        "name": "Billund Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
       }
     }
   }
