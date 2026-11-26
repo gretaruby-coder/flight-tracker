@@ -202323,5 +202323,43 @@
         "name": "Dubai International Airport"
       }
     }
+  },
+  "DAL224": {
+    "time": 1795666536.8583698,
+    "route": {
+      "callsign": "DAL224",
+      "callsign_icao": "DAL224",
+      "callsign_iata": "DL224",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 433,
+        "iata_code": "SEA",
+        "icao_code": "KSEA",
+        "latitude": 47.449,
+        "longitude": -122.309,
+        "municipality": "Seattle",
+        "name": "Seattle Tacoma International Airport"
+      },
+      "destination": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      }
+    }
   }
 }
