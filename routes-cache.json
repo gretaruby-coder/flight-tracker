@@ -1789,7 +1789,7 @@
     }
   },
   "DAL9": {
-    "time": 1795428939.3650296,
+    "time": 1795687259.7851198,
     "route": {
       "callsign": "DAL9",
       "callsign_icao": "DAL9",
@@ -36371,7 +36371,7 @@
     }
   },
   "SIA305": {
-    "time": 1795513535.002053,
+    "time": 1795687259.7851198,
     "route": {
       "callsign": "SIA305",
       "callsign_icao": "SIA305",
@@ -66042,7 +66042,7 @@
     }
   },
   "EZY81BF": {
-    "time": 1795599940.386512,
+    "time": 1795687259.7851198,
     "route": {
       "callsign": "EZY81BF",
       "callsign_icao": "EZY81BF",
@@ -66194,7 +66194,7 @@
     }
   },
   "SWR4KT": {
-    "time": 1795427437.573987,
+    "time": 1795687259.7851198,
     "route": {
       "callsign": "SWR4KT",
       "callsign_icao": "SWR4KT",
@@ -70526,7 +70526,7 @@
     }
   },
   "EZY56DQ": {
-    "time": 1795351235.876048,
+    "time": 1795687259.7851198,
     "route": {
       "callsign": "EZY56DQ",
       "callsign_icao": "EZY56DQ",
@@ -128097,44 +128097,6 @@
       }
     }
   },
-  "EXS7DG": {
-    "time": 1795082130.0664816,
-    "route": {
-      "callsign": "EXS7DG",
-      "callsign_icao": "EXS7DG",
-      "callsign_iata": "LS7DG",
-      "airline": {
-        "name": "Jet2.com",
-        "icao": "EXS",
-        "iata": "LS",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "CHANNEX"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 257,
-        "iata_code": "MAN",
-        "icao_code": "EGCC",
-        "latitude": 53.34938,
-        "longitude": -2.27952,
-        "municipality": "Manchester",
-        "name": "Manchester Airport"
-      },
-      "destination": {
-        "country_iso_name": "TR",
-        "country_name": "Turkey",
-        "elevation": 177,
-        "iata_code": "AYT",
-        "icao_code": "LTAI",
-        "latitude": 36.8987,
-        "longitude": 30.8005,
-        "municipality": "Antalya",
-        "name": "Antalya International Airport"
-      }
-    }
-  },
   "EXS37RG": {
     "time": 1795083342.1867626,
     "route": {
@@ -151409,7 +151371,7 @@
     }
   },
   "TOM3MT": {
-    "time": 1795082463.9640348,
+    "time": 1795687259.7851198,
     "route": {
       "callsign": "TOM3MT",
       "callsign_icao": "TOM3MT",
@@ -159111,7 +159073,7 @@
     }
   },
   "EZY23DV": {
-    "time": 1795513836.4580612,
+    "time": 1795687259.7851198,
     "route": {
       "callsign": "EZY23DV",
       "callsign_icao": "EZY23DV",
@@ -202487,6 +202449,44 @@
         "longitude": 7.62823,
         "municipality": "Strasbourg",
         "name": "Strasbourg Airport"
+      }
+    }
+  },
+  "UAL72": {
+    "time": 1795687259.7851198,
+    "route": {
+      "callsign": "UAL72",
+      "callsign_icao": "UAL72",
+      "callsign_iata": "UA72",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 312,
+        "iata_code": "IAD",
+        "icao_code": "KIAD",
+        "latitude": 38.9445,
+        "longitude": -77.4558,
+        "municipality": "Washington",
+        "name": "Washington Dulles International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IL",
+        "country_name": "Israel",
+        "elevation": 135,
+        "iata_code": "TLV",
+        "icao_code": "LLBG",
+        "latitude": 32.0114,
+        "longitude": 34.8867,
+        "municipality": "Tel Aviv",
+        "name": "Ben Gurion International Airport"
       }
     }
   }
