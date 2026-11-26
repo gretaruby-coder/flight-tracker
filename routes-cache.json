@@ -24474,7 +24474,7 @@
     }
   },
   "SIA322": {
-    "time": 1795584928.0543516,
+    "time": 1795671935.0028627,
     "route": {
       "callsign": "SIA322",
       "callsign_icao": "SIA322",
@@ -143721,7 +143721,7 @@
     }
   },
   "ETH552": {
-    "time": 1795585235.816539,
+    "time": 1795671935.0028627,
     "route": {
       "callsign": "ETH552",
       "callsign_icao": "ETH552",
@@ -202435,6 +202435,44 @@
         "longitude": 12.252,
         "municipality": "Rome",
         "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      }
+    }
+  },
+  "DAL228": {
+    "time": 1795671935.0028627,
+    "route": {
+      "callsign": "DAL228",
+      "callsign_icao": "DAL228",
+      "callsign_iata": "DL228",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 896,
+        "iata_code": "CVG",
+        "icao_code": "KCVG",
+        "latitude": 39.0488,
+        "longitude": -84.6678,
+        "municipality": "Cincinnati / Covington",
+        "name": "Cincinnati Northern Kentucky International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
       }
     }
   }
