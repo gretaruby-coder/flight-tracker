@@ -3326,7 +3326,7 @@
     }
   },
   "BAW81": {
-    "time": 1795614644.3111541,
+    "time": 1795701662.4621074,
     "route": {
       "callsign": "BAW81",
       "callsign_icao": "BAW81",
@@ -9758,7 +9758,7 @@
     }
   },
   "BAW225Y": {
-    "time": 1795530037.384704,
+    "time": 1795701662.4621074,
     "route": {
       "callsign": "BAW225Y",
       "callsign_icao": "BAW225Y",
@@ -16349,7 +16349,7 @@
     }
   },
   "BAW845": {
-    "time": 1795614928.395473,
+    "time": 1795701662.4621074,
     "route": {
       "callsign": "BAW845",
       "callsign_icao": "BAW845",
@@ -42852,7 +42852,7 @@
     }
   },
   "BAW82": {
-    "time": 1795614928.395473,
+    "time": 1795701662.4621074,
     "route": {
       "callsign": "BAW82",
       "callsign_icao": "BAW82",
@@ -50701,7 +50701,7 @@
     }
   },
   "CJT377": {
-    "time": 1795530653.2050836,
+    "time": 1795701662.4621074,
     "route": {
       "callsign": "CJT377",
       "callsign_icao": "CJT377",
@@ -73566,7 +73566,7 @@
     }
   },
   "AFR356J": {
-    "time": 1795527935.4863224,
+    "time": 1795701662.4621074,
     "route": {
       "callsign": "AFR356J",
       "callsign_icao": "AFR356J",
@@ -151501,37 +151501,6 @@
       }
     }
   },
-  "N970BG": {
-    "time": 1795096530.5971568,
-    "route": {
-      "callsign": "N970BG",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "GR",
-        "country_name": "Greece",
-        "elevation": 405,
-        "iata_code": "JMK",
-        "icao_code": "LGMK",
-        "latitude": 37.4351,
-        "longitude": 25.3481,
-        "municipality": "Mykonos Island",
-        "name": "Mikonos Airport"
-      },
-      "destination": {
-        "country_iso_name": "GR",
-        "country_name": "Greece",
-        "elevation": 18,
-        "iata_code": "KVA",
-        "icao_code": "LGKV",
-        "latitude": 40.9133,
-        "longitude": 24.6192,
-        "municipality": "Kavala",
-        "name": "Kavala Alexander the Great International Airport"
-      }
-    }
-  },
   "TRA74K": {
     "time": 1795530927.9585238,
     "route": {
@@ -202169,6 +202138,120 @@
         "longitude": -0.36833,
         "municipality": "London",
         "name": "London Luton Airport"
+      }
+    }
+  },
+  "LTG8504": {
+    "time": 1795701662.4621074,
+    "route": {
+      "callsign": "LTG8504",
+      "callsign_icao": "LTG8504",
+      "callsign_iata": "8504",
+      "airline": {
+        "name": "LATAM Cargo Brasil",
+        "icao": "LTG",
+        "iata": null,
+        "country": "Brazil",
+        "country_iso": "BR",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "CV",
+        "country_name": "Cape Verde",
+        "elevation": 177,
+        "iata_code": "SID",
+        "icao_code": "GVAC",
+        "latitude": 16.7414,
+        "longitude": -22.9494,
+        "municipality": "Espargos",
+        "name": "Am\u00edlcar Cabral International Airport"
+      },
+      "destination": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 184,
+        "iata_code": "BRU",
+        "icao_code": "EBBR",
+        "latitude": 50.9014,
+        "longitude": 4.48444,
+        "municipality": "Brussels",
+        "name": "Brussels Airport"
+      }
+    }
+  },
+  "BAW9275": {
+    "time": 1795701662.4621074,
+    "route": {
+      "callsign": "BAW9275",
+      "callsign_icao": "BAW9275",
+      "callsign_iata": "BA9275",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "IE",
+        "country_name": "Ireland",
+        "elevation": 46,
+        "iata_code": "SNN",
+        "icao_code": "EINN",
+        "latitude": 52.702,
+        "longitude": -8.92482,
+        "municipality": "Shannon",
+        "name": "Shannon Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 12,
+        "iata_code": "NCE",
+        "icao_code": "LFMN",
+        "latitude": 43.6584,
+        "longitude": 7.21587,
+        "municipality": "Nice",
+        "name": "Nice-C\u00f4te d'Azur Airport"
+      }
+    }
+  },
+  "TOM9TG": {
+    "time": 1795701662.4621074,
+    "route": {
+      "callsign": "TOM9TG",
+      "callsign_icao": "TOM9TG",
+      "callsign_iata": "BY9TG",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "CY",
+        "country_name": "Cyprus",
+        "elevation": 41,
+        "iata_code": "PFO",
+        "icao_code": "LCPH",
+        "latitude": 34.718,
+        "longitude": 32.4857,
+        "municipality": "Paphos",
+        "name": "Paphos International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 266,
+        "iata_code": "NCL",
+        "icao_code": "EGNT",
+        "latitude": 55.0375,
+        "longitude": -1.69167,
+        "municipality": "Newcastle",
+        "name": "Newcastle Airport"
       }
     }
   }
