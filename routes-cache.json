@@ -202019,5 +202019,43 @@
         "name": "London Gatwick Airport"
       }
     }
+  },
+  "NCR810": {
+    "time": 1795656033.820097,
+    "route": {
+      "callsign": "NCR810",
+      "callsign_icao": "NCR810",
+      "callsign_iata": "N8810",
+      "airline": {
+        "name": "National Air Cargo",
+        "icao": "NCR",
+        "iata": "N8",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 742,
+        "iata_code": "RFD",
+        "icao_code": "KRFD",
+        "latitude": 42.1954,
+        "longitude": -89.0972,
+        "municipality": "Chicago/Rockford",
+        "name": "Chicago Rockford International Airport"
+      },
+      "destination": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 659,
+        "iata_code": "LGG",
+        "icao_code": "EBLG",
+        "latitude": 50.6374,
+        "longitude": 5.44322,
+        "municipality": "Li\u00e8ge",
+        "name": "Li\u00e8ge Airport"
+      }
+    }
   }
 }
