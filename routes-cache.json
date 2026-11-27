@@ -6283,7 +6283,7 @@
     }
   },
   "CFE11A": {
-    "time": 1795704334.7246954,
+    "time": 1795790735.9522479,
     "route": {
       "callsign": "CFE11A",
       "callsign_icao": "CFE11A",
@@ -6397,7 +6397,7 @@
     }
   },
   "MSR778": {
-    "time": 1795703449.7212758,
+    "time": 1795790735.9522479,
     "route": {
       "callsign": "MSR778",
       "callsign_icao": "MSR778",
@@ -63002,7 +63002,7 @@
     }
   },
   "RYR6YU": {
-    "time": 1795472136.1017692,
+    "time": 1795790735.9522479,
     "route": {
       "callsign": "RYR6YU",
       "callsign_icao": "RYR6YU",
@@ -68132,7 +68132,7 @@
     }
   },
   "PGT74BU": {
-    "time": 1795694127.5375402,
+    "time": 1795790735.9522479,
     "route": {
       "callsign": "PGT74BU",
       "callsign_icao": "PGT74BU",
@@ -74060,7 +74060,7 @@
     }
   },
   "EWG6KJ": {
-    "time": 1795704334.7246954,
+    "time": 1795790735.9522479,
     "route": {
       "callsign": "EWG6KJ",
       "callsign_icao": "EWG6KJ",
@@ -74098,7 +74098,7 @@
     }
   },
   "EZY92RC": {
-    "time": 1795617641.7737823,
+    "time": 1795790735.9522479,
     "route": {
       "callsign": "EZY92RC",
       "callsign_icao": "EZY92RC",
@@ -88866,7 +88866,7 @@
     }
   },
   "RYR1031": {
-    "time": 1795434927.379174,
+    "time": 1795790735.9522479,
     "route": {
       "callsign": "RYR1031",
       "callsign_icao": "RYR1031",
@@ -120094,7 +120094,7 @@
     }
   },
   "EZY83MA": {
-    "time": 1795507835.759426,
+    "time": 1795790735.9522479,
     "route": {
       "callsign": "EZY83MA",
       "callsign_icao": "EZY83MA",
@@ -137037,7 +137037,7 @@
     }
   },
   "EZY32AB": {
-    "time": 1795702535.1258652,
+    "time": 1795790735.9522479,
     "route": {
       "callsign": "EZY32AB",
       "callsign_icao": "EZY32AB",
@@ -151585,7 +151585,7 @@
     }
   },
   "CFE657": {
-    "time": 1795186527.6866481,
+    "time": 1795790735.9522479,
     "route": {
       "callsign": "CFE657",
       "callsign_icao": "CFE657",
@@ -201485,6 +201485,82 @@
         "longitude": 8.54806,
         "municipality": "Zurich",
         "name": "Z\u00fcrich Airport"
+      }
+    }
+  },
+  "EZY19ZT": {
+    "time": 1795790735.9522479,
+    "route": {
+      "callsign": "EZY19ZT",
+      "callsign_icao": "EZY19ZT",
+      "callsign_iata": "U219ZT",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 1046,
+        "iata_code": "NUE",
+        "icao_code": "EDDN",
+        "latitude": 49.4987,
+        "longitude": 11.07806,
+        "municipality": "Nuremberg",
+        "name": "Nuremberg Airport"
+      }
+    }
+  },
+  "RUK4ZT": {
+    "time": 1795790735.9522479,
+    "route": {
+      "callsign": "RUK4ZT",
+      "callsign_icao": "RUK4ZT",
+      "callsign_iata": "RK4ZT",
+      "airline": {
+        "name": "Ryanair UK",
+        "icao": "RUK",
+        "iata": "RK",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
