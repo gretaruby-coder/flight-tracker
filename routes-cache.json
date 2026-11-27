@@ -5713,7 +5713,7 @@
     }
   },
   "BAW892": {
-    "time": 1795620654.8426187,
+    "time": 1795789533.703279,
     "route": {
       "callsign": "BAW892",
       "callsign_icao": "BAW892",
@@ -42852,7 +42852,7 @@
     }
   },
   "CFE60M": {
-    "time": 1795614037.6614265,
+    "time": 1795789533.703279,
     "route": {
       "callsign": "CFE60M",
       "callsign_icao": "CFE60M",
@@ -92355,7 +92355,7 @@
     }
   },
   "RYR24LH": {
-    "time": 1795474528.3719625,
+    "time": 1795789533.703279,
     "route": {
       "callsign": "RYR24LH",
       "callsign_icao": "RYR24LH",
@@ -143060,44 +143060,6 @@
       }
     }
   },
-  "CFE9760": {
-    "time": 1795184440.29844,
-    "route": {
-      "callsign": "CFE9760",
-      "callsign_icao": "CFE9760",
-      "callsign_iata": "CJ9760",
-      "airline": {
-        "name": "BA CityFlyer",
-        "icao": "CFE",
-        "iata": "CJ",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "FLYER"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 220,
-        "iata_code": "CWL",
-        "icao_code": "EGFF",
-        "latitude": 51.3967,
-        "longitude": -3.34333,
-        "municipality": "Cardiff",
-        "name": "Cardiff International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 202,
-        "iata_code": "LGW",
-        "icao_code": "EGKK",
-        "latitude": 51.1481,
-        "longitude": -0.19028,
-        "municipality": "London",
-        "name": "London Gatwick Airport"
-      }
-    }
-  },
   "AEE7GK": {
     "time": 1795782656.26855,
     "route": {
@@ -151581,37 +151543,6 @@
         "longitude": 6.10895,
         "municipality": "Geneva",
         "name": "Geneva Cointrin International Airport"
-      }
-    }
-  },
-  "GFITC": {
-    "time": 1795184440.29844,
-    "route": {
-      "callsign": "GFITC",
-      "callsign_icao": null,
-      "callsign_iata": null,
-      "airline": null,
-      "origin": {
-        "country_iso_name": "IE",
-        "country_name": "Ireland",
-        "elevation": 46,
-        "iata_code": "SNN",
-        "icao_code": "EINN",
-        "latitude": 52.702,
-        "longitude": -8.92482,
-        "municipality": "Shannon",
-        "name": "Shannon Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 439,
-        "iata_code": null,
-        "icao_code": "EGBM",
-        "latitude": 52.8147,
-        "longitude": -1.76111,
-        "municipality": "Burton upon Trent",
-        "name": "Tatenhill Airfield"
       }
     }
   },
@@ -201471,6 +201402,44 @@
         "longitude": 33.6249,
         "municipality": "Larnaca",
         "name": "Larnaca International Airport"
+      }
+    }
+  },
+  "TOM1XE": {
+    "time": 1795789533.703279,
+    "route": {
+      "callsign": "TOM1XE",
+      "callsign_icao": "TOM1XE",
+      "callsign_iata": "BY1XE",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 20,
+        "iata_code": "DLM",
+        "icao_code": "LTBS",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "name": "Dalaman International Airport"
       }
     }
   }
