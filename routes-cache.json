@@ -11088,7 +11088,7 @@
     }
   },
   "SAS86Y": {
-    "time": 1795629329.2472281,
+    "time": 1795802127.1539557,
     "route": {
       "callsign": "SAS86Y",
       "callsign_icao": "SAS86Y",
@@ -41826,7 +41826,7 @@
     }
   },
   "DLH499": {
-    "time": 1795697135.4943078,
+    "time": 1795802127.1539557,
     "route": {
       "callsign": "DLH499",
       "callsign_icao": "DLH499",
@@ -78316,7 +78316,7 @@
     }
   },
   "AFR31BE": {
-    "time": 1795629661.666409,
+    "time": 1795802127.1539557,
     "route": {
       "callsign": "AFR31BE",
       "callsign_icao": "AFR31BE",
@@ -78772,7 +78772,7 @@
     }
   },
   "EZY92AG": {
-    "time": 1795713931.6926417,
+    "time": 1795802127.1539557,
     "route": {
       "callsign": "EZY92AG",
       "callsign_icao": "EZY92AG",
@@ -90911,7 +90911,7 @@
     }
   },
   "BAW5KY": {
-    "time": 1795715435.287188,
+    "time": 1795802127.1539557,
     "route": {
       "callsign": "BAW5KY",
       "callsign_icao": "BAW5KY",
@@ -118581,7 +118581,7 @@
     }
   },
   "EZY59JX": {
-    "time": 1795628134.0965936,
+    "time": 1795802127.1539557,
     "route": {
       "callsign": "EZY59JX",
       "callsign_icao": "EZY59JX",
@@ -130840,7 +130840,7 @@
     }
   },
   "EZY41PQ": {
-    "time": 1795420867.637614,
+    "time": 1795802127.1539557,
     "route": {
       "callsign": "EZY41PQ",
       "callsign_icao": "EZY41PQ",
@@ -151453,44 +151453,6 @@
         "longitude": -118.408,
         "municipality": "Los Angeles",
         "name": "Los Angeles International Airport"
-      }
-    }
-  },
-  "TOM93Y": {
-    "time": 1795197036.374521,
-    "route": {
-      "callsign": "TOM93Y",
-      "callsign_icao": "TOM93Y",
-      "callsign_iata": "BY93Y",
-      "airline": {
-        "name": "TUI Airways",
-        "icao": "TOM",
-        "iata": "BY",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "TOMJET"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 26,
-        "iata_code": "GLA",
-        "icao_code": "EGPF",
-        "latitude": 55.8719,
-        "longitude": -4.43306,
-        "municipality": "Paisley, Renfrewshire",
-        "name": "Glasgow International Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 209,
-        "iata_code": "TFS",
-        "icao_code": "GCTS",
-        "latitude": 28.0445,
-        "longitude": -16.5725,
-        "municipality": "Tenerife",
-        "name": "Tenerife Sur Airport"
       }
     }
   },
@@ -175117,7 +175079,7 @@
     }
   },
   "BAW942": {
-    "time": 1795698934.0107152,
+    "time": 1795802127.1539557,
     "route": {
       "callsign": "BAW942",
       "callsign_icao": "BAW942",
@@ -202062,6 +202024,82 @@
         "longitude": 24.8328,
         "municipality": "Tallinn",
         "name": "Lennart Meri Tallinn Airport"
+      }
+    }
+  },
+  "VKG105": {
+    "time": 1795802127.1539557,
+    "route": {
+      "callsign": "VKG105",
+      "callsign_icao": "VKG105",
+      "callsign_iata": "105",
+      "airline": {
+        "name": "SunClass Airlines",
+        "icao": "VKG",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": "VIKING"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 46,
+        "iata_code": "ACE",
+        "icao_code": "GCRR",
+        "latitude": 28.9455,
+        "longitude": -13.6052,
+        "municipality": "Lanzarote Island",
+        "name": "C\u00e9sar Manrique-Lanzarote Airport"
+      },
+      "destination": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 17,
+        "iata_code": "CPH",
+        "icao_code": "EKCH",
+        "latitude": 55.6179,
+        "longitude": 12.656,
+        "municipality": "Copenhagen",
+        "name": "Copenhagen Kastrup Airport"
+      }
+    }
+  },
+  "FIN5EH": {
+    "time": 1795802127.1539557,
+    "route": {
+      "callsign": "FIN5EH",
+      "callsign_icao": "FIN5EH",
+      "callsign_iata": "AY5EH",
+      "airline": {
+        "name": "Finnair",
+        "icao": "FIN",
+        "iata": "AY",
+        "country": "Finland",
+        "country_iso": "FI",
+        "callsign": "FINNAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      },
+      "destination": {
+        "country_iso_name": "FI",
+        "country_name": "Finland",
+        "elevation": 179,
+        "iata_code": "HEL",
+        "icao_code": "EFHK",
+        "latitude": 60.3172,
+        "longitude": 24.9633,
+        "municipality": "Helsinki",
+        "name": "Helsinki Vantaa Airport"
       }
     }
   }
