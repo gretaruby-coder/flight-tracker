@@ -92013,7 +92013,7 @@
     }
   },
   "RYR2WM": {
-    "time": 1795732526.5461907,
+    "time": 1795823726.297252,
     "route": {
       "callsign": "RYR2WM",
       "callsign_icao": "RYR2WM",
@@ -151571,7 +151571,7 @@
     }
   },
   "BCS7KV": {
-    "time": 1795219261.39478,
+    "time": 1795823726.297252,
     "route": {
       "callsign": "BCS7KV",
       "callsign_icao": "BCS7KV",
@@ -201858,6 +201858,82 @@
         "longitude": 7.26317,
         "municipality": "Abuja",
         "name": "Nnamdi Azikiwe International Airport"
+      }
+    }
+  },
+  "EZY72LD": {
+    "time": 1795823726.297252,
+    "route": {
+      "callsign": "EZY72LD",
+      "callsign_icao": "EZY72LD",
+      "callsign_iata": "U272LD",
+      "airline": {
+        "name": "easyJet",
+        "icao": "EZY",
+        "iata": "U2",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "EASY"
+      },
+      "origin": {
+        "country_iso_name": "EG",
+        "country_name": "Egypt",
+        "elevation": 143,
+        "iata_code": "SSH",
+        "icao_code": "HESH",
+        "latitude": 27.9773,
+        "longitude": 34.395,
+        "municipality": "Sharm el-Sheikh",
+        "name": "Sharm El Sheikh International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 80,
+        "iata_code": "LPL",
+        "icao_code": "EGGP",
+        "latitude": 53.3336,
+        "longitude": -2.84972,
+        "municipality": "Liverpool",
+        "name": "Liverpool John Lennon Airport"
+      }
+    }
+  },
+  "WMT3648": {
+    "time": 1795823726.297252,
+    "route": {
+      "callsign": "WMT3648",
+      "callsign_icao": "WMT3648",
+      "callsign_iata": "W43648",
+      "airline": {
+        "name": "Wizz Air Malta",
+        "icao": "WMT",
+        "iata": "W4",
+        "country": "Malta",
+        "country_iso": "MT",
+        "callsign": "Wizzairmalta"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "RO",
+        "country_name": "Romania",
+        "elevation": 1375,
+        "iata_code": "SCV",
+        "icao_code": "LRSV",
+        "latitude": 47.6875,
+        "longitude": 26.3541,
+        "municipality": "Suceava",
+        "name": "Suceava Stefan cel Mare Airport"
       }
     }
   }
