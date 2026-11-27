@@ -4079,7 +4079,7 @@
     }
   },
   "UAL4": {
-    "time": 1795696254.5100222,
+    "time": 1795782926.8944988,
     "route": {
       "callsign": "UAL4",
       "callsign_icao": "UAL4",
@@ -31065,7 +31065,7 @@
     }
   },
   "BAW729": {
-    "time": 1795608935.684986,
+    "time": 1795782926.8944988,
     "route": {
       "callsign": "BAW729",
       "callsign_icao": "BAW729",
@@ -37739,7 +37739,7 @@
     }
   },
   "UAL17": {
-    "time": 1795696254.5100222,
+    "time": 1795782926.8944988,
     "route": {
       "callsign": "UAL17",
       "callsign_icao": "UAL17",
@@ -40043,7 +40043,7 @@
     }
   },
   "KLM46P": {
-    "time": 1795695036.3893313,
+    "time": 1795782926.8944988,
     "route": {
       "callsign": "KLM46P",
       "callsign_icao": "KLM46P",
@@ -41864,7 +41864,7 @@
     }
   },
   "AAL39": {
-    "time": 1795265728.0077293,
+    "time": 1795782926.8944988,
     "route": {
       "callsign": "AAL39",
       "callsign_icao": "AAL39",
@@ -80748,7 +80748,7 @@
     }
   },
   "RYR4RE": {
-    "time": 1795377035.9060318,
+    "time": 1795782926.8944988,
     "route": {
       "callsign": "RYR4RE",
       "callsign_icao": "RYR4RE",
@@ -103727,7 +103727,7 @@
     }
   },
   "VJT449": {
-    "time": 1795624837.717628,
+    "time": 1795782926.8944988,
     "route": {
       "callsign": "VJT449",
       "callsign_icao": null,
@@ -151440,7 +151440,7 @@
     }
   },
   "EZY51YF": {
-    "time": 1795527049.692908,
+    "time": 1795782926.8944988,
     "route": {
       "callsign": "EZY51YF",
       "callsign_icao": "EZY51YF",
@@ -151478,7 +151478,7 @@
     }
   },
   "EZY68GJ": {
-    "time": 1795178127.408803,
+    "time": 1795782926.8944988,
     "route": {
       "callsign": "EZY68GJ",
       "callsign_icao": "EZY68GJ",
@@ -159432,7 +159432,7 @@
     }
   },
   "DLH460": {
-    "time": 1795608935.684986,
+    "time": 1795782926.8944988,
     "route": {
       "callsign": "DLH460",
       "callsign_icao": "DLH460",
@@ -160499,7 +160499,7 @@
     }
   },
   "SAS98H": {
-    "time": 1795274729.1123369,
+    "time": 1795782926.8944988,
     "route": {
       "callsign": "SAS98H",
       "callsign_icao": "SAS98H",
@@ -169842,7 +169842,7 @@
     }
   },
   "EZY42FB": {
-    "time": 1795368329.852098,
+    "time": 1795782926.8944988,
     "route": {
       "callsign": "EZY42FB",
       "callsign_icao": "EZY42FB",
@@ -200856,6 +200856,82 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "NOZ5ZP": {
+    "time": 1795782926.8944988,
+    "route": {
+      "callsign": "NOZ5ZP",
+      "callsign_icao": "NOZ5ZP",
+      "callsign_iata": "5ZP",
+      "airline": {
+        "name": "Norwegian Air Shuttle AOC AS",
+        "icao": "NOZ",
+        "iata": null,
+        "country": "Norway",
+        "country_iso": "NO",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 29,
+        "iata_code": "SVG",
+        "icao_code": "ENZV",
+        "latitude": 58.8767,
+        "longitude": 5.63778,
+        "municipality": "Stavanger",
+        "name": "Stavanger Airport, Sola"
+      }
+    }
+  },
+  "BOX445": {
+    "time": 1795782926.8944988,
+    "route": {
+      "callsign": "BOX445",
+      "callsign_icao": "BOX445",
+      "callsign_iata": "3S445",
+      "airline": {
+        "name": "AeroLogic",
+        "icao": "BOX",
+        "iata": "3S",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "GERMAN CARGO"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 672,
+        "iata_code": "ORD",
+        "icao_code": "KORD",
+        "latitude": 41.9786,
+        "longitude": -87.9048,
+        "municipality": "Chicago",
+        "name": "Chicago O'Hare International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
       }
     }
   }
