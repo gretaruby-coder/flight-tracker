@@ -48238,7 +48238,7 @@
     }
   },
   "CFE31L": {
-    "time": 1795590642.6729803,
+    "time": 1795763127.1029167,
     "route": {
       "callsign": "CFE31L",
       "callsign_icao": "CFE31L",
@@ -61330,7 +61330,7 @@
     }
   },
   "THY9YW": {
-    "time": 1795676127.0184064,
+    "time": 1795763127.1029167,
     "route": {
       "callsign": "THY9YW",
       "callsign_icao": "THY9YW",
@@ -86023,7 +86023,7 @@
     }
   },
   "EWG9YP": {
-    "time": 1795590642.6729803,
+    "time": 1795763127.1029167,
     "route": {
       "callsign": "EWG9YP",
       "callsign_icao": "EWG9YP",
@@ -86061,7 +86061,7 @@
     }
   },
   "EWG4MJ": {
-    "time": 1795676457.900129,
+    "time": 1795763127.1029167,
     "route": {
       "callsign": "EWG4MJ",
       "callsign_icao": "EWG4MJ",
@@ -110325,7 +110325,7 @@
     }
   },
   "EZY63RQ": {
-    "time": 1795455936.2380874,
+    "time": 1795763127.1029167,
     "route": {
       "callsign": "EZY63RQ",
       "callsign_icao": "EZY63RQ",
@@ -144125,7 +144125,7 @@
     }
   },
   "WMT996": {
-    "time": 1795590935.4784744,
+    "time": 1795763127.1029167,
     "route": {
       "callsign": "WMT996",
       "callsign_icao": "WMT996",
@@ -146439,7 +146439,7 @@
     }
   },
   "SON005": {
-    "time": 1795161929.7988496,
+    "time": 1795763127.1029167,
     "route": {
       "callsign": "SON005",
       "callsign_icao": null,
@@ -151246,82 +151246,6 @@
         "longitude": 9.70417,
         "municipality": "Milan",
         "name": "Milan Bergamo Airport"
-      }
-    }
-  },
-  "EZY49UL": {
-    "time": 1795158065.123542,
-    "route": {
-      "callsign": "EZY49UL",
-      "callsign_icao": "EZY49UL",
-      "callsign_iata": "U249UL",
-      "airline": {
-        "name": "easyJet",
-        "icao": "EZY",
-        "iata": "U2",
-        "country": "United Kingdom",
-        "country_iso": "GB",
-        "callsign": "EASY"
-      },
-      "origin": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 327,
-        "iata_code": "BHX",
-        "icao_code": "EGBB",
-        "latitude": 52.4539,
-        "longitude": -1.74803,
-        "municipality": "Birmingham",
-        "name": "Birmingham International Airport"
-      },
-      "destination": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 12,
-        "iata_code": "BCN",
-        "icao_code": "LEBL",
-        "latitude": 41.2971,
-        "longitude": 2.07846,
-        "municipality": "Barcelona",
-        "name": "Josep Tarradellas Barcelona-El Prat Airport"
-      }
-    }
-  },
-  "RCH5022": {
-    "time": 1795158065.123542,
-    "route": {
-      "callsign": "RCH5022",
-      "callsign_icao": "RCH5022",
-      "callsign_iata": "MC5022",
-      "airline": {
-        "name": "Air Mobility Command",
-        "icao": "RCH",
-        "iata": "MC",
-        "country": "United States",
-        "country_iso": "US",
-        "callsign": "REACH"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 17,
-        "iata_code": "NGU",
-        "icao_code": "KNGU",
-        "latitude": 36.9376,
-        "longitude": -76.2893,
-        "municipality": "Norfolk",
-        "name": "Norfolk Naval Station (Chambers Field)"
-      },
-      "destination": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 24,
-        "iata_code": "DOV",
-        "icao_code": "KDOV",
-        "latitude": 39.1295,
-        "longitude": -75.466,
-        "municipality": "Dover",
-        "name": "Dover Air Force Base"
       }
     }
   },
@@ -201050,6 +200974,44 @@
         "longitude": -0.19028,
         "municipality": "London",
         "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "TOM472": {
+    "time": 1795763127.1029167,
+    "route": {
+      "callsign": "TOM472",
+      "callsign_icao": "TOM472",
+      "callsign_iata": "BY472",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 306,
+        "iata_code": "EMA",
+        "icao_code": "EGNX",
+        "latitude": 52.8311,
+        "longitude": -1.32806,
+        "municipality": "Nottingham",
+        "name": "East Midlands Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 20,
+        "iata_code": "DLM",
+        "icao_code": "LTBS",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "name": "Dalaman International Airport"
       }
     }
   }
