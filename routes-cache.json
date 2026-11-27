@@ -32654,7 +32654,7 @@
     }
   },
   "CFE603": {
-    "time": 1795245042.39043,
+    "time": 1795767635.3913465,
     "route": {
       "callsign": "CFE603",
       "callsign_icao": "CFE603",
@@ -36751,7 +36751,7 @@
     }
   },
   "NSZ51M": {
-    "time": 1795422329.586022,
+    "time": 1795767635.3913465,
     "route": {
       "callsign": "NSZ51M",
       "callsign_icao": "NSZ51M",
@@ -55782,7 +55782,7 @@
     }
   },
   "KAC103": {
-    "time": 1795596340.2443538,
+    "time": 1795767635.3913465,
     "route": {
       "callsign": "KAC103",
       "callsign_icao": "KAC103",
@@ -60494,7 +60494,7 @@
     }
   },
   "EZY78MP": {
-    "time": 1795513836.4580612,
+    "time": 1795767635.3913465,
     "route": {
       "callsign": "EZY78MP",
       "callsign_icao": "EZY78MP",
@@ -61558,7 +61558,7 @@
     }
   },
   "EZY93VG": {
-    "time": 1795332033.8073144,
+    "time": 1795767635.3913465,
     "route": {
       "callsign": "EZY93VG",
       "callsign_icao": "EZY93VG",
@@ -131044,7 +131044,7 @@
     }
   },
   "EXS2NH": {
-    "time": 1795162542.0726986,
+    "time": 1795767635.3913465,
     "route": {
       "callsign": "EXS2NH",
       "callsign_icao": "EXS2NH",
@@ -131120,7 +131120,7 @@
     }
   },
   "RYR69WV": {
-    "time": 1795163130.7992094,
+    "time": 1795767635.3913465,
     "route": {
       "callsign": "RYR69WV",
       "callsign_icao": "RYR69WV",
@@ -151322,44 +151322,6 @@
         "longitude": -15.3866,
         "municipality": "Gran Canaria Island",
         "name": "Gran Canaria Airport"
-      }
-    }
-  },
-  "LGL4541": {
-    "time": 1795162542.0726986,
-    "route": {
-      "callsign": "LGL4541",
-      "callsign_icao": "LGL4541",
-      "callsign_iata": "LG4541",
-      "airline": {
-        "name": "Luxair",
-        "icao": "LGL",
-        "iata": "LG",
-        "country": "Luxembourg",
-        "country_iso": "LU",
-        "callsign": "LUXAIR"
-      },
-      "origin": {
-        "country_iso_name": "LU",
-        "country_name": "Luxembourg",
-        "elevation": 1234,
-        "iata_code": "LUX",
-        "icao_code": "ELLX",
-        "latitude": 49.62333,
-        "longitude": 6.20444,
-        "municipality": "Luxembourg",
-        "name": "Luxembourg-Findel International Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 257,
-        "iata_code": "MAN",
-        "icao_code": "EGCC",
-        "latitude": 53.34938,
-        "longitude": -2.27952,
-        "municipality": "Manchester",
-        "name": "Manchester Airport"
       }
     }
   },
@@ -201216,6 +201178,196 @@
         "longitude": -6.27007,
         "municipality": "Dublin",
         "name": "Dublin Airport"
+      }
+    }
+  },
+  "THY2": {
+    "time": 1795767635.3913465,
+    "route": {
+      "callsign": "THY2",
+      "callsign_icao": "THY2",
+      "callsign_iata": "TK2",
+      "airline": {
+        "name": "Turkish Airlines",
+        "icao": "THY",
+        "iata": "TK",
+        "country": "Turkey",
+        "country_iso": "TR",
+        "callsign": "TURKAIR"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 325,
+        "iata_code": "IST",
+        "icao_code": "LTFM",
+        "latitude": 41.2613,
+        "longitude": 28.74195,
+        "municipality": "Arnavutk\u00f6y, Istanbul",
+        "name": "\u0130stanbul Airport"
+      }
+    }
+  },
+  "DLH447": {
+    "time": 1795767635.3913465,
+    "route": {
+      "callsign": "DLH447",
+      "callsign_icao": "DLH447",
+      "callsign_iata": "LH447",
+      "airline": {
+        "name": "Lufthansa",
+        "icao": "DLH",
+        "iata": "LH",
+        "country": "Germany",
+        "country_iso": "DE",
+        "callsign": "LUFTHANSA"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 5431,
+        "iata_code": "DEN",
+        "icao_code": "KDEN",
+        "latitude": 39.8617,
+        "longitude": -104.673,
+        "municipality": "Denver",
+        "name": "Denver International Airport"
+      },
+      "destination": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 364,
+        "iata_code": "FRA",
+        "icao_code": "EDDF",
+        "latitude": 50.03333,
+        "longitude": 8.57056,
+        "municipality": "Frankfurt am Main",
+        "name": "Frankfurt am Main Airport"
+      }
+    }
+  },
+  "TOM4JH": {
+    "time": 1795767635.3913465,
+    "route": {
+      "callsign": "TOM4JH",
+      "callsign_icao": "TOM4JH",
+      "callsign_iata": "BY4JH",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 233,
+        "iata_code": "REU",
+        "icao_code": "LERS",
+        "latitude": 41.1474,
+        "longitude": 1.16717,
+        "municipality": "Reus",
+        "name": "Reus Airport"
+      }
+    }
+  },
+  "ELY312": {
+    "time": 1795767635.3913465,
+    "route": {
+      "callsign": "ELY312",
+      "callsign_icao": "ELY312",
+      "callsign_iata": "LY312",
+      "airline": {
+        "name": "El Al Israel Airlines",
+        "icao": "ELY",
+        "iata": "LY",
+        "country": "Israel",
+        "country_iso": "IL",
+        "callsign": "ELAL"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 526,
+        "iata_code": "LTN",
+        "icao_code": "EGGW",
+        "latitude": 51.8747,
+        "longitude": -0.36833,
+        "municipality": "London",
+        "name": "London Luton Airport"
+      },
+      "destination": {
+        "country_iso_name": "IL",
+        "country_name": "Israel",
+        "elevation": 135,
+        "iata_code": "TLV",
+        "icao_code": "LLBG",
+        "latitude": 32.0114,
+        "longitude": 34.8867,
+        "municipality": "Tel Aviv",
+        "name": "Ben Gurion International Airport"
+      }
+    }
+  },
+  "ACA870": {
+    "time": 1795767635.3913465,
+    "route": {
+      "callsign": "ACA870",
+      "callsign_icao": "ACA870",
+      "callsign_iata": "AC870",
+      "airline": {
+        "name": "Air Canada",
+        "icao": "ACA",
+        "iata": "AC",
+        "country": "Canada",
+        "country_iso": "CA",
+        "callsign": "AIR CANADA"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 118,
+        "iata_code": "YUL",
+        "icao_code": "CYUL",
+        "latitude": 45.4706,
+        "longitude": -73.7408,
+        "municipality": "Montr\u00e9al",
+        "name": "Montreal / Pierre Elliott Trudeau International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
       }
     }
   }
