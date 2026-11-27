@@ -12411,7 +12411,7 @@
     }
   },
   "BAW938": {
-    "time": 1795629329.2472281,
+    "time": 1795801536.7510602,
     "route": {
       "callsign": "BAW938",
       "callsign_icao": "BAW938",
@@ -14038,7 +14038,7 @@
     }
   },
   "KLM40J": {
-    "time": 1795714251.0470898,
+    "time": 1795801536.7510602,
     "route": {
       "callsign": "KLM40J",
       "callsign_icao": "KLM40J",
@@ -14912,7 +14912,7 @@
     }
   },
   "UAE7TR": {
-    "time": 1795715134.767984,
+    "time": 1795801536.7510602,
     "route": {
       "callsign": "UAE7TR",
       "callsign_icao": "UAE7TR",
@@ -44662,7 +44662,7 @@
     }
   },
   "CFE6LJ": {
-    "time": 1795712728.8820367,
+    "time": 1795801536.7510602,
     "route": {
       "callsign": "CFE6LJ",
       "callsign_icao": "CFE6LJ",
@@ -51340,7 +51340,7 @@
     }
   },
   "SAS2535": {
-    "time": 1795629038.0947566,
+    "time": 1795801536.7510602,
     "route": {
       "callsign": "SAS2535",
       "callsign_icao": "SAS2535",
@@ -70868,7 +70868,7 @@
     }
   },
   "EZY49QU": {
-    "time": 1795694127.5375402,
+    "time": 1795801536.7510602,
     "route": {
       "callsign": "EZY49QU",
       "callsign_icao": "EZY49QU",
@@ -77442,7 +77442,7 @@
     }
   },
   "EIN1WM": {
-    "time": 1795713035.309435,
+    "time": 1795801536.7510602,
     "route": {
       "callsign": "EIN1WM",
       "callsign_icao": "EIN1WM",
@@ -79494,7 +79494,7 @@
     }
   },
   "RYR3CP": {
-    "time": 1795624253.9153733,
+    "time": 1795801536.7510602,
     "route": {
       "callsign": "RYR3CP",
       "callsign_icao": "RYR3CP",
@@ -99053,7 +99053,7 @@
     }
   },
   "AFR6733": {
-    "time": 1795536636.9695148,
+    "time": 1795801536.7510602,
     "route": {
       "callsign": "AFR6733",
       "callsign_icao": "AFR6733",
@@ -130954,7 +130954,7 @@
     }
   },
   "FDX5038": {
-    "time": 1795197327.6687875,
+    "time": 1795801536.7510602,
     "route": {
       "callsign": "FDX5038",
       "callsign_icao": "FDX5038",
@@ -202100,6 +202100,120 @@
         "longitude": -2.71909,
         "municipality": "Bristol",
         "name": "Bristol Airport"
+      }
+    }
+  },
+  "BLX518": {
+    "time": 1795801536.7510602,
+    "route": {
+      "callsign": "BLX518",
+      "callsign_icao": "BLX518",
+      "callsign_iata": "6B518",
+      "airline": {
+        "name": "TUIfly Nordic",
+        "icao": "BLX",
+        "iata": "6B",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": "BLUESCAN"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 20,
+        "iata_code": "DLM",
+        "icao_code": "LTBS",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "name": "Dalaman International Airport"
+      },
+      "destination": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 137,
+        "iata_code": "ARN",
+        "icao_code": "ESSA",
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "municipality": "Stockholm",
+        "name": "Stockholm-Arlanda Airport"
+      }
+    }
+  },
+  "EXS41P": {
+    "time": 1795801536.7510602,
+    "route": {
+      "callsign": "EXS41P",
+      "callsign_icao": "EXS41P",
+      "callsign_iata": "LS41P",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 20,
+        "iata_code": "DLM",
+        "icao_code": "LTBS",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "name": "Dalaman International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 26,
+        "iata_code": "GLA",
+        "icao_code": "EGPF",
+        "latitude": 55.8719,
+        "longitude": -4.43306,
+        "municipality": "Paisley, Renfrewshire",
+        "name": "Glasgow International Airport"
+      }
+    }
+  },
+  "BTI7MW": {
+    "time": 1795801536.7510602,
+    "route": {
+      "callsign": "BTI7MW",
+      "callsign_icao": "BTI7MW",
+      "callsign_iata": "BT7MW",
+      "airline": {
+        "name": "Air Baltic",
+        "icao": "BTI",
+        "iata": "BT",
+        "country": "Latvia",
+        "country_iso": "LV",
+        "callsign": "AIRBALTIC"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      },
+      "destination": {
+        "country_iso_name": "EE",
+        "country_name": "Estonia",
+        "elevation": 131,
+        "iata_code": "TLL",
+        "icao_code": "EETN",
+        "latitude": 59.4133,
+        "longitude": 24.8328,
+        "municipality": "Tallinn",
+        "name": "Lennart Meri Tallinn Airport"
       }
     }
   }
