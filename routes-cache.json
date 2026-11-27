@@ -15178,7 +15178,7 @@
     }
   },
   "BAW257": {
-    "time": 1795720840.7396789,
+    "time": 1795810536.3327053,
     "route": {
       "callsign": "BAW257",
       "callsign_icao": "BAW257",
@@ -17299,7 +17299,7 @@
     }
   },
   "BAW183": {
-    "time": 1795723526.5784147,
+    "time": 1795810536.3327053,
     "route": {
       "callsign": "BAW183",
       "callsign_icao": "BAW183",
@@ -19389,7 +19389,7 @@
     }
   },
   "JBU1107": {
-    "time": 1795640126.358639,
+    "time": 1795810536.3327053,
     "route": {
       "callsign": "JBU1107",
       "callsign_icao": "JBU1107",
@@ -19617,7 +19617,7 @@
     }
   },
   "KLC90N": {
-    "time": 1795638327.57587,
+    "time": 1795810536.3327053,
     "route": {
       "callsign": "KLC90N",
       "callsign_icao": "KLC90N",
@@ -22308,7 +22308,7 @@
     }
   },
   "BAW375": {
-    "time": 1795385433.4473603,
+    "time": 1795810536.3327053,
     "route": {
       "callsign": "BAW375",
       "callsign_icao": "BAW375",
@@ -79342,7 +79342,7 @@
     }
   },
   "RYR7MA": {
-    "time": 1795549840.4982507,
+    "time": 1795810536.3327053,
     "route": {
       "callsign": "RYR7MA",
       "callsign_icao": "RYR7MA",
@@ -81698,7 +81698,7 @@
     }
   },
   "BAW699": {
-    "time": 1795550897.0122776,
+    "time": 1795810536.3327053,
     "route": {
       "callsign": "BAW699",
       "callsign_icao": "BAW699",
@@ -95419,7 +95419,7 @@
     }
   },
   "EZY81PY": {
-    "time": 1795369834.276637,
+    "time": 1795810536.3327053,
     "route": {
       "callsign": "EZY81PY",
       "callsign_icao": "EZY81PY",
@@ -151418,44 +151418,6 @@
       }
     }
   },
-  "QTR67P": {
-    "time": 1795205735.894502,
-    "route": {
-      "callsign": "QTR67P",
-      "callsign_icao": "QTR67P",
-      "callsign_iata": "QR67P",
-      "airline": {
-        "name": "Qatar Airways",
-        "icao": "QTR",
-        "iata": "QR",
-        "country": "Qatar",
-        "country_iso": "QA",
-        "callsign": "QATARI"
-      },
-      "origin": {
-        "country_iso_name": "IN",
-        "country_name": "India",
-        "elevation": 552,
-        "iata_code": "GOX",
-        "icao_code": "VOGA",
-        "latitude": 15.74426,
-        "longitude": 73.86063,
-        "municipality": "Mopa",
-        "name": "Mopa International Airport"
-      },
-      "destination": {
-        "country_iso_name": "QA",
-        "country_name": "Qatar",
-        "elevation": 13,
-        "iata_code": "DOH",
-        "icao_code": "OTHH",
-        "latitude": 25.27306,
-        "longitude": 51.60806,
-        "municipality": "Doha",
-        "name": "Hamad International Airport"
-      }
-    }
-  },
   "EJU59LA": {
     "time": 1795809659.7943022,
     "route": {
@@ -155177,7 +155139,7 @@
     }
   },
   "DHK956": {
-    "time": 1795681239.478765,
+    "time": 1795810536.3327053,
     "route": {
       "callsign": "DHK956",
       "callsign_icao": "DHK956",
@@ -202010,6 +201972,82 @@
         "longitude": -6.27007,
         "municipality": "Dublin",
         "name": "Dublin Airport"
+      }
+    }
+  },
+  "ACA7069": {
+    "time": 1795810536.3327053,
+    "route": {
+      "callsign": "ACA7069",
+      "callsign_icao": "ACA7069",
+      "callsign_iata": "AC7069",
+      "airline": {
+        "name": "Air Canada",
+        "icao": "ACA",
+        "iata": "AC",
+        "country": "Canada",
+        "country_iso": "CA",
+        "callsign": "AIR CANADA"
+      },
+      "origin": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 14,
+        "iata_code": "YVR",
+        "icao_code": "CYVR",
+        "latitude": 49.1939,
+        "longitude": -123.184,
+        "municipality": "Vancouver",
+        "name": "Vancouver International Airport"
+      },
+      "destination": {
+        "country_iso_name": "CA",
+        "country_name": "Canada",
+        "elevation": 569,
+        "iata_code": "YYZ",
+        "icao_code": "CYYZ",
+        "latitude": 43.6772,
+        "longitude": -79.6306,
+        "municipality": "Toronto",
+        "name": "Lester B. Pearson International Airport"
+      }
+    }
+  },
+  "EXS2378": {
+    "time": 1795810536.3327053,
+    "route": {
+      "callsign": "EXS2378",
+      "callsign_icao": "EXS2378",
+      "callsign_iata": "LS2378",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 209,
+        "iata_code": "TFS",
+        "icao_code": "GCTS",
+        "latitude": 28.0445,
+        "longitude": -16.5725,
+        "municipality": "Tenerife",
+        "name": "Tenerife Sur Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
