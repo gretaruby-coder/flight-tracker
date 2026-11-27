@@ -34585,7 +34585,7 @@
     }
   },
   "AAL731": {
-    "time": 1795687845.3912432,
+    "time": 1795775127.2983758,
     "route": {
       "callsign": "AAL731",
       "callsign_icao": "AAL731",
@@ -40814,7 +40814,7 @@
     }
   },
   "VIR20V": {
-    "time": 1795688437.3729138,
+    "time": 1795775127.2983758,
     "route": {
       "callsign": "VIR20V",
       "callsign_icao": "VIR20V",
@@ -44251,7 +44251,7 @@
     }
   },
   "CFE27PM": {
-    "time": 1795519236.87233,
+    "time": 1795775127.2983758,
     "route": {
       "callsign": "CFE27PM",
       "callsign_icao": "CFE27PM",
@@ -66118,7 +66118,7 @@
     }
   },
   "DLH7LM": {
-    "time": 1795688135.6421895,
+    "time": 1795775127.2983758,
     "route": {
       "callsign": "DLH7LM",
       "callsign_icao": "DLH7LM",
@@ -66802,7 +66802,7 @@
     }
   },
   "EZY21QT": {
-    "time": 1795513535.002053,
+    "time": 1795775127.2983758,
     "route": {
       "callsign": "EZY21QT",
       "callsign_icao": "EZY21QT",
@@ -75656,7 +75656,7 @@
     }
   },
   "EZY63AF": {
-    "time": 1795514459.9587202,
+    "time": 1795775127.2983758,
     "route": {
       "callsign": "EZY63AF",
       "callsign_icao": "EZY63AF",
@@ -87308,7 +87308,7 @@
     }
   },
   "EZY12YV": {
-    "time": 1795511734.220967,
+    "time": 1795775127.2983758,
     "route": {
       "callsign": "EZY12YV",
       "callsign_icao": "EZY12YV",
@@ -87536,7 +87536,7 @@
     }
   },
   "AIC13V": {
-    "time": 1795603842.5690691,
+    "time": 1795775127.2983758,
     "route": {
       "callsign": "AIC13V",
       "callsign_icao": "AIC13V",
@@ -88144,7 +88144,7 @@
     }
   },
   "NSZ3512": {
-    "time": 1795603237.362302,
+    "time": 1795775127.2983758,
     "route": {
       "callsign": "NSZ3512",
       "callsign_icao": "NSZ3512",
@@ -151401,44 +151401,6 @@
       }
     }
   },
-  "LOT6140": {
-    "time": 1795170039.4487453,
-    "route": {
-      "callsign": "LOT6140",
-      "callsign_icao": "LOT6140",
-      "callsign_iata": "LO6140",
-      "airline": {
-        "name": "LOT Polish Airlines",
-        "icao": "LOT",
-        "iata": "LO",
-        "country": "Poland",
-        "country_iso": "PL",
-        "callsign": "POLLOT"
-      },
-      "origin": {
-        "country_iso_name": "DO",
-        "country_name": "Dominican Republic",
-        "elevation": 47,
-        "iata_code": "PUJ",
-        "icao_code": "MDPC",
-        "latitude": 18.5674,
-        "longitude": -68.3634,
-        "municipality": "Punta Cana",
-        "name": "Punta Cana International Airport"
-      },
-      "destination": {
-        "country_iso_name": "PL",
-        "country_name": "Poland",
-        "elevation": 362,
-        "iata_code": "WAW",
-        "icao_code": "EPWA",
-        "latitude": 52.1657,
-        "longitude": 20.9671,
-        "municipality": "Warsaw",
-        "name": "Warsaw Chopin Airport"
-      }
-    }
-  },
   "EXS19KR": {
     "time": 1795257637.5227668,
     "route": {
@@ -151516,7 +151478,7 @@
     }
   },
   "TOM3NB": {
-    "time": 1795170928.1438935,
+    "time": 1795775127.2983758,
     "route": {
       "callsign": "TOM3NB",
       "callsign_icao": "TOM3NB",
@@ -151630,7 +151592,7 @@
     }
   },
   "BAW794": {
-    "time": 1795171540.3570392,
+    "time": 1795775127.2983758,
     "route": {
       "callsign": "BAW794",
       "callsign_icao": "BAW794",
@@ -201088,6 +201050,75 @@
         "longitude": 2.55,
         "municipality": "Paris",
         "name": "Charles de Gaulle International Airport"
+      }
+    }
+  },
+  "NSZ2767": {
+    "time": 1795775127.2983758,
+    "route": {
+      "callsign": "NSZ2767",
+      "callsign_icao": "NSZ2767",
+      "callsign_iata": "D82767",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "FI",
+        "country_name": "Finland",
+        "elevation": 179,
+        "iata_code": "HEL",
+        "icao_code": "EFHK",
+        "latitude": 60.3172,
+        "longitude": 24.9633,
+        "municipality": "Helsinki",
+        "name": "Helsinki Vantaa Airport"
+      }
+    }
+  },
+  "OOTBB": {
+    "time": 1795775127.2983758,
+    "route": {
+      "callsign": "OOTBB",
+      "callsign_icao": null,
+      "callsign_iata": null,
+      "airline": null,
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 659,
+        "iata_code": "LYN",
+        "icao_code": "LFLY",
+        "latitude": 45.7272,
+        "longitude": 4.94427,
+        "municipality": "Lyon/Bron",
+        "name": "Lyon-Bron Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
       }
     }
   }
