@@ -2770,7 +2770,7 @@
     }
   },
   "SHT3P": {
-    "time": 1795685130.1930647,
+    "time": 1795773326.557424,
     "route": {
       "callsign": "SHT3P",
       "callsign_icao": null,
@@ -33635,7 +33635,7 @@
     }
   },
   "KLC25Y": {
-    "time": 1795685451.433337,
+    "time": 1795773326.557424,
     "route": {
       "callsign": "KLC25Y",
       "callsign_icao": "KLC25Y",
@@ -34965,7 +34965,7 @@
     }
   },
   "DLH415": {
-    "time": 1795600860.2887385,
+    "time": 1795773326.557424,
     "route": {
       "callsign": "DLH415",
       "callsign_icao": "DLH415",
@@ -36675,7 +36675,7 @@
     }
   },
   "BAW98T": {
-    "time": 1795600860.2887385,
+    "time": 1795773326.557424,
     "route": {
       "callsign": "BAW98T",
       "callsign_icao": "BAW98T",
@@ -37245,7 +37245,7 @@
     }
   },
   "BAW852": {
-    "time": 1795592128.5191007,
+    "time": 1795773326.557424,
     "route": {
       "callsign": "BAW852",
       "callsign_icao": "BAW852",
@@ -104632,7 +104632,7 @@
     }
   },
   "EZY97NB": {
-    "time": 1795685731.9430904,
+    "time": 1795773326.557424,
     "route": {
       "callsign": "EZY97NB",
       "callsign_icao": "EZY97NB",
@@ -129027,7 +129027,7 @@
     }
   },
   "EFW8DD": {
-    "time": 1795599327.518565,
+    "time": 1795773326.557424,
     "route": {
       "callsign": "EFW8DD",
       "callsign_icao": "EFW8DD",
@@ -201126,6 +201126,120 @@
         "longitude": -7.96591,
         "municipality": "Faro",
         "name": "Faro Airport"
+      }
+    }
+  },
+  "EXS21J": {
+    "time": 1795773326.557424,
+    "route": {
+      "callsign": "EXS21J",
+      "callsign_icao": "EXS21J",
+      "callsign_iata": "LS21J",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 177,
+        "iata_code": "AYT",
+        "icao_code": "LTAI",
+        "latitude": 36.8987,
+        "longitude": 30.8005,
+        "municipality": "Antalya",
+        "name": "Antalya International Airport"
+      }
+    }
+  },
+  "EXS1W": {
+    "time": 1795773326.557424,
+    "route": {
+      "callsign": "EXS1W",
+      "callsign_icao": "EXS1W",
+      "callsign_iata": "LS1W",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "CZ",
+        "country_name": "Czech Republic",
+        "elevation": 1247,
+        "iata_code": "PRG",
+        "icao_code": "LKPR",
+        "latitude": 50.1008,
+        "longitude": 14.26,
+        "municipality": "Prague",
+        "name": "V\u00e1clav Havel Airport Prague"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 681,
+        "iata_code": "LBA",
+        "icao_code": "EGNM",
+        "latitude": 53.8659,
+        "longitude": -1.66057,
+        "municipality": "Leeds",
+        "name": "Leeds Bradford Airport"
+      }
+    }
+  },
+  "RYR1QU": {
+    "time": 1795773326.557424,
+    "route": {
+      "callsign": "RYR1QU",
+      "callsign_icao": "RYR1QU",
+      "callsign_iata": "FR1QU",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "DE",
+        "country_name": "Germany",
+        "elevation": 408,
+        "iata_code": "FKB",
+        "icao_code": "EDSB",
+        "latitude": 48.7794,
+        "longitude": 8.0805,
+        "municipality": "Baden-Baden",
+        "name": "Karlsruhe Baden-Baden Airport"
+      },
+      "destination": {
+        "country_iso_name": "MA",
+        "country_name": "Morocco",
+        "elevation": 1900,
+        "iata_code": "FEZ",
+        "icao_code": "GMFF",
+        "latitude": 33.9273,
+        "longitude": -4.97796,
+        "municipality": "Fes",
+        "name": "Sa\u00efss Airport"
       }
     }
   }
