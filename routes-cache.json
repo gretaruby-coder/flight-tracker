@@ -34889,7 +34889,7 @@
     }
   },
   "DAL59": {
-    "time": 1795603842.5690691,
+    "time": 1795773929.6598952,
     "route": {
       "callsign": "DAL59",
       "callsign_icao": "DAL59",
@@ -35649,7 +35649,7 @@
     }
   },
   "UAL924": {
-    "time": 1795602330.678534,
+    "time": 1795773929.6598952,
     "route": {
       "callsign": "UAL924",
       "callsign_icao": "UAL924",
@@ -35915,7 +35915,7 @@
     }
   },
   "SAS4697": {
-    "time": 1795687528.572064,
+    "time": 1795773929.6598952,
     "route": {
       "callsign": "SAS4697",
       "callsign_icao": "SAS4697",
@@ -36561,7 +36561,7 @@
     }
   },
   "EIN52X": {
-    "time": 1795686638.3450074,
+    "time": 1795773929.6598952,
     "route": {
       "callsign": "EIN52X",
       "callsign_icao": "EIN52X",
@@ -37017,7 +37017,7 @@
     }
   },
   "BAW7NY": {
-    "time": 1795602651.544036,
+    "time": 1795773929.6598952,
     "route": {
       "callsign": "BAW7NY",
       "callsign_icao": "BAW7NY",
@@ -50176,7 +50176,7 @@
     }
   },
   "SIA309": {
-    "time": 1795599637.9871235,
+    "time": 1795773929.6598952,
     "route": {
       "callsign": "SIA309",
       "callsign_icao": "SIA309",
@@ -108121,7 +108121,7 @@
     }
   },
   "KLC1127": {
-    "time": 1795686638.3450074,
+    "time": 1795773929.6598952,
     "route": {
       "callsign": "KLC1127",
       "callsign_icao": "KLC1127",
@@ -140930,7 +140930,7 @@
     }
   },
   "KLC982": {
-    "time": 1795686037.2040758,
+    "time": 1795773929.6598952,
     "route": {
       "callsign": "KLC982",
       "callsign_icao": "KLC982",
@@ -151326,7 +151326,7 @@
     }
   },
   "EXS25L": {
-    "time": 1795169437.7058482,
+    "time": 1795773929.6598952,
     "route": {
       "callsign": "EXS25L",
       "callsign_icao": "EXS25L",
@@ -201164,6 +201164,120 @@
         "longitude": -4.97796,
         "municipality": "Fes",
         "name": "Sa\u00efss Airport"
+      }
+    }
+  },
+  "UAE8UW": {
+    "time": 1795773929.6598952,
+    "route": {
+      "callsign": "UAE8UW",
+      "callsign_icao": "UAE8UW",
+      "callsign_iata": "EK8UW",
+      "airline": {
+        "name": "Emirates",
+        "icao": "UAE",
+        "iata": "EK",
+        "country": "United Arab Emirates",
+        "country_iso": "AE",
+        "callsign": "EMIRATES"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      },
+      "destination": {
+        "country_iso_name": "AE",
+        "country_name": "United Arab Emirates",
+        "elevation": 62,
+        "iata_code": "DXB",
+        "icao_code": "OMDB",
+        "latitude": 25.2528,
+        "longitude": 55.3644,
+        "municipality": "Dubai",
+        "name": "Dubai International Airport"
+      }
+    }
+  },
+  "ITY641": {
+    "time": 1795773929.6598952,
+    "route": {
+      "callsign": "ITY641",
+      "callsign_icao": "ITY641",
+      "callsign_iata": "AZ641",
+      "airline": {
+        "name": "ITA Airways",
+        "icao": "ITY",
+        "iata": "AZ",
+        "country": "Italy",
+        "country_iso": "IT",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "SFO",
+        "icao_code": "KSFO",
+        "latitude": 37.619,
+        "longitude": -122.375,
+        "municipality": "San Francisco",
+        "name": "San Francisco International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      }
+    }
+  },
+  "EJU603Y": {
+    "time": 1795773929.6598952,
+    "route": {
+      "callsign": "EJU603Y",
+      "callsign_icao": "EJU603Y",
+      "callsign_iata": "EC603Y",
+      "airline": {
+        "name": "easyJet Europe",
+        "icao": "EJU",
+        "iata": "EC",
+        "country": "Austria",
+        "country_iso": "AT",
+        "callsign": "Alpine"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 26,
+        "iata_code": "GLA",
+        "icao_code": "EGPF",
+        "latitude": 55.8719,
+        "longitude": -4.43306,
+        "municipality": "Paisley, Renfrewshire",
+        "name": "Glasgow International Airport"
+      },
+      "destination": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
       }
     }
   }
