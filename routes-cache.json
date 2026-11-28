@@ -54259,7 +54259,7 @@
     }
   },
   "ACA844": {
-    "time": 1795581934.62495,
+    "time": 1795840838.1177843,
     "route": {
       "callsign": "ACA844",
       "callsign_icao": "ACA844",
@@ -201858,6 +201858,44 @@
         "longitude": 6.20444,
         "municipality": "Luxembourg",
         "name": "Luxembourg-Findel International Airport"
+      }
+    }
+  },
+  "UAL108": {
+    "time": 1795840838.1177843,
+    "route": {
+      "callsign": "UAL108",
+      "callsign_icao": "UAL108",
+      "callsign_iata": "UA108",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 135,
+        "iata_code": "EDI",
+        "icao_code": "EGPH",
+        "latitude": 55.95015,
+        "longitude": -3.37229,
+        "municipality": "Edinburgh",
+        "name": "Edinburgh Airport"
       }
     }
   }
