@@ -23790,7 +23790,7 @@
     }
   },
   "BAW74X": {
-    "time": 1795753240.2147424,
+    "time": 1795839640.4935727,
     "route": {
       "callsign": "BAW74X",
       "callsign_icao": "BAW74X",
@@ -137302,44 +137302,6 @@
       }
     }
   },
-  "CLX95U": {
-    "time": 1795234836.9303346,
-    "route": {
-      "callsign": "CLX95U",
-      "callsign_icao": "CLX95U",
-      "callsign_iata": "CV95U",
-      "airline": {
-        "name": "Cargolux",
-        "icao": "CLX",
-        "iata": "CV",
-        "country": "Luxembourg",
-        "country_iso": "LU",
-        "callsign": "CARGOLUX"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 629,
-        "iata_code": "HSV",
-        "icao_code": "KHSV",
-        "latitude": 34.6372,
-        "longitude": -86.7751,
-        "municipality": "Huntsville",
-        "name": "Huntsville International Carl T Jones Field"
-      },
-      "destination": {
-        "country_iso_name": "LU",
-        "country_name": "Luxembourg",
-        "elevation": 1234,
-        "iata_code": "LUX",
-        "icao_code": "ELLX",
-        "latitude": 49.62333,
-        "longitude": 6.20444,
-        "municipality": "Luxembourg",
-        "name": "Luxembourg-Findel International Airport"
-      }
-    }
-  },
   "EFW8HZ": {
     "time": 1795385733.669889,
     "route": {
@@ -201858,6 +201820,44 @@
         "longitude": -89.9767,
         "municipality": "Memphis",
         "name": "Memphis International Airport"
+      }
+    }
+  },
+  "CLX96Z": {
+    "time": 1795839640.4935727,
+    "route": {
+      "callsign": "CLX96Z",
+      "callsign_icao": "CLX96Z",
+      "callsign_iata": "CV96Z",
+      "airline": {
+        "name": "Cargolux",
+        "icao": "CLX",
+        "iata": "CV",
+        "country": "Luxembourg",
+        "country_iso": "LU",
+        "callsign": "CARGOLUX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 97,
+        "iata_code": "IAH",
+        "icao_code": "KIAH",
+        "latitude": 29.9844,
+        "longitude": -95.3414,
+        "municipality": "Houston",
+        "name": "George Bush Intercontinental Houston Airport"
+      },
+      "destination": {
+        "country_iso_name": "LU",
+        "country_name": "Luxembourg",
+        "elevation": 1234,
+        "iata_code": "LUX",
+        "icao_code": "ELLX",
+        "latitude": 49.62333,
+        "longitude": 6.20444,
+        "municipality": "Luxembourg",
+        "name": "Luxembourg-Findel International Airport"
       }
     }
   }
