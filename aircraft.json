@@ -1,9 +1,80 @@
 {
-  "updated": "2026-11-28T03:15:39.626261+00:00",
+  "updated": "2026-11-28T03:20:41.440655+00:00",
   "center": {
     "lat": 51.4496,
     "lon": -0.4089
   },
   "radius_nm": 27,
-  "aircraft": []
+  "aircraft": [
+    {
+      "hex": "347301",
+      "type": "adsb_icao",
+      "flight": "BCS19U  ",
+      "r": "EC-NYM",
+      "t": "B752",
+      "desc": "BOEING 757-200",
+      "alt_baro": 11350,
+      "alt_geom": 11650,
+      "gs": 320.1,
+      "ias": 272,
+      "tas": 322,
+      "mach": 0.504,
+      "wd": 249,
+      "ws": 5,
+      "oat": -4,
+      "tat": 9,
+      "track": 318.29,
+      "track_rate": -0.03,
+      "roll": 0.18,
+      "mag_heading": 316.23,
+      "true_heading": 317.45,
+      "baro_rate": -832,
+      "geom_rate": -800,
+      "squawk": "5713",
+      "emergency": "none",
+      "category": "A3",
+      "nav_qnh": 1013.6,
+      "nav_altitude_mcp": 8992,
+      "nav_heading": 316.41,
+      "nav_modes": [
+        "tcas"
+      ],
+      "lat": 51.251495,
+      "lon": -0.207998,
+      "nic": 8,
+      "rc": 186,
+      "seen_pos": 0.266,
+      "version": 2,
+      "nic_baro": 1,
+      "nac_p": 11,
+      "nac_v": 1,
+      "sil": 3,
+      "sil_type": "perhour",
+      "gva": 2,
+      "sda": 2,
+      "alert": 0,
+      "spi": 0,
+      "mlat": [],
+      "tisb": [],
+      "messages": 307108,
+      "seen": 0.0,
+      "rssi": -9.6,
+      "dst": 14.082,
+      "dir": 147.6,
+      "registered_owner": "Cygnus Air",
+      "registered_owner_operator_flag_code": "RGN",
+      "origin": {
+        "iata": "LEJ",
+        "icao": "EDDP",
+        "name": "Leipzig/Halle Airport"
+      },
+      "destination": {
+        "iata": "LTN",
+        "icao": "EGGW",
+        "name": "London Luton Airport"
+      },
+      "airline_name": "European Air Transport",
+      "airline_iata": "QY"
+    }
+  ]
 }
