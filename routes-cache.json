@@ -117372,7 +117372,7 @@
     }
   },
   "AFR27PZ": {
-    "time": 1795723258.4933841,
+    "time": 1795894527.630265,
     "route": {
       "callsign": "AFR27PZ",
       "callsign_icao": "AFR27PZ",
@@ -202018,6 +202018,82 @@
         "longitude": -8.68139,
         "municipality": "Porto",
         "name": "Francisco de S\u00e1 Carneiro Airport"
+      }
+    }
+  },
+  "TOM088": {
+    "time": 1795894527.630265,
+    "route": {
+      "callsign": "TOM88",
+      "callsign_icao": "TOM88",
+      "callsign_iata": "BY88",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      },
+      "destination": {
+        "country_iso_name": "CU",
+        "country_name": "Cuba",
+        "elevation": 210,
+        "iata_code": "HAV",
+        "icao_code": "MUHA",
+        "latitude": 22.9892,
+        "longitude": -82.4091,
+        "municipality": "Havana",
+        "name": "Jos\u00e9 Mart\u00ed International Airport"
+      }
+    }
+  },
+  "AUR79B": {
+    "time": 1795894527.630265,
+    "route": {
+      "callsign": "AUR79B",
+      "callsign_icao": "AUR79B",
+      "callsign_iata": "GR79B",
+      "airline": {
+        "name": "Aurigny Air Services",
+        "icao": "AUR",
+        "iata": "GR",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "AYLINE"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
+      },
+      "destination": {
+        "country_iso_name": "GG",
+        "country_name": "Guernsey",
+        "elevation": 336,
+        "iata_code": "GCI",
+        "icao_code": "EGJB",
+        "latitude": 49.435,
+        "longitude": -2.60197,
+        "municipality": "Saint Peter Port",
+        "name": "Guernsey Airport"
       }
     }
   }
