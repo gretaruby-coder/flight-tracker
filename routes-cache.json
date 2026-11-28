@@ -28222,7 +28222,7 @@
     }
   },
   "EIN1CM": {
-    "time": 1795764328.6041927,
+    "time": 1795851328.8712366,
     "route": {
       "callsign": "EIN1CM",
       "callsign_icao": "EIN1CM",
@@ -63648,7 +63648,7 @@
     }
   },
   "RYR30QT": {
-    "time": 1795627240.634931,
+    "time": 1795851328.8712366,
     "route": {
       "callsign": "RYR30QT",
       "callsign_icao": "RYR30QT",
@@ -64484,7 +64484,7 @@
     }
   },
   "BAW41U": {
-    "time": 1795764651.7620375,
+    "time": 1795851328.8712366,
     "route": {
       "callsign": "BAW41U",
       "callsign_icao": "BAW41U",
@@ -100079,7 +100079,7 @@
     }
   },
   "DLH4W": {
-    "time": 1795590935.4784744,
+    "time": 1795851328.8712366,
     "route": {
       "callsign": "DLH4W",
       "callsign_icao": "DLH4W",
@@ -120584,44 +120584,6 @@
         "longitude": -4.49911,
         "municipality": "M\u00e1laga",
         "name": "M\u00e1laga-Costa del Sol Airport"
-      }
-    }
-  },
-  "RYR55SQ": {
-    "time": 1795246253.5829773,
-    "route": {
-      "callsign": "RYR55SQ",
-      "callsign_icao": "RYR55SQ",
-      "callsign_iata": "FR55SQ",
-      "airline": {
-        "name": "Ryanair",
-        "icao": "RYR",
-        "iata": "FR",
-        "country": "Ireland",
-        "country_iso": "IE",
-        "callsign": "RYANAIR"
-      },
-      "origin": {
-        "country_iso_name": "PL",
-        "country_name": "Poland",
-        "elevation": 341,
-        "iata_code": "WMI",
-        "icao_code": "EPMO",
-        "latitude": 52.4511,
-        "longitude": 20.6518,
-        "municipality": "Warsaw",
-        "name": "Modlin Airport"
-      },
-      "destination": {
-        "country_iso_name": "GB",
-        "country_name": "United Kingdom",
-        "elevation": 327,
-        "iata_code": "BHX",
-        "icao_code": "EGBB",
-        "latitude": 52.4539,
-        "longitude": -1.74803,
-        "municipality": "Birmingham",
-        "name": "Birmingham International Airport"
       }
     }
   },
@@ -202466,6 +202428,82 @@
         "longitude": -4.49911,
         "municipality": "M\u00e1laga",
         "name": "M\u00e1laga-Costa del Sol Airport"
+      }
+    }
+  },
+  "UAL510": {
+    "time": 1795851328.8712366,
+    "route": {
+      "callsign": "UAL510",
+      "callsign_icao": "UAL510",
+      "callsign_iata": "UA510",
+      "airline": {
+        "name": "United Airlines",
+        "icao": "UAL",
+        "iata": "UA",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "UNITED"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 18,
+        "iata_code": "EWR",
+        "icao_code": "KEWR",
+        "latitude": 40.6925,
+        "longitude": -74.1687,
+        "municipality": "New York",
+        "name": "Newark Liberty International Airport"
+      },
+      "destination": {
+        "country_iso_name": "IT",
+        "country_name": "Italy",
+        "elevation": 13,
+        "iata_code": "FCO",
+        "icao_code": "LIRF",
+        "latitude": 41.80453,
+        "longitude": 12.252,
+        "municipality": "Rome",
+        "name": "Rome\u2013Fiumicino Leonardo da Vinci International Airport"
+      }
+    }
+  },
+  "EXS42KR": {
+    "time": 1795851328.8712366,
+    "route": {
+      "callsign": "EXS42KR",
+      "callsign_icao": "EXS42KR",
+      "callsign_iata": "LS42KR",
+      "airline": {
+        "name": "Jet2.com",
+        "icao": "EXS",
+        "iata": "LS",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "CHANNEX"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "TR",
+        "country_name": "Turkey",
+        "elevation": 177,
+        "iata_code": "AYT",
+        "icao_code": "LTAI",
+        "latitude": 36.8987,
+        "longitude": 30.8005,
+        "municipality": "Antalya",
+        "name": "Antalya International Airport"
       }
     }
   }
