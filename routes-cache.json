@@ -35231,7 +35231,7 @@
     }
   },
   "EIN1LK": {
-    "time": 1795774536.7010205,
+    "time": 1795860938.6736977,
     "route": {
       "callsign": "EIN1LK",
       "callsign_icao": "EIN1LK",
@@ -36219,7 +36219,7 @@
     }
   },
   "BAW139": {
-    "time": 1795774536.7010205,
+    "time": 1795860938.6736977,
     "route": {
       "callsign": "BAW139",
       "callsign_icao": "BAW139",
@@ -39663,7 +39663,7 @@
     }
   },
   "VIR5C": {
-    "time": 1795689937.5404403,
+    "time": 1795860938.6736977,
     "route": {
       "callsign": "VIR5C",
       "callsign_icao": "VIR5C",
@@ -66004,7 +66004,7 @@
     }
   },
   "AFR38SJ": {
-    "time": 1795774536.7010205,
+    "time": 1795860938.6736977,
     "route": {
       "callsign": "AFR38SJ",
       "callsign_icao": "AFR38SJ",
@@ -66118,7 +66118,7 @@
     }
   },
   "EZY41NK": {
-    "time": 1795774240.2462208,
+    "time": 1795860938.6736977,
     "route": {
       "callsign": "EZY41NK",
       "callsign_icao": "EZY41NK",
@@ -66878,7 +66878,7 @@
     }
   },
   "BAW414F": {
-    "time": 1795344927.016132,
+    "time": 1795860938.6736977,
     "route": {
       "callsign": "BAW414F",
       "callsign_icao": "BAW414F",
@@ -87650,7 +87650,7 @@
     }
   },
   "BAW232": {
-    "time": 1795689053.3052092,
+    "time": 1795860938.6736977,
     "route": {
       "callsign": "BAW232",
       "callsign_icao": "BAW232",
@@ -130497,44 +130497,6 @@
       }
     }
   },
-  "JTD809": {
-    "time": 1795256136.1727667,
-    "route": {
-      "callsign": "JTD809",
-      "callsign_icao": "JTD809",
-      "callsign_iata": "809",
-      "airline": {
-        "name": "Jet Time",
-        "icao": "JTD",
-        "iata": null,
-        "country": "Denmark",
-        "country_iso": "DK",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "ES",
-        "country_name": "Spain",
-        "elevation": 78,
-        "iata_code": "LPA",
-        "icao_code": "GCLP",
-        "latitude": 27.9319,
-        "longitude": -15.3866,
-        "municipality": "Gran Canaria Island",
-        "name": "Gran Canaria Airport"
-      },
-      "destination": {
-        "country_iso_name": "SE",
-        "country_name": "Sweden",
-        "elevation": 65,
-        "iata_code": "LLA",
-        "icao_code": "ESPA",
-        "latitude": 65.5438,
-        "longitude": 22.122,
-        "municipality": "Lule\u00e5",
-        "name": "Lule\u00e5 Airport"
-      }
-    }
-  },
   "AFR22N": {
     "time": 1795689327.8010268,
     "route": {
@@ -132256,7 +132218,7 @@
     }
   },
   "DAL83": {
-    "time": 1795338635.449744,
+    "time": 1795860938.6736977,
     "route": {
       "callsign": "DAL83",
       "callsign_icao": "DAL83",
@@ -150611,7 +150573,7 @@
     }
   },
   "TOM14T": {
-    "time": 1795256440.8994534,
+    "time": 1795860938.6736977,
     "route": {
       "callsign": "TOM14T",
       "callsign_icao": "TOM14T",
@@ -201734,6 +201696,120 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "SWR66C": {
+    "time": 1795860938.6736977,
+    "route": {
+      "callsign": "SWR66C",
+      "callsign_icao": "SWR66C",
+      "callsign_iata": "LX66C",
+      "airline": {
+        "name": "Swiss International Air Lines",
+        "icao": "SWR",
+        "iata": "LX",
+        "country": "Switzerland",
+        "country_iso": "CH",
+        "callsign": "SWISS"
+      },
+      "origin": {
+        "country_iso_name": "CH",
+        "country_name": "Switzerland",
+        "elevation": 1417,
+        "iata_code": "ZRH",
+        "icao_code": "LSZH",
+        "latitude": 47.45806,
+        "longitude": 8.54806,
+        "municipality": "Zurich",
+        "name": "Z\u00fcrich Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 8,
+        "iata_code": "MIA",
+        "icao_code": "KMIA",
+        "latitude": 25.7932,
+        "longitude": -80.2906,
+        "municipality": "Miami",
+        "name": "Miami International Airport"
+      }
+    }
+  },
+  "BLX110": {
+    "time": 1795860938.6736977,
+    "route": {
+      "callsign": "BLX110",
+      "callsign_icao": "BLX110",
+      "callsign_iata": "6B110",
+      "airline": {
+        "name": "TUIfly Nordic",
+        "icao": "BLX",
+        "iata": "6B",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": "BLUESCAN"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      },
+      "destination": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 32,
+        "iata_code": "NRK",
+        "icao_code": "ESSP",
+        "latitude": 58.5863,
+        "longitude": 16.2506,
+        "municipality": "Norrk\u00f6ping",
+        "name": "Norrk\u00f6ping Airport"
+      }
+    }
+  },
+  "RYR22XT": {
+    "time": 1795860938.6736977,
+    "route": {
+      "callsign": "RYR22XT",
+      "callsign_icao": "RYR22XT",
+      "callsign_iata": "FR22XT",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 348,
+        "iata_code": "STN",
+        "icao_code": "EGSS",
+        "latitude": 51.885,
+        "longitude": 0.235,
+        "municipality": "London",
+        "name": "London Stansted Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 12,
+        "iata_code": "BCN",
+        "icao_code": "LEBL",
+        "latitude": 41.2971,
+        "longitude": 2.07846,
+        "municipality": "Barcelona",
+        "name": "Josep Tarradellas Barcelona-El Prat Airport"
       }
     }
   }
