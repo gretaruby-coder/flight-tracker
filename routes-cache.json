@@ -24702,7 +24702,7 @@
     }
   },
   "MAS2": {
-    "time": 1795672236.2385693,
+    "time": 1795843527.0705903,
     "route": {
       "callsign": "MAS2",
       "callsign_icao": "MAS2",
@@ -131105,44 +131105,6 @@
       }
     }
   },
-  "AUA2R": {
-    "time": 1795238726.081809,
-    "route": {
-      "callsign": "AUA2R",
-      "callsign_icao": "AUA2R",
-      "callsign_iata": "OS2R",
-      "airline": {
-        "name": "Austrian Airlines",
-        "icao": "AUA",
-        "iata": "OS",
-        "country": "Austria",
-        "country_iso": "AT",
-        "callsign": "AUSTRIAN"
-      },
-      "origin": {
-        "country_iso_name": "US",
-        "country_name": "United States",
-        "elevation": 672,
-        "iata_code": "ORD",
-        "icao_code": "KORD",
-        "latitude": 41.9786,
-        "longitude": -87.9048,
-        "municipality": "Chicago",
-        "name": "Chicago O'Hare International Airport"
-      },
-      "destination": {
-        "country_iso_name": "AT",
-        "country_name": "Austria",
-        "elevation": 600,
-        "iata_code": "VIE",
-        "icao_code": "LOWW",
-        "latitude": 48.1103,
-        "longitude": 16.5697,
-        "municipality": "Vienna",
-        "name": "Vienna International Airport"
-      }
-    }
-  },
   "RYR80JV": {
     "time": 1795247439.377052,
     "route": {
@@ -201972,6 +201934,82 @@
         "longitude": 6.76678,
         "municipality": "D\u00fcsseldorf",
         "name": "D\u00fcsseldorf Airport"
+      }
+    }
+  },
+  "FDX5036": {
+    "time": 1795843527.0705903,
+    "route": {
+      "callsign": "FDX5036",
+      "callsign_icao": "FDX5036",
+      "callsign_iata": "FX5036",
+      "airline": {
+        "name": "FedEx Express",
+        "icao": "FDX",
+        "iata": "FX",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "FEDEX"
+      },
+      "origin": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 341,
+        "iata_code": "MEM",
+        "icao_code": "KMEM",
+        "latitude": 35.0424,
+        "longitude": -89.9767,
+        "municipality": "Memphis",
+        "name": "Memphis International Airport"
+      },
+      "destination": {
+        "country_iso_name": "BE",
+        "country_name": "Belgium",
+        "elevation": 659,
+        "iata_code": "LGG",
+        "icao_code": "EBLG",
+        "latitude": 50.6374,
+        "longitude": 5.44322,
+        "municipality": "Li\u00e8ge",
+        "name": "Li\u00e8ge Airport"
+      }
+    }
+  },
+  "LCO1506": {
+    "time": 1795843527.0705903,
+    "route": {
+      "callsign": "LCO1506",
+      "callsign_icao": "LCO1506",
+      "callsign_iata": "UC1506",
+      "airline": {
+        "name": "LAN Cargo",
+        "icao": "LCO",
+        "iata": "UC",
+        "country": "Chile",
+        "country_iso": "CL",
+        "callsign": "LAN CARGO"
+      },
+      "origin": {
+        "country_iso_name": "NL",
+        "country_name": "Netherlands",
+        "elevation": -11,
+        "iata_code": "AMS",
+        "icao_code": "EHAM",
+        "latitude": 52.3086,
+        "longitude": 4.76389,
+        "municipality": "Amsterdam",
+        "name": "Amsterdam Airport Schiphol"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 8,
+        "iata_code": "MIA",
+        "icao_code": "KMIA",
+        "latitude": 25.7932,
+        "longitude": -80.2906,
+        "municipality": "Miami",
+        "name": "Miami International Airport"
       }
     }
   }
