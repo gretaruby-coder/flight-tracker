@@ -11506,7 +11506,7 @@
     }
   },
   "EFW53CV": {
-    "time": 1795796435.9540484,
+    "time": 1795890329.5229216,
     "route": {
       "callsign": "EFW53CV",
       "callsign_icao": "EFW53CV",
@@ -14114,7 +14114,7 @@
     }
   },
   "BAW362Y": {
-    "time": 1795803639.7690892,
+    "time": 1795890329.5229216,
     "route": {
       "callsign": "BAW362Y",
       "callsign_icao": "BAW362Y",
@@ -57796,7 +57796,7 @@
     }
   },
   "RYR473M": {
-    "time": 1795798237.3951626,
+    "time": 1795890329.5229216,
     "route": {
       "callsign": "RYR473M",
       "callsign_icao": "RYR473M",
@@ -112187,7 +112187,7 @@
     }
   },
   "EZY57EZ": {
-    "time": 1795706726.386754,
+    "time": 1795890329.5229216,
     "route": {
       "callsign": "EZY57EZ",
       "callsign_icao": "EZY57EZ",
@@ -201980,6 +201980,120 @@
         "longitude": 12.2798,
         "municipality": "Gothenburg",
         "name": "Gothenburg-Landvetter Airport"
+      }
+    }
+  },
+  "BAW31AT": {
+    "time": 1795890329.5229216,
+    "route": {
+      "callsign": "BAW31AT",
+      "callsign_icao": "BAW31AT",
+      "callsign_iata": "BA31AT",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 83,
+        "iata_code": "LHR",
+        "icao_code": "EGLL",
+        "latitude": 51.4706,
+        "longitude": -0.46194,
+        "municipality": "London",
+        "name": "London Heathrow Airport"
+      }
+    }
+  },
+  "JTD466": {
+    "time": 1795890329.5229216,
+    "route": {
+      "callsign": "JTD466",
+      "callsign_icao": "JTD466",
+      "callsign_iata": "466",
+      "airline": {
+        "name": "Jet Time",
+        "icao": "JTD",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 78,
+        "iata_code": "LPA",
+        "icao_code": "GCLP",
+        "latitude": 27.9319,
+        "longitude": -15.3866,
+        "municipality": "Gran Canaria Island",
+        "name": "Gran Canaria Airport"
+      },
+      "destination": {
+        "country_iso_name": "DK",
+        "country_name": "Denmark",
+        "elevation": 10,
+        "iata_code": "AAL",
+        "icao_code": "EKYT",
+        "latitude": 57.09276,
+        "longitude": 9.84924,
+        "municipality": "Aalborg",
+        "name": "Aalborg Airport"
+      }
+    }
+  },
+  "RYR529B": {
+    "time": 1795890329.5229216,
+    "route": {
+      "callsign": "RYR529B",
+      "callsign_icao": "RYR529B",
+      "callsign_iata": "FR529B",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "HU",
+        "country_name": "Hungary",
+        "elevation": 495,
+        "iata_code": "BUD",
+        "icao_code": "LHBP",
+        "latitude": 47.42976,
+        "longitude": 19.26109,
+        "municipality": "Budapest",
+        "name": "Budapest Liszt Ferenc International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 622,
+        "iata_code": "BRS",
+        "icao_code": "EGGD",
+        "latitude": 51.3827,
+        "longitude": -2.71909,
+        "municipality": "Bristol",
+        "name": "Bristol Airport"
       }
     }
   }
