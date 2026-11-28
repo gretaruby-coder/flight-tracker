@@ -8998,7 +8998,7 @@
     }
   },
   "LOG4MU": {
-    "time": 1795797934.7357364,
+    "time": 1795884636.728791,
     "route": {
       "callsign": "LOG4MU",
       "callsign_icao": "LOG4MU",
@@ -37169,7 +37169,7 @@
     }
   },
   "BAW903": {
-    "time": 1795793451.4097347,
+    "time": 1795884636.728791,
     "route": {
       "callsign": "BAW903",
       "callsign_icao": "BAW903",
@@ -44137,7 +44137,7 @@
     }
   },
   "BAW744": {
-    "time": 1795366527.849607,
+    "time": 1795884636.728791,
     "route": {
       "callsign": "BAW744",
       "callsign_icao": "BAW744",
@@ -76644,7 +76644,7 @@
     }
   },
   "DLH1HM": {
-    "time": 1795716064.3150773,
+    "time": 1795884636.728791,
     "route": {
       "callsign": "DLH1HM",
       "callsign_icao": "DLH1HM",
@@ -112888,7 +112888,7 @@
     }
   },
   "CSN653": {
-    "time": 1795538735.777579,
+    "time": 1795884636.728791,
     "route": {
       "callsign": "CSN653",
       "callsign_icao": "CSN653",
@@ -150421,7 +150421,7 @@
     }
   },
   "QTR8253": {
-    "time": 1795281336.0191784,
+    "time": 1795884636.728791,
     "route": {
       "callsign": "QTR8253",
       "callsign_icao": "QTR8253",
@@ -201928,6 +201928,120 @@
         "longitude": 0.235,
         "municipality": "London",
         "name": "London Stansted Airport"
+      }
+    }
+  },
+  "AFR096": {
+    "time": 1795884636.728791,
+    "route": {
+      "callsign": "AFR96",
+      "callsign_icao": "AFR96",
+      "callsign_iata": "AF96",
+      "airline": {
+        "name": "Air France",
+        "icao": "AFR",
+        "iata": "AF",
+        "country": "France",
+        "country_iso": "FR",
+        "callsign": "AIRFRANS"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 96,
+        "iata_code": "MCO",
+        "icao_code": "KMCO",
+        "latitude": 28.4294,
+        "longitude": -81.309,
+        "municipality": "Orlando",
+        "name": "Orlando International Airport"
+      }
+    }
+  },
+  "VKG327": {
+    "time": 1795884636.728791,
+    "route": {
+      "callsign": "VKG327",
+      "callsign_icao": "VKG327",
+      "callsign_iata": "327",
+      "airline": {
+        "name": "SunClass Airlines",
+        "icao": "VKG",
+        "iata": null,
+        "country": "Denmark",
+        "country_iso": "DK",
+        "callsign": "VIKING"
+      },
+      "origin": {
+        "country_iso_name": "SE",
+        "country_name": "Sweden",
+        "elevation": 236,
+        "iata_code": "MMX",
+        "icao_code": "ESMS",
+        "latitude": 55.53631,
+        "longitude": 13.3762,
+        "municipality": "Malm\u00f6",
+        "name": "Malm\u00f6 Sturup Airport"
+      },
+      "destination": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 27,
+        "iata_code": "PMI",
+        "icao_code": "LEPA",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "municipality": "Palma De Mallorca",
+        "name": "Palma de Mallorca Airport"
+      }
+    }
+  },
+  "TOM8101": {
+    "time": 1795884636.728791,
+    "route": {
+      "callsign": "TOM8101",
+      "callsign_icao": "TOM8101",
+      "callsign_iata": "BY8101",
+      "airline": {
+        "name": "TUI Airways",
+        "icao": "TOM",
+        "iata": "BY",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "TOMJET"
+      },
+      "origin": {
+        "country_iso_name": "CY",
+        "country_name": "Cyprus",
+        "elevation": 41,
+        "iata_code": "PFO",
+        "icao_code": "LCPH",
+        "latitude": 34.718,
+        "longitude": 32.4857,
+        "municipality": "Paphos",
+        "name": "Paphos International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
       }
     }
   }
