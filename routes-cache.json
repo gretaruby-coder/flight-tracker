@@ -7941,7 +7941,7 @@
     }
   },
   "BAW506": {
-    "time": 1795698637.4814458,
+    "time": 1795869328.2972517,
     "route": {
       "callsign": "BAW506",
       "callsign_icao": "BAW506",
@@ -38385,7 +38385,7 @@
     }
   },
   "BAW5L": {
-    "time": 1795698934.0107152,
+    "time": 1795869328.2972517,
     "route": {
       "callsign": "BAW5L",
       "callsign_icao": "BAW5L",
@@ -39366,7 +39366,7 @@
     }
   },
   "AAL136": {
-    "time": 1795437051.311994,
+    "time": 1795869328.2972517,
     "route": {
       "callsign": "AAL136",
       "callsign_icao": "AAL136",
@@ -50245,7 +50245,7 @@
     }
   },
   "SWR457": {
-    "time": 1795702535.1258652,
+    "time": 1795869328.2972517,
     "route": {
       "callsign": "SWR457",
       "callsign_icao": "SWR457",
@@ -67828,7 +67828,7 @@
     }
   },
   "BAW975R": {
-    "time": 1795780236.350956,
+    "time": 1795869328.2972517,
     "route": {
       "callsign": "BAW975R",
       "callsign_icao": "BAW975R",
@@ -73300,7 +73300,7 @@
     }
   },
   "RYR24SE": {
-    "time": 1795725325.8023596,
+    "time": 1795869328.2972517,
     "route": {
       "callsign": "RYR24SE",
       "callsign_icao": "RYR24SE",
@@ -82344,7 +82344,7 @@
     }
   },
   "RYR75QP": {
-    "time": 1795710928.6552348,
+    "time": 1795869328.2972517,
     "route": {
       "callsign": "RYR75QP",
       "callsign_icao": "RYR75QP",
@@ -125586,44 +125586,6 @@
         "longitude": 18.2682,
         "municipality": "Dubrovnik",
         "name": "Dubrovnik Airport"
-      }
-    }
-  },
-  "NSZ75Z": {
-    "time": 1795264251.0670693,
-    "route": {
-      "callsign": "NSZ75Z",
-      "callsign_icao": "NSZ75Z",
-      "callsign_iata": "D875Z",
-      "airline": {
-        "name": "Norwegian Air Sweden AOC",
-        "icao": "NSZ",
-        "iata": "D8",
-        "country": "Sweden",
-        "country_iso": "SE",
-        "callsign": null
-      },
-      "origin": {
-        "country_iso_name": "SE",
-        "country_name": "Sweden",
-        "elevation": 137,
-        "iata_code": "ARN",
-        "icao_code": "ESSA",
-        "latitude": 59.6519,
-        "longitude": 17.9186,
-        "municipality": "Stockholm",
-        "name": "Stockholm-Arlanda Airport"
-      },
-      "destination": {
-        "country_iso_name": "PT",
-        "country_name": "Portugal",
-        "elevation": 24,
-        "iata_code": "FAO",
-        "icao_code": "LPFR",
-        "latitude": 37.0144,
-        "longitude": -7.96591,
-        "municipality": "Faro",
-        "name": "Faro Airport"
       }
     }
   },
@@ -201789,6 +201751,158 @@
         "longitude": -0.55816,
         "municipality": "Alicante",
         "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
+      }
+    }
+  },
+  "DAL263": {
+    "time": 1795869328.2972517,
+    "route": {
+      "callsign": "DAL263",
+      "callsign_icao": "DAL263",
+      "callsign_iata": "DL263",
+      "airline": {
+        "name": "Delta Air Lines",
+        "icao": "DAL",
+        "iata": "DL",
+        "country": "United States",
+        "country_iso": "US",
+        "callsign": "DELTA"
+      },
+      "origin": {
+        "country_iso_name": "FR",
+        "country_name": "France",
+        "elevation": 392,
+        "iata_code": "CDG",
+        "icao_code": "LFPG",
+        "latitude": 49.0128,
+        "longitude": 2.55,
+        "municipality": "Paris",
+        "name": "Charles de Gaulle International Airport"
+      },
+      "destination": {
+        "country_iso_name": "US",
+        "country_name": "United States",
+        "elevation": 13,
+        "iata_code": "JFK",
+        "icao_code": "KJFK",
+        "latitude": 40.6398,
+        "longitude": -73.7789,
+        "municipality": "New York",
+        "name": "John F Kennedy International Airport"
+      }
+    }
+  },
+  "EFW9750": {
+    "time": 1795869328.2972517,
+    "route": {
+      "callsign": "EFW9750",
+      "callsign_icao": "EFW9750",
+      "callsign_iata": "A09750",
+      "airline": {
+        "name": "BA Euroflyer",
+        "icao": "EFW",
+        "iata": "A0",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "Griffin"
+      },
+      "origin": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 327,
+        "iata_code": "BHX",
+        "icao_code": "EGBB",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "municipality": "Birmingham",
+        "name": "Birmingham International Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 202,
+        "iata_code": "LGW",
+        "icao_code": "EGKK",
+        "latitude": 51.1481,
+        "longitude": -0.19028,
+        "municipality": "London",
+        "name": "London Gatwick Airport"
+      }
+    }
+  },
+  "FHM7504": {
+    "time": 1795869328.2972517,
+    "route": {
+      "callsign": "FHM7504",
+      "callsign_icao": "FHM7504",
+      "callsign_iata": "MI7504",
+      "airline": {
+        "name": "Freebird Airlines Europe",
+        "icao": "FHM",
+        "iata": "MI",
+        "country": "Malta",
+        "country_iso": "MT",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "MK",
+        "country_name": "North Macedonia",
+        "elevation": 781,
+        "iata_code": "SKP",
+        "icao_code": "LWSK",
+        "latitude": 41.9616,
+        "longitude": 21.6214,
+        "municipality": "Skopje",
+        "name": "Skopje International Airport"
+      },
+      "destination": {
+        "country_iso_name": "MK",
+        "country_name": "North Macedonia",
+        "elevation": 781,
+        "iata_code": "SKP",
+        "icao_code": "LWSK",
+        "latitude": 41.9616,
+        "longitude": 21.6214,
+        "municipality": "Skopje",
+        "name": "Skopje International Airport"
+      }
+    }
+  },
+  "RYR2603": {
+    "time": 1795869328.2972517,
+    "route": {
+      "callsign": "RYR2603",
+      "callsign_icao": "RYR2603",
+      "callsign_iata": "FR2603",
+      "airline": {
+        "name": "Ryanair",
+        "icao": "RYR",
+        "iata": "FR",
+        "country": "Ireland",
+        "country_iso": "IE",
+        "callsign": "RYANAIR"
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 240,
+        "iata_code": "VLC",
+        "icao_code": "LEVC",
+        "latitude": 39.4893,
+        "longitude": -0.48163,
+        "municipality": "Valencia",
+        "name": "Valencia Airport"
+      },
+      "destination": {
+        "country_iso_name": "GB",
+        "country_name": "United Kingdom",
+        "elevation": 257,
+        "iata_code": "MAN",
+        "icao_code": "EGCC",
+        "latitude": 53.34938,
+        "longitude": -2.27952,
+        "municipality": "Manchester",
+        "name": "Manchester Airport"
       }
     }
   }
