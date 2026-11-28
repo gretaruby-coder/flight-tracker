@@ -25728,7 +25728,7 @@
     }
   },
   "UAL14": {
-    "time": 1795766459.1866608,
+    "time": 1795852861.9999008,
     "route": {
       "callsign": "UAL14",
       "callsign_icao": "UAL14",
@@ -29583,7 +29583,7 @@
     }
   },
   "EIN151": {
-    "time": 1795681526.4360995,
+    "time": 1795852861.9999008,
     "route": {
       "callsign": "EIN151",
       "callsign_icao": "EIN151",
@@ -45764,7 +45764,7 @@
     }
   },
   "BAW577": {
-    "time": 1795766459.1866608,
+    "time": 1795852861.9999008,
     "route": {
       "callsign": "BAW577",
       "callsign_icao": "BAW577",
@@ -60380,7 +60380,7 @@
     }
   },
   "LHX2487": {
-    "time": 1795680064.262124,
+    "time": 1795852861.9999008,
     "route": {
       "callsign": "LHX2487",
       "callsign_icao": "LHX2487",
@@ -60570,7 +60570,7 @@
     }
   },
   "EZY92NW": {
-    "time": 1795766459.1866608,
+    "time": 1795852861.9999008,
     "route": {
       "callsign": "EZY92NW",
       "callsign_icao": "EZY92NW",
@@ -61102,7 +61102,7 @@
     }
   },
   "EZY57WZ": {
-    "time": 1795683929.7447236,
+    "time": 1795852861.9999008,
     "route": {
       "callsign": "EZY57WZ",
       "callsign_icao": "EZY57WZ",
@@ -64598,7 +64598,7 @@
     }
   },
   "BAW790E": {
-    "time": 1795766459.1866608,
+    "time": 1795852861.9999008,
     "route": {
       "callsign": "BAW790E",
       "callsign_icao": "BAW790E",
@@ -72692,7 +72692,7 @@
     }
   },
   "EZY72QX": {
-    "time": 1795355434.7921786,
+    "time": 1795852861.9999008,
     "route": {
       "callsign": "EZY72QX",
       "callsign_icao": "EZY72QX",
@@ -85826,7 +85826,7 @@
     }
   },
   "BAW944": {
-    "time": 1795677642.3792434,
+    "time": 1795852861.9999008,
     "route": {
       "callsign": "BAW944",
       "callsign_icao": "BAW944",
@@ -86092,7 +86092,7 @@
     }
   },
   "BAW154": {
-    "time": 1795766126.6959455,
+    "time": 1795852861.9999008,
     "route": {
       "callsign": "BAW154",
       "callsign_icao": "BAW154",
@@ -86244,7 +86244,7 @@
     }
   },
   "FIN5AU": {
-    "time": 1795765536.6082082,
+    "time": 1795852861.9999008,
     "route": {
       "callsign": "FIN5AU",
       "callsign_icao": "FIN5AU",
@@ -130764,7 +130764,7 @@
     }
   },
   "KLM734": {
-    "time": 1795421128.6586425,
+    "time": 1795852861.9999008,
     "route": {
       "callsign": "KLM734",
       "callsign_icao": "KLM734",
@@ -202314,6 +202314,82 @@
         "longitude": -15.3866,
         "municipality": "Gran Canaria Island",
         "name": "Gran Canaria Airport"
+      }
+    }
+  },
+  "NSZ2WP": {
+    "time": 1795852861.9999008,
+    "route": {
+      "callsign": "NSZ2WP",
+      "callsign_icao": "NSZ2WP",
+      "callsign_iata": "D82WP",
+      "airline": {
+        "name": "Norwegian Air Sweden AOC",
+        "icao": "NSZ",
+        "iata": "D8",
+        "country": "Sweden",
+        "country_iso": "SE",
+        "callsign": null
+      },
+      "origin": {
+        "country_iso_name": "ES",
+        "country_name": "Spain",
+        "elevation": 142,
+        "iata_code": "ALC",
+        "icao_code": "LEAL",
+        "latitude": 38.2822,
+        "longitude": -0.55816,
+        "municipality": "Alicante",
+        "name": "Alicante-Elche Miguel Hern\u00e1ndez Airport"
+      },
+      "destination": {
+        "country_iso_name": "NO",
+        "country_name": "Norway",
+        "elevation": 86,
+        "iata_code": "HAU",
+        "icao_code": "ENHD",
+        "latitude": 59.3453,
+        "longitude": 5.20836,
+        "municipality": "Karm\u00f8y",
+        "name": "Haugesund Airport, Karm\u00f8y"
+      }
+    }
+  },
+  "BAW2158": {
+    "time": 1795852861.9999008,
+    "route": {
+      "callsign": "BAW2158",
+      "callsign_icao": "BAW2158",
+      "callsign_iata": "BA2158",
+      "airline": {
+        "name": "British Airways",
+        "icao": "BAW",
+        "iata": "BA",
+        "country": "United Kingdom",
+        "country_iso": "GB",
+        "callsign": "SPEEDBIRD"
+      },
+      "origin": {
+        "country_iso_name": "GD",
+        "country_name": "Grenada",
+        "elevation": 41,
+        "iata_code": "GND",
+        "icao_code": "TGPY",
+        "latitude": 12.0042,
+        "longitude": -61.7862,
+        "municipality": "Saint George's",
+        "name": "Point Salines International Airport"
+      },
+      "destination": {
+        "country_iso_name": "LC",
+        "country_name": "Saint Lucia",
+        "elevation": 14,
+        "iata_code": "UVF",
+        "icao_code": "TLPL",
+        "latitude": 13.7332,
+        "longitude": -60.9526,
+        "municipality": "Vieux Fort",
+        "name": "Hewanorra International Airport"
       }
     }
   }
